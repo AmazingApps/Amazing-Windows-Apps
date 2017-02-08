@@ -1,5 +1,7 @@
 # Windows Apps That Amaze Us
 
+###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+
 This is to introduce amazing works done onto Windows. All apps collected in this book will be:
 
 1. greatly featured.
