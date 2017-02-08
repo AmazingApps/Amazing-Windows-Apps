@@ -8,6 +8,10 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 An external content blocker that blocks ALL ads pushed by ALL processes on your Windows.
 
+### [Advanced SystemCare](http://www.iobit.com/en/advancedsystemcarefree.php)
+
+An all-in-one system optimization unity.
+
 ### [AIMP](http://www.aimp.ru/)
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
@@ -19,4 +23,12 @@ You are now alllowed to easily drag, resize, minimize, etc. windows when pressin
 ### [amWiki](https://amwiki.xf09.net/)
 
 amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
+
+### [Anydesk](http://anydesk.com/)
+
+A comfortable remote desktop application.
+
+### [Autolyrics](http://www.autolyric.com/)
+
+A lyrics modules that plug into many other multimedia players to download & display lyrics with a large online database.
 
