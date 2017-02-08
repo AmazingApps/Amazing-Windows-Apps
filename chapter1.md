@@ -6,7 +6,11 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 ### [ADM](http://www.admflt.com/)
 
-An external content blocker that blocks ALL ads pused by ALL processes on your Windows.
+An external content blocker that blocks ALL ads pushed by ALL processes on your Windows.
+
+### [AIMP](http://www.aimp.ru/)
+
+A light-weighted local audio player that support multiple formats and that helps manage audio files
 
 ### [AltDrag](https://stefansundin.github.io/altdrag/)
 
@@ -15,6 +19,4 @@ You are now alllowed to easily drag, resize, minimize, etc. windows when pressin
 ### [amWiki](https://amwiki.xf09.net/)
 
 amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
-
-
 
