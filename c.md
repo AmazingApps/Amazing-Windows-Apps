@@ -6,6 +6,10 @@ A light-weighted & award-winning PC optimization tool.
 
 A package manager for Windows.
 
+### [Clipber](http://clipber.com/clipber/)
+
+A cloud sync tool for system clipboard across multiple platforms.
+
 ### [Companions](http://www.jackeriss.com/companions.htm)
 
 A PC personal assistant developed by an individual.
