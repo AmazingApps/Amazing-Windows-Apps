@@ -4,7 +4,7 @@ Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and al
 
 ### [Encrypto](http://macpaw.com/encrypto)
 
-Encry your files in an elegant way.
+Encrypt your files in an elegant way.
 
 ### [Exact Audio Copy](http://www.exactaudiocopy.de/)
 
