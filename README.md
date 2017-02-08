@@ -1,3 +1,13 @@
-# My Awesome Book
+# Windows Apps That Amaze Us
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is to introduce amazing works done onto Windows. All apps collected in this book will be:
+
+1. greatly featured.
+2. invasive ads free. But if there is non-invasive ads, this apps should be completely free itself.
+3. privacy respecting.
+4. actively maintained. If it stops being maintained, it will be removed from here.
+
+All apps are sorted in alphabetical order.
+
+
+
