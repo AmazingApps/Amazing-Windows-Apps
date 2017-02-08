@@ -12,9 +12,17 @@ An external content blocker that blocks ALL ads pushed by ALL processes on your 
 
 An all-in-one system optimization unity.
 
+### [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/)
+
+Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
+
 ### [AIMP](http://www.aimp.ru/)
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
+
+### [Alacritty](https://github.com/jwilm/alacritty)
+
+A cross-platform, GPU-accelerated terminal emulator.
 
 ### [AltDrag](https://stefansundin.github.io/altdrag/)
 
@@ -27,6 +35,14 @@ amWiki is a wiki doc system based on JavaScript, relying on Atom editor and appl
 ### [Anydesk](http://anydesk.com/)
 
 A comfortable remote desktop application.
+
+### [aria2](https://aria2.github.io/)
+
+A lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+### [Atom](https://atom.io/)
+
+A hackable text editor.
 
 ### [Autolyrics](http://www.autolyric.com/)
 

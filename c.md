@@ -2,9 +2,13 @@
 
 A light-weighted & award-winning PC optimization tool.
 
+### [Chocolatey](https://chocolatey.org/)
+
+A package manager for Windows.
+
 ### [Companions](http://www.jackeriss.com/companions.htm)
 
- A PC personal assistant developed by an individual.
+A PC personal assistant developed by an individual.
 
 ### Cortana
 
