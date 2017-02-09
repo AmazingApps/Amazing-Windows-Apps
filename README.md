@@ -8,6 +8,7 @@ This is to introduce amazing works done onto Windows. All apps collected in this
 2. invasive ads free. But if there is non-invasive ads, this apps should be completely free itself. If users are required to pay, there should NOT be any ads.
 3. privacy respecting.
 4. actively maintained. If it stops being maintained, it will be removed from here.
+5. easy to learn throughout.
 
 All apps are sorted in alphabetical order.
 
