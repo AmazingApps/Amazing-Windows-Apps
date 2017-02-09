@@ -8,7 +8,5 @@ Quassel IRC is a modern, cross-platform, distributed IRC client.
 
 ### [QuiteRSS](https://quiterss.org/)
 
-Open-source cross-platform RSS/Atom news feeds reader
-
-
+Open-source cross-platform RSS/Atom news feeds reader.
 
