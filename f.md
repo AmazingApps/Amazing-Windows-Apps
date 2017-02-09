@@ -1,3 +1,11 @@
+### [f.lux](http://stereopsis.com/flux/)
+
+Automatically adjust your computer screen to match lighting.
+
+### [FileZilla](https://filezilla-project.org/)
+
+FTP, FTPS and SFTP client.
+
 ### [Firefox](https://www.mozilla.org/en-US/firefox)
 
 ###### also Mozilla Firefox
@@ -11,4 +19,6 @@ foobar2000 is a free & open source audio player with highly modular design, brea
 ### [FreeFileSync](http://www.freefilesync.org/)
 
 An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
+
+
 
