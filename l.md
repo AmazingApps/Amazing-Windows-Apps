@@ -20,5 +20,9 @@ Keep files at your fingertips. An unique search utility.
 
 ### [listen1](http://listen1.github.io/listen1)
 
-One for all free music in china \(Windows, Mac, Linux desktop\)
+One for all free music in china \(Windows, Mac, Linux desktop\).
+
+### [Locale Emulator](http://xupefei.github.io/Locale-Emulator/)
+
+Yet another system region and language simulator.
 
