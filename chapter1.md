@@ -44,6 +44,10 @@ A lightweight multi-protocol & multi-source, cross platform download utility ope
 
 A hackable text editor.
 
+### [Audacity](http://audacityteam.org/)
+
+Free, open source, cross-platform software for recording and editing sounds.
+
 ### [Autolyrics](http://www.autolyric.com/)
 
 A lyrics modules that plug into many other multimedia players to download & display lyrics with a large online database.
