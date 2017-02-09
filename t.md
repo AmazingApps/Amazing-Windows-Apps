@@ -24,3 +24,7 @@ Enable anonymous communication.
 
 The best file manager for Windows.
 
+### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer)
+
+TTKMusicPlayer that imitation Kugou music based on Qt.
+
