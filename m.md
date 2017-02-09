@@ -6,6 +6,10 @@ Enjoy text endering and the way it should be.
 
 IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
 
+### [Matterwiki](https://github.com/Matterwiki/Matterwiki)
+
+A simple and beautiful wiki for teams.
+
 ### [MediaInfo](https://mediaarea.net/en/MediaInfo)
 
 A convenient unified display of the most relevant technical and tag data for video and audio files.

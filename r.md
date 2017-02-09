@@ -18,6 +18,10 @@ A proprietary peer-to-peer file synchronization tool.
 
 Complete resource editing tool for any type of Windows executable \(\*.exe; \*.dll; \*.scr; \*.mui etc\).
 
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts)
+
+As its name: eevoke China SSL certificates \(illegal\).
+
 ### [rimraf](https://www.npmjs.com/package/rimraf)
 
 A deep deletion module for node. Help to delete files and folders with very long paths.
