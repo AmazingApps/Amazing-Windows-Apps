@@ -1,3 +1,7 @@
+### [FDM](http://www.freedownloadmanager.org/)
+
+A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
+
 ### [f.lux](http://stereopsis.com/flux/)
 
 Automatically adjust your computer screen to match lighting.
@@ -19,6 +23,4 @@ foobar2000 is a free & open source audio player with highly modular design, brea
 ### [FreeFileSync](http://www.freefilesync.org/)
 
 An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
-
-
 

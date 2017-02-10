@@ -1,3 +1,7 @@
+### [IDM](http://internetdownloadmanager.com/)
+
+Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
+
 ### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting)
 
 A feature-rich WinForms-based HTTP client.
