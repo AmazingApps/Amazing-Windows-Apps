@@ -32,6 +32,10 @@ Free DJ software that gives you everything you need to perform live mixes, verit
 
 Xserver and tabbed SSH client.
 
+### [mRemoteNG](https://mremoteng.org/)
+
+An open source, tabbed, multi-protocol, remote connections manager.
+
 ### [mpv](http://mpv.io/)
 
 A free, open source, and cross-platform media player.
@@ -39,6 +43,10 @@ A free, open source, and cross-platform media player.
 ### [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/)
 
 Multi-Tabbed PuTTY.
+
+### [Multi Commander](http://multicommander.com/)
+
+File manager for professionals.
 
 ### [Musicbee](http://getmusicbee.com/)
 

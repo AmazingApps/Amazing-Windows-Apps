@@ -12,5 +12,10 @@ This is to introduce amazing works done onto Windows. All apps collected in this
 
 All apps are sorted in alphabetical order.
 
-Note: for some apps, there can be fixed or cracked versions, e.g. ads-peeling versions, which feel cool but will NOT be listed here. Plus, I will neither list those apps with strict regoinal purpose, e.g. NPR One Desktop, Pinyin Input, etc.
+Note: these following appps will NOT be listed although may deserve a try:
+
+1. fixed or cracked versions, e.g. ads-peeling versions, which can feel cool.
+2. strict regoinal purpose, e.g. NPR One Desktop, Pinyin Input, etc.
+
+
 
