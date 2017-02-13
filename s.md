@@ -34,6 +34,10 @@ A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/).
 
 Simple cross-platform note taking app with cloud-based syncing.
 
+### [Snipaste](https://snipaste.com/)
+
+A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
+
 ### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
 
 Lets you understand how folders and files are structured on your disks by using a treemap visualization layout for immediate perception of where big folders and files are placed on your devices.
