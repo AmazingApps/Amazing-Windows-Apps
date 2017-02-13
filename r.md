@@ -20,7 +20,7 @@ Complete resource editing tool for any type of Windows executable \(\*.exe; \*.d
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts)
 
-As its name: eevoke China SSL certificates \(illegal\).
+As its name: revoke China SSL certificates \(illegal\).
 
 ### [rimraf](https://www.npmjs.com/package/rimraf)
 
