@@ -6,7 +6,7 @@ This is to introduce amazing works done onto Windows. All apps collected in this
 
 1. greatly featured.
 2. invasive ads free. But if there is non-invasive ads, this apps should be completely free itself. If users are required to pay, there should NOT be any ads.
-3. privacy respecting: here I mean this app or app provider will NEVER share private info with any 3rd party.
+3. privacy respecting: here I mean this app or app provider will NEVER share private info with any 3rd party unless you ask for it or under legal requirements.
 4. actively maintained. If it stops being maintained, it will be removed from here.
 5. easy to learn throughout.
 
