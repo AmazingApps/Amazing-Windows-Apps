@@ -16,6 +16,7 @@ Note: these following appps will NOT be listed although may deserve a try:
 
 1. fixed or cracked versions, e.g. ads-peeling versions, which can feel cool.
 2. strict regoinal purpose, e.g. NPR One Desktop, Pinyin Input, etc.
+3. not compitable with Windows 10 or compitable with XP or older.
 
 
 
