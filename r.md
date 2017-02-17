@@ -10,6 +10,10 @@ Recover your deleted files quickly and easily.
 
 Powerful and flexible file renaming tool, which offers all the standard renaming procedures, including prefixes, suffixes, replacements, case changes, as well as removing contents of brackets, adding number sequences, changing file extensions, etc.
 
+### [RescueTime](https://team.rescuetime.com/)
+
+Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
+
 ### [Resilio Sync](https://www.resilio.com/)
 
 A proprietary peer-to-peer file synchronization tool.

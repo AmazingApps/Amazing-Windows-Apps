@@ -14,13 +14,19 @@ Modern mouse gestures for Windows. \(C\#\)
 
 A disk usage statistics viewer and cleanup.
 
+### [Windows 10 Codecs](http://shark007.net/)
+
+Enhanced your WMP significantly.
+
 ### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 
 Changes the Windows 10 login screen background.
 
+### [WindowTabs](http://windowtabs.com/)
+
+Add Tabs to Any Application.
+
 ### [Wox](http://www.getwox.com/)
 
 An effective launcher for Windows.
-
-
 

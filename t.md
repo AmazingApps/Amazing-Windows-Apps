@@ -24,7 +24,15 @@ Enable anonymous communication.
 
 The best file manager for Windows.
 
+### [Touchpad Blocker](http://touchpad-blocker.com/)
+
+Software to prevent cursor from jumping when you are typing on notebook keyboard.
+
 ### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer)
 
 TTKMusicPlayer that imitation Kugou music based on Qt.
+
+### [Typora](https://typora.io/)
+
+A minimal MarkDown reading & writing app.
 
