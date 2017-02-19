@@ -1,6 +1,6 @@
 # Windows绝赞应用
 
-###### 受GitHub项目 Awesome Windows启发
+###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome)启发
 
 本书旨在介绍Windows绝妙项目。本处收录的应用均：
 
