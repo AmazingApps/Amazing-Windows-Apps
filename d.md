@@ -1,8 +1,12 @@
 ### [Desktopcal](http://www.desktopcal.com/)
 
+放置于Windows桌面上的日历，用做备忘
+
 A cool calendar placed on your windows desktop used as a memo.
 
 ### [Dism++](https://www.chuyu.me/)
+
+全球首家基于CBS的Dism GUI实现
 
 First CBS-based Dism GUI implementation globally.
 
