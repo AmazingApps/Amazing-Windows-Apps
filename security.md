@@ -48,3 +48,7 @@ A sandbox-based isolation program.
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/).
 
+### [**XX-Net**](https://github.com/XX-net/XX-Net)
+
+A web proxy tool.
+
