@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Num.\#](num..md)
 * [A](chapter1.md)
 * [B](b.md)
 * [C](c.md)
@@ -37,7 +36,7 @@
 * [文件Files](files.md)
 * [图形Games](games.md)
 * 在线存储Online Storage
-* 实用程序Practicals
+* [实用程序Practicals](practicals.md)
 * 生产率Productivity
 * [安全Security](security.md)
 * 终端Terminal
