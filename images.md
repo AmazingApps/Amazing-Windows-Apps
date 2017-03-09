@@ -16,3 +16,7 @@ Cycle your album like the way in iMac: instant, portable, full-screen slideshow 
 
 Free drawing software with a bunch of cool features.
 
+### [Paint.net](http://www.getpaint.net/index.html)
+
+Free image and photo editing.
+

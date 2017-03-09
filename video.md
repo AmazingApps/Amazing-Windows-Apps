@@ -14,3 +14,7 @@ Animated screen captures and save them directly to .GIF
 
 A free, open source, and cross-platform media player.
 
+### [PotPlayer](http://potplayer.daum.net/)
+
+Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
+

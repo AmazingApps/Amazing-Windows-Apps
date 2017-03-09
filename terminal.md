@@ -18,3 +18,7 @@ An open source, tabbed, multi-protocol, remote connections manager.
 
 Multi-Tabbed PuTTY.
 
+### [Putty](http://www.chiark.greenend.org.uk/%7Esgtatham/putty/download.html)
+
+SSH and telnet client.
+

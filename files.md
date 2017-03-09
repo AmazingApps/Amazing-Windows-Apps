@@ -6,3 +6,7 @@ FTP, FTPS and SFTP client.
 
 An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 
+### [Pandoc](http://pandoc.org/)
+
+A universal document converter.
+
