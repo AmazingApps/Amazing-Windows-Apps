@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [F](f.md)
 * [G](g.md)
 * [H](h.md)
 * [I](i.md)
@@ -29,8 +28,8 @@
 * [电子书Ebooks](ebooks.md)
 * [电子邮件Emails](emails.md)
 * [文件Files](files.md)
-* [图形Games](games.md)
 * [硬件相关Hardwares](hardwares.md)
+* [图形Images](games.md)
 * [网络通信Internet](internet.md)
 * 在线存储Online Storage
 * [实用程序Practicals](practicals.md)

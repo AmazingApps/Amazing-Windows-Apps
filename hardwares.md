@@ -10,3 +10,7 @@ HDD/SSD信息工具，支持部分USB连接设备跟Intel RAID
 
 A HDD/SSD info utility software which supports a part of USB connection and Intel RAID.
 
+### [f.lux](http://stereopsis.com/flux/)
+
+Automatically adjust your computer screen to match lighting.
+

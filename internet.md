@@ -1,9 +1,3 @@
-### [ADM](http://www.admflt.com/)
-
-外部广告拦截器，拦截所有Windows进程中所有广告
-
-An external content blocker that blocks ALL ads pushed by ALL processes on your Windows.
-
 ### [Anydesk](http://anydesk.com/)
 
 顺手的远程桌面应用
@@ -27,4 +21,14 @@ Raise up traceroute request from Windows with route visilization display.
 免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
 
 Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
+
+### [FDM](http://www.freedownloadmanager.org/)
+
+A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
+
+### [Firefox](https://www.mozilla.org/en-US/firefox)
+
+###### also Mozilla Firefox
+
+An open source web browser that is highly extensive and privacy respecting.
 
