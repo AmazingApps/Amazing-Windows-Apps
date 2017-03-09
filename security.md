@@ -4,3 +4,9 @@
 
 Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
+### [BitDefender](http://www.bitdefender.com/)
+
+正合适的防病毒保护
+
+Outright protection against malware.
+
