@@ -36,5 +36,5 @@
 * [隐私安全Security&Privacy](security.md)
 * 终端Terminal
 * [文本编辑器Text Editor](text-editor.md)
-* 视频Video
+* [视频Video](video.md)
 

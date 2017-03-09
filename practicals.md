@@ -44,3 +44,7 @@ Clipboard manager.
 
 A tiny  countdown timer in natural languages.
 
+### [Huoying Video Desktop](http://huoying666.com/)
+
+Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
+

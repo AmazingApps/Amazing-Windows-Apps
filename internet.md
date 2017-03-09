@@ -36,3 +36,7 @@ An open source web browser that is highly extensive and privacy respecting.
 
 Network security monitoring tool and analyzer that visualizes your network activity.
 
+### [HTTrack](https://www.httrack.com/page/2/en/index.html)
+
+Offline browser utility, allowing you to download a website from the Internet to a local directory.
+
