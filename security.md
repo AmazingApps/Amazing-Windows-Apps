@@ -44,3 +44,7 @@ As its name: revoke China SSL certificates \(illegal\).
 
 A sandbox-based isolation program.
 
+### [Simple DNSCrypt](https://simplednscrypt.org/)
+
+A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/).
+

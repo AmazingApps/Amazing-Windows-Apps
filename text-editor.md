@@ -24,3 +24,11 @@ A customizable editor with instant feedback and showing data values flow through
 
 A source code editor which supports several programming languages.
 
+### [Simplenote](https://simplenote.com/)
+
+Simple cross-platform note taking app with cloud-based syncing.
+
+### [Sublime Text 3](http://www.sublimetext.com/3)
+
+The sophisticated text editor.
+

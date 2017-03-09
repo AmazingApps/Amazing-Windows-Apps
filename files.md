@@ -22,3 +22,19 @@ Complete resource editing tool for any type of Windows executable \(\*.exe; \*.d
 
 A deep deletion module for node. Help to delete files and folders with very long paths.
 
+### [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx)
+
+A command line utility that can securely delete a file, or clean the slack space.
+
+### [Seer](http://1218.io/)
+
+A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
+
+### [SHAREit](http://www.ushareit.com/)
+
+Cross-platform files transfer.
+
+### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html)
+
+Lets you understand how folders and files are structured on your disks by using a treemap visualization layout for immediate perception of where big folders and files are placed on your devices.
+

@@ -18,3 +18,7 @@ A free, open source, and cross-platform media player.
 
 Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 
+### [ScreenToGif](http://www.screentogif.com/)
+
+ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
+

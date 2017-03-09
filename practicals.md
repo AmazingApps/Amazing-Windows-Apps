@@ -30,3 +30,11 @@ The easiest, fastest way to update or install software.
 
 Desktop customization.
 
+### [Speccy](https://www.piriform.com/speccy)
+
+Detailed statistics on every piece of hardware in your computer.
+
+### [SUMo](http://www.kcsoftwares.com/?sumo)
+
+Just as its name: Software Update Monitor: tell you if updates are available before you need to use your software.
+

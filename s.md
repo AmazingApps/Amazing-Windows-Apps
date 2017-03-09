@@ -6,9 +6,7 @@ A sandbox-based isolation program.
 
 A command-line installer for Windows.
 
-### [ScreenToGif](http://www.screentogif.com/)
-
-ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
+### 
 
 ### [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx)
 

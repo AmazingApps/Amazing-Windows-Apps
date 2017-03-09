@@ -28,3 +28,15 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 Compress images either by file size or by many other image attributes.
 
+### [ShareX](https://getsharex.com/)
+
+A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
+
+### [Snipaste](https://snipaste.com/)
+
+A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
+
+### [Splashify](https://splashify.net/)
+
+Beautiful desktop wallpapers.
+

@@ -52,3 +52,7 @@ Manage, find, and play music files on your computer. Like iTunes but better than
 
 Picard is a cross-platform music tagger written in Python.
 
+### [SoundWire](http://georgielabs.net/)
+
+Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
+
