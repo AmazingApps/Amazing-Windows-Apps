@@ -22,6 +22,7 @@
 * [效率工具Efficiency](efficiency.md)
 * [电子邮件Emails](emails.md)
 * [文件Files](files.md)
+* 游戏Games
 * [硬件相关Hardwares](hardwares.md)
 * [图形Images](images.md)
 * [网络通信Internet](internet.md)

@@ -48,3 +48,7 @@ Internet Download Manager \(IDM\) is a tool to increase download speeds with com
 
 A feature-rich WinForms-based HTTP client.
 
+### [Opera](/www.opera.com)
+
+A chromiun-based browser with built-in content block and with faster prefetch.
+
