@@ -35,9 +35,10 @@
 * [电子邮件Emails](emails.md)
 * [文件Files](files.md)
 * [图形Games](games.md)
+* [网络通信Internet](internet.md)
 * 在线存储Online Storage
 * [实用程序Practicals](practicals.md)
-* 生产率Productivity
+* [生产率Productivity](productivity.md)
 * [安全Security](security.md)
 * 终端Terminal
 * [文本编辑器Text Editor](text-editor.md)
