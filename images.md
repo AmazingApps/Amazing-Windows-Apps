@@ -1,3 +1,7 @@
+### [FastStone Image Viewer](http://www.faststone.org/)
+
+An image viewer and organizer free for personal and educational use with basic image editing tools.
+
 ### [Gimp](http://www.gimp.org/)
 
 Open source image editor.
@@ -5,6 +9,10 @@ Open source image editor.
 ### [honeyview](http://www.bandisoft.com/honeyview/)
 
 A very fast image viewer supporting various formats.
+
+### [IrfanView](http://www.irfanview.com/)
+
+Image viewer, editor, organiser and converter. It can also play video and audio files, and has some image creation and painting capabilities.
 
 ### [Inkscape](https://inkscape.org/en/)
 
@@ -46,5 +54,5 @@ Beautiful desktop wallpapers.
 
 ### [Xnview](http://www.xnview.com/en/)
 
-An efficient multimedia viewer, organizer and converter.
+An efficient multimedia viewer, organizer and converter with the most formats support.
 
