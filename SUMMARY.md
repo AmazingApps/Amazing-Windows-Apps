@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Categlory](categlory.md)
-* [音频Audio](audio.md)
 * [Num.\#](num..md)
 * [A](chapter1.md)
 * [B](b.md)
@@ -28,4 +26,12 @@
 * [X](x.md)
 * [Y](y.md)
 * [Z](z.md)
+* [音频Audio](audio.md)
+* [聊天客户端Chat Client](chat-client.md)
+* [压缩Compression](compression.md)
+* [数据恢复Data Recovery](data-recovery.md)
+* [开发者工具Dev Tools](dev-tools.md)
+* [电子书Ebooks](ebooks.md)
+* [电子邮件Emails](emails.md)
+* [文件Files](files.md)
 
