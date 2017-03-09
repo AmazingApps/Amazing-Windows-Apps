@@ -42,6 +42,10 @@ Modern mouse gestures for Windows. \(C\#\)
 
 Add Tabs to Any Application.
 
+### [Winstep Nexus Dock](http://www.winstep.net/nexus.asp)
+
+ Free professional dock for Windows.
+
 ### [Wox](http://www.getwox.com/)
 
 An effective launcher for Windows.
