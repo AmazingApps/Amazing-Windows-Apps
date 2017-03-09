@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Y](y.md)
 * [Z](z.md)
 * [音频Audio](audio.md)
 * [聊天客户端Chat Client](chat-client.md)
