@@ -22,3 +22,11 @@ Keep files at your fingertips. An unique search utility.
 
 File manager for professionals.
 
+### [RescueTime](https://team.rescuetime.com/)
+
+Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
+
+### [Rolan](http://www.irolan.com/)
+
+A tiny launcher in way of icons.
+

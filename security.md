@@ -36,3 +36,7 @@ A malware fighter performing amazingly on PUA.
 
 Free edition of Kaspersky antivirus, available in China and Russian speaking countires.
 
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts)
+
+As its name: revoke China SSL certificates \(illegal\).
+

@@ -24,3 +24,7 @@ Free image and photo editing.
 
 Artistic QR Code in Python \(Animated GIF qr code\).
 
+### [Riot](http://luci.criosweb.ro/riot/)
+
+Compress images either by file size or by many other image attributes.
+

@@ -26,3 +26,7 @@ NirLauncher is a package of more than 200 portable freeware utilities for Window
 
 The easiest, fastest way to update or install software.
 
+### [Rainmeter](/www.rainmeter.net)
+
+Desktop customization.
+

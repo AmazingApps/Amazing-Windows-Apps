@@ -60,3 +60,7 @@ qBittorrent provides an open-source software alternative to µTorrent and is bas
 
 Open-source cross-platform RSS/Atom news feeds reader.
 
+### [Resilio Sync](https://www.resilio.com/)
+
+A proprietary peer-to-peer file synchronization tool.
+
