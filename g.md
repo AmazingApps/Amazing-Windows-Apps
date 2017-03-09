@@ -20,5 +20,5 @@ Network security monitoring tool and analyzer that visualizes your network activ
 
 ### [GreatNews](http://www.curiostudio.com/)
 
-AAn intelligent RSS reader client that grasps full text.
+An intelligent RSS reader client that grasps full text.
 
