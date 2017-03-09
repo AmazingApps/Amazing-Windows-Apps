@@ -22,6 +22,7 @@
 * [数据恢复Data Recovery](data-recovery.md)
 * [开发者工具Dev Tools](dev-tools.md)
 * [电子书Ebooks](ebooks.md)
+* [效率工具Efficiency](efficiency.md)
 * [电子邮件Emails](emails.md)
 * [文件Files](files.md)
 * [硬件相关Hardwares](hardwares.md)

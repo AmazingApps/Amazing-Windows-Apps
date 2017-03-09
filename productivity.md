@@ -32,23 +32,11 @@ A package manager for Windows.
 
 Windows 10 built-in personal assistant by Microsoft.
 
-### [Desktopcal](http://www.desktopcal.com/)
-
-放置于Windows桌面上的日历，用做备忘
-
-A cool calendar placed on your windows desktop used as a memo.
-
-### [Everything](http://www.voidtools.com/)
-
-最快速的文件/文件名搜索工具
-
-The fastest file/folder search tool by name.
-
 ### [GitHub Desktop](https://windows.github.com/)
 
 A GUI for using GitHub.
 
-### [Insomnia](http://insomnia.rest)
+### [LibreOffice](https://www.libreoffice.org/)
 
-A modern REST client with an beautiful interface. thout transparency for more efficient files.
+Open source office suite.
 
