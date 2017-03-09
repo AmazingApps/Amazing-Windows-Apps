@@ -32,3 +32,7 @@ Encrypt your files in an elegant way.
 
 A malware fighter performing amazingly on PUA.
 
+### Kaspersky Free
+
+Free edition of Kaspersky antivirus, available in China and Russian speaking countires.
+

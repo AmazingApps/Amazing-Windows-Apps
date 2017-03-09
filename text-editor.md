@@ -12,3 +12,7 @@ GUI client for GitBook.
 
 The note-taking app for Markdown lovers.
 
+### [Knowte](http://www.digimezzo.com/content/software/knowte/)
+
+Knowte is a note taking application with UWP UI.
+

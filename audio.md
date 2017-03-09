@@ -32,3 +32,7 @@ Transfer files from your CDs to your PC in almost every format.Comes with some p
 
 foobar2000 is a free & open source audio player with highly modular design, breadth of features, and extensive user flexibility in configuration.
 
+### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm)
+
+Collection of DirectShow filters, VFW/ACM codecs, and tools.
+

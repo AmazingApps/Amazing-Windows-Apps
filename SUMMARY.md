@@ -32,7 +32,7 @@
 * [实用程序Practicals](practicals.md)
 * [生产率Productivity](productivity.md)
 * [隐私安全Security&Privacy](security.md)
-* 终端Terminal
+* [终端Terminal](terminal.md)
 * [文本编辑器Text Editor](text-editor.md)
 * [视频Video](video.md)
 
