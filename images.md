@@ -20,3 +20,7 @@ Free drawing software with a bunch of cool features.
 
 Free image and photo editing.
 
+### [**qrcode**](https://github.com/sylnsfar/qrcode)
+
+Artistic QR Code in Python \(Animated GIF qr code\).
+

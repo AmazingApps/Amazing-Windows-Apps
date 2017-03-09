@@ -52,3 +52,11 @@ A feature-rich WinForms-based HTTP client.
 
 A chromiun-based browser with built-in content block and with faster prefetch.
 
+### [qBittorrent](https://www.qbittorrent.org/)
+
+qBittorrent provides an open-source software alternative to µTorrent and is based on the Qt toolkit and libtorrent-rasterbar library.
+
+### [QuiteRSS](https://quiterss.org/)
+
+Open-source cross-platform RSS/Atom news feeds reader.
+
