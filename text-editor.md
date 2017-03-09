@@ -20,3 +20,7 @@ Knowte is a note taking application with UWP UI.
 
 A customizable editor with instant feedback and showing data values flow through your code.
 
+### [Notepad++](https://notepad-plus-plus.org/)
+
+A source code editor which supports several programming languages.
+

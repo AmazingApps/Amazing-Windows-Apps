@@ -18,5 +18,11 @@ A tiny  countdown timer in natural languages.
 
 Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
 
+### [NirLauncher](http://launcher.nirsoft.net/)
 
+NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years.
+
+### [Ninite](https://ninite.com/)
+
+The easiest, fastest way to update or install software.
 
