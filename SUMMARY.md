@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Categlory](categlory.md)
 * [Num.\#](num..md)
 * [A](chapter1.md)
 * [B](b.md)
@@ -13,7 +14,7 @@
 * [I](i.md)
 * [K](k.md)
 * [L](l.md)
-* [M](m.md)
+* Categlory
 * [N](n.md)
 * [O](o.md)
 * [P](p.md)
