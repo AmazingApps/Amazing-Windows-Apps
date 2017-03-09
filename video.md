@@ -22,3 +22,7 @@ Multimedia player with a wide collection of codecs which also offers extensive c
 
 ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
 
+### [VLC](http://www.videolan.org/vlc/index.html)
+
+Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+

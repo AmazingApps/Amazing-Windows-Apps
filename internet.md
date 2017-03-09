@@ -68,3 +68,7 @@ A proprietary computer software package for remote control, desktop sharing, onl
 
 Enable anonymous communication.
 
+### [Vivaldi](https://vivaldi.com/)
+
+Another chromium-based browser with amazing features.
+

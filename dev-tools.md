@@ -22,5 +22,11 @@ Yet another system region and language simulator.
 
 A command-line installer for Windows.
 
+### [Visual Studio](https://www.visualstudio.com/)
 
+Ultimate Microsoft Developer Tool.
+
+### [Visual Studio Code](https://code.visualstudio.com/)
+
+Build and debug modern web and cloud applications.
 
