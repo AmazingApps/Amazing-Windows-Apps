@@ -1,6 +1,8 @@
-### [Huoying Video Desktop](http://huoying666.com/)
+### [~~Huoying Video Desktop~~](http://huoying666.com/)
 
-Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
+~~Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.~~
+
+SUSPIOUS BEHAVIORS REPORTED  报告有可疑行为
 
 ### [MacType](http://www.mactype.net/)
 
