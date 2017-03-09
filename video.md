@@ -6,3 +6,7 @@ High performance video encoding and conversion tools with a nice GUI.
 
 Free and Open Source home theatre software.
 
+### [LICEcap](http://www.cockos.com/licecap/)
+
+Animated screen captures and save them directly to .GIF
+

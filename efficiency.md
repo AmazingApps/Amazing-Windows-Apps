@@ -14,3 +14,7 @@ The fastest file/folder search tool by name.
 
 The Open Source Keystroke Launcher.
 
+### [Listary](http://www.listary.com/)
+
+Keep files at your fingertips. An unique search utility.
+

@@ -16,3 +16,7 @@ The note-taking app for Markdown lovers.
 
 Knowte is a note taking application with UWP UI.
 
+### [Light Table](http://lighttable.com/)
+
+A customizable editor with instant feedback and showing data values flow through your code.
+
