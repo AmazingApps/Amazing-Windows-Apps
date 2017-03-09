@@ -2,7 +2,9 @@
 
 Open source image editor.
 
-###  honeyview
+### [honeyview](http://www.bandisoft.com/honeyview/)
+
+A very fast image viewer supporting various formats.
 
 ### [Inkscape](https://inkscape.org/en/)
 
