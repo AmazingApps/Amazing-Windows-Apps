@@ -60,3 +60,7 @@ Wirelessly transmit any music or audio from your PC to your Android phone, table
 
 TTKMusicPlayer that imitation Kugou music based on Qt.
 
+### [Waltr](http://softorino.com/waltr/)
+
+Transfer any movie or music file to your iPhone w/o iTunes.
+

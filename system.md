@@ -40,3 +40,15 @@ Enjoy text endering and the way it should be.
 
 A convenient unified display of the most relevant technical and tag data for video and audio files.
 
+### [WinDirStat](https://windirstat.info/)
+
+A disk usage statistics viewer and cleanup.
+
+### [Windows 10 Codecs](http://shark007.net/)
+
+Enhanced your WMP significantly.
+
+### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
+
+Changes the Windows 10 login screen background.
+

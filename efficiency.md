@@ -34,3 +34,15 @@ A tiny launcher in way of icons.
 
 The best file manager for Windows.
 
+### [**WGestures**](http://www.yingdev.com/projects/wgestures)
+
+Modern mouse gestures for Windows. \(C\#\)
+
+### [WindowTabs](http://windowtabs.com/)
+
+Add Tabs to Any Application.
+
+### [Wox](http://www.getwox.com/)
+
+An effective launcher for Windows.
+
