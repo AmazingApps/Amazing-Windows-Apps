@@ -5,6 +5,7 @@
 * [聊天客户端Chat Client](chat-client.md)
 * [压缩Compression](compression.md)
 * [配置与安装Configuration](configuration.md)
+* [美化Customization](customization.md)
 * [数据恢复Data Recovery](data-recovery.md)
 * [开发者工具Dev Tools](dev-tools.md)
 * [电子书Ebooks](ebooks.md)
@@ -15,7 +16,7 @@
 * [硬件相关Hardwares](hardwares.md)
 * [图形Images](images.md)
 * [网络通信Internet](internet.md)
-* 在线存储Online Storage
+* [在线存储Online Storage](online-storage.md)
 * [实用程序Practicals](practicals.md)
 * [生产率Productivity](productivity.md)
 * [隐私安全Security&Privacy](security.md)

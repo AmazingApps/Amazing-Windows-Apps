@@ -14,14 +14,6 @@ A PC personal assistant developed by an individual.
 
 A tiny  countdown timer in natural languages.
 
-### [Huoying Video Desktop](http://huoying666.com/)
-
-Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
-
-### [MacType](http://www.mactype.net/)
-
-Enjoy text endering and the way it should be.
-
 ### [NirLauncher](http://launcher.nirsoft.net/)
 
 NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years.
@@ -29,10 +21,6 @@ NirLauncher is a package of more than 200 portable freeware utilities for Window
 ### [Ninite](https://ninite.com/)
 
 The easiest, fastest way to update or install software.
-
-### [Rainmeter](/www.rainmeter.net)
-
-Desktop customization.
 
 ### [Speccy](https://www.piriform.com/speccy)
 
@@ -46,7 +34,5 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 Software to prevent cursor from jumping when you are typing on notebook keyboard.
 
-### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 
-Changes the Windows 10 login screen background.
 
