@@ -16,6 +16,8 @@
 2. 严格地区限制应用，如NPR One、拼音输入法等
 3. 不与Windows 10兼容或仅与XP或更旧Windows兼容
 
+很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准
+
 # Windows Apps That Amaze Us
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
@@ -33,6 +35,8 @@ Note: these following appps will NOT be listed although may deserve a try:
 1. fixed or cracked versions, e.g. ads-peeling versions, which can feel cool.
 2. strict regoinal purpose, e.g. NPR One Desktop, Pinyin Input, etc.
 3. not compitable with Windows 10 or compitable only with XP or older.
+
+Many apps can be sorted in multiple categlory so here main design purpose is considered.
 
 
 

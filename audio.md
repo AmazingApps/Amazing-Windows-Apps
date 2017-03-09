@@ -48,9 +48,13 @@ One for all free music in china \(Windows, Mac, Linux desktop\).
 
 ### [Mixxx](http://mixxx.org/)
 
+免费DJ软件，有live mixes需要的一切
+
 Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
 
 ### [Musicbee](http://getmusicbee.com/)
+
+管理、查找、播放本地音频。类似于iTunes但更好
 
 Manage, find, and play music files on your computer. Like iTunes but better than iTunes.
 
