@@ -40,3 +40,7 @@ A GUI for using GitHub.
 
 Open source office suite.
 
+### [Matterwiki](https://github.com/Matterwiki/Matterwiki)
+
+A simple and beautiful wiki for teams.
+
