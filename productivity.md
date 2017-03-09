@@ -32,3 +32,9 @@ A package manager for Windows.
 
 Windows 10 built-in personal assistant by Microsoft.
 
+### [Desktopcal](http://www.desktopcal.com/)
+
+放置于Windows桌面上的日历，用做备忘
+
+A cool calendar placed on your windows desktop used as a memo.
+

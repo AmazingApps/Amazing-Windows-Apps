@@ -28,5 +28,9 @@ A cloud sync tool for system clipboard across multiple platforms.
 
 A PC personal assistant developed by an individual.
 
+### [Dism++](https://www.chuyu.me/)
 
+全球首家基于CBS的Dism GUI实现
+
+First CBS-based Dism GUI implementation globally.
 
