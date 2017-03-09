@@ -30,3 +30,7 @@ Track time spent on applications and websites, giving you an accurate picture of
 
 A tiny launcher in way of icons.
 
+### [Total Commander](https://www.ghisler.com/)
+
+The best file manager for Windows.
+

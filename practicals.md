@@ -38,3 +38,7 @@ Detailed statistics on every piece of hardware in your computer.
 
 Just as its name: Software Update Monitor: tell you if updates are available before you need to use your software.
 
+### [Touchpad Blocker](http://touchpad-blocker.com/)
+
+Software to prevent cursor from jumping when you are typing on notebook keyboard.
+

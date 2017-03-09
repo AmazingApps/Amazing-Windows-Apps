@@ -56,3 +56,7 @@ Picard is a cross-platform music tagger written in Python.
 
 Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
 
+### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer)
+
+TTKMusicPlayer that imitation Kugou music based on Qt.
+

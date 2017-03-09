@@ -32,3 +32,7 @@ Simple cross-platform note taking app with cloud-based syncing.
 
 The sophisticated text editor.
 
+### [Typora](https://typora.io/)
+
+A minimal MarkDown reading & writing app.
+
