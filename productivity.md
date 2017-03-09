@@ -20,3 +20,15 @@ amWiki is a wiki doc system based on JavaScript, relying on Atom editor and appl
 
 Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
 
+### [Chocolatey](https://chocolatey.org/)
+
+Windows包管理器
+
+A package manager for Windows.
+
+### Cortana
+
+微软开发的Windows 10内置个人助理
+
+Windows 10 built-in personal assistant by Microsoft.
+

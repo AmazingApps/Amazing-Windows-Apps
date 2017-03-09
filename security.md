@@ -10,3 +10,9 @@ Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
 Outright protection against malware.
 
+### [CCleaner](https://www.piriform.com/CCLEANER)
+
+轻量PC优化工具，屡获殊荣
+
+A light-weighted & award-winning PC optimization tool.
+

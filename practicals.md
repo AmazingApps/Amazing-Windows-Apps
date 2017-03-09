@@ -16,3 +16,17 @@ An all-in-one system optimization unity.
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
 
+### [Clipber](http://clipber.com/clipber/)
+
+跨平台系统剪贴板同步工具
+
+A cloud sync tool for system clipboard across multiple platforms.
+
+### [Companions](http://www.jackeriss.com/companions.htm)
+
+个人开发的PC个人助理
+
+A PC personal assistant developed by an individual.
+
+
+
