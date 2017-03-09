@@ -10,3 +10,7 @@ Free and Open Source home theatre software.
 
 Animated screen captures and save them directly to .GIF
 
+### [mpv](http://mpv.io/)
+
+A free, open source, and cross-platform media player.
+

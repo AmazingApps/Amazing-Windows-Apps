@@ -44,3 +44,9 @@ Open source office suite.
 
 A simple and beautiful wiki for teams.
 
+### [Microsoft Office](http://www.office.com)
+
+Microsoft's own productivity suite:
+
+Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
+

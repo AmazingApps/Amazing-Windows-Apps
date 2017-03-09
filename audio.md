@@ -40,3 +40,15 @@ Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
+### [Mixxx](http://mixxx.org/)
+
+Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
+
+### [Musicbee](http://getmusicbee.com/)
+
+Manage, find, and play music files on your computer. Like iTunes but better than iTunes.
+
+### [MusicBrainz Picard](https://picard.musicbrainz.org/)
+
+Picard is a cross-platform music tagger written in Python.
+

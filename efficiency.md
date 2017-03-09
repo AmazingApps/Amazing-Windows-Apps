@@ -18,3 +18,7 @@ The Open Source Keystroke Launcher.
 
 Keep files at your fingertips. An unique search utility.
 
+### [Multi Commander](http://multicommander.com/)
+
+File manager for professionals.
+
