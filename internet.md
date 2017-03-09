@@ -32,3 +32,7 @@ A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent su
 
 An open source web browser that is highly extensive and privacy respecting.
 
+### [GlassWire](https://www.glasswire.com/)
+
+Network security monitoring tool and analyzer that visualizes your network activity.
+

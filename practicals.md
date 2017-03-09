@@ -40,3 +40,7 @@ First CBS-based Dism GUI implementation globally.
 
 Clipboard manager.
 
+### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/)
+
+A tiny  countdown timer in natural languages.
+

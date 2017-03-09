@@ -44,3 +44,7 @@ A cool calendar placed on your windows desktop used as a memo.
 
 The fastest file/folder search tool by name.
 
+### [GitHub Desktop](https://windows.github.com/)
+
+A GUI for using GitHub.
+

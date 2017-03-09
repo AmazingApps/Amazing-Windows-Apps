@@ -4,3 +4,7 @@
 
 A hackable text editor.
 
+### [GitBook Editor](https://www.gitbook.com/editor)
+
+GUI client for GitBook.
+
