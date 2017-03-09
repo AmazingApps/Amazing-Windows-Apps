@@ -48,7 +48,3 @@ A disk usage statistics viewer and cleanup.
 
 Enhanced your WMP significantly.
 
-### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
-
-Changes the Windows 10 login screen background.
-

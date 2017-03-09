@@ -42,3 +42,7 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 Software to prevent cursor from jumping when you are typing on notebook keyboard.
 
+### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
+
+Changes the Windows 10 login screen background.
+
