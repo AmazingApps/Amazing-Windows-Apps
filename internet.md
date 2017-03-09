@@ -40,3 +40,11 @@ Network security monitoring tool and analyzer that visualizes your network activ
 
 Offline browser utility, allowing you to download a website from the Internet to a local directory.
 
+### [IDM](http://internetdownloadmanager.com/)
+
+Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
+
+### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting)
+
+A feature-rich WinForms-based HTTP client.
+

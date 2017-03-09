@@ -48,3 +48,7 @@ A tiny  countdown timer in natural languages.
 
 Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
 
+### [Iobit Uninstaller](http://www.iobit.com/en/advanceduninstaller.php)
+
+Completely remove your installed programs without leftovers.
+

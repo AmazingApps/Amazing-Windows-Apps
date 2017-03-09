@@ -8,3 +8,7 @@ A hackable text editor.
 
 GUI client for GitBook.
 
+### [Inkdrop](https://www.inkdrop.info/)
+
+The note-taking app for Markdown lovers.
+
