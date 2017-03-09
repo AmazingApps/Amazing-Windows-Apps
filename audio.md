@@ -30,13 +30,19 @@ Transfer files from your CDs to your PC in almost every format.Comes with some p
 
 ### [foobar2000](http://www.foobar2000.org/)
 
+免费开源音频播放器，具备高度定制化能力
+
 foobar2000 is a free & open source audio player with highly modular design, breadth of features, and extensive user flexibility in configuration.
 
 ### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm)
 
+DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
+
 Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 ### [listen1](http://listen1.github.io/listen1)
+
+一站式免费音乐集合
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
@@ -50,7 +56,7 @@ Manage, find, and play music files on your computer. Like iTunes but better than
 
 ### [MusicBrainz Picard](https://picard.musicbrainz.org/)
 
-Picard is a cross-platform music tagger written in Python.
+Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
 ### [SoundWire](http://georgielabs.net/)
 
