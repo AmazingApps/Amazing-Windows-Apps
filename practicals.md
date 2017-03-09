@@ -34,3 +34,9 @@ A PC personal assistant developed by an individual.
 
 First CBS-based Dism GUI implementation globally.
 
+### [Ditto](http://ditto-cp.sourceforge.net/)
+
+剪贴板管理
+
+Clipboard manager.
+
