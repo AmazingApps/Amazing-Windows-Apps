@@ -10,3 +10,9 @@ A WiFi virtual router app, neat & free.
 
 An all-in-one system optimization unity.
 
+### [AltDrag](https://stefansundin.github.io/altdrag/)
+
+按下Alt键时，拖动窗口，调整大小，最小化等等
+
+You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
+

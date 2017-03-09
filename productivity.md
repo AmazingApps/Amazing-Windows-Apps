@@ -8,3 +8,15 @@ There isn't too much to introduce this. I belive most of us have known how power
 
 Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Captivate, Adobe Character Animator, Adobe Dreamweaver, Adobe Edge Code, Adobe Edge Reflow, Adobe Encore, Adobe Fireworks, Adobe Fuse, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Muse, Adobe Photoshop, Adobe Prelude, Adobe Premiere, Adobe Scout, Adobe SpeedGrade
 
+### [amWiki](https://amwiki.xf09.net/)
+
+基于JavaScript、依赖于Atom编辑器、应用MarkDown标记的wiki文档系统
+
+amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
+
+### [AutoHotkey](https://www.autohotkey.com/)
+
+开源Windows脚本语言，用户可以轻松创建各种脚本完成各种任务
+
+Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
+
