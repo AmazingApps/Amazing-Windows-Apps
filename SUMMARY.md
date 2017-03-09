@@ -24,4 +24,5 @@
 * [终端Terminal](terminal.md)
 * [文本编辑器Text Editor](text-editor.md)
 * [视频Video](video.md)
+* [鸣谢Acknowledgement](acknowledgement.md)
 
