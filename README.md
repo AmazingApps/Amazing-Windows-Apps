@@ -28,8 +28,6 @@ This is to introduce amazing works done onto Windows. All apps collected in this
 4. actively maintained. If it stops being maintained, it will be removed from here.
 5. easy to learn throughout.
 
-All apps are sorted in alphabetical order.
-
 Note: these following appps will NOT be listed although may deserve a try:
 
 1. fixed or cracked versions, e.g. ads-peeling versions, which can feel cool.
