@@ -6,3 +6,7 @@ An Internet Relay Chat \(IRC\) client.
 
 Quassel IRC is a modern, cross-platform, distributed IRC client.
 
+### [Telegram](https://desktop.telegram.org/)
+
+A messaging app with a focus on speed and security, it’s super fast, simple and free.
+

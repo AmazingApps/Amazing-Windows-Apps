@@ -1,3 +1,7 @@
+### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting)
+
+A feature-rich WinForms-based HTTP client.
+
 ### [Insomnia](http://insomnia.rest)
 
 A modern REST client with an beautiful interface. thout transparency for more efficient files.

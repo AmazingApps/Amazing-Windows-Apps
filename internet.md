@@ -44,10 +44,6 @@ Offline browser utility, allowing you to download a website from the Internet to
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
-### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting)
-
-A feature-rich WinForms-based HTTP client.
-
 ### [Opera](/www.opera.com)
 
 A chromiun-based browser with built-in content block and with faster prefetch.
@@ -63,4 +59,12 @@ Open-source cross-platform RSS/Atom news feeds reader.
 ### [Resilio Sync](https://www.resilio.com/)
 
 A proprietary peer-to-peer file synchronization tool.
+
+### [TeamViewer](http://www.teamviewer.com/)
+
+A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
+
+### [Tor Project](https://www.torproject.org/)
+
+Enable anonymous communication.
 
