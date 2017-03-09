@@ -16,3 +16,9 @@ Outright protection against malware.
 
 A light-weighted & award-winning PC optimization tool.
 
+### [Encrypto](http://macpaw.com/encrypto)
+
+优雅地加密文件
+
+Encrypt your files in an elegant way.
+

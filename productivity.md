@@ -38,3 +38,9 @@ Windows 10 built-in personal assistant by Microsoft.
 
 A cool calendar placed on your windows desktop used as a memo.
 
+### [Everything](http://www.voidtools.com/)
+
+最快速的文件/文件名搜索工具
+
+The fastest file/folder search tool by name.
+

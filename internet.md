@@ -22,3 +22,9 @@ A lightweight multi-protocol & multi-source, cross platform download utility ope
 
 Raise up traceroute request from Windows with route visilization display.
 
+### [EagleGet](http://www.eagleget.com/)
+
+免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
+
+Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
+

@@ -36,7 +36,7 @@
 * 在线存储Online Storage
 * [实用程序Practicals](practicals.md)
 * [生产率Productivity](productivity.md)
-* [安全Security](security.md)
+* [隐私安全Security&Privacy](security.md)
 * 终端Terminal
 * [文本编辑器Text Editor](text-editor.md)
 * 视频Video
