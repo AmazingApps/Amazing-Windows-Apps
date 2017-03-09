@@ -29,10 +29,18 @@
 * [音频Audio](audio.md)
 * [聊天客户端Chat Client](chat-client.md)
 * [压缩Compression](compression.md)
+* [配置与安装Configuration](configuration.md)
 * [数据恢复Data Recovery](data-recovery.md)
 * [开发者工具Dev Tools](dev-tools.md)
 * [电子书Ebooks](ebooks.md)
 * [电子邮件Emails](emails.md)
 * [文件Files](files.md)
-* 图形Games
+* [图形Games](games.md)
+* 在线存储Online Storage
+* 实用程序Practicals
+* 生产率Productivity
+* [安全Security](security.md)
+* 终端Terminal
+* [文本编辑器Text Editor](text-editor.md)
+* 视频Video
 
