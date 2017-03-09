@@ -32,10 +32,6 @@ Clipboard manager.
 
 Completely remove your installed programs without leftovers.
 
-### [MacType](http://www.mactype.net/)
-
-Enjoy text endering and the way it should be.
-
 ### [MediaInfo](https://mediaarea.net/en/MediaInfo)
 
 A convenient unified display of the most relevant technical and tag data for video and audio files.
