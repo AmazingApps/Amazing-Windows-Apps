@@ -18,3 +18,7 @@ Open source image editor.
 
 Network security monitoring tool and analyzer that visualizes your network activity.
 
+### [GreatNews](http://www.curiostudio.com/)
+
+AAn intelligent RSS reader client that grasps full text.
+
