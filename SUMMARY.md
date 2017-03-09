@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [X](x.md)
 * [Y](y.md)
 * [Z](z.md)
 * [音频Audio](audio.md)
