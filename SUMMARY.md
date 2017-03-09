@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [D](d.md)
 * [E](e.md)
 * [F](f.md)
 * [G](g.md)
