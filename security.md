@@ -40,3 +40,7 @@ Free edition of Kaspersky antivirus, available in China and Russian speaking cou
 
 As its name: revoke China SSL certificates \(illegal\).
 
+### [Sandboxie](http://www.sandboxie.com/)
+
+A sandbox-based isolation program.
+
