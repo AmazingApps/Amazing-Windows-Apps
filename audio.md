@@ -1,16 +1,16 @@
-### [AIMP](http://www.aimp.ru/)![](/assets/free-tag-hand-drawn-sign.png)
+### [AIMP](http://www.aimp.ru/)![](/assets/图片2.png)
 
 轻巧的本地音频播放器，支持多种格式，并具备音频管理功能
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
 
-### [Audacity](http://audacityteam.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [Audacity](http://audacityteam.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 免费开源跨平台的音频记录与编辑软件
 
 Free, open source, cross-platform software for recording and editing sounds.
 
-### [Autolyrics](http://www.autolyric.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [Autolyrics](http://www.autolyric.com/)![](/assets/图片2.png)
 
 支持插入到许多其它音频播放器的歌词下载展示模块，网络数据库量大
 
