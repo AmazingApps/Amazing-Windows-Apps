@@ -10,37 +10,37 @@ A cool calendar placed on your windows desktop used as a memo.
 
 The fastest file/folder search tool by name.
 
-### [FreeCommander](http://freecommander.com/en/summary/)![](/assets/free-tag-hand-drawn-sign.png)
+### [FreeCommander](http://freecommander.com/en/summary/)![](/assets/图片2.png)
 
 简单易用的Windows标准文件管理器替代
 
 An easy-to-use alternative to the standard windows file manager.
 
-### [Launchy](http://www.launchy.net/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [Launchy](http://www.launchy.net/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 开源键盘启动器
 
 The Open Source Keystroke Launcher.
 
-### [Listary](http://www.listary.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [Listary](http://www.listary.com/)![](/assets/图片2.png)
 
 设计独到的搜索工具
 
 Keep files at your fingertips. An unique search utility.
 
-### [Multi Commander](http://multicommander.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [Multi Commander](http://multicommander.com/)![](/assets/图片2.png)
 
 免费的专业文件管理器
 
 File manager for professionals.
 
-### [RescueTime](https://team.rescuetime.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [RescueTime](https://team.rescuetime.com/)![](/assets/图片2.png)
 
 追踪你在应用与页面上使用的时间并给予详细活动报告
 
 Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
 
-### [Rolan](http://www.irolan.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [Rolan](http://www.irolan.com/)![](/assets/图片2.png)
 
 图标式迷你启动器
 
@@ -52,31 +52,31 @@ Windows最佳文件管理
 
 The best file manager for Windows.
 
-### [**WGestures**](http://www.yingdev.com/projects/wgestures)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [**WGestures**](http://www.yingdev.com/projects/wgestures)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 Windows全局手势
 
 Modern mouse gestures for Windows. \(C\#\)
 
-### [WindowTabs](http://windowtabs.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [WindowTabs](http://windowtabs.com/)![](/assets/图片2.png)
 
 向任意程序添加标签页
 
 Add Tabs to Any Application.
 
-### [Winstep Nexus Dock](http://www.winstep.net/nexus.asp)![](/assets/free-tag-hand-drawn-sign.png)
+### [Winstep Nexus Dock](http://www.winstep.net/nexus.asp)![](/assets/图片2.png)
 
 免费专业的托盘
 
 Free professional dock for Windows.
 
-### [Wox](http://www.getwox.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [Wox](http://www.getwox.com/)![](/assets/图片2.png)
 
 高效启动器
 
 An effective launcher for Windows.
 
-### [**zogvm**](https://github.com/zogvm/zogvm)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [**zogvm**](https://github.com/zogvm/zogvm)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 视频引索管理器
 
