@@ -16,7 +16,7 @@ A PC personal assistant developed by an individual.
 
 A tiny  countdown timer in natural languages.
 
-### [NirLauncher](http://launcher.nirsoft.net/)![](/assets/图片2.png)![](/assets/united-states.png)
+### [NirLauncher](http://launcher.nirsoft.net/)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 超过200个便携工具的集合
 
