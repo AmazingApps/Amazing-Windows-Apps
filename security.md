@@ -1,5 +1,7 @@
 ### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
+本地DNS代理，缓存DNS服务器回应并通过设置hosts文件防止恶意广告
+
 A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file.
 
 ### [ADM](http://www.admflt.com/)![](/assets/图片2.png)
