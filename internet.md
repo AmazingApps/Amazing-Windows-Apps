@@ -16,6 +16,12 @@ A lightweight multi-protocol & multi-source, cross platform download utility ope
 
 Raise up traceroute request from Windows with route visilization display.
 
+### [**Brave**](https://www.brave.com/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
+
+ 自动拦截广告与追踪器的浏览器
+
+A browser automatically blocks ads and trackers.
+
 ### [EagleGet](http://www.eagleget.com/)![](/assets/图片2.png)
 
 免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
