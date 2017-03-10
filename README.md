@@ -28,7 +28,7 @@
 
 ![](/assets/open-source-icon.png)开源软件
 
-![](/assets/earth-globe.png)多语言支持：至少支持 世界上几种使用人口较多的语言：汉语、西班牙语、英语、阿拉伯语、葡萄牙语、俄语、 日语、标准德语
+![](/assets/earth-globe.png)多语言支持：至少支持 世界上几种使用较多较广的语言：汉语、西班牙语、英语、阿拉伯语、葡萄牙语、俄语、 日语、标准德语
 
 * 仅支持单一或者少数语种的以国旗标注
 
@@ -61,4 +61,10 @@ This project is under GNU GPL v2.0, claim [gitbook address](https://www.gitbook.
 ![](/assets/图片2.png)use it for free \(there can be an advanced paying version\)
 
 ![](/assets/open-source-icon.png)open source
+
+![](/assets/earth-globe.png)Multilanguage support: at leaset serveral major languages: Chinese, Enlgish, Spanish, Arabic, Portuguese, Russian, Japanese and standard German
+
+* A nation country flag is marked if only one or a few languages supported
+
+
 
