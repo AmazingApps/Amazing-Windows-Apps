@@ -38,33 +38,49 @@ Cycle your album like the way in iMac: instant, portable, full-screen slideshow 
 
 ### [Krita](https://krita.org/)![](/assets/free-tag-hand-drawn-sign.png)
 
+免费绘画工具集
+
 Free drawing software with a bunch of cool features.
 
 ### [Paint.net](http://www.getpaint.net/index.html)![](/assets/free-tag-hand-drawn-sign.png)
+
+免费的图像照片编辑
 
 Free image and photo editing.
 
 ### [**qrcode**](https://github.com/sylnsfar/qrcode)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
+Python编写的艺术二维码生成器
+
 Artistic QR Code in Python \(Animated GIF qr code\).
 
 ### [Riot](http://luci.criosweb.ro/riot/)![](/assets/free-tag-hand-drawn-sign.png)
+
+根据多种文件属性压缩图像
 
 Compress images either by file size or by many other image attributes.
 
 ### [ShareX](https://getsharex.com/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
+免费开源的屏幕捕获与分享
+
 A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
-### [Snipaste](https://snipaste.com/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [Snipaste](https://snipaste.com/)![](/assets/free-tag-hand-drawn-sign.png)
+
+简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
 
 A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
 
 ### [Splashify](https://splashify.net/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
+桌面壁纸软件
+
 Beautiful desktop wallpapers.
 
 ### [Xnview](http://www.xnview.com/en/)![](/assets/free-tag-hand-drawn-sign.png)
+
+高效的图片查看管理与转格式，格式支持最全
 
 An efficient multimedia viewer, organizer and converter with the most formats support.
 
