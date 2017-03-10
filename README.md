@@ -24,7 +24,7 @@
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
-![](/assets/free-tag-hand-drawn-sign.png)免费软件
+![](/assets/free-tag-hand-drawn-sign.png)可免费使用（可能有收费版功能）
 
 ![](/assets/open-source-icon.png)开源软件
 
@@ -54,7 +54,7 @@ This project is under GNU GPL v2.0, claim [gitbook address](https://www.gitbook.
 
 [Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
-![](/assets/free-tag-hand-drawn-sign.png)freeware
+![](/assets/free-tag-hand-drawn-sign.png)use it for free \(there can be an advanced paying version\)
 
 ![](/assets/open-source-icon.png)open source
 
