@@ -46,6 +46,8 @@ Simple cross-platform note taking app with cloud-based syncing.
 
 ~~An advanced text editor REALLY easy to use.~~
 
+No Update for Long Now 长期无更新
+
 ### [Sublime Text 3](http://www.sublimetext.com/3)![](/assets/图片2.png)
 
 现代UI设计的文本编辑器
