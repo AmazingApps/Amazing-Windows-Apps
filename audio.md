@@ -1,10 +1,10 @@
-### [AIMP](http://www.aimp.ru/)
+### [AIMP](http://www.aimp.ru/)![](/assets/free-tag-hand-drawn-sign.png)
 
 轻巧的本地音频播放器，支持多种格式，并具备音频管理功能
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
 
-### [Audacity](http://audacityteam.org/)
+### [Audacity](http://audacityteam.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 免费开源跨平台的音频记录与编辑软件
 
@@ -60,9 +60,13 @@ Manage, find, and play music files on your computer. Like iTunes but better than
 
 ### [MusicBrainz Picard](https://picard.musicbrainz.org/)
 
+跨平台音频标签处理，可在线查询并重写元数据标签
+
 Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
 ### [SoundWire](http://georgielabs.net/)
+
+
 
 Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
 

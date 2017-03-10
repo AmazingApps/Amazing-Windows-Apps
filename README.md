@@ -18,6 +18,10 @@
 
 很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准
 
+![](/assets/free-tag-hand-drawn-sign.png)免费软件
+
+![](/assets/open-source-icon.png)开源软件
+
 # Windows Apps That Amaze Us
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
@@ -38,5 +42,7 @@ Note: these following appps will NOT be listed although may deserve a try:
 
 Many apps can be sorted in multiple categlory so here main design purpose is considered.
 
+![](/assets/free-tag-hand-drawn-sign.png)freeware
 
+![](/assets/open-source-icon.png)open source
 
