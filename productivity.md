@@ -32,7 +32,7 @@ Windows 10 built-in personal assistant by Microsoft.
 
 Open source office suite.
 
-### [Materialette](https://github.com/mike-schultz/materialette)
+### [Materialette](https://github.com/mike-schultz/materialette)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 material设计的调色板
 
