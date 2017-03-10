@@ -22,7 +22,11 @@ An open source, tabbed, multi-protocol, remote connections manager.
 
 Multi-Tabbed PuTTY.
 
-### [Putty](http://www.chiark.greenend.org.uk/%7Esgtatham/putty/download.html)
+### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
 SSH and telnet client.
+
+### [Xshell](http://www.netsarang.com/products/xsh_overview.html)
+
+A powerful terminal emulator that supports SSH, SFTP, TELNET, RLOGIN and SERIAL.
 
