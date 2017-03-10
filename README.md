@@ -24,6 +24,10 @@
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
+---
+
+### 标识说明
+
 ![](/assets/图片2.png)可免费使用（可能有收费版功能）
 
 ![](/assets/open-source-icon.png)开源软件
@@ -57,6 +61,10 @@ There is a black list at the end in which apps violate users profit and privacy 
 This project is under GNU GPL v2.0, claim [gitbook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this.
 
 [Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
+
+---
+
+### Marking Logos
 
 ![](/assets/图片2.png)use it for free \(there can be an advanced paying version\)
 
