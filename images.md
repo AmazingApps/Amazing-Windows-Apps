@@ -1,26 +1,38 @@
 ### [FastStone Image Viewer](http://www.faststone.org/)![](/assets/free-tag-hand-drawn-sign.png)
 
+图片查看管理并提供基本图像编辑
+
 An image viewer and organizer free for personal and educational use with basic image editing tools.
 
 ### [Gimp](http://www.gimp.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+
+开源图像编辑器
 
 Open source image editor.
 
 ### [honeyview](http://www.bandisoft.com/honeyview/)![](/assets/free-tag-hand-drawn-sign.png)
 
+超快图片查看，支持多种格式
+
 A very fast image viewer supporting various formats.
 
 ### [IrfanView](http://www.irfanview.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
+图像查看编辑管理与转换。也可以播放视频与音频，具备一些图像创作工具
+
 Image viewer, editor, organiser and converter. It can also play video and audio files, and has some image creation and painting capabilities.
 
 ### [Inkscape](https://inkscape.org/en/)![](/assets/free-tag-hand-drawn-sign.png)
+
+基于vector的图像设计软件
 
 Free vector-based graphic design software.
 
 ### Ken Burns Slideshow![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 ###### available on both [GitHub](https://github.com/changbowen/Ken-Burns-Slideshow) or [Sourceforge](https://sourceforge.net/projects/ken-burns-slideshow/)
+
+像iMac一样轮播相册，即时、便携、全屏的Ken Burns特效幻灯片展示
 
 Cycle your album like the way in iMac: instant, portable, full-screen slideshow application with the Ken Burns effect.
 
