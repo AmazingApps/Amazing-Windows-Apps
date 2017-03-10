@@ -42,9 +42,9 @@ Network security monitoring tool and analyzer that visualizes your network activ
 
 ### [Huorong Security](http://www.huorong.cn/)![](/assets/图片2.png)
 
-病毒防护软件，PUA表现惊艳
+病毒防护软件，PUA防护表现惊艳
 
-A malware fighter performing amazingly on PUA.
+A malware fighter performing amazingly on PUA protection.
 
 ### Kaspersky Free![](/assets/图片2.png)
 
