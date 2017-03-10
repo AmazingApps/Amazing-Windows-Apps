@@ -1,4 +1,4 @@
-### [kobo](https://www.kobo.com/desktop)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [kobo](https://www.kobo.com/desktop)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 巨丑无比但强大无比的电子书管理
 
@@ -10,7 +10,7 @@ Incredibly ugly but powerful software for ebook management and conversion.
 
 Amazing PDF reader you'll ever get.
 
-### [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)![](/assets/free-tag-hand-drawn-sign.png)
+### [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)![](/assets/图片2.png)
 
 PDF ePub MOBI CHM XPS DjVu CBZ CBR阅读器
 
