@@ -28,6 +28,10 @@ A source code editor which supports several programming languages.
 
 Simple cross-platform note taking app with cloud-based syncing.
 
+### [~~Siphonink~~](http://nullice.com/Gasoft/Siphonink/)
+
+~~An advanced text editor REALLY easy to use.~~
+
 ### [Sublime Text 3](http://www.sublimetext.com/3)
 
 The sophisticated text editor.
