@@ -22,6 +22,12 @@ Raise up traceroute request from Windows with route visilization display.
 
 A browser automatically blocks ads and trackers.
 
+### [Cent Browser](http://www.centbrowser.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+
+ 附带的许多特性显著增强了Chromium浏览器的体验
+
+An enhanced version of the Chromium web browser that bundles many useful features.
+
 ### [EagleGet](http://www.eagleget.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
