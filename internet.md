@@ -1,34 +1,34 @@
-### [Anydesk](http://anydesk.com/)
+### [Anydesk](http://anydesk.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
 顺手的远程桌面应用
 
 A comfortable remote desktop application.
 
-### [aria2](https://aria2.github.io/)
+### [aria2](https://aria2.github.io/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持HTTP/HTTPS、FTP、SFTP、BT与磁链
 
 A lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
-### [Best Trace](https://www.ipip.net/download.html)
+### [Best Trace](https://www.ipip.net/download.html)![](/assets/free-tag-hand-drawn-sign.png)
 
 从Windows中发起traceroute请求并可视化展示
 
 Raise up traceroute request from Windows with route visilization display.
 
-### [EagleGet](http://www.eagleget.com/)
+### [EagleGet](http://www.eagleget.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
 免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
 
 Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
 
-### [FDM](http://www.freedownloadmanager.org/)
+### [FDM](http://www.freedownloadmanager.org/)![](/assets/free-tag-hand-drawn-sign.png)
 
 免费强大的下载加速管理器，支持HTTP/HTTPS/FTP/种子等协议
 
 A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
 
-### [Firefox](https://www.mozilla.org/en-US/firefox)
+### [Firefox](https://www.mozilla.org/en-US/firefox)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 ###### also Mozilla Firefox
 
@@ -36,7 +36,7 @@ A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent su
 
 An open source web browser that is highly extensive and privacy respecting.
 
-### [HTTrack](https://www.httrack.com/page/2/en/index.html)
+### [HTTrack](https://www.httrack.com/page/2/en/index.html)![](/assets/free-tag-hand-drawn-sign.png)
 
 Offline browser utility, allowing you to download a website from the Internet to a local directory.
 
@@ -44,19 +44,19 @@ Offline browser utility, allowing you to download a website from the Internet to
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
-### [Opera](/www.opera.com)
+### [Opera](/www.opera.com)![](/assets/free-tag-hand-drawn-sign.png)
 
 A chromiun-based browser with built-in content block and with faster prefetch.
 
-### [qBittorrent](https://www.qbittorrent.org/)
+### [qBittorrent](https://www.qbittorrent.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 qBittorrent provides an open-source software alternative to µTorrent and is based on the Qt toolkit and libtorrent-rasterbar library.
 
-### [QuiteRSS](https://quiterss.org/)
+### [QuiteRSS](https://quiterss.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 Open-source cross-platform RSS/Atom news feeds reader.
 
-### [Resilio Sync](https://www.resilio.com/)
+### [Resilio Sync](https://www.resilio.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
 A proprietary peer-to-peer file synchronization tool.
 
@@ -66,23 +66,23 @@ A proprietary peer-to-peer file synchronization tool.
 
 Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
 
-### [TeamViewer](http://www.teamviewer.com/)
+### [TeamViewer](http://www.teamviewer.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
 A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
-### [Tor Project](https://www.torproject.org/)
+### [Tor Project](https://www.torproject.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 Enable anonymous communication.
 
-### [Vivaldi](https://vivaldi.com/)
+### [Vivaldi](https://vivaldi.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
 Another chromium-based browser with amazing features.
 
-### [you-get](https://you-get.org/)
+### [you-get](https://you-get.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 A tiny downloader that scrapes the web.
 
-### [youtube-dl](http://rg3.github.io/youtube-dl/)
+### [youtube-dl](http://rg3.github.io/youtube-dl/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 Command-line program to download videos from YouTube.com and other video sites.
 
