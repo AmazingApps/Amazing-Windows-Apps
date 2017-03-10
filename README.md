@@ -18,6 +18,10 @@
 
 很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准
 
+结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
+
+[阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
+
 ![](/assets/free-tag-hand-drawn-sign.png)免费软件
 
 ![](/assets/open-source-icon.png)开源软件
