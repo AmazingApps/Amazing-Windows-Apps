@@ -30,9 +30,13 @@ File manager for professionals.
 
 ### [RescueTime](https://team.rescuetime.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
+追踪你在应用与页面上使用的时间并给予详细活动报告
+
 Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
 
 ### [Rolan](http://www.irolan.com/)![](/assets/free-tag-hand-drawn-sign.png)
+
+
 
 A tiny launcher in way of icons.
 
