@@ -60,13 +60,19 @@ Add Tabs to Any Application.
 
 ### [Winstep Nexus Dock](http://www.winstep.net/nexus.asp)![](/assets/free-tag-hand-drawn-sign.png)
 
+免费专业的托盘
+
 Free professional dock for Windows.
 
 ### [Wox](http://www.getwox.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
+高效启动器
+
 An effective launcher for Windows.
 
 ### [**zogvm**](https://github.com/zogvm/zogvm)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+
+视频引索管理器
 
 zogna video manager.
 
