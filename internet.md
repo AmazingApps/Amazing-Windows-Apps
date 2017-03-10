@@ -38,9 +38,13 @@ An open source web browser that is highly extensive and privacy respecting.
 
 ### [HTTrack](https://www.httrack.com/page/2/en/index.html)![](/assets/free-tag-hand-drawn-sign.png)
 
+离线浏览器工具，可以从网络下载完整页面内容
+
 Offline browser utility, allowing you to download a website from the Internet to a local directory.
 
 ### [IDM](http://internetdownloadmanager.com/)
+
+有效的下载加速器
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
