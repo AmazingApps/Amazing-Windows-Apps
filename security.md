@@ -1,3 +1,7 @@
+### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome)![](/assets/图片2.png)![](/assets/open-source-icon.png)
+
+A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file.
+
 ### [ADM](http://www.admflt.com/)![](/assets/图片2.png)
 
 外部广告拦截器，拦截所有Windows进程中所有广告
