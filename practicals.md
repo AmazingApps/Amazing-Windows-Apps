@@ -1,46 +1,46 @@
-### [Clipber](http://clipber.com/clipber/)![](/assets/图片2.png)
+### [Clipber](http://clipber.com/clipber/)![](/assets/图片2.png)![](/assets/china.png)
 
 跨平台系统剪贴板同步工具
 
 A cloud sync tool for system clipboard across multiple platforms.
 
-### [Companions](http://www.jackeriss.com/companions.htm)![](/assets/图片2.png)![](/assets/open-source-icon.png)
+### [Companions](http://www.jackeriss.com/companions.htm)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/china.png)
 
 个人开发的PC个人助理
 
 A PC personal assistant developed by an individual.
 
-### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
+### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)
 
 自然语言倒计时器
 
 A tiny  countdown timer in natural languages.
 
-### [NirLauncher](http://launcher.nirsoft.net/)![](/assets/图片2.png)
+### [NirLauncher](http://launcher.nirsoft.net/)![](/assets/图片2.png)![](/assets/united-states.png)
 
 超过200个便携工具的集合
 
 NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years.
 
-### [Ninite](https://ninite.com/)![](/assets/图片2.png)
+### [Ninite](https://ninite.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 更新安装软件的简单快速的方式
 
 The easiest, fastest way to update or install software.
 
-### [Speccy](https://www.piriform.com/speccy)![](/assets/图片2.png)
+### [Speccy](https://www.piriform.com/speccy)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 了解计算机硬件详细信息
 
 Detailed statistics on every piece of hardware in your computer.
 
-### [SUMo](http://www.kcsoftwares.com/?sumo)![](/assets/图片2.png)
+### [SUMo](http://www.kcsoftwares.com/?sumo)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 无需使用本身软件就了解软件是否有更新可用
 
 Just as its name: Software Update Monitor: tell you if updates are available before you need to use your software.
 
-### [Touchpad Blocker](http://touchpad-blocker.com/)![](/assets/图片2.png)
+### [Touchpad Blocker](http://touchpad-blocker.com/)![](/assets/图片2.png)![](/assets/united-states.png)
 
 打字时防止因触摸板造成的光标跳动
 
