@@ -36,19 +36,25 @@ A source code editor which supports several programming languages.
 
 ### [Simplenote](https://simplenote.com/)![](/assets/图片2.png)
 
-
+简单跨平台云同步笔记应用
 
 Simple cross-platform note taking app with cloud-based syncing.
 
 ### [~~Siphonink~~](http://nullice.com/Gasoft/Siphonink/)![](/assets/图片2.png)
 
+~~真正**简单易用**的高级文本编辑器~~
+
 ~~An advanced text editor REALLY easy to use.~~
 
 ### [Sublime Text 3](http://www.sublimetext.com/3)![](/assets/图片2.png)
 
+现代UI设计的文本编辑器
+
 The sophisticated text editor.
 
 ### [Typora](https://typora.io/)![](/assets/图片2.png)
+
+简洁MarkDown阅读编写应用
 
 A minimal MarkDown reading & writing app.
 
