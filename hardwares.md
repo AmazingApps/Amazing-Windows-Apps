@@ -12,5 +12,7 @@ A HDD/SSD info utility software which supports a part of USB connection and Inte
 
 ### [f.lux](http://stereopsis.com/flux/)
 
+自动调节屏幕色温以匹配环境亮度
+
 Automatically adjust your computer screen to match lighting.
 
