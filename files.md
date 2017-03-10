@@ -1,12 +1,18 @@
 ### [FileZilla](https://filezilla-project.org/)
 
+FTP FTPS SFTP客户端
+
 FTP, FTPS and SFTP client.
 
 ### [FreeFileSync](http://www.freefilesync.org/)
 
+简单的文件（夹）备份工具，支持镜像、双向、更新等方式
+
 An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 
 ### [Pandoc](http://pandoc.org/)
+
+通用文档转换器
 
 A universal document converter.
 
