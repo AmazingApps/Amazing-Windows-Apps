@@ -1,42 +1,42 @@
-### [Atom](https://atom.io/)
+### [Atom](https://atom.io/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 可破译的文本编辑器
 
 A hackable text editor.
 
-### [GitBook Editor](https://www.gitbook.com/editor)
+### [GitBook Editor](https://www.gitbook.com/editor)![](/assets/图片2.png)
 
 GUI client for GitBook.
 
-### [Inkdrop](https://www.inkdrop.info/)
+### [Inkdrop](https://www.inkdrop.info/)![](/assets/图片2.png)
 
 The note-taking app for Markdown lovers.
 
-### [Knowte](http://www.digimezzo.com/content/software/knowte/)
+### [Knowte](http://www.digimezzo.com/content/software/knowte/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 Knowte is a note taking application with UWP UI.
 
-### [Light Table](http://lighttable.com/)
+### [Light Table](http://lighttable.com/)![](/assets/图片2.png)
 
 A customizable editor with instant feedback and showing data values flow through your code.
 
-### [Notepad++](https://notepad-plus-plus.org/)
+### [Notepad++](https://notepad-plus-plus.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 A source code editor which supports several programming languages.
 
-### [Simplenote](https://simplenote.com/)
+### [Simplenote](https://simplenote.com/)![](/assets/图片2.png)
 
 Simple cross-platform note taking app with cloud-based syncing.
 
-### [~~Siphonink~~](http://nullice.com/Gasoft/Siphonink/)
+### [~~Siphonink~~](http://nullice.com/Gasoft/Siphonink/)![](/assets/图片2.png)
 
 ~~An advanced text editor REALLY easy to use.~~
 
-### [Sublime Text 3](http://www.sublimetext.com/3)
+### [Sublime Text 3](http://www.sublimetext.com/3)![](/assets/图片2.png)
 
 The sophisticated text editor.
 
-### [Typora](https://typora.io/)
+### [Typora](https://typora.io/)![](/assets/图片2.png)
 
 A minimal MarkDown reading & writing app.
 
