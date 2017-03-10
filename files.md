@@ -1,30 +1,36 @@
-### [FileZilla](https://filezilla-project.org/)
+### [FileZilla](https://filezilla-project.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 FTP FTPS SFTP客户端
 
 FTP, FTPS and SFTP client.
 
-### [FreeFileSync](http://www.freefilesync.org/)
+### [FreeFileSync](http://www.freefilesync.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 简单的文件（夹）备份工具，支持镜像、双向、更新等方式
 
 An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 
-### [Pandoc](http://pandoc.org/)
+### [Pandoc](http://pandoc.org/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 通用文档转换器
 
 A universal document converter.
 
-### [ReNamer](http://www.den4b.com/)
+### [ReNamer](http://www.den4b.com/)![](/assets/free-tag-hand-drawn-sign.png)
+
+强大灵活的文件重命名，提供许多强大内置规则
 
 Powerful and flexible file renaming tool, which offers all the standard renaming procedures, including prefixes, suffixes, replacements, case changes, as well as removing contents of brackets, adding number sequences, changing file extensions, etc.
 
 ### [Resource Hacker](http://www.angusj.com/resourcehacker/)
 
+获取Windows可执行文件（EXE DLL SCR MUI等）中的资源文件
+
 Complete resource editing tool for any type of Windows executable \(\*.exe; \*.dll; \*.scr; \*.mui etc\).
 
 ### [rimraf](https://www.npmjs.com/package/rimraf)
+
+node使用的深度删除模块。删除深目录文件（夹）
 
 A deep deletion module for node. Help to delete files and folders with very long paths.
 
