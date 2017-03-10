@@ -10,7 +10,7 @@ FTP, FTPS and SFTP client.
 
 An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 
-### MediaCoder
+### MediaCoder![](/assets/图片2.png)
 
 ###### [International Website](http://mediacoderhq.com/)/[中文网](http://mediacoder.com.cn/)
 
