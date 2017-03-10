@@ -6,5 +6,5 @@ Grateful for contributions from:
 * Der Letzte Wächter
 * greatYear
 
-
+![](/assets/windows_logo.png)
 
