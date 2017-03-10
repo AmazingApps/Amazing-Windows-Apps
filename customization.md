@@ -1,22 +1,22 @@
-### [~~Huoying Video Desktop~~](http://huoying666.com/)![](/assets/free-tag-hand-drawn-sign.png)
+### [~~Huoying Video Desktop~~](http://huoying666.com/)![](/assets/图片2.png)
 
 ~~Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.~~
 
-SUSPIOUS BEHAVIORS REPORTED  报告有可疑行为
+SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
 
-### [MacType](http://www.mactype.net/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [MacType](http://www.mactype.net/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 改进字体渲染效果
 
 Enjoy text endering and the way it should be.
 
-### [Rainmeter](/www.rainmeter.net)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
+### [Rainmeter](/www.rainmeter.net)![](/assets/图片2.png)![](/assets/open-source-icon.png)
 
 桌面个性化
 
 Desktop customization.
 
-### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)![](/assets/free-tag-hand-drawn-sign.png)
+### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)![](/assets/图片2.png)
 
 修改Windows 10登陆背景
 
