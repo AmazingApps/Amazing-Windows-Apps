@@ -36,19 +36,25 @@ Track time spent on applications and websites, giving you an accurate picture of
 
 ### [Rolan](http://www.irolan.com/)![](/assets/free-tag-hand-drawn-sign.png)
 
-
+图标式迷你启动器
 
 A tiny launcher in way of icons.
 
 ### [Total Commander](https://www.ghisler.com/)
 
+Windows最佳文件管理
+
 The best file manager for Windows.
 
 ### [**WGestures**](http://www.yingdev.com/projects/wgestures)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
+Windows全局手势
+
 Modern mouse gestures for Windows. \(C\#\)
 
 ### [WindowTabs](http://windowtabs.com/)![](/assets/free-tag-hand-drawn-sign.png)
+
+向任意程序添加标签页
 
 Add Tabs to Any Application.
 
