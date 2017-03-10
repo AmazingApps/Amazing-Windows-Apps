@@ -20,6 +20,8 @@
 
 结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
 
+本项目使用GNU GPL v2.0协议，转载请声明gitbook项目地址来源
+
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
 ![](/assets/free-tag-hand-drawn-sign.png)免费软件
@@ -45,6 +47,12 @@ Note: these following appps will NOT be listed although may deserve a try:
 3. not compitable with Windows 10 or compitable only with XP or older.
 
 Many apps can be sorted in multiple categlory so here main design purpose is considered.
+
+There is a black list at the end in which apps violate users profit and privacy severely so that you should aviod them.
+
+This project is under GNU GPL v2.0, claim gitbook address if you are to quote this.
+
+[Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
 ![](/assets/free-tag-hand-drawn-sign.png)freeware
 
