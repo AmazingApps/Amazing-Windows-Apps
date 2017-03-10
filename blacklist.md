@@ -11,11 +11,17 @@ Excluding   不包含：
 
 * Excluding 2345 Image Viewer   不包含2345看图王
 
-### Rising Series   瑞星系列
+### Rising Series   瑞星系列软件
 
-### Baidu Series   百度系列
+### Baidu Series   百度系列软件
 
-### Thunder Series   迅雷系列
+### Thunder Series   迅雷系列软件
+
+### Tencent Series   腾讯系列软件
+
+* Excluding TIM   不包含TIM
+
+
 
 
 
