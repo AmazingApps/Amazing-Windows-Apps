@@ -24,17 +24,17 @@ Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and al
 
 ### [FDM](http://www.freedownloadmanager.org/)
 
+免费强大的下载加速管理器，支持HTTP/HTTPS/FTP/种子等协议
+
 A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
 
 ### [Firefox](https://www.mozilla.org/en-US/firefox)
 
 ###### also Mozilla Firefox
 
+开源网页浏览器，高度扩展性并尊重用户隐私
+
 An open source web browser that is highly extensive and privacy respecting.
-
-### [GlassWire](https://www.glasswire.com/)
-
-Network security monitoring tool and analyzer that visualizes your network activity.
 
 ### [HTTrack](https://www.httrack.com/page/2/en/index.html)
 

@@ -28,6 +28,10 @@ A light-weighted & award-winning PC optimization tool.
 
 Encrypt your files in an elegant way.
 
+### [GlassWire](https://www.glasswire.com/)
+
+Network security monitoring tool and analyzer that visualizes your network activity.
+
 ### [Huorong Security](http://www.huorong.cn/)
 
 A malware fighter performing amazingly on PUA.
