@@ -10,6 +10,12 @@ A cool calendar placed on your windows desktop used as a memo.
 
 The fastest file/folder search tool by name.
 
+### [FreeCommander](http://freecommander.com/en/summary/)![](/assets/free-tag-hand-drawn-sign.png)
+
+简单易用的Windows标准文件管理器替代
+
+An easy-to-use alternative to the standard windows file manager.
+
 ### [Launchy](http://www.launchy.net/)![](/assets/free-tag-hand-drawn-sign.png)![](/assets/open-source-icon.png)
 
 开源键盘启动器
