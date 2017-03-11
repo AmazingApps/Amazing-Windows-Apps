@@ -24,7 +24,7 @@ A browser automatically blocks ads and trackers.
 
 ### [Cent Browser](http://www.centbrowser.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
- 附带的许多特性显著增强了Chromium浏览器的体验
+附带的许多特性显著增强了Chromium浏览器的体验
 
 An enhanced version of the Chromium web browser that bundles many useful features.
 
@@ -72,7 +72,7 @@ A chromiun-based browser with built-in content blocker and with faster prefetch.
 
 qBittorrent provides an open-source software alternative to µTorrent and is based on the Qt toolkit and libtorrent-rasterbar library.
 
-### [QuiteRSS](https://quiterss.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)
+### [QuiteRSS](https://quiterss.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
 
 开源跨平台RSS/Atom阅读器
 
