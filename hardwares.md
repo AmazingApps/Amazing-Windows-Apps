@@ -1,3 +1,9 @@
+## 硬件信息   Hardwares
+
+显示硬件信息或微调硬件配置   Hardwares info or minor adjustment
+
+---
+
 ### [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 Windows与Android免费系统资料与监视
