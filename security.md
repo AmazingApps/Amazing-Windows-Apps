@@ -52,6 +52,18 @@ A malware fighter performing amazingly on PUA protection.
 
 Free edition of Kaspersky antivirus, available in China and Russian speaking countires.
 
+### [KeePass](http://keepass.info/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
+
+开源密码管理器
+
+Open source password manager.
+
+### [LastPass](https://www.lastpass.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+
+强大的全能密码生成管理器，具有跨平台云同步
+
+Powerful all-in-one password manager and keeper with free cloud sync across all platform.
+
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
