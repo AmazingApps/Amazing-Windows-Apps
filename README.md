@@ -22,6 +22,8 @@
 
 本项目使用GNU GPL v2.0协议，转载请声明[gitbook项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源
 
+更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)
+
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
 ---
@@ -59,6 +61,8 @@ Many apps can be sorted in multiple categlory so here main design purpose is con
 There is a black list at the end in which apps violate users profit and privacy severely so that you should aviod them.
 
 This project is under GNU GPL v2.0, claim [gitbook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this.
+
+Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details.
 
 [Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
