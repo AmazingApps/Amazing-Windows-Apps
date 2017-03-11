@@ -1,3 +1,9 @@
+## 音频   Audio
+
+管理、播放或处理音频文件的应用   Softwares that manage, play or process audio files.
+
+---
+
 ### [AIMP](http://www.aimp.ru/)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 轻巧的本地音频播放器，支持多种格式，并具备音频管理功能
