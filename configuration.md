@@ -1,4 +1,4 @@
-### 配置与安装   Configuration
+## 配置与安装   Configuration
 
 配置安装引导   Guides on configuration
 
