@@ -1,3 +1,9 @@
+## 游戏平台   Games
+
+游戏零售平台   Games Retailing
+
+---
+
 ### [Origin](https://www.origin.com/en-in/store/)![](/assets/earth-globe.png)
 
 类似于Steam，但属于EA
