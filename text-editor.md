@@ -1,3 +1,9 @@
+## 文本编辑器   Text Editor
+
+提升文本编辑效率   Boost text editing efficiency
+
+---
+
 ### [Atom](https://atom.io/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)
 
 可破译的文本编辑器
