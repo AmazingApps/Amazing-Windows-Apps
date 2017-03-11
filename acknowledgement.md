@@ -1,7 +1,5 @@
 # 鸣谢 Acknowledgement
 
----
-
 感谢以下人员作出的无私贡献：
 
 Grateful for contributions from:
