@@ -1,3 +1,11 @@
+## 黑名单   Black List
+
+此处列出的软件严重损害了用户的合法权益，因此强烈不建议使用
+
+Softwares listed here severely invade users profit so strongly unrecommended to use
+
+---
+
 ### 360 Series   360系列软件
 
 Excluding   不包含：
@@ -20,8 +28,6 @@ Excluding   不包含：
 ### Tencent Series   腾讯系列软件
 
 * Excluding TIM   不包含TIM
-
-
 
 
 
