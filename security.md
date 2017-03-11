@@ -1,3 +1,9 @@
+## 隐私安全   Security & Privacy
+
+增加隐私保护与系统安全性   Enhance privacy protection and your OS secuirty
+
+---
+
 ### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
 
 本地DNS代理，缓存DNS服务器回应并通过设置hosts文件防止恶意广告
