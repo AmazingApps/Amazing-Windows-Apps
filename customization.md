@@ -8,7 +8,7 @@
 
 ~~Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.~~
 
-SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
+###### SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
 
 ### [MacType](http://www.mactype.net/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
 
