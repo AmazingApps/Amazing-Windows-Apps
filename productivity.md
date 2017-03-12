@@ -58,3 +58,7 @@ Microsoft's own productivity suite:
 
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
 
+### [XMind](http://www.xmind.net/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+
+A popular mind map tool with free cloud sync.
+
