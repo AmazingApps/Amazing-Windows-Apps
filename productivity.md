@@ -34,7 +34,9 @@ Windows 10 built-in personal assistant by Microsoft.
 
 ### [HelloFont](http://www.hellofont.cn/index.php)
 
+一站式字体管理、预览、备份与范例展示
 
+All-in-one fonts management, preview, backup and examples.
 
 ### [LibreOffice](https://www.libreoffice.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
 
