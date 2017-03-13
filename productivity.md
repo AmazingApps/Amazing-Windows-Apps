@@ -32,6 +32,10 @@ Open-source scripting language for Windows that allows users to easily create sm
 
 Windows 10 built-in personal assistant by Microsoft.
 
+### [HelloFont](http://www.hellofont.cn/index.php)
+
+
+
 ### [LibreOffice](https://www.libreoffice.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
 
 开源Office套装
@@ -59,6 +63,8 @@ Microsoft's own productivity suite:
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
 
 ### [XMind](http://www.xmind.net/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+
+思维导图工具，带有免费的云端同步
 
 A popular mind map tool with free cloud sync.
 
