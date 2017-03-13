@@ -8,14 +8,14 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### 2345 Series   2345系列软件
 
-* Excluding 2345 Image Viewer   不包含2345看图王
+Excluding   不包含：
+
+1. 2345 Image Viewer   2345看图王
+2. Haoya   好压
 
 ### 360 Series   360系列软件
 
-Excluding   不包含：
-
-1. 360 Security International   360卫士国际版
-2. Haoya   好压
+* Excluding 360 Security International   不包含360卫士国际版
 
 ### Baidu Series   百度系列软件
 
