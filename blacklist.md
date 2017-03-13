@@ -19,6 +19,10 @@ Excluding   不包含：
 
 ### Baidu Series   百度系列软件
 
+### Driver Life   驱动人生
+
+### Driver Spirit   驱动精灵
+
 ### Kingsoft Series  金山系列软件
 
 ### Rising Series   瑞星系列软件
