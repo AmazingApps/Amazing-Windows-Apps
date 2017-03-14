@@ -40,6 +40,12 @@ The easiest, fastest way to update or install software.
 
 Detailed statistics on every piece of hardware in your computer.
 
+### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)
+
+拯救因大型游戏平台而告急的磁盘空间
+
+A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon
+
 ### [SUMo](http://www.kcsoftwares.com/?sumo)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
 无需使用本身软件就了解软件是否有更新可用
