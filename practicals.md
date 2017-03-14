@@ -44,7 +44,13 @@ Detailed statistics on every piece of hardware in your computer.
 
 拯救因大型游戏平台而告急的磁盘空间
 
-A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon
+A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon.
+
+### [Steam Mover](http://www.traynier.com/software/steammover)![](/assets/图片2.png)![](/assets/united-states.png)
+
+移动已安装的Steam游戏所在目录
+
+Change location of installed games from Steam.
 
 ### [SUMo](http://www.kcsoftwares.com/?sumo)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
