@@ -10,7 +10,7 @@
 
 ~~A WiFi virtual router app, neat & free.~~
 
-###### 存在争议   DOUBLEFUL
+###### SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
 
 ### [Advanced SystemCare](http://www.iobit.com/en/advancedsystemcarefree.php)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
