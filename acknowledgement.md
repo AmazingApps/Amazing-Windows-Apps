@@ -11,5 +11,5 @@ Grateful for contributions from:
 * greatYear
 * SAGE
 
-                                               ![](/assets/windows_logo.png)
+![](/assets/windows_logo.png)
 
