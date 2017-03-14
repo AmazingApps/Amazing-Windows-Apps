@@ -9,6 +9,7 @@ Grateful for contributions from:
 * bearJess
 * Der Letzte Wächter
 * greatYear
+* SAGE
 
 ![](/assets/windows_logo.png)
 
