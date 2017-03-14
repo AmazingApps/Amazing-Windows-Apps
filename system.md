@@ -24,6 +24,12 @@ An all-in-one system optimization unity.
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
 
+### [FileMenu Tools](https://lopesoft.com/index.php/en/products)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
+
+右键菜单自定义
+
+Customize and add several tools to the context menu of Windows File Explorer.
+
 ### [Dism++](https://www.chuyu.me/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
 
 全球首家基于CBS的Dism GUI实现
