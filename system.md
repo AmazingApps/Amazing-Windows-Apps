@@ -4,11 +4,13 @@
 
 ---
 
-### [160WIFI](http://wifi.160.com/)![](/assets/图片2.png)![](/assets/china.png)
+### [~~160WIFI~~](http://wifi.160.com/)![](/assets/图片2.png)![](/assets/china.png)
 
-虚拟WiFi路由软件，整洁免费
+~~虚拟WiFi路由软件，整洁免费~~
 
-A WiFi virtual router app, neat & free.
+~~A WiFi virtual router app, neat & free.~~
+
+###### 存在争议   DOUBLEFUL
 
 ### [Advanced SystemCare](http://www.iobit.com/en/advancedsystemcarefree.php)![](/assets/图片2.png)![](/assets/earth-globe.png)
 
