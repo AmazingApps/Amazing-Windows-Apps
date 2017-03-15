@@ -64,7 +64,7 @@ Microsoft's own productivity suite:
 
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
 
-### [XMind](http://www.xmind.net/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [XMind](http://www.xmind.net/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
 
 思维导图工具，带有免费的云端同步
 
