@@ -12,9 +12,9 @@
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
 
-### Audacity ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Audacity ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](http://www.audacityteam.org/)｜[下载页面  Download Page](http://www.audacityteam.org/download/windows/)
 
 免费开源跨平台的音频记录与编辑软件
 
