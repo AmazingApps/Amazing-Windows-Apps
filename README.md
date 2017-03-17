@@ -35,6 +35,8 @@
 
 ![](/assets/open-source-icon.png)开源软件
 
+![](/assets/usb.png)
+
 ![](/assets/earth-globe.png)多语言支持：至少支持 世界上几种使用较多较广的语言
 
 * 仅支持单一或者少数语种的以国旗标注
