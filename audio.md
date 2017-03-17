@@ -28,9 +28,9 @@ Free, open source, cross-platform software for recording and editing sounds.
 
 A lyrics modules that plug into many other multimedia players to download & display lyrics with a large online database.
 
-### [Dopamine](http://www.digimezzo.com/software/dopamine/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
+### Dopamine ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](http://www.digimezzo.com/software/dopamine/)｜[下载页面  Download Page](http://www.digimezzo.com/content/software/dopamine/)
 
 音频播放器，致力于尽可能简单有效地管理欣赏音频
 
