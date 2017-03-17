@@ -35,7 +35,7 @@
 
 ![](/assets/open-source-icon.png)开源软件
 
-![](/assets/usb.png)
+![](/assets/usb.png)便携软件或可便携安装
 
 ![](/assets/earth-globe.png)多语言支持：至少支持 世界上几种使用较多较广的语言
 
@@ -79,6 +79,8 @@ Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more det
 ![](/assets/图片2.png)use it for free \(there can be an advanced paying version\)
 
 ![](/assets/open-source-icon.png)open source
+
+![](/assets/usb.png)portable itself or portable installation provided
 
 ![](/assets/earth-globe.png)Multilanguage support: at leaset serveral major languages
 
