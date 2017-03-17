@@ -31,13 +31,13 @@
 
 ### 标识说明
 
-![](/assets/图片2.png)可免费使用（可能有收费版功能）
+![](/assets/图片2.png) 可免费使用（可能有收费版功能）
 
-![](/assets/open-source-icon.png)开源软件
+![](/assets/open-source-icon.png) 开源软件
 
-![](/assets/usb.png)便携软件或可便携安装
+![](/assets/usb.png) 便携软件或可便携安装
 
-![](/assets/earth-globe.png)多语言支持：至少支持 世界上几种使用较多较广的语言
+![](/assets/earth-globe.png) 多语言支持：至少支持 世界上几种使用较多较广的语言
 
 * 仅支持单一或者少数语种的以国旗标注
 
@@ -76,13 +76,13 @@ Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more det
 
 ### Marking Logos
 
-![](/assets/图片2.png)use it for free \(there can be an advanced paying version\)
+![](/assets/图片2.png) use it for free \(there can be an advanced paying version\)
 
-![](/assets/open-source-icon.png)open source
+![](/assets/open-source-icon.png) open source
 
-![](/assets/usb.png)portable itself or portable installation provided
+![](/assets/usb.png) portable itself or portable installation provided
 
-![](/assets/earth-globe.png)Multilanguage support: at leaset serveral major languages
+![](/assets/earth-globe.png) Multilanguage support: at leaset serveral major languages
 
 * A nation country flag is marked if only one or a few languages supported
 
