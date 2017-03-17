@@ -36,9 +36,9 @@ A lyrics modules that plug into many other multimedia players to download & disp
 
 Dopamine is an audio player which tries to make organizing and listening to music as simple and pretty as possible.
 
-### [Exact Audio Copy](http://www.exactaudiocopy.de/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### Exact Audio Copy ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](http://exactaudiocopy.de/)｜[下载页面  Download Page](http://www.exactaudiocopy.de/en/index.php/resources/download/)
 
 从CD向PC传输文件
 
