@@ -20,9 +20,9 @@ A light-weighted local audio player that support multiple formats and that helps
 
 Free, open source, cross-platform software for recording and editing sounds.
 
-### [Autolyrics](http://www.autolyric.com/)![](/assets/图片2.png)![](/assets/china.png)![](/assets/united-states.png)
+### Autolyrics ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网](http://www.autolyric.com/zh-hans)｜[Official Site](http://www.autolyric.com/)｜[下载页面](http://www.autolyric.com/zh-hans/download)｜[Download Page](http://www.autolyric.com/en/download.html)
 
 支持插入到许多其它音频播放器的歌词下载展示模块，网络数据库量大
 
