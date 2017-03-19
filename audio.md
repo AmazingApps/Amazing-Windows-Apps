@@ -44,7 +44,7 @@ Dopamine is an audio player which tries to make organizing and listening to musi
 
 Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
 
-### [foobar2000](http://www.foobar2000.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)![](/assets/usb.png)
+### [foobar2000](http://www.foobar2000.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -52,7 +52,7 @@ Transfer files from your CDs to your PC in almost every format.Comes with some p
 
 foobar2000 is a free & open source audio player with highly modular design, breadth of features, and extensive user flexibility in configuration.
 
-### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm)![](/assets/图片2.png)![](/assets/united-states.png)
+### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -60,7 +60,7 @@ DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
 
 Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
-### [listen1](http://listen1.github.io/listen1)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/china.png)![](/assets/united-states.png)
+### [listen1](http://listen1.github.io/listen1) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -68,7 +68,7 @@ Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
-### [Mixxx](http://mixxx.org/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [Mixxx](http://mixxx.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -76,7 +76,7 @@ One for all free music in china \(Windows, Mac, Linux desktop\).
 
 Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
 
-### [Musicbee](http://getmusicbee.com/)![](/assets/earth-globe.png)
+### [Musicbee](http://getmusicbee.com/) ![](/assets/earth-globe.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -84,7 +84,7 @@ Free DJ software that gives you everything you need to perform live mixes, verit
 
 Manage, find, and play music files on your computer. Like iTunes but better than iTunes.
 
-### [MusicBrainz Picard](https://picard.musicbrainz.org/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [MusicBrainz Picard](https://picard.musicbrainz.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -92,7 +92,7 @@ Manage, find, and play music files on your computer. Like iTunes but better than
 
 Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
-### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/china.png)![](/assets/united-states.png)
+### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 

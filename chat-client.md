@@ -4,7 +4,7 @@
 
 ---
 
-### [mIRC](http://www.mirc.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [mIRC](http://www.mirc.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -12,7 +12,7 @@
 
 An Internet Relay Chat \(IRC\) client.
 
-### [Quassel](http://quassel-irc.org/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [Quassel](http://quassel-irc.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -20,7 +20,7 @@ An Internet Relay Chat \(IRC\) client.
 
 Quassel IRC is a modern, cross-platform, distributed IRC client.
 
-### [Telegram](https://desktop.telegram.org/)![](/assets/图片2.png)![](/assets/earth-globe.png)![](/assets/usb.png)
+### [Telegram](https://desktop.telegram.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
@@ -28,7 +28,7 @@ Quassel IRC is a modern, cross-platform, distributed IRC client.
 
 A messaging app with a focus on speed and security, it’s super fast, simple and free.
 
-### [Waow](http://dedg3.com/wao/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [Waow](http://dedg3.com/wao/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
