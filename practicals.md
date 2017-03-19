@@ -64,3 +64,8 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 Software to prevent cursor from jumping when you are typing on notebook keyboard.
 
+### [rufus](http://rufus.akeo.ie/)![](/assets/图片2.png)![](/assets/earth-globe.png)![](/assets/USB.png)![](/assets/open-source-icon.png)
+
+简单地创建 U 盘启动盘
+
+Create bootable USB drives the easy way.
