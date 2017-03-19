@@ -44,7 +44,7 @@ Dopamine is an audio player which tries to make organizing and listening to musi
 
 Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
 
-### [foobar2000](http://www.foobar2000.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)
+### [foobar2000](http://www.foobar2000.org/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)![](/assets/usb.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 

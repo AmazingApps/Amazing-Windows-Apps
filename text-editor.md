@@ -54,7 +54,7 @@ Simple cross-platform note taking app with cloud-based syncing.
 
 ###### No Update for Long Now 长期无更新
 
-### [Sublime Text 3](http://www.sublimetext.com/3)![](/assets/earth-globe.png)
+### [Sublime Text 3](http://www.sublimetext.com/3)![](/assets/earth-globe.png)![](/assets/usb.png)
 
 现代UI设计的文本编辑器
 

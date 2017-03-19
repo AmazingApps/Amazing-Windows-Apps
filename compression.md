@@ -10,7 +10,7 @@
 
 An open-source file archiver, an application used primarily to compress files, that provides high compression ratio.
 
-### [Bandizip](http://www.bandisoft.com/bandizip/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [Bandizip](http://www.bandisoft.com/bandizip/)![](/assets/图片2.png)![](/assets/earth-globe.png)![](/assets/usb.png)
 
 轻量级快速免费的压缩管理
 

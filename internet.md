@@ -10,7 +10,7 @@
 
 A comfortable remote desktop application.
 
-### [aria2](https://aria2.github.io/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)
+### [aria2](https://aria2.github.io/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)![](/assets/usb.png)
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持HTTP/HTTPS、FTP、SFTP、BT与磁链
 
@@ -96,7 +96,7 @@ A proprietary peer-to-peer file synchronization tool.
 
 Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
 
-### [TeamViewer](http://www.teamviewer.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [TeamViewer](http://www.teamviewer.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)![](/assets/usb.png)
 
 远程控制与桌面共享会议工具，也可以共享文件
 
@@ -120,7 +120,7 @@ Another chromium-based browser with amazing features.
 
 A tiny downloader that scrapes the web.
 
-### [youtube-dl](http://rg3.github.io/youtube-dl/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)
+### [youtube-dl](http://rg3.github.io/youtube-dl/)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/united-states.png)![](/assets/usb.png)
 
 从YouTube其许多其他网站下载视频的命令行工具
 

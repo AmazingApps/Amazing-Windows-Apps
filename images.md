@@ -72,7 +72,7 @@ Compress images either by file size or by many other image attributes.
 
 A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
-### [Snipaste](https://snipaste.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [Snipaste](https://snipaste.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)![](/assets/usb.png)
 
 简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
 

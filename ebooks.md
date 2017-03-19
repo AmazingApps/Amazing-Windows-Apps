@@ -16,7 +16,7 @@ Incredibly ugly but powerful software for ebook management and conversion.
 
 Amazing PDF reader you'll ever get.
 
-### [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)
+### [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)![](/assets/图片2.png)![](/assets/open-source-icon.png)![](/assets/earth-globe.png)![](/assets/usb.png)
 
 PDF ePub MOBI CHM XPS DjVu CBZ CBR阅读器
 

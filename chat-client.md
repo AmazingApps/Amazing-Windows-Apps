@@ -20,7 +20,7 @@ An Internet Relay Chat \(IRC\) client.
 
 Quassel IRC is a modern, cross-platform, distributed IRC client.
 
-### [Telegram](https://desktop.telegram.org/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [Telegram](https://desktop.telegram.org/)![](/assets/图片2.png)![](/assets/earth-globe.png)![](/assets/usb.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
