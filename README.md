@@ -23,7 +23,7 @@
 
 本项目使用GNU GPL v2.0协议，转载请声明[gitbook项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源
 
-更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程[移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Aaccepted%20)，也可查看[已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adone%20)
+更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程[移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Aaccepted )，也可查看[已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Adone )
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
@@ -35,7 +35,7 @@
 
 ![](/assets/open-source-icon.png) 开源软件
 
-![](/assets/usb.png) 便携软件或可便携安装
+![](/assets/usb.png) 便携软件或可便携安装：不写入注册表和用户目录，所有配置全写在软件目录下
 
 ![](/assets/earth-globe.png) 多语言支持：至少支持 世界上几种使用较多较广的语言
 
@@ -68,7 +68,7 @@ There is a black list at the end in which apps violate users profit and privacy 
 
 This project is under GNU GPL v2.0, claim [gitbook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this.
 
-Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Aaccepted%20)or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Adone%20).
+Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Aaccepted )or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Adone ).
 
 [Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
@@ -80,7 +80,7 @@ Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more det
 
 ![](/assets/open-source-icon.png) open source
 
-![](/assets/usb.png) portable itself or portable installation provided
+![](/assets/usb.png) portable itself or portable installation provided: it saves config files in own folder instead of Registry key or user profile folder.
 
 ![](/assets/earth-globe.png) Multilanguage support: at leaset serveral major languages
 
