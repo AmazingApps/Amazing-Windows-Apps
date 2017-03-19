@@ -34,6 +34,12 @@ NirLauncher is a package of more than 200 portable freeware utilities for Window
 
 The easiest, fastest way to update or install software.
 
+### [rufus](http://rufus.akeo.ie/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png)
+
+简单地创建 U 盘启动盘
+
+Create bootable USB drives the easy way.
+
 ### [Speccy](https://www.piriform.com/speccy) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 了解计算机硬件详细信息
@@ -64,9 +70,5 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 Software to prevent cursor from jumping when you are typing on notebook keyboard.
 
-### [rufus](http://rufus.akeo.ie/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png)
 
-简单地创建 U 盘启动盘
-
-Create bootable USB drives the easy way.
 
