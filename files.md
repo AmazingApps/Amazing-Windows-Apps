@@ -78,3 +78,8 @@ Lets you understand how folders and files are structured on your disks by using 
 
 Transfer any movie or music file to your iPhone w/o iTunes.
 
+### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en)![](/assets/图片2.png)![](/assets/united-states.png)![](/assets/USB.png)![](/assets/open-source-icon.png)
+
+快速复制、同步、删除文件。
+
+The Fastest Copy/Delete Software on Windows.
