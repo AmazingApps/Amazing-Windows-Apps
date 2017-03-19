@@ -46,3 +46,8 @@ Ultimate Microsoft Developer Tool.
 
 Build and debug modern web and cloud applications.
 
+### [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals/)![](/assets/图片2.png)![](/assets/united-states.png)
+
+管理、诊断 Windows 系统和应用。
+
+Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
