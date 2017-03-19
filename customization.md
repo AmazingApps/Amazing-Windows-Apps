@@ -14,7 +14,7 @@
 
 改进字体渲染效果
 
-Enjoy text endering and the way it should be.
+Enjoy text rendering and the way it should be.
 
 ### [Rainmeter](/www.rainmeter.net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
