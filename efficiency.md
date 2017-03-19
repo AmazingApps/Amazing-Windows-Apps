@@ -10,7 +10,7 @@
 
 A cool calendar placed on your windows desktop used as a memo.
 
-### [Everything](http://www.voidtools.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)
+### [Everything](http://www.voidtools.com/)![](/assets/图片2.png)![](/assets/earth-globe.png)![](/assets/usb.png)
 
 最快速的文件/文件名搜索工具
 
