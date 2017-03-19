@@ -28,6 +28,12 @@ Animated screen captures and save them directly to .GIF
 
 A free, open source, and cross-platform media player.
 
+### [OBS Studio](https://obsproject.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+屏幕录制或生成直播媒体流
+
+ Free and open source software for video recording and live streaming.
+
 ### [PotPlayer](http://potplayer.daum.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 多媒体播放器，解码器众多，配置能力强
