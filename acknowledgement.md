@@ -10,6 +10,7 @@ Grateful for contributions from:
 * Der Letzte Wächter
 * greatYear
 * SAGE
+* [taroxd](https://github.com/taroxd)
 
 ![](/assets/windows_logo.png)
 
