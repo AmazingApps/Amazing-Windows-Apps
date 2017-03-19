@@ -20,7 +20,7 @@ A PC personal assistant developed by an individual.
 
 自然语言倒计时器
 
-A tiny  countdown timer in natural languages.
+A tiny countdown timer in natural languages.
 
 ### [NirLauncher](http://launcher.nirsoft.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 

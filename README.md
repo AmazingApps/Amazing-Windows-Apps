@@ -59,7 +59,7 @@ This is to introduce amazing works done onto Windows. All apps collected in this
 Note: these following appps will NOT be listed although may deserve a try:
 
 1. fixed or cracked versions, e.g. ads-peeling versions, which can feel cool.
-2. strict regoinal purpose, e.g. NPR One Desktop, Pinyin Input, etc.
+2. strict regional purpose, e.g. NPR One Desktop, Pinyin Input, etc.
 3. compitable only with 32-bit OS, XP or older.
 
 Many apps can be sorted in multiple categlory so here main design purpose is considered.
@@ -76,15 +76,15 @@ Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more det
 
 ### Marking Logos
 
-![](/assets/图片2.png) use it for free \(there can be an advanced paying version\)
+![](/assets/图片2.png) use it for free \(there can be an advanced paid version\)
 
 ![](/assets/open-source-icon.png) open source
 
-![](/assets/usb.png) portable itself or portable installation provided: it saves config files in own folder instead of Registry key or user profile folder.
+![](/assets/usb.png) portable itself or portable installation provided: it saves config files in its own folder instead of Registry key or user profile folder.
 
-![](/assets/earth-globe.png) Multilanguage support: at leaset serveral major languages
+![](/assets/earth-globe.png) Multilanguage support: at least serveral major languages
 
-* A nation country flag is marked if only one or a few languages supported
+* A nation country flag is marked if only one or a few languages are supported
 
 ~~Strikethrough~~: Controversial as unclear app reputation.
 
