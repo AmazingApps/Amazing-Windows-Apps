@@ -4,6 +4,12 @@
 
 ---
 
+### [calibre](http://calibre-ebook.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+一站式解决你的所有电子书需求
+
+One-stop solution to all your ebook need.
+
 ### [kobo](https://www.kobo.com/desktop) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 巨丑无比但强大无比的电子书管理
