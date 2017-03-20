@@ -4,7 +4,9 @@
 
 ---
 
-### [7-Zip](http://7-zip.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### 7-Zip ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://7-zip.org/)｜[下载页面 Download Page](http://7-zip.org/download.html)
 
 开源文件压缩管理，主要用于压缩文件，具备高压缩率
 
