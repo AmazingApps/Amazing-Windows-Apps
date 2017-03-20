@@ -44,9 +44,9 @@ Dopamine is an audio player which tries to make organizing and listening to musi
 
 Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
 
-### [foobar2000](http://www.foobar2000.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### foobar2000 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](http://www.foobar2000.org/)｜[下载页面  Download Page](http://www.foobar2000.org/download)
 
 免费开源音频播放器，具备高度定制化能力
 
@@ -54,21 +54,17 @@ foobar2000 is a free & open source audio player with highly modular design, brea
 
 ### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
-###### 官网  Official Site｜下载页面  Download Page
-
 DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
 
 Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 ### [listen1](http://listen1.github.io/listen1) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
-###### 官网  Official Site｜下载页面  Download Page
-
 一站式免费音乐集合
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
-### [Mixxx](http://mixxx.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [Mixxx](http://mixxx.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 ###### 官网  Official Site｜下载页面  Download Page
 
