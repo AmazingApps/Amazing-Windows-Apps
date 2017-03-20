@@ -64,33 +64,33 @@ Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
-### [Mixxx](http://mixxx.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Mixxx ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](http://mixxx.org/)｜[下载页面  Download Page](http://mixxx.org/download/)
 
 免费DJ软件，有live mixes需要的一切
 
 Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
 
-### [Musicbee](http://getmusicbee.com/) ![](/assets/earth-globe.png)
+### Musicbee ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](http://getmusicbee.com/)｜[下载页面  Download Page](http://getmusicbee.com/downloads/)
 
 管理、查找、播放本地音频。类似于iTunes但更好
 
 Manage, find, and play music files on your computer. Like iTunes but better than iTunes.
 
-### [MusicBrainz Picard](https://picard.musicbrainz.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### MusicBrainz Picard ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](https://picard.musicbrainz.org/)｜[下载页面  Download Page](https://picard.musicbrainz.org/downloads/)
 
 跨平台音频标签处理，可在线查询并重写元数据标签
 
 Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
-### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### TTKMusicplayer ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
-###### 官网  Official Site｜下载页面  Download Page
+###### [官网  Official Site](http://download.csdn.net/album/detail/3094)｜[下载页面  Download Page](http://download.csdn.net/album/detail/3094)
 
 基于Qt，高仿酷狗
 
