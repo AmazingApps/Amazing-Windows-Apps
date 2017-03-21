@@ -10,7 +10,9 @@
 
 Has filtering tools to help sort the large amount of data the software can recover.
 
-### [Recuva](https://www.piriform.com/recuva) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Recuva ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.piriform.com/recuva)｜[下载页面 Download Page](https://www.piriform.com/recuva/download)
 
 简单快速文件恢复
 
@@ -22,7 +24,9 @@ Recover your deleted files quickly and easily.
 
 Remote recovery option to recover data from another computer over a network.
 
-### [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### TestDisk ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.cgsecurity.org/wiki/TestDisk)｜[下载页面 Download Page](http://www.cgsecurity.org/wiki/TestDisk_Download)
 
 恢复磁盘分区，即使磁盘无法启动
 
