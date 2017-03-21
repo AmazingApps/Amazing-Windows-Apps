@@ -22,31 +22,37 @@ A package manager for Windows.
 
 A GUI for using GitHub.
 
-### [Locale Emulator](http://xupefei.github.io/Locale-Emulator/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Locale Emulator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-系统区域与语言拟合
+###### [官网 Official Site](http://pooi.moe/Locale-Emulator/)｜[下载页面 Download Page](https://github.com/xupefei/Locale-Emulator/releases)
 
-Yet another system region and language simulator.
+区域与语言拟合
 
-### [Scoop](https://github.com/lukesampson/scoop) ![](/assets/图片2.png) ![](/assets/united-states.png)
+Yet another region and language simulator.
+
+### [Scoop](https://github.com/lukesampson/scoop) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 命令行安装器
 
 A command-line installer for Windows.
 
-### [Visual Studio](https://www.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Visual Studio ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.visualstudio.com/)｜[下载页面 Download Page](https://www.visualstudio.com/downloads/)
 
 终极微软开发者工具
 
 Ultimate Microsoft Developer Tool.
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 建立调试网页及云端工具
 
 Build and debug modern web and cloud applications.
 
-### [Windows Sysinternals](https://technet.microsoft.com/en-us/sysinternals/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### Windows Sysinternals ![](/assets/图片2.png) ![](/assets/united-states.png)
+
+###### [官网 Official Site](https://technet.microsoft.com/en-us/sysinternals/)｜[下载页面 Download Page](https://technet.microsoft.com/en-us/bb545027)
 
 管理、诊断 Windows 系统和应用。
 
