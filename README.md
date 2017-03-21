@@ -43,6 +43,8 @@
 
 ~~删除线~~：存在争议的应用，应用信誉尚不完全清楚
 
+---
+
 # Windows Apps That Amaze Us
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
