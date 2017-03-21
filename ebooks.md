@@ -4,7 +4,9 @@
 
 ---
 
-### [calibre](http://calibre-ebook.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### calibre ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://calibre-ebook.com/)｜[下载页面 Download Page](http://calibre-ebook.com/download)
 
 一站式解决你的所有电子书需求
 
@@ -22,7 +24,9 @@ Incredibly ugly but powerful software for ebook management and conversion.
 
 Amazing PDF reader you'll ever get.
 
-### [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### Sumatra PDF ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.sumatrapdfreader.org/free-pdf-reader.html)｜[下载页面 Download Page](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 
 PDF ePub MOBI CHM XPS DjVu CBZ CBR阅读器
 
