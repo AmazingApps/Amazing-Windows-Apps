@@ -16,13 +16,13 @@
 
 Enjoy text rendering and the way it should be.
 
-### [Rainmeter](/www.rainmeter.net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Rainmeter](/www.rainmeter.net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 桌面个性化
 
 Desktop customization.
 
-### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 修改Windows 10登陆背景
 
