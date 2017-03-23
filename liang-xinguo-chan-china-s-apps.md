@@ -22,3 +22,73 @@ One for all free music in china \(Windows, Mac, Linux desktop\).
 
 TTKMusicPlayer that imitation Kugou music based on Qt.
 
+### \[效率工具\]
+
+### [Desktopcal](http://www.desktopcal.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+放置于Windows桌面上的日历，用做备忘
+
+A cool calendar placed on your windows desktop used as a memo.
+
+### [Rolan](http://www.irolan.com/) ![](/assets/图片2.png) ![](/assets/china.png)
+
+图标式迷你启动器
+
+A tiny launcher in way of icons.
+
+### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+
+Windows全局手势
+
+Modern mouse gestures for Windows. \(C\#\)
+
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
+
+视频引索管理器
+
+zogna video manager.
+
+### \[文件处理\]
+
+### [SHAREit](http://www.ushareit.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+跨平台文件传输
+
+Cross-platform files transfer.
+
+### \[图形图像\]
+
+### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+
+Python编写的艺术二维码生成器
+
+Artistic QR Code in Python \(Animated GIF qr code\).
+
+### [Snipaste](https://snipaste.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
+
+A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
+
+### \[网络通信\]
+
+### [Best Trace](https://www.ipip.net/download.html) ![](/assets/图片2.png) ![](/assets/china.png)
+
+从Windows中发起traceroute请求并可视化展示
+
+Raise up traceroute request from Windows with route visilization display.
+
+### \[实用程序\]
+
+### [Clipber](http://clipber.com/clipber/) ![](/assets/图片2.png) ![](/assets/china.png)
+
+跨平台系统剪贴板同步工具
+
+A cloud sync tool for system clipboard across multiple platforms.
+
+### [Companions](http://www.jackeriss.com/companions.htm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
+
+个人开发的PC个人助理
+
+A PC personal assistant developed by an individual.
+
