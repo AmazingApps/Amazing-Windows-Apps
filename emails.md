@@ -16,9 +16,11 @@ IMAP and POP3 email client, featuring customization, complete touch support and 
 
 An extensible desktop mail app built on the modern web.
 
-### [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Thunderbird ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 ###### also Mozilla Thunderbird
+
+###### [官网 Official Site](https://www.mozilla.org/en-US/thunderbird/)｜[下载页面 Download Page](https://www.mozilla.org/en-US/thunderbird/all/)
 
 精巧设计的邮件客户端
 
