@@ -16,13 +16,17 @@ A cool calendar placed on your windows desktop used as a memo.
 
 The fastest file/folder search tool by name.
 
-### [FreeCommander](http://freecommander.com/en/summary/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### FreeCommander ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://freecommander.com/en/summary/)｜[下载页面 Download Page](http://freecommander.com/en/downloads/)
 
 简单易用的Windows标准文件管理器替代
 
 An easy-to-use alternative to the standard windows file manager.
 
-### [Launchy](http://www.launchy.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Launchy ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://www.launchy.net/)｜[下载页面 Download Page](http://www.launchy.net/download.php)
 
 开源键盘启动器
 
@@ -46,7 +50,7 @@ File manager for professionals.
 
 Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
 
-### [Rolan](http://www.irolan.com/) ![](/assets/图片2.png) ![](/assets/china.png)
+### [Rolan](http://www.irolan.com/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png)
 
 图标式迷你启动器
 
@@ -64,7 +68,9 @@ Windows全局手势
 
 Modern mouse gestures for Windows. \(C\#\)
 
-### [WindowTabs](http://windowtabs.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### WindowTabs ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://windowtabs.com/)｜[下载页面 Download Page](http://windowtabs.com/download/)
 
 向任意程序添加标签页
 
@@ -76,7 +82,7 @@ Add Tabs to Any Application.
 
 Free professional dock for Windows.
 
-### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 高效启动器
 
