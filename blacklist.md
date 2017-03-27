@@ -20,6 +20,8 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### Driver Spirit   驱动精灵
 
+### Format Factory   格式工厂
+
 ### Kingsoft Series  金山系列软件
 
 ### Rising Series   瑞星系列软件
@@ -29,6 +31,8 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 ### Thunder Series   迅雷系列软件
 
 ### Tencent Series   腾讯系列软件
+
+### YY｜YY语音
 
 
 
