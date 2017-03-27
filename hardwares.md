@@ -4,13 +4,13 @@
 
 ---
 
-### [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 Windows与Android免费系统资料与监视
 
 CPU-Z is a freeware system profiling and monitoring application for Microsoft Windows and Android.
 
-### [CrystalDiskInfo](http://crystalmark.info/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [CrystalDiskInfo](http://crystalmark.info/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 HDD/SSD信息工具，支持部分USB连接设备跟Intel RAID
 
