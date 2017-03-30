@@ -86,12 +86,6 @@ Raise up traceroute request from Windows with route visilization display.
 
 A cloud sync tool for system clipboard across multiple platforms.
 
-### [Companions](http://www.jackeriss.com/companions.htm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
-
-个人开发的PC个人助理
-
-A PC personal assistant developed by an individual.
-
 ### \[生产工具\]
 
 ### [amWiki](https://amwiki.xf09.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
