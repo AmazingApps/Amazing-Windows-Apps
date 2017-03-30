@@ -14,6 +14,8 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 * Excluding 360 Security International   不包含360卫士国际版
 
+### ADM   阿呆喵广告拦截
+
 ### Baidu Series   百度系列软件
 
 ### Driver Life   驱动人生

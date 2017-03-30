@@ -10,14 +10,6 @@
 
 A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file.
 
-### [~~ADM~~](http://www.admflt.com/) ![](/assets/图片2.png) ![](/assets/china.png)
-
-~~外部广告拦截器，拦截所有Windows进程中所有广告~~
-
-~~An external content blocker that blocks ALL ads pushed by ALL processes on your Windows.~~
-
-###### SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
-
 ### [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 免费清理工具，针对广告软件、PUP/LPI、恶意工具栏跟劫持软件
