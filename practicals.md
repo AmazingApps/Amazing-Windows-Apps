@@ -10,12 +10,6 @@
 
 A cloud sync tool for system clipboard across multiple platforms.
 
-### [Companions](http://www.jackeriss.com/companions.htm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
-
-个人开发的PC个人助理
-
-A PC personal assistant developed by an individual.
-
 ### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 自然语言倒计时器
@@ -69,6 +63,4 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 打字时防止因触摸板造成的光标跳动
 
 Software to prevent cursor from jumping when you are typing on notebook keyboard.
-
-
 
