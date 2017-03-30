@@ -68,25 +68,31 @@ Offline browser utility, allowing you to download a website from the Internet to
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
-### [Opera](/www.opera.com) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 基于chromium的浏览器，内置内容拦截器与快速预读取
 
 A chromiun-based browser with built-in content blocker and with faster prefetch.
 
-### [qBittorrent](https://www.qbittorrent.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.qbittorrent.org/)｜[下载页面 Download Page](https://www.qbittorrent.org/download.php)
 
 基于Qt工具集的µTorrent开源替代
 
 qBittorrent provides an open-source software alternative to µTorrent and is based on the Qt toolkit and libtorrent-rasterbar library.
 
-### [QuiteRSS](https://quiterss.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### QuiteRSS ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://quiterss.org/)｜[下载页面 Download Page](https://quiterss.org/en/download)
 
 开源跨平台RSS/Atom阅读器
 
 Open-source cross-platform RSS/Atom news feeds reader.
 
-### [Resilio Sync](https://www.resilio.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Resilio Sync ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.resilio.com/)｜[下载页面 Download Page](https://www.resilio.com/individuals/)
 
 P2P文件同步
 
@@ -104,7 +110,9 @@ Wirelessly transmit any music or audio from your PC to your Android phone, table
 
 A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
-### [Tor Project](https://www.torproject.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### Tor Project ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+
+###### [官网 Official Site](https://www.torproject.org/)｜[下载页面 Download Page](https://www.torproject.org/download/download.html.en)
 
 匿名化通信浏览器
 
@@ -116,13 +124,17 @@ Enable anonymous communication.
 
 Another chromium-based browser with amazing features.
 
-### [you-get](https://you-get.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### you-get ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://you-get.org/)｜[下载页面 Download Page](https://github.com/soimort/you-get/releases)
 
 视频音频嗅探器
 
 A tiny downloader that scrapes the web.
 
-### [youtube-dl](http://rg3.github.io/youtube-dl/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### youtube-dl ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://rg3.github.io/youtube-dl/)｜[下载页面 Download Page](http://rg3.github.io/youtube-dl/download.html)
 
 从YouTube其许多其他网站下载视频的命令行工具
 
