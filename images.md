@@ -10,7 +10,9 @@
 
 An image viewer and organizer free for personal and educational use with basic image editing tools.
 
-### [Gimp](http://www.gimp.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.gimp.org/)｜[下载页面 Download Page](https://www.gimp.org/downloads/)
 
 开源图像编辑器
 
@@ -22,13 +24,17 @@ Open source image editor.
 
 A very fast image viewer supporting various formats.
 
-### [IrfanView](http://www.irfanview.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### IrfanView ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.irfanview.com/)｜[下载页面 Download Page](http://www.irfanview.com/main_download_engl.htm)
 
 图像查看编辑管理与转换。也可以播放视频与音频，具备一些图像创作工具
 
 Image viewer, editor, organiser and converter. It can also play video and audio files, and has some image creation and painting capabilities.
 
-### [Inkscape](https://inkscape.org/en/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Inkscape ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://inkscape.org/en/)｜[下载页面 Download Page](https://inkscape.org/en/download/windows/)
 
 基于vector的图像设计软件
 
