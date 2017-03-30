@@ -28,13 +28,13 @@ Raise up traceroute request from Windows with route visilization display.
 
 A browser automatically blocks ads and trackers.
 
-### [Cent Browser](http://www.centbrowser.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [Cent Browser](http://www.centbrowser.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 附带的许多特性显著增强了Chromium浏览器的体验
 
 An enhanced version of the Chromium web browser that bundles many useful features.
 
-### [EagleGet](http://www.eagleget.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [EagleGet](http://www.eagleget.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
 
@@ -46,15 +46,17 @@ Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and al
 
 A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
 
-### [Firefox](https://www.mozilla.org/en-US/firefox) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Firefox ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 ###### also Mozilla Firefox
+
+###### [官网 Official Site](https://www.mozilla.org)｜[下载页面 Download Page](https://www.mozilla.org/en-US/firefox/all/)
 
 开源网页浏览器，高度扩展性并尊重用户隐私
 
 An open source web browser that is highly extensive and privacy respecting.
 
-### [HTTrack](https://www.httrack.com/page/2/en/index.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [HTTrack](https://www.httrack.com/page/2/en/index.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 离线浏览器工具，可以从网络下载完整页面内容
 
@@ -66,7 +68,7 @@ Offline browser utility, allowing you to download a website from the Internet to
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
-### [Opera](/www.opera.com) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [Opera](/www.opera.com) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 基于chromium的浏览器，内置内容拦截器与快速预读取
 
