@@ -48,7 +48,9 @@ Free vector-based graphic design software.
 
 Cycle your album like the way in iMac: instant, portable, full-screen slideshow application with the Ken Burns effect.
 
-### [Krita](https://krita.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Krita ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://krita.org/en/)｜[下载页面 Download Page](https://krita.org/en/download/krita-desktop/)
 
 免费绘画工具集
 
