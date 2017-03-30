@@ -56,7 +56,9 @@ Cycle your album like the way in iMac: instant, portable, full-screen slideshow 
 
 Free drawing software with a bunch of cool features.
 
-### [Paint.net](http://www.getpaint.net/index.html) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### Paint.net ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.getpaint.net/index.html)｜[下载页面 Download Page](https://www.getpaint.net/download.html)
 
 免费的图像照片编辑
 
@@ -68,13 +70,15 @@ Python编写的艺术二维码生成器
 
 Artistic QR Code in Python \(Animated GIF qr code\).
 
-### [Riot](http://luci.criosweb.ro/riot/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Riot ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://luci.criosweb.ro/riot/)｜[下载页面 Download Page](http://luci.criosweb.ro/riot/download/)
 
 根据多种文件属性压缩图像
 
 Compress images either by file size or by many other image attributes.
 
-### [ShareX](https://getsharex.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [ShareX](https://getsharex.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 免费开源的屏幕捕获与分享
 
@@ -92,7 +96,9 @@ A simple but powerful snipping tool, and also allows you to pin the screenshot b
 
 Beautiful desktop wallpapers.
 
-### [Xnview](http://www.xnview.com/en/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Xnview ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.xnview.com/en/)｜[下载页面 Download Page](http://www.xnview.com/en/xnview/#downloads)
 
 高效的图片查看管理与转格式，格式支持最全
 
