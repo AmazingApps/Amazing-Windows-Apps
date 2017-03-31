@@ -20,7 +20,7 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
 
-### [AutoHotkey](https://www.autohotkey.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [AutoHotkey](https://www.autohotkey.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 开源Windows脚本语言，用户可以轻松创建各种脚本完成各种任务
 
@@ -38,13 +38,15 @@ Windows 10 built-in personal assistant by Microsoft.
 
 All-in-one fonts management, preview, backup and examples.
 
-### [LibreOffice](https://www.libreoffice.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### LibreOffice ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.libreoffice.org/)｜[下载页面 Download Page](https://www.libreoffice.org/download/download/)
 
 开源Office套装
 
 Open source office suite.
 
-### [Materialette](https://github.com/mike-schultz/materialette) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Materialette](https://github.com/mike-schultz/materialette) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 material设计的调色板
 
@@ -64,7 +66,9 @@ Microsoft's own productivity suite:
 
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
 
-### [XMind](http://www.xmind.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### XMind ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.xmind.net/)｜[下载页面 Download Page](http://www.xmind.net/download/win/)
 
 思维导图工具，带有免费的云端同步
 
