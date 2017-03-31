@@ -88,7 +88,7 @@ A cloud sync tool for system clipboard across multiple platforms.
 
 ### \[生产工具\]
 
-### [amWiki](https://amwiki.xf09.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [amWiki](https://github.com/TevinLi/amWiki) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 基于JavaScript、依赖于Atom编辑器、应用MarkDown标记的wiki文档系统
 
