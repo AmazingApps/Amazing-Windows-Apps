@@ -44,12 +44,6 @@ A command-line installer for Windows.
 
 Ultimate Microsoft Developer Tool.
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
-
-建立调试网页及云端工具
-
-Build and debug modern web and cloud applications.
-
 ### Windows Sysinternals ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 ###### [官网 Official Site](https://technet.microsoft.com/en-us/sysinternals/)｜[下载页面 Download Page](https://technet.microsoft.com/en-us/bb545027)
