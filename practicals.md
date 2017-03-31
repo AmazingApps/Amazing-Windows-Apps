@@ -64,7 +64,7 @@ Change location of installed games from Steam.
 
 Just as its name: Software Update Monitor: tell you if updates are available before you need to use your software.
 
-### ~~Touchpad Blocker ~~~~![](/assets/图片2.png) ~~![](/assets/united-states.png)
+### ~~Touchpad Blocker~~ ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 ###### [~~官网 Official Site~~](http://touchpad-blocker.com/)~~｜~~[~~下载页面 Download Page~~](http://touchpad-blocker.com/download/)
 
