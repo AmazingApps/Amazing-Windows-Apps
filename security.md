@@ -4,25 +4,27 @@
 
 ---
 
-### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 本地DNS代理，缓存DNS服务器回应并通过设置hosts文件防止恶意广告
 
 A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file.
 
-### [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 免费清理工具，针对广告软件、PUP/LPI、恶意工具栏跟劫持软件
 
 Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
-### [BitDefender](http://www.bitdefender.com/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [BitDefender](https://www.bitdefender.com/solutions/free.html) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 正合适的防病毒保护
 
 Outright protection against malware.
 
-### [CCleaner](https://www.piriform.com/CCLEANER) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### CCleaner ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.piriform.com/CCLEANER)｜[下载页面 Download Page](https://www.piriform.com/ccleaner/download/standard)
 
 轻量PC优化工具，屡获殊荣
 
@@ -46,25 +48,29 @@ Network security monitoring tool and analyzer that visualizes your network activ
 
 A malware fighter performing amazingly on PUA protection.
 
-### Kaspersky Free ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/russia.png)
+### [Kaspersky Free](https://www.kaspersky.com.cn/downloads#tools) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/russia.png)
 
 卡巴斯基防病毒免费版，俄语国家与中国可用
 
 Free edition of Kaspersky antivirus, available in China and Russian speaking countires.
 
-### [KeePass](http://keepass.info/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### KeePass ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://keepass.info/)｜[下载页面 Download Page](http://keepass.info/download.html)
 
 开源密码管理器
 
 Open source password manager.
 
-### [LastPass](https://www.lastpass.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### LastPass ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.lastpass.com/)｜[下载页面 Download Page](https://lastpass.com/misc_download2.php?tab=windows)
 
 强大的全能密码生成管理器，具有免费跨平台云同步
 
 Powerful all-in-one password manager and keeper with free cloud sync across all platform.
 
-### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
 
@@ -82,7 +88,7 @@ A sandbox-based isolation program.
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/).
 
-### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 网络代理工具
 
