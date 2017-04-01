@@ -11,6 +11,7 @@ Grateful for contributions from:
 * Der Letzte Wächter
 * greatYear
 * SAGE
+* [ZetaoYang](https://github.com/ZetaoYang)
 
 感谢本项目合作人：
 
