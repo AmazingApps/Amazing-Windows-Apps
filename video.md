@@ -4,7 +4,7 @@
 
 ---
 
-### [HandBrake](http://handbrake.fr/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [HandBrake](http://handbrake.fr/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 UI优美、性能优秀的视频编码工具
 
@@ -16,13 +16,17 @@ High performance video encoding and conversion tools with a nice GUI.
 
 Free and Open Source home theatre software.
 
-### [LICEcap](http://www.cockos.com/licecap/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [~~LICEcap~~](http://www.cockos.com/licecap/) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
-屏幕录制并保存为GIF
+~~屏幕录制并保存为GIF~~
 
-Animated screen captures and save them directly to .GIF
+~~Animated screen captures and save them directly to .GIF~~
 
-### [mpv](http://mpv.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+###### No update for long now   长期无更新
+
+### mpv ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+
+###### [官网 Official Site](https://mpv.io/)｜[下载页面 Download Page](https://mpv.io/installation/)
 
 免费开源跨平台媒体播放器
 
@@ -32,7 +36,7 @@ A free, open source, and cross-platform media player.
 
 屏幕录制或生成直播媒体流
 
- Free and open source software for video recording and live streaming.
+Free and open source software for video recording and live streaming.
 
 ### [PotPlayer](http://potplayer.daum.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
