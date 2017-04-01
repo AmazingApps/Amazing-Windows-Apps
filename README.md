@@ -41,7 +41,10 @@
 
 * 仅支持单一或者少数语种的以国旗标注
 
-~~删除线~~：存在争议的应用，应用信誉尚不完全清楚
+~~删除线~~：
+
+1. 存在争议的应用，应用信誉尚不完全清楚
+2. 长期无更新的应用，尚不清楚已停止维护
 
 ---
 
@@ -88,5 +91,10 @@ Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more det
 
 * A nation country flag is marked if only one or a few languages are supported
 
-~~Strikethrough~~: Controversial as unclear app reputation.
+~~Strikethrough~~: 
+
+1. Controversial as unclear app reputation.
+2. Apps without update for a certain period but unclear if it is abandoned.
+
+
 
