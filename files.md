@@ -4,7 +4,13 @@
 
 ---
 
-### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png)
+### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+ 开源跨平台文件传输工具
+
+Open source file transfer
+
+### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 快速复制、同步、删除文件。
 
