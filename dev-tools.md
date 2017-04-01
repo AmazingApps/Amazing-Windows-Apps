@@ -16,6 +16,12 @@ Windows包管理器
 
 A package manager for Windows.
 
+## cmder ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+Windows下的便携式控制台模拟器
+
+Portable console emulator for Windows.
+
 ### [GitHub Desktop](https://windows.github.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 使用GitHub的GUI客户端
