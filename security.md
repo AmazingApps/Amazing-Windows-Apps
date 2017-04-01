@@ -82,6 +82,20 @@ As its name: revoke China SSL certificates \(illegal\).
 
 A sandbox-based isolation program.
 
+### Shadowsocks ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://shadowsocks.org/en/index.html)｜[下载页面 Download Page](https://shadowsocks.org/en/download/clients.html)
+
+Socks5代理工具
+
+Sock5 proxy
+
+### [ShadowsocksR ](https://breakwa11.github.io/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+A main fork based on Shadowsocks
+
+基于Shadowsocks的主要分支之一
+
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 简单的DNSCrypt管理工具
