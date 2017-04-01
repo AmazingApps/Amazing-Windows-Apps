@@ -7,6 +7,7 @@
 Grateful for contributions from:
 
 * bearJess
+* [crucifyml](https://github.com/crucifyml)
 * Der Letzte Wächter
 * greatYear
 * SAGE
