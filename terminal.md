@@ -4,37 +4,45 @@
 
 ---
 
-### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 特效丰富的基于WinForms的HTTP客户端
 
 A feature-rich WinForms-based HTTP client.
 
-### [Insomnia](http://insomnia.rest) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### Insomnia ![](/assets/图片2.png) ![](/assets/united-states.png)
+
+###### [官网 Official Site](https://insomnia.rest/)｜[下载页面 Download Page](https://insomnia.rest/download/#windows)
 
 现代化的REST客户端
 
 A modern REST client with an beautiful interface. thout transparency for more efficient files.
 
-### [Kitty](http://www.9bis.net/kitty/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [Kitty](http://www.9bis.net/kitty/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 高级Putty
 
 Advanced Putty \(SSH and telnet client\).
 
-### [MobaXterm](http://mobaxterm.mobatek.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### MobaXterm ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://mobaxterm.mobatek.net/)｜[下载页面 Download Page](http://mobaxterm.mobatek.net/download-home-edition.html)
 
 具备Xserver并标签化的SSH客户端
 
 Xserver and tabbed SSH client.
 
-### [mRemoteNG](https://mremoteng.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### mRemoteNG ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://mremoteng.org/)｜[下载页面 Download Page](https://mremoteng.org/download)
 
 开源、标签化、多协议的远程连接管理器
 
 An open source, tabbed, multi-protocol, remote connections manager.
 
-### [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### MTPuTTY ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://ttyplus.com/multi-tabbed-putty/)｜[下载页面 Download Page](http://ttyplus.com/downloads.html)
 
 标签化的PuTTY
 
@@ -46,7 +54,9 @@ SSH与telnet客户端
 
 SSH and telnet client.
 
-### [Xshell](http://www.netsarang.com/products/xsh_overview.html) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### Xshell ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://www.netsarang.com/products/xsh_overview.html)｜[下载页面 Download Page](http://www.netsarang.com/download/down_xsh5.html)
 
 强大终端工具，支持SSH SFTP TELNET RLOGIN与SERIAL
 
