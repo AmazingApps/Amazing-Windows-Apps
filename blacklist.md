@@ -16,6 +16,8 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### ADM   阿呆喵广告拦截
 
+### Adsafe   净网大师
+
 ### Baidu Series   百度系列软件
 
 ### Driver Life   驱动人生
