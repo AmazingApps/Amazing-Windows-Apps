@@ -10,6 +10,14 @@
 
 A cross-platform, GPU-accelerated terminal emulator.
 
+### Caddy ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://caddyserver.com/)｜[下载页面 Download Page](https://caddyserver.com/download)
+
+自动HTTPS部署能力的HTTP/2页面服务器
+
+The HTTP/2 web server with automatic HTTPS
+
 ### [Chocolatey](https://chocolatey.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 Windows包管理器
