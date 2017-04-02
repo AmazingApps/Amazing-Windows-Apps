@@ -10,6 +10,7 @@ Grateful for contributions from:
 * [crucifyml](https://github.com/crucifyml)
 * Der Letzte Wächter
 * greatYear
+* Rambin
 * SAGE
 * [ZetaoYang](https://github.com/ZetaoYang)
 
