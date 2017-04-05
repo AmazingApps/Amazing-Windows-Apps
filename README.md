@@ -1,4 +1,6 @@
-# Windows绝赞应用
+# Windows绝赞应用  
+
+![Alt building](https://img.shields.io/badge/building-passing-yellow.svg) ![Alt count](https://img.shields.io/badge/apps%20count-185-blue.svg)
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome)启发
 
@@ -49,6 +51,8 @@
 ---
 
 # Windows Apps That Amaze Us
+
+![Alt building](https://img.shields.io/badge/building-passing-yellow.svg) ![Alt count](https://img.shields.io/badge/apps%20count-185-blue.svg)
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
