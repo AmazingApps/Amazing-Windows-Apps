@@ -124,6 +124,12 @@ Enable anonymous communication.
 
 Another chromium-based browser with amazing features.
 
+### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+
+实时播放种子中的媒体流
+
+Play streaming torrent contents without finishing downloading.
+
 ### you-get ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://you-get.org/)｜[下载页面 Download Page](https://github.com/soimort/you-get/releases)
