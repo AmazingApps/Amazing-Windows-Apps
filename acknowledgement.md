@@ -6,6 +6,7 @@
 
 Grateful for contributions from:
 
+* [akina-OS](https://github.com/akina-OS)
 * bearJess
 * [crucifyml](https://github.com/crucifyml)
 * Der Letzte Wächter
