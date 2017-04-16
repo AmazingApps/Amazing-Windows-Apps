@@ -32,9 +32,13 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### Ruanmei Series   软媒系列软件
 
+### Sougou Series   搜狗系列软件
+
 ### Thunder Series   迅雷系列软件
 
 ### Tencent Series   腾讯系列软件
+
+* Excluding TIM   不包含TIM
 
 ### YY｜YY语音
 
