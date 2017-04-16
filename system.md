@@ -62,6 +62,12 @@ Completely remove your installed programs without leftovers.
 
 A convenient unified display of the most relevant technical and tag data for video and audio files.
 
+### [memreduct](https://github.com/henrypp/memreduct) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+监控优化系统内存
+
+Monitor and clean system memory on your computer.
+
 ### Winaero Tweaker ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://winaero.com/comment.php?comment.news.1836)｜[下载页面 Download Page](http://winaero.com/request.php?1796)
