@@ -22,6 +22,14 @@ One for all free music in china \(Windows, Mac, Linux desktop\).
 
 TTKMusicPlayer that imitation Kugou music based on Qt.
 
+### \[美化工具\]
+
+### [upupoo](http://www.upupoo.com/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png)
+
+视频桌面工具，附带在线视频库
+
+Set videos as desktop background with online base.
+
 ### \[效率工具\]
 
 ### [Desktopcal](http://www.desktopcal.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
