@@ -28,6 +28,12 @@ Desktop customization.
 
 Make your Windows task bar transparent.
 
+### [upupoo](http://www.upupoo.com/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png)
+
+视频桌面工具，附带在线视频库
+
+Set videos as desktop background with online base.
+
 ### [**Windows 10 Login Background Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 修改Windows 10登陆背景
