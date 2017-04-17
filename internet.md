@@ -74,6 +74,14 @@ Internet Download Manager \(IDM\) is a tool to increase download speeds with com
 
 A chromiun-based browser with built-in content blocker and with faster prefetch.
 
+### Proxifier ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://proxifier.com/)｜[下载页面 Download Page](http://proxifier.com/download.htm)
+
+为没有代理支持的应用添加代理
+
+Allows network applications that do not support working through proxy servers
+
 ### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](https://www.qbittorrent.org/)｜[下载页面 Download Page](https://www.qbittorrent.org/download.php)
