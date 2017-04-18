@@ -44,6 +44,12 @@ A cool calendar placed on your windows desktop used as a memo.
 
 A tiny launcher in way of icons.
 
+### [Snipaste](https://snipaste.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
+
+A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
+
 ### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
 Windows全局手势
@@ -71,12 +77,6 @@ Cross-platform files transfer.
 Python编写的艺术二维码生成器
 
 Artistic QR Code in Python \(Animated GIF qr code\).
-
-### [Snipaste](https://snipaste.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
-
-A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
 
 ### \[网络通信\]
 
