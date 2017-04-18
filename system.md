@@ -68,13 +68,13 @@ A convenient unified display of the most relevant technical and tag data for vid
 
 Monitor and clean system memory on your computer.
 
-### [~~QTTabBar~~](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-~~一站式Explorer增强工具~~
+一站式Explorer增强工具
 
-~~Significantly improve Explorer efficiency~~
+Significantly improve Explorer efficiency
 
-###### NO UPDATE FOR LONG   长期无更新
+###### NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
 
 ### Winaero Tweaker ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
