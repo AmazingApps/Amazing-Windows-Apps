@@ -8,6 +8,7 @@ This is an acknowledgement to all parties contributed to this repository:
 
 Repository collaborator   本项目合作人：
 
+* [liulex \(Le Liu\)](https://github.com/liulex)
 * [taroxd](https://github.com/taroxd)
 
 Other individuals   其他个人：
@@ -23,11 +24,13 @@ Other individuals   其他个人：
 * [fuchao2012 \(zheng\)](https://github.com/fuchao2012)
 
 * greatYear
+
 * [momoca](https://github.com/momoca)
 
 * Rambin
 
 * SAGE
+
 * [Yanda Huang](https://github.com/yodahuang)
 * [ZetaoYang](https://github.com/ZetaoYang)
 
