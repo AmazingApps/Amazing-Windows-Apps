@@ -14,11 +14,14 @@ Other individuals   其他个人：
 
 * [akina-OS](https://github.com/akina-OS)
 * bearJess
+* [Chen Shaoju](https://github.com/chenshaoju)
+
 * [crucifyml](https://github.com/crucifyml)
 * Der Letzte Wächter
 * greatYear
 * Rambin
 * SAGE
+* [Yanda Huang](https://github.com/yodahuang)
 * [ZetaoYang](https://github.com/ZetaoYang)
 
 Advertising from   网站宣传：
