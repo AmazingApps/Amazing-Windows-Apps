@@ -46,6 +46,14 @@ A customizable editor with instant feedback and showing data values flow through
 
 A source code editor which supports several programming languages.
 
+### PSPad ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.pspad.com/)｜[下载页面 Download Page](http://www.pspad.com/en/download.php)
+
+免费的文本编辑器，支持C++, Cobol, MS-Dos batch, CSS, Forth, Fortran, FoxPro, HTML, XHTML, INI, Inno Setup, Java, JavaScript, KixStart, Object Pascal, Perl, PHP, Python, RSS, SQL, TCL/TK, Unix ShellScript, VBScript, Visual Basic, X86 assembler等其他170种以上的语法高亮。
+
+A free text editor,supports file types:C++, Cobol, MS-Dos batch, CSS, Forth, Fortran, FoxPro, HTML, XHTML, INI, Inno Setup, Java, JavaScript, KixStart, Object Pascal, Perl, PHP, Python, RSS, SQL, TCL/TK, Unix ShellScript, VBScript, Visual Basic, X86 assembler and other 170+ languages included as user highlighter definition. With reviews stemming from Top9Rated and product review site, HotRate, PSPad is one of the most highly used pieces of software available to date.
+
 ### [Simplenote](https://simplenote.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 简单跨平台云同步笔记应用
