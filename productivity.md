@@ -26,7 +26,7 @@ amWiki is a wiki doc system based on JavaScript, relying on Atom editor and appl
 
 Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
 
-### Cortana ![](/assets/earth-globe.png)
+### Cortana ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 微软开发的Windows 10内置个人助理
 
@@ -38,7 +38,7 @@ Windows 10 built-in personal assistant by Microsoft.
 
 All-in-one fonts management, preview, backup and examples.
 
-### LibreOffice ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### LibreOffice ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.libreoffice.org/)｜[下载页面 Download Page](https://www.libreoffice.org/download/download/)
 
@@ -58,7 +58,7 @@ A material design color palette.
 
 A simple and beautiful wiki for teams.
 
-### [Microsoft Office](http://www.office.com) ![](/assets/earth-globe.png)
+### [Microsoft Office](http://www.office.com) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 微软开发的生产力套装，包含：
 
@@ -66,7 +66,7 @@ Microsoft's own productivity suite:
 
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
 
-### XMind ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### XMind ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://www.xmind.net/)｜[下载页面 Download Page](http://www.xmind.net/download/win/)
 
