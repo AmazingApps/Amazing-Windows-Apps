@@ -21,5 +21,11 @@ Grateful to repo collaborator:
 
 * [taroxd](https://github.com/taroxd)
 
+感谢来自以下网站的宣传：
+
+Grateful for advertising from:
+
+* [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
+
 ![](/assets/windows_logo.png)
 
