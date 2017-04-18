@@ -2,9 +2,11 @@
 
 ---
 
-感谢以下人员作出的无私贡献：
+谨以此对本项目做出过贡献的各方表示感谢：
 
-Grateful for contributions from:
+This is an acknowledgement to all parties contributed to this repository:
+
+Individuals   个人：
 
 * [akina-OS](https://github.com/akina-OS)
 * bearJess
@@ -15,15 +17,11 @@ Grateful for contributions from:
 * SAGE
 * [ZetaoYang](https://github.com/ZetaoYang)
 
-感谢本项目合作人：
-
-Grateful to repo collaborator:
+Repository collaborator   本项目合作人：
 
 * [taroxd](https://github.com/taroxd)
 
-感谢来自以下网站的宣传：
-
-Grateful for advertising from:
+Advertising from   网站宣传：
 
 * [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
 
