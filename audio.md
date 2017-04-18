@@ -4,7 +4,7 @@
 
 ---
 
-### AIMP ![](/assets/图片2.png) ![](/assets/usb.png) ![](/assets/earth-globe.png)
+### AIMP ![](/assets/图片2.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.aimp.ru/index.php?do=lang&lng=en)｜[下载页面  Download Page](http://www.aimp.ru/index.php?do=download)
 
@@ -12,7 +12,7 @@
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
 
-### Audacity ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png)
+### Audacity ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.audacityteam.org/)｜[下载页面  Download Page](http://www.audacityteam.org/download/windows/)
 
@@ -44,7 +44,7 @@ Dopamine is an audio player which tries to make organizing and listening to musi
 
 Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
 
-### foobar2000 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### foobar2000 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.foobar2000.org/)｜[下载页面  Download Page](http://www.foobar2000.org/download)
 
