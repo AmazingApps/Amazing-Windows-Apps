@@ -22,3 +22,8 @@ A HDD/SSD info utility software which supports a part of USB connection and Inte
 
 Automatically adjust your computer screen to match lighting.
 
+### [Open Hardware Monitor](http://openhardwaremonitor.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+开源的硬件风扇转速、CPU/主板电压、温度、状态显示软件
+
+Free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
