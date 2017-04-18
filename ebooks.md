@@ -18,7 +18,7 @@ One-stop solution to all your ebook need.
 
 Incredibly ugly but powerful software for ebook management and conversion.
 
-### [NitroPDF](https://www.gonitro.com/pdf-reader) ![](/assets/earth-globe.png)
+### [NitroPDF](https://www.gonitro.com/pdf-reader) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 重构PDF阅读体验
 
