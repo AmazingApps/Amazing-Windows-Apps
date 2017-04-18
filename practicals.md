@@ -4,7 +4,7 @@
 
 ---
 
-### [Clipber](http://clipber.com/clipber/) ![](/assets/图片2.png) ![](/assets/china.png)
+### [Clipber](http://clipber.com/clipber/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
 
 跨平台系统剪贴板同步工具
 
