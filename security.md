@@ -10,6 +10,8 @@
 
 A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file.
 
+* See Chinese re-build version [here](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI)   [中文编译版页面](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI)
+
 ### [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 免费清理工具，针对广告软件、PUP/LPI、恶意工具栏跟劫持软件
