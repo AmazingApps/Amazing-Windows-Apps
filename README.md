@@ -1,6 +1,6 @@
-# Windows绝赞应用  
+# Windows绝赞应用
 
-![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/应用总数-193-blue.svg) ![license](https://img.shields.io/badge/协议-GPL%20v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/应用总数-193-blue.svg) ![license](https://img.shields.io/badge/协议-GPL v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome)启发
 
@@ -39,6 +39,8 @@
 
 ![](/assets/usb.png) 便携软件或可便携安装：不写入注册表和用户目录，所有配置全写在软件目录下
 
+![](/assets/multi_platform.png) 具有跨平台版本
+
 ![](/assets/earth-globe.png) 多语言支持：至少支持 世界上几种使用较多较广的语言
 
 * 仅支持单一或者少数语种的以国旗标注
@@ -52,7 +54,7 @@
 
 # Windows Apps That Amaze Us
 
-![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/apps%20count-193-blue.svg) ![license](https://img.shields.io/badge/license-GPL%20v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/apps count-193-blue.svg) ![license](https://img.shields.io/badge/license-GPL v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
@@ -91,11 +93,13 @@ Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more det
 
 ![](/assets/usb.png) portable itself or portable installation provided: it saves config files in its own folder instead of Registry key or user profile folder.
 
+![](/assets/multi_platform.png) Multi-platform versions available
+
 ![](/assets/earth-globe.png) Multilanguage support: at least serveral major languages
 
 * A nation country flag is marked if only one or a few languages are supported
 
-~~Strikethrough~~: 
+~~Strikethrough~~:
 
 1. Controversial as unclear app reputation.
 2. Apps without update for a certain period but unclear if it is abandoned.
