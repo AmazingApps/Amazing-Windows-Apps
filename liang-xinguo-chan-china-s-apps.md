@@ -64,7 +64,7 @@ zogna video manager.
 
 ### \[文件处理\]
 
-### [SHAREit](http://www.ushareit.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [SHAREit](http://www.ushareit.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 跨平台文件传输
 
@@ -88,7 +88,7 @@ Raise up traceroute request from Windows with route visilization display.
 
 ### \[实用程序\]
 
-### [Clipber](http://clipber.com/clipber/) ![](/assets/图片2.png) ![](/assets/china.png)
+### [Clipber](http://clipber.com/clipber/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
 
 跨平台系统剪贴板同步工具
 
@@ -116,7 +116,7 @@ All-in-one fonts management, preview, backup and examples.
 
 A malware fighter performing amazingly on PUA protection.
 
-### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
 
