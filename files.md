@@ -4,9 +4,9 @@
 
 ---
 
-### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
- 开源跨平台文件传输工具
+开源跨平台文件传输工具
 
 Open source file transfer
 
@@ -16,7 +16,7 @@ Open source file transfer
 
 The Fastest Copy/Delete Software on Windows.
 
-### FileZilla ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### FileZilla ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://filezilla-project.org/)｜[下载页面 Download Page](https://filezilla-project.org/download.php?show_all=1)
 
@@ -24,7 +24,7 @@ FTP FTPS SFTP客户端
 
 FTP, FTPS and SFTP client.
 
-### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 简单的文件（夹）备份工具，支持镜像、双向、更新等方式
 
@@ -78,7 +78,7 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
 
-### SHAREit ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### SHAREit ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [International Website](http://www.ushareit.com/)/ [中文网](http://www.ushareit.com/zh/index.html) {#international-website中文网}
 
@@ -94,7 +94,7 @@ Cross-platform files transfer.
 
 Lets you understand how folders and files are structured on your disks by using a treemap visualization layout for immediate perception of where big folders and files are placed on your devices.
 
-### [Waltr](http://softorino.com/waltr/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [Waltr](http://softorino.com/waltr/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 向iPhone iTunes传输电影音频文件
 
