@@ -25,7 +25,7 @@
 
 本项目使用GNU GPL v2.0协议，转载请声明[gitbook项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源
 
-更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程 [移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Aaccepted) ，也可查看 [已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Adone)
+更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程 [移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/labels/accepted) ，也可查看 [已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/labels/done)
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
@@ -79,7 +79,7 @@ There is a black list at the end in which apps violate users profit and privacy 
 
 This project is under GNU GPL v2.0, claim [gitbook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this.
 
-Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Aaccepted)or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=is%3Aissue label%3Adone).
+Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/labels/accepted)or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/labels/done).
 
 [Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
