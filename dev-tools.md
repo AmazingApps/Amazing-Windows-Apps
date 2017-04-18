@@ -6,7 +6,7 @@
 
 ### [Alacritty](https://github.com/jwilm/alacritty) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
-跨平台GPU加速拟合器
+跨平台GPU加速终端模拟器
 
 A cross-platform, GPU-accelerated terminal emulator.
 
