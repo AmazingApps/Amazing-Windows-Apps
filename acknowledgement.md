@@ -19,10 +19,14 @@ Other individuals   其他个人：
 * [crucifyml](https://github.com/crucifyml)
 
 * Der Letzte Wächter
+
+* [fuchao2012 \(zheng\)](https://github.com/fuchao2012)
+
 * greatYear
 * [momoca](https://github.com/momoca)
 
 * Rambin
+
 * SAGE
 * [Yanda Huang](https://github.com/yodahuang)
 * [ZetaoYang](https://github.com/ZetaoYang)
