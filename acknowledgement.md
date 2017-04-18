@@ -6,7 +6,11 @@
 
 This is an acknowledgement to all parties contributed to this repository:
 
-Individuals   个人：
+Repository collaborator   本项目合作人：
+
+* [taroxd](https://github.com/taroxd)
+
+Other individuals   其他个人：
 
 * [akina-OS](https://github.com/akina-OS)
 * bearJess
@@ -16,10 +20,6 @@ Individuals   个人：
 * Rambin
 * SAGE
 * [ZetaoYang](https://github.com/ZetaoYang)
-
-Repository collaborator   本项目合作人：
-
-* [taroxd](https://github.com/taroxd)
 
 Advertising from   网站宣传：
 
