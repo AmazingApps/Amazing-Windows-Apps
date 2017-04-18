@@ -60,7 +60,7 @@ A tiny launcher in way of icons.
 
 简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
 
-A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
+A simple but powerful snipping tool by amazing elements detection, and also allows you to pin the screenshot back onto the screen
 
 ### [Total Commander](https://www.ghisler.com/) ![](/assets/earth-globe.png)
 

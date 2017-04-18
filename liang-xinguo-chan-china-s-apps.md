@@ -52,9 +52,9 @@ A tiny launcher in way of icons.
 
 ### [Snipaste](https://snipaste.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
+简单强大的截图工具并可以将截图贴到桌面；截图元素检测功能惊艳
 
-A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
+A simple but powerful snipping tool by amazing elements detection, and also allows you to pin the screenshot back onto the screen
 
 ### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
