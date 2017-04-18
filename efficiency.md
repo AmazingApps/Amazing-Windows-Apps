@@ -56,6 +56,12 @@ Track time spent on applications and websites, giving you an accurate picture of
 
 A tiny launcher in way of icons.
 
+### [Snipaste](https://snipaste.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
+
+A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
+
 ### [Total Commander](https://www.ghisler.com/) ![](/assets/earth-globe.png)
 
 Windows最佳文件管理
