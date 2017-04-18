@@ -84,12 +84,6 @@ Compress images either by file size or by many other image attributes.
 
 A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
-### [Snipaste](https://snipaste.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
-
-A simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen with amazing elements detection.
-
 ### [Splashify](https://splashify.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 桌面壁纸软件
