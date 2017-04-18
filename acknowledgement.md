@@ -17,8 +17,11 @@ Other individuals   其他个人：
 * [Chen Shaoju](https://github.com/chenshaoju)
 
 * [crucifyml](https://github.com/crucifyml)
+
 * Der Letzte Wächter
 * greatYear
+* [momoca](https://github.com/momoca)
+
 * Rambin
 * SAGE
 * [Yanda Huang](https://github.com/yodahuang)
