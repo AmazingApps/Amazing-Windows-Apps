@@ -4,7 +4,7 @@
 
 ---
 
-### mIRC ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### mIRC ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.mirc.com/)｜[下载页面  Download Page](http://www.mirc.com/get.html)
 
@@ -12,7 +12,7 @@
 
 An Internet Relay Chat \(IRC\) client.
 
-### Quassel ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Quassel ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://quassel-irc.org/)｜[下载页面  Download Page](http://quassel-irc.org/downloads)
 
@@ -20,7 +20,7 @@ An Internet Relay Chat \(IRC\) client.
 
 Quassel IRC is a modern, cross-platform, distributed IRC client.
 
-### [Telegram](https://desktop.telegram.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Telegram](https://desktop.telegram.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 专注于速度与安全性的通信应用
 
