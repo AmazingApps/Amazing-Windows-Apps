@@ -4,7 +4,7 @@
 
 ---
 
-### [Anydesk](http://anydesk.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Anydesk](http://anydesk.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 顺手的远程桌面应用
 
@@ -22,7 +22,7 @@ A lightweight multi-protocol & multi-source, cross platform download utility ope
 
 Raise up traceroute request from Windows with route visilization display.
 
-### [**Brave**](https://www.brave.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [**Brave**](https://www.brave.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 自动拦截广告与追踪器的浏览器
 
@@ -46,7 +46,7 @@ Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and al
 
 A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
 
-### Firefox ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Firefox ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### also Mozilla Firefox
 
@@ -56,7 +56,7 @@ A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent su
 
 An open source web browser that is highly extensive and privacy respecting.
 
-### [HTTrack](https://www.httrack.com/page/2/en/index.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [HTTrack](https://www.httrack.com/page/2/en/index.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 离线浏览器工具，可以从网络下载完整页面内容
 
@@ -68,7 +68,7 @@ Offline browser utility, allowing you to download a website from the Internet to
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
-### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 基于chromium的浏览器，内置内容拦截器与快速预读取
 
@@ -82,7 +82,7 @@ A chromiun-based browser with built-in content blocker and with faster prefetch.
 
 Allows network applications that do not support working through proxy servers
 
-### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.qbittorrent.org/)｜[下载页面 Download Page](https://www.qbittorrent.org/download.php)
 
@@ -90,7 +90,7 @@ Allows network applications that do not support working through proxy servers
 
 qBittorrent provides an open-source software alternative to µTorrent and is based on the Qt toolkit and libtorrent-rasterbar library.
 
-### QuiteRSS ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### QuiteRSS ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://quiterss.org/)｜[下载页面 Download Page](https://quiterss.org/en/download)
 
@@ -98,7 +98,7 @@ qBittorrent provides an open-source software alternative to µTorrent and is bas
 
 Open-source cross-platform RSS/Atom news feeds reader.
 
-### Resilio Sync ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Resilio Sync ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.resilio.com/)｜[下载页面 Download Page](https://www.resilio.com/individuals/)
 
@@ -106,19 +106,19 @@ P2P文件同步
 
 A proprietary peer-to-peer file synchronization tool.
 
-### [SoundWire](http://georgielabs.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [SoundWire](http://georgielabs.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 使用无线传输音频，从PC到Android、平板或者其它PC
 
 Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
 
-### [TeamViewer](http://www.teamviewer.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [TeamViewer](http://www.teamviewer.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 远程控制与桌面共享会议工具，也可以共享文件
 
 A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
-### Tor Project ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### Tor Project ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.torproject.org/)｜[下载页面 Download Page](https://www.torproject.org/download/download.html.en)
 
@@ -126,7 +126,7 @@ A proprietary computer software package for remote control, desktop sharing, onl
 
 Enable anonymous communication.
 
-### [Vivaldi](https://vivaldi.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [Vivaldi](https://vivaldi.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 同样基于chromium的优秀浏览器
 
