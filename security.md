@@ -24,7 +24,7 @@ Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
 Outright protection against malware.
 
-### CCleaner ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### CCleaner ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.piriform.com/CCLEANER)｜[下载页面 Download Page](https://www.piriform.com/ccleaner/download/standard)
 
@@ -56,7 +56,7 @@ A malware fighter performing amazingly on PUA protection.
 
 Free edition of Kaspersky antivirus, available in China and Russian speaking countires.
 
-### KeePass ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### KeePass ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://keepass.info/)｜[下载页面 Download Page](http://keepass.info/download.html)
 
@@ -64,7 +64,7 @@ Free edition of Kaspersky antivirus, available in China and Russian speaking cou
 
 Open source password manager.
 
-### LastPass ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### LastPass ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.lastpass.com/)｜[下载页面 Download Page](https://lastpass.com/misc_download2.php?tab=windows)
 
@@ -80,7 +80,7 @@ Powerful all-in-one password manager and keeper with free cloud sync across all 
 
 Internet traffic control and monitoring tool
 
-### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
 
@@ -92,7 +92,7 @@ As its name: revoke China SSL certificates \(illegal\).
 
 A sandbox-based isolation program.
 
-### Shadowsocks ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### Shadowsocks ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://shadowsocks.org/en/index.html)｜[下载页面 Download Page](https://shadowsocks.org/en/download/clients.html)
 
@@ -100,7 +100,7 @@ Socks5代理工具
 
 Sock5 proxy
 
-### [ShadowsocksR ](https://breakwa11.github.io/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [ShadowsocksR ](https://breakwa11.github.io/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 A main fork based on Shadowsocks
 
