@@ -1,6 +1,6 @@
 # Windows绝赞应用  
 
-![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/应用总数-192-blue.svg) ![license](https://img.shields.io/badge/协议-GPL%20v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/应用总数-193-blue.svg) ![license](https://img.shields.io/badge/协议-GPL%20v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome)启发
 
@@ -52,7 +52,7 @@
 
 # Windows Apps That Amaze Us
 
-![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/apps%20count-192-blue.svg) ![license](https://img.shields.io/badge/license-GPL%20v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/apps%20count-193-blue.svg) ![license](https://img.shields.io/badge/license-GPL%20v2.0-red.svg) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
