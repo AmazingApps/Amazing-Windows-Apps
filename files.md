@@ -30,6 +30,8 @@ FTP, FTPS and SFTP client.
 
 An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 
+###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
+
 ### MediaCoder ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### [International Website](http://mediacoderhq.com/)/[中文网](http://mediacoder.com.cn/)
