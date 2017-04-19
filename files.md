@@ -38,6 +38,12 @@ An easy backup solution for files and folders, It supports mirroring/two way syn
 
 Free Universal multimedia converter
 
+### [Meld](http://meldmerge.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+ 可视化文件文件夹对比
+
+Visual diff and merge tool that helps you compare files, directories, and version controlled projects.
+
 ### [Pandoc](http://pandoc.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 通用文档转换器
