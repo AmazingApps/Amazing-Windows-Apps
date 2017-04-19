@@ -16,7 +16,7 @@ IMAP and POP3 email client, featuring customization, complete touch support and 
 
 An extensible desktop mail app built on the modern web.
 
-### Thunderbird ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Thunderbird 雷鸟 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 ###### also Mozilla Thunderbird
 
