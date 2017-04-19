@@ -42,7 +42,7 @@ Free Universal multimedia converter
 
 ### [Meld](http://meldmerge.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
- 可视化文件文件夹对比
+可视化文件文件夹对比
 
 Visual diff and merge tool that helps you compare files, directories, and version controlled projects.
 
@@ -86,7 +86,7 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
 
-### SHAREit ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### SHAREit 茄子快传 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [International Website](http://www.ushareit.com/)/ [中文网](http://www.ushareit.com/zh/index.html) {#international-website中文网}
 
