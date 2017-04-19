@@ -28,13 +28,13 @@ Raise up traceroute request from Windows with route visilization display.
 
 A browser automatically blocks ads and trackers.
 
-### [Cent Browser](http://www.centbrowser.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Cent Browser](http://www.centbrowser.com/) 美分浏览器 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 附带的许多特性显著增强了Chromium浏览器的体验
 
 An enhanced version of the Chromium web browser that bundles many useful features.
 
-### [EagleGet](http://www.eagleget.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [EagleGet](http://www.eagleget.com/) 猎鹰下载器 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
 
@@ -48,7 +48,7 @@ Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and al
 
 A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
 
-### Firefox ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Firefox 火狐 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### also Mozilla Firefox
 
