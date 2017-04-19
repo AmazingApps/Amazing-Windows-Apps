@@ -44,7 +44,7 @@ Encrypt your files in an elegant way.
 
 Network security monitoring tool and analyzer that visualizes your network activity.
 
-### [Huorong Security](http://www.huorong.cn/) ![](/assets/图片2.png) ![](/assets/china.png)
+### [Huorong Security](http://www.huorong.cn/) 火绒 ![](/assets/图片2.png) ![](/assets/china.png)
 
 病毒防护软件，PUA防护表现惊艳
 
@@ -92,7 +92,7 @@ As its name: revoke China SSL certificates \(illegal\).
 
 A sandbox-based isolation program.
 
-### Shadowsocks ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Shadowsocks 影梭 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://shadowsocks.org/en/index.html)｜[下载页面 Download Page](https://shadowsocks.org/en/download/clients.html)
 
