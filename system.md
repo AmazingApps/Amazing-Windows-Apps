@@ -68,6 +68,14 @@ A convenient unified display of the most relevant technical and tag data for vid
 
 Monitor and clean system memory on your computer.
 
+### Process Hacker ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://wj32.org/processhacker/index.php)｜[下载页面 Download Page](https://wj32.org/processhacker/downloads.php)
+
+多功能进程管理工具
+
+Multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+
 ### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 一站式Explorer增强工具
