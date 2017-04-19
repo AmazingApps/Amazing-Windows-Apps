@@ -40,6 +40,8 @@ An enhanced version of the Chromium web browser that bundles many useful feature
 
 Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
 
+###### ⚠️DOWNLOAD ANORTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
+
 ### [FDM](http://www.freedownloadmanager.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 免费强大的下载加速管理器，支持HTTP/HTTPS/FTP/种子等协议
