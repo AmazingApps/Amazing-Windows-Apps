@@ -25,6 +25,8 @@ Other individuals   其他个人：
 
 * greatYear
 
+* kongxi0071 \(Zack Liang\)
+
 * [momoca](https://github.com/momoca)
 
 * Rambin
