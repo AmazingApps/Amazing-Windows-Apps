@@ -76,6 +76,14 @@ Significantly improve Explorer efficiency
 
 ###### NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
 
+### Rapid Environment Editor ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://www.rapidee.com/en/about)｜[下载页面 Download Page](https://www.rapidee.com/en/download)
+
+编辑系统环境变量信息
+
+An environment variables editor
+
 ### Winaero Tweaker ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://winaero.com/comment.php?comment.news.1836)｜[下载页面 Download Page](http://winaero.com/request.php?1796)
