@@ -36,6 +36,14 @@ Portable console emulator for Windows.
 
 A GUI for using GitHub.
 
+### HeidiSQL ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://www.heidisql.com/)｜[下载页面 Download Page](https://www.heidisql.com/download.php)
+
+MSQL 数据库管理
+
+Designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL. It enables you to browse and edit data, create and edit tables, views, procedures, triggers and scheduled events.
+
 ### Locale Emulator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://pooi.moe/Locale-Emulator/)｜[下载页面 Download Page](https://github.com/xupefei/Locale-Emulator/releases)
