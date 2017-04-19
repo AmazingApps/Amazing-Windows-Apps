@@ -66,6 +66,14 @@ A command-line installer for Windows.
 
 Ultimate Microsoft Developer Tool.
 
+### VMware Workstation Player ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.vmware.com/)｜[下载页面 Download Page](https://www.vmware.com/products/player/playerpro-evaluation.html)
+
+性能强劲的虚拟机应用
+
+A virtual machine station player performing amazingly smooth.
+
 ### Windows Sysinternals ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 ###### [官网 Official Site](https://technet.microsoft.com/en-us/sysinternals/)｜[下载页面 Download Page](https://technet.microsoft.com/en-us/bb545027)
