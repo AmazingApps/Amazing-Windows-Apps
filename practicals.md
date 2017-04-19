@@ -30,6 +30,14 @@ NirLauncher is a package of more than 200 portable freeware utilities for Window
 
 The easiest, fastest way to update or install software.
 
+### **QTranslate **![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://quest-app.appspot.com/)｜[下载页面 Download Page](https://quest-app.appspot.com/download)
+
+Windows下免费翻译工具
+
+A free translator for Windows.
+
 ### [rufus](http://rufus.akeo.ie/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png)
 
 简单地创建 U 盘启动盘
