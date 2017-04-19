@@ -70,7 +70,7 @@ zogna video manager.
 
 ### \[文件处理\]
 
-### [SHAREit](http://www.ushareit.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [SHAREit](http://www.ushareit.com/) 茄子快传 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 跨平台文件传输
 
@@ -94,7 +94,7 @@ Raise up traceroute request from Windows with route visilization display.
 
 ### \[实用程序\]
 
-### [Clipber](http://clipber.com/clipber/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
+### [Clipber](http://clipber.com/clipber/) 快帖 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
 
 跨平台系统剪贴板同步工具
 
@@ -108,7 +108,7 @@ A cloud sync tool for system clipboard across multiple platforms.
 
 amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
 
-### [HelloFont](http://www.hellofont.cn/index.php) ![](/assets/图片2.png) ![](/assets/china.png)
+### [HelloFont](http://www.hellofont.cn/index.php) 字由 ![](/assets/图片2.png) ![](/assets/china.png)
 
 一站式字体管理、预览、备份与范例展示
 
@@ -116,7 +116,7 @@ All-in-one fonts management, preview, backup and examples.
 
 ### \[隐私安全\]
 
-### [Huorong Security](http://www.huorong.cn/) ![](/assets/图片2.png) ![](/assets/china.png)
+### [Huorong Security](http://www.huorong.cn/) 火绒 ![](/assets/图片2.png) ![](/assets/china.png)
 
 病毒防护软件，PUA防护表现惊艳
 
