@@ -22,6 +22,20 @@ Enjoy text rendering and the way it should be.
 
 Desktop customization.
 
+### SimpleSndVol ![](/assets/图片2.png) ![](/assets/united-states.png)
+
+###### [官网 Official Site](http://winaero.com/comment.php?comment.news.14)｜[下载页面 Download Page](http://winaero.com/download.php?view.12)
+
+音量托盘图标的全新体验
+
+Simple application what sits in your system tray near the clock and provides some useful and fast ways to control your sound volume and balance.
+
+### [StartIsBack](http://startisback.com) ![](/assets/earth-globe.png)
+
+开始菜单个性化；还原旧版开始
+
+Start Menu customization or bing back what it was.
+
 ### [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 任务栏透明化
