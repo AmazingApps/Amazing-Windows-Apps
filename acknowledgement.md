@@ -31,7 +31,10 @@ Other individuals   其他个人：
 
 * SAGE
 
+* [venmos \(Kuroi Mato\)](https://github.com/venmos)
+
 * [Yanda Huang](https://github.com/yodahuang)
+
 * [ZetaoYang](https://github.com/ZetaoYang)
 
 Advertising from   网站宣传：
