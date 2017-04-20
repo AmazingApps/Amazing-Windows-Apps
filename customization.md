@@ -54,3 +54,7 @@ Set videos as desktop background with online base.
 
 Changes the Windows 10 login screen background.
 
+###### ⚠DESIGNED FOR WINDOWS 10 ONLY   仅针对Windows 10设计
+
+
+
