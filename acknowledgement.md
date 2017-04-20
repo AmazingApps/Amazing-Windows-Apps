@@ -25,7 +25,7 @@ Other individuals   其他个人：
 
 * greatYear
 
-* kongxi0071 \(Zack Liang\)
+* [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071)
 
 * [momoca](https://github.com/momoca)
 
