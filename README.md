@@ -1,6 +1,6 @@
 # Windows绝赞应用
 
-![build](https://img.shields.io/badge/build-passing-green.svg) ![apps count](https://img.shields.io/badge/应用总数-207-blue.svg) ![license](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-green.svg) ![apps count](https://img.shields.io/badge/应用总数-207-blue.svg) ![license](https://img.shields.io/badge/协议-GPL v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome)启发
 
@@ -11,7 +11,7 @@
 3. 尊重隐私：此处定义为：除非出于你或法律要求，否则该应用或应用提供商_**不会**_与任何第三方分享你的隐私信息
 4. 维护良好。若应用不再维护，则从此处移除
 5. 易于学习掌握：只要了解计算机基础操作即可完全掌握，需要简单学习的应有较高回报
-6. 完全兼容Windows 7/8.1/10
+6. 完全兼容Windows 7/8.1/10 （极个别应用以具体说明为准）
 
 注意：尽管以下应用可能值得一试，但是不会被列入：
 
@@ -54,7 +54,7 @@
 
 # Windows Apps That Amaze Us
 
-![build](https://img.shields.io/badge/build-passing-green.svg) ![apps count](https://img.shields.io/badge/apps%20count-207-blue.svg) ![license](https://img.shields.io/badge/lisence-GPL%20v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-green.svg) ![apps count](https://img.shields.io/badge/apps count-207-blue.svg) ![license](https://img.shields.io/badge/lisence-GPL v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
@@ -65,7 +65,7 @@ This is to introduce amazing works done onto Windows. All apps collected in this
 3. privacy respecting: here I mean this app or app provider will NEVER share private info with any 3rd party unless you ask for it or under legal requirements.
 4. actively maintained. If it stops being maintained, it will be removed from here.
 5. easy to learn throughout.
-6. Compitable with Windows 7/8.1/10.
+6. Compitable with Windows 7/8.1/10 \(see detailed description for some very individual apps\)
 
 Note: these following appps will NOT be listed although may deserve a try:
 
