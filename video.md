@@ -50,6 +50,12 @@ Multimedia player with a wide collection of codecs which also offers extensive c
 
 ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
 
+### [SMPlayer](https://sourceforge.net/projects/smplayer/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+可针对单个视频记忆设置选项的多媒体播放器
+
+Multimedia player that can save different preferences for any single video
+
 ### [VLC](http://www.videolan.org/vlc/index.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
