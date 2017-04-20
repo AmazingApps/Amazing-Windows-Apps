@@ -116,3 +116,7 @@ Transfer any movie or music file to your iPhone w/o iTunes.
 
 An Open Source differencing and merging tool for Windows
 
+###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
+
+
+
