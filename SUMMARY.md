@@ -9,6 +9,7 @@
 * [美化工具 Customization](customization.md)
 * [数据恢复 Data Recovery](data-recovery.md)
 * [开发工具 Dev Tools](dev-tools.md)
+* [下载工具 Downloader](xia-zai-gong-ju-downloader.md)
 * [电子书库 Ebooks](ebooks.md)
 * [效率工具 Efficiency](efficiency.md)
 * [电子邮件 Emails](emails.md)
