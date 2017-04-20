@@ -108,3 +108,11 @@ Lets you understand how folders and files are structured on your disks by using 
 
 Transfer any movie or music file to your iPhone w/o iTunes.
 
+### WinMerge ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://winmerge.org/)｜[下载页面 Download Page](http://winmerge.org/downloads/)
+
+工程化的文件文件夹对比工具
+
+An Open Source differencing and merging tool for Windows
+
