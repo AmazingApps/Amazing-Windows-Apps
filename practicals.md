@@ -30,6 +30,12 @@ NirLauncher is a package of more than 200 portable freeware utilities for Window
 
 The easiest, fastest way to update or install software.
 
+### [PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+ 批量 Ping 多个主机名或 IP 地址，实时显示结果，并可导出 HTML TEXT XML
+
+ Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
+
 ### **QTranslate **![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](https://quest-app.appspot.com/)｜[下载页面 Download Page](https://quest-app.appspot.com/download)
