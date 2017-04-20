@@ -33,6 +33,8 @@ Other individuals   其他个人：
 
 * SAGE
 
+* [StrollStars](https://github.com/StrollStars)
+
 * [venmos \(Kuroi Mato\)](https://github.com/venmos)
 
 * [Yanda Huang](https://github.com/yodahuang)
