@@ -13,6 +13,7 @@ Repository collaborator   本项目合作人：
 
 Other individuals   其他个人：
 
+* [ADeadCat](https://github.com/ADeadCat)
 * [akina-OS](https://github.com/akina-OS)
 * bearJess
 * [Chen Shaoju](https://github.com/chenshaoju)
@@ -41,7 +42,7 @@ Other individuals   其他个人：
 
 * [ZetaoYang](https://github.com/ZetaoYang)
 
-Advertising from   网站宣传：
+Advertising from   第三方宣传：
 
 * [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
 
