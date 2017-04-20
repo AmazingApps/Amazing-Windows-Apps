@@ -27,6 +27,8 @@ Other individuals※其他个人：
 
 * greatYear
 
+* [hizjz](https://github.com/hizjz)
+
 * [juqkai](https://github.com/juqkai)
 
 * [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071)
