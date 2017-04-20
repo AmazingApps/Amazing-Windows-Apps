@@ -10,11 +10,11 @@
 
 A lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
-### [EagleGet](http://www.eagleget.com/) 猎鹰下载器 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [~~EagleGet~~](http://www.eagleget.com/)~~ 猎鹰下载器~~ ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容
+~~免费全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议，也可以使用浏览器扩展检测页面媒体内容~~
 
-Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.
+~~Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and also detecting Web media content by browser extension.~~
 
 ###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
 
