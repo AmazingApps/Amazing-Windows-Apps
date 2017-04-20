@@ -44,6 +44,14 @@ MSQL 数据库管理
 
 Designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL. It enables you to browse and edit data, create and edit tables, views, procedures, triggers and scheduled events.
 
+### IntelliJ IDEA ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.jetbrains.com/idea/)｜[下载页面 Download Page](https://www.jetbrains.com/idea/download)
+
+IDE工具集合
+
+All sets of IDE tools.
+
 ### Locale Emulator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://pooi.moe/Locale-Emulator/)｜[下载页面 Download Page](https://github.com/xupefei/Locale-Emulator/releases)
