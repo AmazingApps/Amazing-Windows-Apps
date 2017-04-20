@@ -46,6 +46,14 @@ First CBS-based Dism GUI implementation globally.
 
 Clipboard manager.
 
+### GeekUninstaller ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://www.geekuninstaller.com/)｜[下载页面 Download Page](https://www.geekuninstaller.com/download)
+
+清理卸载残余并提供便携版本
+
+A portable solution for complete uninstallation.
+
 ### Iobit Uninstaller ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.iobit.com/en/advanceduninstaller.php#)｜[下载页面 Download Page](http://download.cnet.com/IObit-Uninstaller/3001-2096_4-75161625.html?hasJs=n&part=dl-)
