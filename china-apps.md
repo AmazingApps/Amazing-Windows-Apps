@@ -14,6 +14,12 @@
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
+### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+支持GIF背景的极简音频播放器
+
+An extremely brief audio player that supports GIF background
+
 ### TTKMusicplayer ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### [官网  Official Site](http://download.csdn.net/album/detail/3094)｜[下载页面  Download Page](http://download.csdn.net/album/detail/3094)
