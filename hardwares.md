@@ -22,6 +22,16 @@ A HDD/SSD info utility software which supports a part of USB connection and Inte
 
 Automatically adjust your computer screen to match lighting.
 
+### Iobit Driver Booster ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://www.iobit.com/en/driver-booster.php)｜[下载页面 Download Page](http://download.cnet.com/Driver-Booster/3001-18513_4-75992725.html?hasJs=n&part=dl-)
+
+驱动管理更新工具
+
+Identify & fix outdated, missing & incorrect PC drivers
+
+###### ⚠INCORRECT DRIVERS REPORTED   有用户报告安装不正确驱动
+
 ### Open Hardware Monitor ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://openhardwaremonitor.org/)｜[下载页面 Download Page](http://openhardwaremonitor.org/downloads/)
