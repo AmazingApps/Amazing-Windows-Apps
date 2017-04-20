@@ -32,9 +32,9 @@ The easiest, fastest way to update or install software.
 
 ### [PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
- 批量 Ping 多个主机名或 IP 地址，实时显示结果，并可导出 HTML TEXT XML
+批量 Ping 多个主机名或 IP 地址，实时显示结果，并可导出 HTML TEXT XML
 
- Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
+Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
 
 ### **QTranslate **![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
@@ -88,5 +88,9 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 ###### No Update for Long Now 长期无更新
 
+### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
+屏幕局部放大
+
+Zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
