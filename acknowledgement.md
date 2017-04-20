@@ -51,6 +51,7 @@ Advertising from※第三方宣传：
 
 * [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
 * [JJBOOM.COM   点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
+* [sspai   少数派](https://sspai.com/post/38866)
 
 ![](/assets/windows_logo.png)
 
