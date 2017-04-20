@@ -1,6 +1,6 @@
 # Windows绝赞应用
 
-![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/应用总数-205-blue.svg) ![license](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg) [![telegram](https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/应用总数-205-blue.svg) ![license](https://img.shields.io/badge/协议-GPL v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome)启发
 
@@ -25,7 +25,7 @@
 
 本项目使用GNU GPL v2.0协议，转载请声明[gitbook项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源
 
-更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程 [移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=label%3Aaccepted) ，也可查看 [已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=label%3Adone%20)
+更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程 [移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) ，也可查看 [已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone )
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
@@ -54,7 +54,7 @@
 
 # Windows Apps That Amaze Us
 
-![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/apps%20count-205-blue.svg) ![license](https://img.shields.io/badge/lisence-GPL%20v2.0-red.svg) [![telegram](https://img.shields.io/badge/%E2%98%8E%EF%B8%8Fcontact-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-yellow.svg) ![apps count](https://img.shields.io/badge/apps count-205-blue.svg) ![license](https://img.shields.io/badge/lisence-GPL v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
@@ -79,7 +79,7 @@ There is a black list at the end in which apps violate users profit and privacy 
 
 This project is under GNU GPL v2.0, claim [gitbook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this.
 
-Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=label%3Aaccepted)or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=%E2%9C%93&q=label%3Adone).
+Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
 [Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
