@@ -40,3 +40,9 @@ Identify & fix outdated, missing & incorrect PC drivers
 
 Free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
 
+### ~~护眼宝~~ ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
+
+~~为屏幕添加蓝光过滤滤镜~~
+
+~~Filter blue rays from your screen.~~
+
