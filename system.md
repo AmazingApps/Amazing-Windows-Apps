@@ -10,7 +10,7 @@
 
 ~~A WiFi virtual router app, neat & free.~~
 
-###### SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
+###### ⚠SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
 
 ### Advanced SystemCare ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
@@ -25,6 +25,14 @@ An all-in-one system optimization unity.
 按下Alt键时，拖动窗口，调整大小，最小化等等
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
+
+### ~~Clover~~ ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+~~为文件资源浏览器增加多标签特性~~
+
+~~Bring tabs to Windows Explorer~~
+
+###### ⚠INVASIVE ADS SUSPICION   侵入式广告嫌疑
 
 ### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
