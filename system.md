@@ -92,6 +92,12 @@ A convenient unified display of the most relevant technical and tag data for vid
 
 Monitor and clean system memory on your computer.
 
+### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+增强型任务管理器， 允许终结一些系统的关键进程
+
+Enhanced task manager which allows you to terminate some critical processes.
+
 ### Process Hacker ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://wj32.org/processhacker/index.php)｜[下载页面 Download Page](https://wj32.org/processhacker/downloads.php)
