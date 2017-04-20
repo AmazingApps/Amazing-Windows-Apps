@@ -64,6 +64,12 @@ Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
+### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+支持GIF背景的极简音频播放器
+
+An extremely brief audio player that supports GIF background
+
 ### Mixxx ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 ###### [官网  Official Site](http://mixxx.org/)｜[下载页面  Download Page](http://mixxx.org/download/)
