@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [良心国产 China's Apps](liang-xinguo-chan-china-s-apps.md)
+* [良心国产 China's Apps](china-apps.md)
 * [音频文件 Audio](audio.md)
 * [即时聊天 Chat Client](chat-client.md)
 * [压缩处理 Compression](compression.md)
@@ -9,7 +9,7 @@
 * [美化工具 Customization](customization.md)
 * [数据恢复 Data Recovery](data-recovery.md)
 * [开发工具 Dev Tools](dev-tools.md)
-* [下载工具 Downloader](xia-zai-gong-ju-downloader.md)
+* [下载工具 Downloader](downloader.md)
 * [电子书库 Ebooks](ebooks.md)
 * [效率工具 Efficiency](efficiency.md)
 * [电子邮件 Emails](emails.md)
