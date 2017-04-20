@@ -14,7 +14,7 @@ Repository collaborator※本项目合作人：
 Other individuals※其他个人：
 
 * [ADeadCat](https://github.com/ADeadCat)
-* aixlx \(Lianxiao Xue\)
+* [aixlx \(Lianxiao Xue\)](https://github.com/aixlx)
 * [akina-OS](https://github.com/akina-OS)
 * bearJess
 * [Chen Shaoju](https://github.com/chenshaoju)
