@@ -17,7 +17,7 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 ## Blacklist Standards
 
 1. Bundle other installers \(if it is downloading orther harmless apps, there will be point out without black-listed here\)
-2. Collect private info without agreement from privacy terms or privacy terms missed
+2. Collect private info without agreement from privacy terms, privacy terms missed or leak them to any third party
 3. Significantly weaken system security or stability, e.g. implant backdoor, break system files, malware change to root certs, etc.
 4. lock up homepage or re-founding links that can not be canceled by settings itself
 5. any other behaviors that are known as servere violation to users profit.
