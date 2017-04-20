@@ -14,6 +14,7 @@ Repository collaborator※本项目合作人：
 Other individuals※其他个人：
 
 * [ADeadCat](https://github.com/ADeadCat)
+* aixlx \(Lianxiao Xue\)
 * [akina-OS](https://github.com/akina-OS)
 * bearJess
 * [Chen Shaoju](https://github.com/chenshaoju)
@@ -45,7 +46,7 @@ Other individuals※其他个人：
 Advertising from※第三方宣传：
 
 * [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
-* [JJBOOM.COM   点个赞科技](http://wiki.jjboom.com/doku.php?id=%E4%B8%93%E9%A2%98%E7%AD%96%E5%88%92:%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%BB%BA%E8%AE%AE)
+* [JJBOOM.COM   点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
 
 ![](/assets/windows_logo.png)
 
