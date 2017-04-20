@@ -24,11 +24,11 @@ FTP FTPS SFTP客户端
 
 FTP, FTPS and SFTP client.
 
-### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [~~FreeFileSync~~](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-简单的文件（夹）备份工具，支持镜像、双向、更新等方式
+~~简单的文件（夹）备份工具，支持镜像、双向、更新等方式~~
 
-An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
+~~An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.~~
 
 ###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
 
