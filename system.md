@@ -46,6 +46,14 @@ First CBS-based Dism GUI implementation globally.
 
 Clipboard manager.
 
+### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+
+调整单个UWP应用的音量
+
+Adjust volume for all UWP apps individually.
+
+###### ⚠UWP APPS FOR WINDOWS 10 ONLY   仅针对Windows 10的UWP应用
+
 ### GeekUninstaller ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://www.geekuninstaller.com/)｜[下载页面 Download Page](https://www.geekuninstaller.com/download)
