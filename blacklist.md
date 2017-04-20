@@ -52,7 +52,7 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### Rising Series   瑞星系列软件   1, 2, 3, 4, 5
 
-### Ruanmei Series   软媒系列软件   1, 2, 3, 5
+### Ruanmei Series   软媒系列软件   1, 3, 5
 
 ### Sougou Series   搜狗系列软件   1, 5
 
