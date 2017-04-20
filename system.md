@@ -26,13 +26,13 @@ An all-in-one system optimization unity.
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
 
-### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### cFosSpeed ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-###### [官网 Official Site](https://lopesoft.com/index.php/en/products)｜[下载页面 Download Page](https://lopesoft.com/index.php/en/download/filemenu-tools)
+###### [官网](https://www.cfos.de/zh-cn/cfosspeed/cfosspeed.htm)｜[Official Site](https://www.cfos.de/en/cfosspeed/cfosspeed.htm?__ntrack_pv=1)｜[下载页面 Download Page](https://www.cfos.de/en/download/download.htm)
 
-右键菜单自定义
+调整网络协议优先级以优化加速网络速度
 
-Customize and add several tools to the context menu of Windows File Explorer.
+Optimize your internet by adjusting network protocol  priority
 
 ### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
@@ -53,6 +53,14 @@ Clipboard manager.
 Adjust volume for all UWP apps individually.
 
 ###### ⚠UWP APPS FOR WINDOWS 10 ONLY   仅针对Windows 10的UWP应用
+
+### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://lopesoft.com/index.php/en/products)｜[下载页面 Download Page](https://lopesoft.com/index.php/en/download/filemenu-tools)
+
+右键菜单自定义
+
+Customize and add several tools to the context menu of Windows File Explorer.
 
 ### GeekUninstaller ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
@@ -91,6 +99,12 @@ Monitor and clean system memory on your computer.
 多功能进程管理工具
 
 Multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+
+### [Process Lasso](https://bitsum.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+ 针对旧设备的自动实时系统进程调节优化工具
+
+Optimize system process in real time for older devices
 
 ### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
