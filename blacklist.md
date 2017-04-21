@@ -8,7 +8,7 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ## 拉黑标准
 
-1. 在自身安装包中捆绑其它软件的安装包（对于联网下载其它软件安装包且目标软件无明显恶意的行为的，本列表会额外注明但不会加入黑名单）
+1. 在自身安装包中捆绑其它有害软件的安装包（对于联网下载其它软件安装包的或捆绑具有完善卸载功能的无害软件的，且目标软件无明显恶意的行为的，本列表会额外注明但不会加入黑名单）
 2. 收集敏感信息但是隐私权协议未说明，隐私权协议缺失的或将隐私信息向第三方泄露出售的
 3. 明显弱化系统安全性或稳定性的应用，如后台植入、破坏系统文件、恶意修改根证书等
 4. 无法通过自身设置取消的返利链接捆绑或者主页绑定
@@ -16,7 +16,7 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ## Blacklist Standards
 
-1. Bundle other installers \(if it is downloading orther harmless apps, there will be point out without black-listed here\)
+1. Bundle other harmful installers \(if it is downloading or bundling orther harmless apps, there will be point out without black-listed here\)
 2. Collect private info without agreement from privacy terms, privacy terms missed or leak them to any third party
 3. Significantly weaken system security or stability, e.g. implant backdoor, break system files, malware change to root certs, etc.
 4. lock up homepage or re-founding links that can not be canceled by settings itself
