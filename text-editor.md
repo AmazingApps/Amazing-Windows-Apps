@@ -12,6 +12,14 @@
 
 A hackable text editor.
 
+### EmEditor ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.emeditor.com)｜[下载页面 Download Page](https://www.emeditor.com/download/)
+
+ 支持宏，Unicode，可处理大数据以及 CSV 文件的文本编辑器
+
+A text editor that supports macro commands, Unicode, big data and CSV processing
+
 ### [GitBook Editor](https://www.gitbook.com/editor) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 使用GitBook的GUI客户端
