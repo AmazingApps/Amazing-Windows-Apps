@@ -16,7 +16,7 @@
 
 Enjoy text rendering and the way it should be.
 
-### [Rainmeter](/www.rainmeter.net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Rainmeter](https://www.rainmeter.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 桌面个性化
 
