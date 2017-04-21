@@ -56,7 +56,7 @@ Clipboard manager.
 
 ### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
-调整单个应用的音量
+分别调整系统内所有使用扬声器的应用的音量
 
 Adjust volume for all apps individually.
 
