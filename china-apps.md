@@ -152,3 +152,13 @@ As its name: revoke China SSL certificates \(illegal\).
 
 First CBS-based Dism GUI implementation globally.
 
+### \[文本编辑\]
+
+### EverEdit ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/japan.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网](http://www.everedit.net/)｜[Official Site](http://www.everedit.cn/)｜[下载页面](http://www.everedit.net/download)｜[Download Page](http://www.everedit.cn/download)
+
+内置Markdown预览与二进制编辑的文本编辑器
+
+A text editor with Markdown preview and hex editor
+
