@@ -32,6 +32,14 @@ Outright protection against malware.
 
 A light-weighted & award-winning PC optimization tool.
 
+### Cryptomator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://cryptomator.org/)｜[下载页面 Download Page](https://cryptomator.org/downloads/#allVersions)
+
+加密你的云端文件
+
+Free client-side encryption for your cloud files
+
 ### [Encrypto](http://macpaw.com/encrypto) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 优雅地加密文件
