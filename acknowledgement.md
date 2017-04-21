@@ -9,14 +9,19 @@ This is an acknowledgement to all parties contributed to this repository:
 Repository collaborator※本项目合作人：
 
 * [liulex \(Le Liu\)](https://github.com/liulex)
+* [shrderek](https://github.com/shrderek)
 * [taroxd](https://github.com/taroxd)
 
 Other individuals※其他个人：
 
 * [ADeadCat](https://github.com/ADeadCat)
+
 * [aixlx \(Lianxiao Xue\)](https://github.com/aixlx)
+
 * [akina-OS](https://github.com/akina-OS)
+
 * bearJess
+
 * [Chen Shaoju](https://github.com/chenshaoju)
 
 * [crucifyml](https://github.com/crucifyml)
