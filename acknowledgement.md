@@ -9,6 +9,8 @@ This is an acknowledgement to all parties contributed to this repository:
 Repository collaborator※本项目合作人：
 
 * [liulex \(Le Liu\)](https://github.com/liulex)
+* [shrderek](#)
+
 * [taroxd](https://github.com/taroxd)
 
 Other individuals※其他个人：
