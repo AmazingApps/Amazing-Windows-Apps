@@ -96,3 +96,11 @@ Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities 
 
 An open-source x64/x32 debugger for windows.
 
+###  XAMPP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网](https://www.apachefriends.org/zh_cn/index.html)｜[Official Site](https://www.apachefriends.org/index.html#)｜[下载页面](https://www.apachefriends.org/zh_cn/download.html)｜[Download Page](https://www.apachefriends.org/download.html)
+
+完全免费且易于安装的 Apache 发行版，其中包含 MariaDB、PHP 和 Perl
+
+A completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl
+
