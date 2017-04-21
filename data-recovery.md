@@ -4,6 +4,15 @@
 
 ---
 
+### [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+可恢复磁盘分区的数据恢复工具
+
+Data recovery with partition recovery
+
+* 该应用在国内称为[DiskGenius](http://www.diskgenius.cn/download.php)
+* This app is called [DiskGenius](http://www.diskgenius.cn/download.php) in China
+
 ### [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) ![](/assets/earth-globe.png)
 
 大批量数据恢复
