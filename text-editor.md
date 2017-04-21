@@ -34,6 +34,14 @@ A text editor with Markdown preview and hex editor
 
 GUI client for GitBook.
 
+### GNU Emacs ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.gnu.org/software/emacs/)｜[下载页面 Download Page](https://www.gnu.org/software/emacs/download.html)
+
+具有Emacs Lisp解释能力的文本编辑器
+
+A text editor with an interpreter for Emacs Lisp.
+
 ### [Inkdrop](https://www.inkdrop.info/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 使用MarkDown的笔记本应用
