@@ -60,8 +60,6 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### Tencent Series   腾讯系列软件   1, 2, 3, 5
 
-* Excluding TIM   不包含TIM
-
 ### YY｜YY语音   1, 2, 3, 5
 
 
