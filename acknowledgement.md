@@ -29,6 +29,8 @@ Other individuals※其他个人：
 
 * [hizjz](https://github.com/hizjz)
 
+* [idisreg](https://github.com/idisreg)
+
 * [juqkai](https://github.com/juqkai)
 
 * [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071)
