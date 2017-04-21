@@ -56,11 +56,14 @@ Clipboard manager.
 
 ### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
-调整单个UWP应用的音量
+调整单个应用的音量
 
-Adjust volume for all UWP apps individually.
+Adjust volume for all apps individually.
 
-###### ⚠UWP APPS FOR WINDOWS 10 ONLY   仅针对Windows 10的UWP应用
+###### ⚠UWP APPS FOR WINDOWS 8.1/10   针对Windows 8.1/10的UWP应用
+
+* ###### Version compatible with Windows 8.1 available on [GitHub](https://github.com/File-New-Project/EarTrumpet). RS 2 users are suggested to install from Windows Store
+* ###### 向下兼容Windows 8.1的版本可见于[GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS 2用户建议从应用商店安装
 
 ### GeekUninstaller ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
