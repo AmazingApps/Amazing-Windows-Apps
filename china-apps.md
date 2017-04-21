@@ -76,6 +76,16 @@ zogna video manager.
 
 ### \[文件处理\]
 
+### FFRename Professional   菲菲更名宝贝之得意非凡 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.ffhome.com/category/works/ffrenamepro)｜[下载页面 Download Page](http://www.ffhome.com/works/1406.html)
+
+进阶文件重命名工具，带有重命名需要的一切能力
+
+Advanced renaming tools with everything you need for renaming
+
+###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
+
 ### [SHAREit](http://www.ushareit.com/) 茄子快传 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 跨平台文件传输

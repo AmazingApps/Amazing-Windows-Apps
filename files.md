@@ -32,6 +32,8 @@ The Fastest Copy/Delete Software on Windows.
 
 Advanced renaming tools with everything you need for renaming
 
+###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
+
 ### FileZilla ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://filezilla-project.org/)｜[下载页面 Download Page](https://filezilla-project.org/download.php?show_all=1)
