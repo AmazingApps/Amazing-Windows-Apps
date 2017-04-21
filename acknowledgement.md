@@ -40,6 +40,8 @@ Other individuals※其他个人：
 
 * [juqkai](https://github.com/juqkai)
 
+* [kmdgeek](https://github.com/kmdgeek)
+
 * [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071)
 
 * [momoca](https://github.com/momoca)
