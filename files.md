@@ -8,7 +8,7 @@
 
 ###### [官网 Official Site](http://www.scootersoftware.com/)｜[下载页面 Download Page](http://www.scootersoftware.com/download.php)
 
- 高亮标注源代码、文件夹、图像等各种文件的差异
+高亮标注源代码、文件夹、图像等各种文件的差异
 
 Highlight file differences: source code, folders, images, etc.
 
@@ -23,6 +23,14 @@ Open source file transfer
 快速复制、同步、删除文件。
 
 The Fastest Copy/Delete Software on Windows.
+
+### FFRename Professional   菲菲更名宝贝之得意非凡 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.ffhome.com/category/works/ffrenamepro)｜[下载页面 Download Page](http://www.ffhome.com/works/1406.html)
+
+进阶文件重命名工具，带有重命名需要的一切能力
+
+Advanced renaming tools with everything you need for renaming
 
 ### FileZilla ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
