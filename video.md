@@ -24,7 +24,7 @@ Free and Open Source home theatre software.
 
 ###### No update for long now   长期无更新
 
-### mpv ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### mpv ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://mpv.io/)｜[下载页面 Download Page](https://mpv.io/installation/)
 
@@ -49,6 +49,14 @@ Multimedia player with a wide collection of codecs which also offers extensive c
 将选定区域屏幕录制为GIF或视频
 
 ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
+
+### Shotcut ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.shotcut.org/)｜[下载页面 Download Page](https://www.shotcut.org/download/)
+
+ 少见的功能强大而且还开源的视频编辑工具
+
+A free, open source, cross-platform video editor
 
 ### [SMPlayer](https://sourceforge.net/projects/smplayer/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
