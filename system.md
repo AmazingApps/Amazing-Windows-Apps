@@ -20,6 +20,8 @@
 
 An all-in-one system optimization unity.
 
+###### ⚠BUNDLE ANOTHER HARMLESS APP   捆绑另一款无害应用
+
 ### [AltDrag](https://stefansundin.github.io/altdrag/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 按下Alt键时，拖动窗口，调整大小，最小化等等
