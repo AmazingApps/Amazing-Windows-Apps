@@ -24,6 +24,12 @@ Free and Open Source home theatre software.
 
 ###### No update for long now   长期无更新
 
+### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复
+
+Based on the original "Media Player Classic" project \(Gabest\) and "Media Player Classic Home Cinema" project \(Casimir666\), contains additional features and bug fixes
+
 ### mpv ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://mpv.io/)｜[下载页面 Download Page](https://mpv.io/installation/)
@@ -54,7 +60,7 @@ ScreenToGif allows you to record a selected area of your screen and save it as a
 
 ###### [官网 Official Site](https://www.shotcut.org/)｜[下载页面 Download Page](https://www.shotcut.org/download/)
 
- 少见的功能强大而且还开源的视频编辑工具
+少见的功能强大而且还开源的视频编辑工具
 
 A free, open source, cross-platform video editor
 
