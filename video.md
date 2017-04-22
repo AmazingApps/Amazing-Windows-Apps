@@ -44,6 +44,14 @@ A free, open source, and cross-platform media player.
 
 Free and open source software for video recording and live streaming.
 
+### Plex ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.plex.tv/)｜[下载页面 Download Page](https://www.plex.tv/apps/)
+
+一站式家庭影院解决方案
+
+All-in-one home theater solution
+
 ### [PotPlayer](http://potplayer.daum.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 多媒体播放器，解码器众多，配置能力强
