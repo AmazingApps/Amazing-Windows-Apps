@@ -40,6 +40,14 @@ Identify & fix outdated, missing & incorrect PC drivers
 
 Free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
 
+### Speccy ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.piriform.com/speccy)｜[下载页面 Download Page](https://www.piriform.com/speccy/download/standard)
+
+了解计算机硬件详细信息
+
+Detailed statistics on every piece of hardware in your computer.
+
 ### ~~护眼宝~~ ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
 
 ~~为屏幕添加蓝光过滤滤镜~~

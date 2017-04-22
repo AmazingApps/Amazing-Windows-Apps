@@ -50,14 +50,6 @@ A free translator for Windows.
 
 Create bootable USB drives the easy way.
 
-### Speccy ![](/assets/图片2.png) ![](/assets/earth-globe.png)
-
-###### [官网 Official Site](https://www.piriform.com/speccy)｜[下载页面 Download Page](https://www.piriform.com/speccy/download/standard)
-
-了解计算机硬件详细信息
-
-Detailed statistics on every piece of hardware in your computer.
-
 ### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 拯救因大型游戏平台而告急的磁盘空间

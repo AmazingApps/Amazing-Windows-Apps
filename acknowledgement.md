@@ -34,6 +34,8 @@ Other individuals※其他个人：
 
 * greatYear
 
+* [HGladiator \(Milafa\)](https://github.com/HGladiator)
+
 * [hizjz](https://github.com/hizjz)
 
 * [idisreg](https://github.com/idisreg)
