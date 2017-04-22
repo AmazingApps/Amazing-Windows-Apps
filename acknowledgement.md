@@ -26,6 +26,8 @@ Other individuals※其他个人：
 
 * [crucifyml](https://github.com/crucifyml)
 
+* [darkskygit \(DarkSky\)](https://github.com/darkskygit)
+
 * Der Letzte Wächter
 
 * [dzlzh \(DZLZH\)](https://github.com/dzlzh)
