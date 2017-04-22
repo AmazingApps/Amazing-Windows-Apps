@@ -34,6 +34,8 @@ Other individuals※其他个人：
 
 * [fuchao2012 \(zheng\)](https://github.com/fuchao2012)
 
+* [gaodeng](https://github.com/gaodeng)
+
 * greatYear
 
 * [HGladiator \(Milafa\)](https://github.com/HGladiator)
