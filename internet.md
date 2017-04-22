@@ -38,6 +38,14 @@ An enhanced version of the Chromium web browser that bundles many useful feature
 
 An open source web browser that is highly extensive and privacy respecting.
 
+### HaloRadio ![](/assets/图片2.png) ![](/assets/hong-kong.png) ![](/assets/united-states.png) ![](/assets/japan.png)
+
+###### [官网](https://www.icyarrow.com/haloradio/)｜[Official Site](https://www.douban.com/note/561310960/)
+
+在Windows享受豆瓣电台、Soundcloud、互联网收音机与Podcast
+
+Douban.FM, Soundcloud, Internet Radio and Podcast on your Windows
+
 ### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 基于chromium的浏览器，内置内容拦截器与快速预读取
