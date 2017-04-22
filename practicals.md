@@ -10,6 +10,14 @@
 
 A cloud sync tool for system clipboard across multiple platforms.
 
+### Defraggler ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.piriform.com/defraggler)｜[下载页面 Download Page](https://www.piriform.com/defraggler/download)
+
+简单有效的磁盘碎片整理工具
+
+simple but powerdul  defragmentation
+
 ### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 自然语言倒计时器
