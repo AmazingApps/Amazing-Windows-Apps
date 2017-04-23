@@ -8,7 +8,9 @@
 
 ### OneDrive
 
-### Google Drive 
+### Google Drive
+
+### Mediafire
 
 ### Mega
 
