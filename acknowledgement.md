@@ -58,6 +58,8 @@ Other individuals※其他个人：
 
 * [StrollStars](https://github.com/StrollStars)
 
+* [tttsss520](https://github.com/tttsss520)
+
 * [venmos \(Kuroi Mato\)](https://github.com/venmos)
 
 * [WanderMax](https://github.com/WanderMax)
