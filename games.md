@@ -10,6 +10,8 @@
 
 Hack local games by simple scripts
 
+###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
+
 ### [Origin](https://www.origin.com/en-in/store/) ![](/assets/earth-globe.png)
 
 类似于Steam，但属于EA
