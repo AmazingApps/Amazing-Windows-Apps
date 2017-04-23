@@ -36,6 +36,12 @@ Portable console emulator for Windows.
 
 A GUI for using GitHub.
 
+### [HBuilder](http://dcloud.io/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+一站式网页前端开发套装
+
+All-in-one Web front end development suit
+
 ### HeidiSQL ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://www.heidisql.com/)｜[下载页面 Download Page](https://www.heidisql.com/download.php)
@@ -65,6 +71,20 @@ Yet another region and language simulator.
 命令行安装器
 
 A command-line installer for Windows.
+
+### [SourceTree](https://www.sourcetreeapp.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+免费的图形化Git与Hg客户端
+
+A free visual Git and Hg client
+
+### VirtualBox ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.virtualbox.org/)｜[下载页面 Download Page](https://www.virtualbox.org/wiki/Downloads)
+
+开源跨平台虚拟机应用
+
+Open source multi-platform virtual machine
 
 ### Visual Studio ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
@@ -96,7 +116,7 @@ Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities 
 
 An open-source x64/x32 debugger for windows.
 
-###  XAMPP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### XAMPP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.apachefriends.org/zh_cn/index.html)｜[Official Site](https://www.apachefriends.org/index.html#)｜[下载页面](https://www.apachefriends.org/zh_cn/download.html)｜[Download Page](https://www.apachefriends.org/download.html)
 

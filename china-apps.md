@@ -36,6 +36,14 @@ TTKMusicPlayer that imitation Kugou music based on Qt.
 
 Set videos as desktop background with online base.
 
+### \[开发工具\]
+
+### [HBuilder](http://dcloud.io/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+一站式网页前端开发套装
+
+All-in-one Web front end development suit
+
 ### \[效率工具\]
 
 ### [Desktopcal](http://www.desktopcal.com/) 桌面日历 ![](/assets/图片2.png) ![](/assets/earth-globe.png)
