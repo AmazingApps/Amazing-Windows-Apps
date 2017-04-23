@@ -76,6 +76,12 @@ Windows全局手势
 
 Modern mouse gestures for Windows. \(C\#\)
 
+### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+
+高效启动器
+
+An effective launcher for Windows.
+
 ### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
 
 视频引索管理器
