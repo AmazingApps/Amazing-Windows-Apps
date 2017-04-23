@@ -58,6 +58,8 @@ Other individuals※其他个人：
 
 * [StrollStars](https://github.com/StrollStars)
 
+* [ts8zs \(天杀包子神\)](https://github.com/ts8zs)
+
 * [tttsss520](https://github.com/tttsss520)
 
 * [venmos \(Kuroi Mato\)](https://github.com/venmos)
