@@ -52,7 +52,7 @@ Free client-side encryption for your cloud files
 
 Encrypt your files in an elegant way.
 
-### [GlassWire](https://www.glasswire.com/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+### [GlassWire](https://www.glasswire.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 网络通信活动监视并可视化显示
 
