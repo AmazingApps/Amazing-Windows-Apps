@@ -32,6 +32,8 @@ Other individuals※其他个人：
 
 * [dzlzh \(DZLZH\)](https://github.com/dzlzh)
 
+* [EtaoinWu \(Wu Yue\)](https://github.com/EtaoinWu)
+
 * [fuchao2012 \(zheng\)](https://github.com/fuchao2012)
 
 * [gaodeng](https://github.com/gaodeng)
