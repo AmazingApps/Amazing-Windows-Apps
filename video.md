@@ -64,12 +64,6 @@ All-in-one home theater solution
 
 Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 
-### [ScreenToGif](http://www.screentogif.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-将选定区域屏幕录制为GIF或视频
-
-ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
-
 ### Shotcut ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.shotcut.org/)｜[下载页面 Download Page](https://www.shotcut.org/download/)

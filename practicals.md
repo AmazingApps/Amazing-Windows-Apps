@@ -24,6 +24,12 @@ simple but powerdul  defragmentation
 
 A tiny countdown timer in natural languages.
 
+### [KeyCastOW](https://brookhong.github.io/2014/04/28/keycast-on-windows.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+Windows键盘活动可视化以便录屏时展示
+
+Keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
+
 ### NirLauncher ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://launcher.nirsoft.net/)｜[下载页面 Download Page](http://launcher.nirsoft.net/downloads/index.html)
@@ -57,6 +63,12 @@ A free translator for Windows.
 简单地创建 U 盘启动盘
 
 Create bootable USB drives the easy way.
+
+### [ScreenToGif](http://www.screentogif.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+将选定区域屏幕录制为GIF或视频
+
+ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
 
 ### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
