@@ -64,6 +64,8 @@ Other individuals※其他个人：
 
 * [tttsss520](https://github.com/tttsss520)
 
+* [unnamed5719](https://github.com/unnamed5719)
+
 * [venmos \(Kuroi Mato\)](https://github.com/venmos)
 
 * [WanderMax](https://github.com/WanderMax)
