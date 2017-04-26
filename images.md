@@ -10,7 +10,7 @@
 
 An image viewer and organizer free for personal and educational use with basic image editing tools.
 
-### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.gimp.org/)｜[下载页面 Download Page](https://www.gimp.org/downloads/)
 
@@ -18,7 +18,15 @@ An image viewer and organizer free for personal and educational use with basic i
 
 Open source image editor.
 
-### [honeyview](http://www.bandisoft.com/honeyview/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### Greenshot ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://getgreenshot.org/)｜[下载页面 Download Page](http://getgreenshot.org/downloads/)
+
+免费开源的屏幕捕获与分享
+
+A free and open source program that lets you capture your screen with various methods via a single mouse click.
+
+### [Honeyview](http://www.bandisoft.com/honeyview/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 超快图片查看，支持多种格式
 
