@@ -54,6 +54,8 @@ Other individuals※其他个人：
 
 * [momoca](https://github.com/momoca)
 
+* [onikwuthkro \(Karsten Ng\)](https://github.com/onikwuthkro)
+
 * Rambin
 
 * SAGE
