@@ -44,11 +44,11 @@ Dopamine is an audio player which tries to make organizing and listening to musi
 
 Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
 
-### foobar2000 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### foobar2000 ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.foobar2000.org/)｜[下载页面  Download Page](http://www.foobar2000.org/download)
 
-免费开源音频播放器，具备高度定制化能力
+免费音频播放器，具备高度定制化能力
 
 foobar2000 is a free & open source audio player with highly modular design, breadth of features, and extensive user flexibility in configuration.
 
