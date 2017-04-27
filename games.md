@@ -26,6 +26,12 @@ Control your joystick PC games with keyboard
 
 Like Steam, but for EA.
 
+### [Remotr](http://remotrapp.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+在其它任何设备上远程享受PC游戏
+
+Stream and play your own computer games on your mobile phone, tablet, or even Smart TV
+
 ### [Steam](http://store.steampowered.com/) ![](/assets/earth-globe.png)
 
 最大在线游戏零售平台
