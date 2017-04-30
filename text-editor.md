@@ -68,6 +68,12 @@ Knowte is a note taking application with UWP UI.
 
 A customizable editor with instant feedback and showing data values flow through your code.
 
+### [Markdown Plus](http://tylingsoft.com/markdown-plus/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+Markdown editor that supports universal Markdown, GitHub Markdown, real-time preview, task list highlight, Emoji, Font Awesome, Ionicons, math formula, flow chat, sequence chat, Gantt
+
+Markdown编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
+
 ### Notepad++ ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://notepad-plus-plus.org/)｜[下载页面 Download Page](https://notepad-plus-plus.org/download/v7.3.3.html)
