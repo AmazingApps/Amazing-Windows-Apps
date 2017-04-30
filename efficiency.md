@@ -10,13 +10,21 @@
 
 A cool calendar placed on your windows desktop used as a memo.
 
+### Double Commander ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://doublecmd.sourceforge.io/)｜[下载页面 Download Page](https://sourceforge.net/p/doublecmd/wiki/Download/)
+
+开源跨平台文件管理器，受Total Commander启发并加入新特性
+
+A cross platform open source file manager, inspired by Total Commander and features some new ideas
+
 ### [Everything](http://www.voidtools.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 最快速的文件/文件名搜索工具
 
 The fastest file/folder search tool by name.
 
-### FreeCommander ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### FreeCommander ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://freecommander.com/en/summary/)｜[下载页面 Download Page](http://freecommander.com/en/downloads/)
 
