@@ -54,7 +54,7 @@
 
 # Windows Apps That Amaze Us
 
-![build](https://img.shields.io/badge/build-passing-green.svg) ![apps count](https://img.shields.io/badge/apps%20count-246-blue.svg) ![license](https://img.shields.io/badge/lisence-GPL%20v2.0-red.svg) [![telegram](https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg)](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg)](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+![build](https://img.shields.io/badge/build-passing-green.svg "You don't actually need to know what build status is╮(╯▽╰)╭") ![apps count](https://img.shields.io/badge/apps%20count-247-blue.svg "Wow! Such many apps already?！Σ(っ °Д °;)っ") ![license](https://img.shields.io/badge/lisence-GPL%20v2.0-red.svg  "Save your time to Google it as you won't understand it=￣ω￣=") [![telegram](https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg "Guess if I'm ♂online？")](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg  "Any suggestion is welcome. Just see if I will accept it.(●ˇ∀ˇ●)")](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
