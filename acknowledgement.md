@@ -42,6 +42,8 @@ Other individuals※其他个人：
 
 * [EtaoinWu \(Wu Yue\)](https://github.com/EtaoinWu)
 
+* [fengbjhqs](https://github.com/fengbjhqs)
+
 * [fuchao2012 \(zheng\)](https://github.com/fuchao2012)
 
 * [gaodeng](https://github.com/gaodeng)

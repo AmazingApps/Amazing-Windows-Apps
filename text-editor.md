@@ -108,9 +108,9 @@ The sophisticated text editor.
 
 A minimal MarkDown reading & writing app.
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Visual Studio Code](https://code.visualstudio.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-建立调试网页及云端工具
+微软出品的开源文本编辑器
 
-Build and debug modern web and cloud applications.
+Open source text editor from Microsoft
 
