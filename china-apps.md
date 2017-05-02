@@ -44,6 +44,14 @@ Set videos as desktop background with online base.
 
 All-in-one Web front end development suit
 
+### \[电子书库\]
+
+### [Gaaiho PDF Reader](http://pdf.gaaiho.com/index.php) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+媲美Adobe Acrobat的专业免费PDF阅读器
+
+One of the preferred Adobe replacements
+
 ### \[效率工具\]
 
 ### [Desktopcal](http://www.desktopcal.com/) 桌面日历 ![](/assets/图片2.png) ![](/assets/earth-globe.png)

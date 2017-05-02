@@ -12,6 +12,12 @@
 
 One-stop solution to all your ebook need.
 
+### [Gaaiho PDF Reader](http://pdf.gaaiho.com/index.php) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+媲美Adobe Acrobat的专业免费PDF阅读器
+
+One of the preferred Adobe replacements
+
 ### [kobo](https://www.kobo.com/desktop) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 巨丑无比但强大无比的电子书管理

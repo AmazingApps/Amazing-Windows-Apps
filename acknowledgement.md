@@ -46,6 +46,8 @@ Other individuals※其他个人：
 
 * [gaodeng](https://github.com/gaodeng)
 
+* [GianisLee \(Gianis\)](https://github.com/GianisLee)
+
 * greatYear
 
 * [HGladiator \(Milafa\)](https://github.com/HGladiator)
