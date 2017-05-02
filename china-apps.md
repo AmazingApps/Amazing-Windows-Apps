@@ -82,6 +82,12 @@ Modern mouse gestures for Windows. \(C\#\)
 
 An effective launcher for Windows.
 
+### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
+
+记录简单应用详情的数据库式的启动器
+
+A data-base style launcher that can collect some detailed info
+
 ### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
 
 视频引索管理器
