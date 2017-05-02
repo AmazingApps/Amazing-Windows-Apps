@@ -114,7 +114,7 @@ An effective launcher for Windows.
 
 A data-base style launcher that can collect some detailed info
 
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png)
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
 
 视频引索管理器
 
