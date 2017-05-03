@@ -28,6 +28,12 @@ A browser automatically blocks ads and trackers.
 
 An enhanced version of the Chromium web browser that bundles many useful features.
 
+### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+ 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
+
+A PowerShell script to establish own DDNS service on CloudXNS API
+
 ### Firefox 火狐 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### also Mozilla Firefox

@@ -136,6 +136,12 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 Raise up traceroute request from Windows with route visilization display.
 
+### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+ 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
+
+A PowerShell script to establish own DDNS service on CloudXNS API
+
 ### \[实用程序\]
 
 ### [Clipber](http://clipber.com/clipber/) 快帖 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
