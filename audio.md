@@ -78,7 +78,7 @@ An extremely brief audio player that supports GIF background
 
 Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
 
-### mStream ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [mStream](http://mstream.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 跨平台播放任意设备的音频流
 
