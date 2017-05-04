@@ -4,6 +4,12 @@
 
 ---
 
+### [5KPlayer](https://www.5kplayer.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+支持Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器
+
+A univeral multi-media player that supports Airplay, online broadcasting and downloading from some video sites
+
 ### [EMDB](http://www.emdb.eu/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 电影及电视剧追播进度记录，同时支持光盘与本地媒体文件
