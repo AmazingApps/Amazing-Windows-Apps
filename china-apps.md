@@ -172,6 +172,8 @@ All-in-one fonts management, preview, backup and examples.
 
 A malware fighter performing amazingly on PUA protection.
 
+###### ⚠Homepage lockup allowed to be canceled by preferences itself   可通过自身设置取消的主页绑定
+
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
