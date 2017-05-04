@@ -64,6 +64,8 @@ Network security monitoring tool and analyzer that visualizes your network activ
 
 A malware fighter performing amazingly on PUA protection.
 
+###### ⚠Homepage lockup allowed to be canceled by preferences itself   可通过自身设置取消的主页绑定
+
 ### [Kaspersky Free](https://www.kaspersky.com.cn/downloads#tools) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/russia.png)
 
 卡巴斯基防病毒免费版，俄语国家与中国可用
