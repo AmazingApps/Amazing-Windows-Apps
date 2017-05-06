@@ -7,8 +7,8 @@
 本书旨在介绍Windows绝妙项目。本处收录的应用均：
 
 1. 特性精选
-2. 无侵入式广告。存在非侵入式广告的，软件本身应当免费。若用户要求付费，则不应存在任何广告
-3. 尊重隐私：此处定义为：除非出于你或法律要求，否则该应用或应用提供商_**不会**_与任何第三方分享你的隐私信息
+2. 无侵入式广告。存在非侵入式广告的，软件本身应当免费。若用户被要求先付费后使用或存在付费功能，则不应存在任何广告
+3. 尊重隐私：此处定义为：除非出于你或法律要求，否则该应用或应用提供商**不会**与任何第三方分享你的隐私信息
 4. 维护良好。若应用不再维护，则从此处移除
 5. 易于学习掌握：只要了解计算机基础操作即可完全掌握，需要简单学习的应有较高回报
 6. 完全兼容Windows 7/8.1/10 （极个别应用以具体说明为准）
@@ -61,7 +61,7 @@
 This is to introduce amazing works done onto Windows. All apps collected in this book will be:
 
 1. greatly featured.
-2. invasive ads free. But if there is non-invasive ads, this apps should be completely free itself. If users are required to pay, there should NOT be any ads.
+2. invasive ads free. But if there is non-invasive ads, this apps should be completely free itself. If users are required to pay to use it or to unlock more feature, there should NOT be any ads.
 3. privacy respecting: here I mean this app or app provider will NEVER share private info with any 3rd party unless you ask for it or under legal requirements.
 4. actively maintained. If it stops being maintained, it will be removed from here.
 5. easy to learn throughout.
