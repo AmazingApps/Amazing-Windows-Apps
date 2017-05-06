@@ -37,5 +37,6 @@ Advertising from※第三方宣传：
 * [OLEREO!](http://olereo.com/links)
 * [sspai   少数派](https://sspai.com/post/38866)
 
-![](/assets/windows_logo.png)
-
+<p align="center">
+ <img src="/assets/windows_logo.png"/>
+</p>
