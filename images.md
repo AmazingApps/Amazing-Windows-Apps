@@ -10,7 +10,7 @@
 
 An image viewer and organizer free for personal and educational use with basic image editing tools.
 
-### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.gimp.org/)｜[下载页面 Download Page](https://www.gimp.org/downloads/)
 
