@@ -4,7 +4,7 @@
 
 ---
 
-### AIMP ![](/assets/图片2.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### AIMP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.aimp.ru/index.php?do=lang&lng=en)｜[下载页面  Download Page](http://www.aimp.ru/index.php?do=download)
 
