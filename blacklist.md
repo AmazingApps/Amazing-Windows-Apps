@@ -60,6 +60,10 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### Tencent Series   腾讯系列软件   1, 2, 3, 5
 
+### UC Browser   UC浏览器   2, 3, 4
+
+* [仅指UC中文版](http://www.uc.cn/)
+
 ### YY｜YY语音   1, 2, 3, 5
 
 
