@@ -62,7 +62,7 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### UC Browser   UC浏览器   2, 3, 4
 
-* [仅指UC中文版](http://www.uc.cn/)
+* [仅指UC中文版](http://www.uc.cn/)   Include only [the version](http://www.uc.cn/) provided in mainland China
 
 ### YY｜YY语音   1, 2, 3, 5
 
