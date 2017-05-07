@@ -106,7 +106,7 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 ~~Software to prevent cursor from jumping when you are typing on notebook keyboard.~~
 
-###### ⚠OFFICIAL SITE INACCESSIBLE   官网不可用
+###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
 
 ### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
@@ -114,7 +114,7 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 Zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
-###### NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
 
 
 
