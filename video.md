@@ -64,11 +64,13 @@ Free and open source software for video recording and live streaming.
 
 All-in-one home theater solution
 
-### [PotPlayer](http://potplayer.daum.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### PotPlayer ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 多媒体播放器，解码器众多，配置能力强
 
 Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
+
+###### ⚠[FFmpeg PUBLIC LICENSE VIOLATED   违反FFmpeg公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)
 
 ### Shotcut ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
