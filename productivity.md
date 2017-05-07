@@ -46,7 +46,7 @@ All-in-one fonts management, preview, backup and examples.
 
 Open source office suite.
 
-### [Materialette](https://github.com/mike-schultz/materialette) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [Materialette](https://github.com/mike-schultz/materialette) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 material设计的调色板
 
