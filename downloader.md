@@ -52,7 +52,7 @@ P2P文件同步
 
 A proprietary peer-to-peer file synchronization tool.
 
-### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 实时播放种子中的媒体流
 
