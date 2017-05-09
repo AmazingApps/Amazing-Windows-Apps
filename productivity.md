@@ -26,6 +26,14 @@ amWiki is a wiki doc system based on JavaScript, relying on Atom editor and appl
 
 Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
 
+### AutoIt ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://www.autoitscript.com/site/autoit/)｜[下载页面 Download Page](https://www.autoitscript.com/site/autoit/downloads/)
+
+类BASIC脚本语言，用于Windows GUI的自动化以及编写一般脚本
+
+BASIC-like scripting language designed for automating the Windows GUI and general scripting.
+
 ### Cortana ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 微软开发的Windows 10内置个人助理
