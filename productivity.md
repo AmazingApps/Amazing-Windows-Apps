@@ -34,6 +34,8 @@ Open-source scripting language for Windows that allows users to easily create sm
 
 BASIC-like scripting language designed for automating the Windows GUI and general scripting.
 
+###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
 ### Cortana ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 微软开发的Windows 10内置个人助理
