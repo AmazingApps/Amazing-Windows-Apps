@@ -164,6 +164,14 @@ amWiki is a wiki doc system based on JavaScript, relying on Atom editor and appl
 
 All-in-one fonts management, preview, backup and examples.
 
+### XMind ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://www.xmind.net/)｜[下载页面 Download Page](http://www.xmind.net/download/win/)
+
+思维导图工具，带有免费的云端同步
+
+A popular mind map tool with free cloud sync.
+
 ### \[隐私安全\]
 
 ### [Huorong Security](http://www.huorong.cn/) 火绒 ![](/assets/图片2.png) ![](/assets/china.png)
