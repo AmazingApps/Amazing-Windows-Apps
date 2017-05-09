@@ -64,6 +64,14 @@ Fences的免费替代，具备媒体文件预览功能
 
 A free alternative, with media preview, to Fences
 
+### Q-Dir ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.softwareok.com/?seite=Freeware/Q-Dir)｜[下载页面 Download Page](http://www.softwareok.com/?Download=Q-Dir)
+
+独到的四屏比对的高级文件管理器
+
+A file manager with quadra-view technique
+
 ### [RescueTime](https://team.rescuetime.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 追踪你在应用与页面上使用的时间并给予详细活动报告
