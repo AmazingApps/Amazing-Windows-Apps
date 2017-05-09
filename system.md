@@ -28,6 +28,14 @@ An all-in-one system optimization unity.
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
 
+### AOMEI Partition Assistant  分区助手 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网](http://www.disktool.cn/)｜[Official Site](http://www.disk-partition.com/)｜[下载页面](http://www.disktool.cn/download.html)｜[Download Page](http://www.disk-partition.com/download-home.html)
+
+无损分区工具，提供简单、易用的磁盘分区管理操作
+
+Resize, move, extend, merge and split partitions without data loss to maximize disk space use
+
 ### ~~Clover~~ ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ~~为文件资源浏览器增加多标签特性~~
