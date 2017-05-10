@@ -94,6 +94,8 @@ Multimedia player that can save different preferences for any single video
 
 A films/TV series manager that supports films info & subtitles downloading, watching markup, sync to Trakt.tv, etc.
 
+###### 📌Java1.7+ required 需要Java1.7或更新
+
 ### [VLC](http://www.videolan.org/vlc/index.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
