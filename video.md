@@ -86,6 +86,14 @@ A free, open source, cross-platform video editor
 
 Multimedia player that can save different preferences for any single video
 
+### tinyMediaManager ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://www.tinymediamanager.org/)｜[下载页面 Download Page](http://www.tinymediamanager.org/download/)
+
+电影电视剧管理工具，支持自动下载影片信息、字幕、标记已观看、同步 Trakt.tv 等功能
+
+A films/TV series manager that supports films info & subtitles downloading, watching markup, sync to Trakt.tv, etc.
+
 ### [VLC](http://www.videolan.org/vlc/index.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
