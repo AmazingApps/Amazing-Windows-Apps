@@ -28,14 +28,6 @@ High performance video encoding and conversion tools with a nice GUI.
 
 Free and Open Source home theatre software.
 
-### [~~LICEcap~~](http://www.cockos.com/licecap/) ![](/assets/图片2.png) ![](/assets/united-states.png)
-
-~~屏幕录制并保存为GIF~~
-
-~~Animated screen captures and save them directly to .GIF~~
-
-###### No update for long now   长期无更新
-
 ### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复

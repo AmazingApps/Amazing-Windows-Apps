@@ -30,6 +30,14 @@ Windows键盘活动可视化以便录屏时展示
 
 Keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 
+### [LICEcap](http://www.cockos.com/licecap/) ![](/assets/图片2.png) ![](/assets/united-states.png)
+
+屏幕录制并保存为GIF
+
+Animated screen captures and save them directly to .GIF
+
+###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
 ### NirLauncher ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://launcher.nirsoft.net/)｜[下载页面 Download Page](http://launcher.nirsoft.net/downloads/index.html)
