@@ -119,13 +119,19 @@ Enhanced task manager which allows you to terminate some critical processes.
 
 Multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
+### [Process Lasso](https://bitsum.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+ Adjust processes priority to prevent CPU unresponsing on some devices
+
+自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
+
 ### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 一站式Explorer增强工具
 
 Significantly improve Explorer efficiency
 
-###### NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
+###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
 
 ### Rapid Environment Editor ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
