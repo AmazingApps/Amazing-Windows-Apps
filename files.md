@@ -18,6 +18,14 @@ Highlight file differences: source code, folders, images, etc.
 
 Open source file transfer
 
+### **Duplicate Cleaner** ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](https://www.digitalvolcano.co.uk/duplicatecleaner.html)｜[下载页面 Download Page](https://www.digitalvolcano.co.uk/dcdownloads.html)
+
+Duplicate file searching that supports sub-folders & MD5
+
+支持子目录搜索或MD5码搜索的重复文件查询工具
+
 ### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 快速复制、同步、删除文件。
