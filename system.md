@@ -36,6 +36,14 @@ You are now alllowed to easily drag, resize, minimize, etc. windows when pressin
 
 Resize, move, extend, merge and split partitions without data loss to maximize disk space use
 
+### cFosSpeed ![](/assets/earth-globe.png)
+
+###### [官网](https://www.cfos.de/zh-cn/cfosspeed/cfosspeed.htm)｜[Official Site](https://www.cfos.de/en/cfosspeed/cfosspeed.htm)｜[下载页面](https://www.cfos.de/zh-cn/download/download.htm)｜[Download Page](https://www.cfos.de/en/download/download.htm)
+
+为不同进程调节不同的网络占用优先级并帮助降低延时
+
+Modify processes priority on network traffic and help to reduce ping.
+
 ### ~~Clover~~ ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ~~为文件资源浏览器增加多标签特性~~
@@ -121,7 +129,7 @@ Multi-purpose tool that helps you monitor system resources, debug software and d
 
 ### [Process Lasso](https://bitsum.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
- Adjust processes priority to prevent CPU unresponsing on some devices
+Adjust processes priority to prevent CPU unresponsing on some devices
 
 自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
 
