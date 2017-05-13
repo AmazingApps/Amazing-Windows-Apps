@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Windows 绝赞应用</h1>
+<h1 align="center">Windows 绝赞应用</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
@@ -63,7 +63,7 @@
 
 ---
 
-<h1 style="text-align:center">Windows Apps That Amaze Us</h1>
+<h1 align="center">Windows Apps That Amaze Us</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
