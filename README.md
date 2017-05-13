@@ -1,6 +1,15 @@
-# Windows绝赞应用
+<h1 style="text-align:center">Windows 绝赞应用</h1>
 
-![build](https://img.shields.io/badge/build-passing-green.svg "这build status什么的你不用知道啦╮(╯▽╰)╭") ![apps count](https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-260-blue.svg "哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ") ![license](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg "不用去找了，反正你也看不懂=￣ω￣=") [![telegram](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg "你猜我会不会在♂线呢？")](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg  "有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)")](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+<p align="center">
+<img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
+<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-260-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" /> <img src="https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg" title="不用去找了，反正你也看不懂=￣ω￣=" />
+<a href="https://t.me/EMLVIRUS" target="_blank">
+<img src="https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg" title="你猜我会不会在♂线呢？"/>
+</a>
+<a href="https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg" title="有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)"/>
+</a>
+</p>
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发
 
@@ -54,9 +63,19 @@
 
 ---
 
-# Windows Apps That Amaze Us
+<h1 style="text-align:center">Windows Apps That Amaze Us</h1>
 
-![build](https://img.shields.io/badge/build-passing-green.svg "You don't actually need to know what build status is╮(╯▽╰)╭") ![apps count](https://img.shields.io/badge/apps%20count-260-blue.svg "Wow! Such many apps already?！Σ(っ °Д °;)っ") ![license](https://img.shields.io/badge/lisence-GPL%20v2.0-red.svg  "Save your time to Google it as you won't understand it=￣ω￣=") [![telegram](https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg "Guess if I'm ♂online？")](https://t.me/EMLVIRUS) [![Issues](https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg  "Any suggestion is welcome. Just see if I will accept it.(●ˇ∀ˇ●)")](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues)
+<p align="center">
+<img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
+<img src="https://img.shields.io/badge/apps%20count-260-blue.svg" title="Wow! Such many apps already?！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/lisence-GPL%20v2.0-red.svg" title="Save your time to Google it as you won't understand it=￣ω￣=" />
+<a href="https://t.me/EMLVIRUS" target="_blank">
+<img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
+</a>
+<a href="https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg" title="Any suggestion is welcome. Just see if I will accept it.(●ˇ∀ˇ●)"/>
+</a>
+</p>
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
