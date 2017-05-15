@@ -40,7 +40,7 @@ A very fast image viewer supporting various formats.
 
 Image viewer, editor, organiser and converter. It can also play video and audio files, and has some image creation and painting capabilities.
 
-### ImageMagick ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### ImageMagick ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.imagemagick.org/script/index.php)｜[下载页面 Download Page](https://www.imagemagick.org/script/download.php)
 

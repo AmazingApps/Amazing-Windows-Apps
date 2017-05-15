@@ -62,6 +62,14 @@ SSH与telnet客户端
 
 SSH and telnet client.
 
+### WinSCP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网](https://winscp.net/eng/docs/lang:chs)｜[Official Site](https://winscp.net/eng/index.php)｜[下载页面](https://winscp.net/eng/docs/lang:chs#%E4%B8%8B%E8%BD%BD)｜[Download Page](https://winscp.net/eng/download.php)
+
+An open source free SFTP/FTP/WebDAV/SCP client
+
+免费开源的SFTP/FTP/WebDAV/SCP客户端
+
 ### Xshell ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.netsarang.com/products/xsh_overview.html)｜[下载页面 Download Page](http://www.netsarang.com/download/down_xsh5.html)
