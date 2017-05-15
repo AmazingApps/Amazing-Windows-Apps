@@ -4,6 +4,14 @@
 
 ---
 
+### Advanced Renamer ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://www.advancedrenamer.com/)｜[下载页面 Download Page](https://www.advancedrenamer.com/download)
+
+一次性重命名多个文件/文件夹，可修改文件属性、时间戳等，具备自定义规则脚本支持
+
+Renaming multiple files and folders at once  to change the names, attributes, and timestamps with scripting support.
+
 ### Beyond Compare ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://www.scootersoftware.com/)｜[下载页面 Download Page](http://www.scootersoftware.com/download.php)
