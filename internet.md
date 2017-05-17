@@ -52,6 +52,14 @@ An open source web browser that is highly extensive and privacy respecting.
 
 Douban.FM, Soundcloud, Internet Radio and Podcast on your Windows
 
+### [Maxthon](http://www.maxthon.com/mx5/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+* ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
+
+同时内嵌Trident与chromium的网页浏览器，内置高效密码管理器
+
+A Web browser that embedded with both Trident & chromium with a smart password manager.
+
 ### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 基于chromium的浏览器，内置内容拦截器与快速预读取

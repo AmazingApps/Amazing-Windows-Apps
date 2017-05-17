@@ -136,6 +136,14 @@ Raise up traceroute request from Windows with route visilization display.
 
 A PowerShell script to establish own DDNS service on CloudXNS API
 
+### [Maxthon](http://www.maxthon.com/mx5/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+* ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
+
+同时内嵌Trident与chromium的网页浏览器，内置高效密码管理器
+
+A Web browser that embedded with both Trident & chromium with a smart password manager.
+
 ### \[实用程序\]
 
 ### [Clipber](http://clipber.com/clipber/) 快帖 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
@@ -208,7 +216,7 @@ First CBS-based Dism GUI implementation globally.
 
 A text editor with Markdown preview and hex editor
 
-### Leanote ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Leanote 蚂蚁笔记![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://leanote.com/)｜[下载页面 Download Page](http://app.leanote.com/)
 
