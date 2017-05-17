@@ -144,6 +144,16 @@ A PowerShell script to establish own DDNS service on CloudXNS API
 
 A Web browser that embedded with both Trident & chromium with a smart password manager.
 
+### UC Browser ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://www.ucweb.com/)｜[下载页面 Download Page](http://www.ucweb.com/ucbrowser/download/)
+
+* ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
+
+基于Trident的网页浏览器，内置多项增强
+
+A Web browser based on Trident with multiple enhancement
+
 ### \[实用程序\]
 
 ### [Clipber](http://clipber.com/clipber/) 快帖 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
