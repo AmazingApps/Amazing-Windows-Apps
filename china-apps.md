@@ -208,6 +208,14 @@ First CBS-based Dism GUI implementation globally.
 
 A text editor with Markdown preview and hex editor
 
+### LeaNote ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://leanote.com/)｜[下载页面 Download Page](http://app.leanote.com/)
+
+支持 Markdown 的开源云笔记，也可以搭建个人博客
+
+A Markdown cloud note taking that allows you to establish personal blog
+
 ### \[视频工具\]
 
 ### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)

@@ -24,16 +24,17 @@ Other individuals※其他个人：
 | [dzlzh \(DZLZH\)](https://github.com/dzlzh) | [e32ubhds](https://github.com/e32ubhds) | [ElTopo](https://github.com/ElTopo) | [EtaoinWu \(Wu Yue\)](https://github.com/EtaoinWu) |
 | [fengbjhqs](https://github.com/fengbjhqs) | [fuchao2012 \(zheng\)](https://github.com/fuchao2012) | [gaodeng](https://github.com/gaodeng) | [GianisLee \(Gianis\)](https://github.com/GianisLee) |
 | greatYear | [HGladiator \(Milafa\)](https://github.com/HGladiator) | [hizjz](https://github.com/hizjz) | [idisreg](https://github.com/idisreg) |
-| [juqkai](https://github.com/juqkai) | [kmdgeek](https://github.com/kmdgeek) | [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071) | [lingchuanbo](https://github.com/lingchuanbo) |
-| [momoca](https://github.com/momoca) | [onikwuthkro \(Karsten Ng\)](https://github.com/onikwuthkro) | Rambin | SAGE |
-| [shensven (Shensven)](https://github.com/shensven) | [StrollStars](https://github.com/StrollStars) | [ts8zs \(天杀包子神\)](https://github.com/ts8zs) | [tttsss520 (烟雨三千年)](https://github.com/tttsss520) |
-| [unnamed5719](https://github.com/unnamed5719) | [venmos \(Kuroi Mato\)](https://github.com/venmos) | [WanderMax](https://github.com/WanderMax) | [Yanda Huang](https://github.com/yodahuang) |
-| [yfdyh000 \(YFdyh000\)](https://github.com/yfdyh000) | [yi-Xu-0100 (yi_Xu)](https://github.com/yi-Xu-0100) | [ZetaoYang](https://github.com/ZetaoYang) |  |
+| [iplaywind](https://github.com/iplaywind) | [juqkai](https://github.com/juqkai) | [kmdgeek](https://github.com/kmdgeek) | [kongxi0071 \(Zack Liang\)](https://github.com/kongxi0071) |
+| [lingchuanbo](https://github.com/lingchuanbo) | [momoca](https://github.com/momoca) | [onikwuthkro \(Karsten Ng\)](https://github.com/onikwuthkro) | Rambin |
+| SAGE | [shensven (Shensven)](https://github.com/shensven) | [StrollStars](https://github.com/StrollStars) | [ts8zs \(天杀包子神\)](https://github.com/ts8zs) |
+| [tttsss520 (烟雨三千年)](https://github.com/tttsss520) | [unnamed5719](https://github.com/unnamed5719) | [venmos \(Kuroi Mato\)](https://github.com/venmos) | [WanderMax](https://github.com/WanderMax) |
+| [Yanda Huang](https://github.com/yodahuang) | [yfdyh000 \(YFdyh000\)](https://github.com/yfdyh000) | [yi-Xu-0100 (yi_Xu)](https://github.com/yi-Xu-0100) | [ZetaoYang](https://github.com/ZetaoYang) |
 
 Advertising from※第三方宣传：
 
 * [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
 * [JJBOOM.COM   点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
+* [LeaNote 蚂蚁笔记](https://leanote.com/)
 * [OLEREO!](http://olereo.com/links)
 * [sspai   少数派](https://sspai.com/post/38866)
 * [03k   零散坑](https://03k.org)
