@@ -34,7 +34,7 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 
 ### 360 Series   360系列软件   1, 2, 3, 4, 5
 
-* Excluding 360 Security International   不包含360卫士国际版
+* Excluding 360 Security Essential   不包含360卫士国际版
 
 ### ADM   阿呆喵广告拦截   2, 3
 
@@ -61,8 +61,6 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 ### Tencent Series   腾讯系列软件   1, 2, 3, 5
 
 ### UC Browser   UC浏览器   2, 3, 4
-
-* [仅指UC中文版](http://www.uc.cn/)   Include only [the version](http://www.uc.cn/) provided in mainland China
 
 ### YY｜YY语音   1, 2, 3, 5
 

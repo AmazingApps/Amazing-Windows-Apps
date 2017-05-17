@@ -102,16 +102,6 @@ A proprietary computer software package for remote control, desktop sharing, onl
 
 Enable anonymous communication.
 
-### UC Browser ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
-
-###### [官网 Official Site](http://www.ucweb.com/)｜[下载页面 Download Page](http://www.ucweb.com/ucbrowser/download/)
-
-* ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
-
-基于Trident的网页浏览器，内置多项增强
-
-A Web browser based on Trident with multiple enhancement
-
 ### [Vivaldi](https://vivaldi.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 同样基于chromium的优秀浏览器
