@@ -80,6 +80,14 @@ Free drawing software with a bunch of cool features.
 
 Free image and photo editing.
 
+### PicPick ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://ngwin.com/picpick)｜[下载页面 Download Page](http://ngwin.com/picpick/download)
+
+多功能图像工具，包含截屏、简单图像编辑、取色器、调色板、像素尺、量角器、十字准线、白板等等
+
+A full-featured screen capture tool, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard, etc.
+
 ### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
 
 Python编写的艺术二维码生成器
