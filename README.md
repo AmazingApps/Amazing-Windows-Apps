@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-265-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" /> <img src="https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg" title="不用去找了，反正你也看不懂=￣ω￣=" />
+<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-266-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" /> <img src="https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg" title="不用去找了，反正你也看不懂=￣ω￣=" />
 <a href="https://t.me/EMLVIRUS" target="_blank">
 <img src="https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg" title="你猜我会不会在♂线呢？"/>
 </a>
