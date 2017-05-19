@@ -22,6 +22,14 @@ A HDD/SSD info utility software which supports a part of USB connection and Inte
 
 Automatically adjust your computer screen to match lighting.
 
+### GPU-Z ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://www.techpowerup.com/gpuz/)｜[下载页面 Download Page](https://www.techpowerup.com/download/techpowerup-gpu-z/#)
+
+显示显卡与图形处理器硬件信息的轻量级系统工具
+
+A lightweight system utility designed to provide vital information about your video card and graphics processor.
+
 ### Iobit Driver Booster ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.iobit.com/en/driver-booster.php)｜[下载页面 Download Page](http://download.cnet.com/Driver-Booster/3001-18513_4-75992725.html?hasJs=n&part=dl-)
@@ -47,6 +55,12 @@ Free open source software that monitors temperature sensors, fan speeds, voltage
 了解计算机硬件详细信息
 
 Detailed statistics on every piece of hardware in your computer.
+
+### [SSD-Z](http://aezay.dk/aezay/ssdz/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+显示固态硬盘及其它硬盘的关联信息
+
+An information tool for Solid State Drives and other disk devices.
 
 ### ~~护眼宝~~ ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
 
