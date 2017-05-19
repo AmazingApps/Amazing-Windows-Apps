@@ -114,6 +114,12 @@ A free and open source program that lets you capture or record any area of your 
 
 Beautiful desktop wallpapers.
 
+### [XnConvert](http://www.xnview.com/en/xnconvert/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+免费跨平台图片批量转换工具，内置微调滤镜
+
+Powerful and free cross-platform batch image converter with simple adjustment ability
+
 ### Xnview ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://www.xnview.com/en/)｜[下载页面 Download Page](http://www.xnview.com/en/xnview/#downloads)
