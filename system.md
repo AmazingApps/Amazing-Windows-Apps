@@ -36,6 +36,14 @@ You are now alllowed to easily drag, resize, minimize, etc. windows when pressin
 
 Resize, move, extend, merge and split partitions without data loss to maximize disk space use
 
+### AquaSnap ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://www.nurgo-software.com/products/aquasnap)｜[下载页面 Download Page](http://www.nurgo-software.com/pricing/aquasnap)
+
+为窗口添加全局动作特效，显著提升多窗口操作效率
+
+Add action effects to your windows globally to improve your operating efficiency
+
 ### cFosSpeed ![](/assets/earth-globe.png)
 
 ###### [官网](https://www.cfos.de/zh-cn/cfosspeed/cfosspeed.htm)｜[Official Site](https://www.cfos.de/en/cfosspeed/cfosspeed.htm)｜[下载页面](https://www.cfos.de/zh-cn/download/download.htm)｜[Download Page](https://www.cfos.de/en/download/download.htm)
