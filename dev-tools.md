@@ -94,13 +94,20 @@ Open source multi-platform virtual machine
 
 Ultimate Microsoft Developer Tool.
 
-### VMware Workstation Player ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### VMware Workstation Player ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.vmware.com/)｜[下载页面 Download Page](https://www.vmware.com/products/player/playerpro-evaluation.html)
 
 性能强劲的虚拟机应用
 
 A virtual machine station player performing amazingly smooth.
+
+### VMware Workstation Pro ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+###### [官网 Official Site](https://www.vmware.com/)｜[下载页面 Download Page](https://www.vmware.com/go/downloadworkstation)
+
+在隔离的安全虚拟化环境中评估新的操作系统、软件应用和补丁程序以及参考体系结构
+
+VMware Workstation Pro is the industry standard for running multiple operating systems as virtual machines on a single PC. Thousands of IT professionals, developers and businesses use Workstation Pro to be more agile, more productive and more secure every day.
 
 ### Windows Sysinternals ![](/assets/图片2.png) ![](/assets/united-states.png)
 
