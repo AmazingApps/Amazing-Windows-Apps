@@ -32,7 +32,7 @@
 
 结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
 
-本项目使用GNU GPL v2.0协议，转载请声明[GitBook项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源
+本项目使用GNU GPL v2.0协议，转载请声明[GitBook项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源；未经本项目所有人授权不得将项目内容用于盈利
 
 更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程请[移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) ，也可查看[已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone )
 
@@ -98,7 +98,7 @@ Many apps can be sorted in multiple categlory so here main design purpose is con
 
 There is a black list at the end in which apps violate users profit and privacy severely so that you should aviod them.
 
-This project is under GNU GPL v2.0, claim [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this.
+This project is under GNU GPL v2.0, claim [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this. You are NOT allowed to make profit with any content in this repository without authorization.
 
 Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
