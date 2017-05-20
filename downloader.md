@@ -4,7 +4,7 @@
 
 ---
 
-### [aria2](https://aria2.github.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [aria2](https://aria2.github.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持HTTP/HTTPS、FTP、SFTP、BT与磁链
 
@@ -18,7 +18,7 @@ Free all-in-one download manage for HTTP\(S\), FTP, MMS and RTSP protocol and al
 
 ###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT   默认下载其它无害应用
 
-### [FDM](http://www.freedownloadmanager.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+### [FDM](http://www.freedownloadmanager.org/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 免费强大的下载加速管理器，支持HTTP/HTTPS/FTP/种子等协议
 
