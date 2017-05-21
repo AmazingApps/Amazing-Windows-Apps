@@ -38,7 +38,7 @@ One browser for your computer, phone and tablet
 
 ###### [官网 Official Site](https://www.chromium.org/Home)｜[下载页面 Download Page](https://www.chromium.org/getting-involved/download-chromium)
 
-Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多重开源协议发行并且开放源代码，Chrome和Chromium在实际功能上没有太大差距,可以说Chromium是Chrome的开源版本
+Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多重开源协议发行并且开放源代码，Chrome和Chromium在实际功能上没有太大差距，可以说Chromium是Chrome的开源版本
 
 Chromium is an open-source web browser project started by Google, to provide the source code for the proprietary Google Chrome browser.The two browsers share the majority of code and features, though there are some minor differences in features, logos and they have different licensing
 
