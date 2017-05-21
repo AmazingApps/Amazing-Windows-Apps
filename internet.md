@@ -28,6 +28,20 @@ A browser automatically blocks ads and trackers.
 
 An enhanced version of the Chromium web browser that bundles many useful features.
 
+### [Chrome](dl.google.com) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+一款适用于计算机、手机和平板电脑的浏览器
+
+One browser for your computer, phone and tablet
+
+### Chromium ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://www.chromium.org/Home)｜[下载页面 Download Page](https://www.chromium.org/getting-involved/download-chromium)
+
+Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多重开源协议发行并且开放源代码，Chrome和Chromium在实际功能上没有太大差距,可以说Chromium是Chrome的开源版本
+
+Chromium is an open-source web browser project started by Google, to provide the source code for the proprietary Google Chrome browser.The two browsers share the majority of code and features, though there are some minor differences in features, logos and they have different licensing
+
 ### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
