@@ -28,7 +28,7 @@ A browser automatically blocks ads and trackers.
 
 An enhanced version of the Chromium web browser that bundles many useful features.
 
-### [Chrome](dl.google.com) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [Chrome](https://dl.google.com) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 一款适用于计算机、手机和平板电脑的浏览器
 
