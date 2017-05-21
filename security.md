@@ -96,6 +96,12 @@ Powerful all-in-one password manager and keeper with free cloud sync across all 
 
 Internet traffic control and monitoring tool
 
+### [Pcap\_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+基于 WinPcap/LibPcap 用于过滤 DNS 投毒污染的工具，支持多服务器并行请求能以提高在恶劣网络环境下域名解析的可靠性
+
+A local DNS server based on WinPcap and LibPcap to prevent DNS pollution & to improve DNS query reliability by multi-server requesting
+
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
@@ -124,9 +130,9 @@ A main fork based on Shadowsocks
 
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
-简单的DNSCrypt管理工具
+简单的DNSCrypt管理工具，可用于预防DNS污染
 
-A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/).
+A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
 
 ### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
