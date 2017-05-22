@@ -142,6 +142,12 @@ Cross-platform files transfer.
 
 Lets you understand how folders and files are structured on your disks by using a treemap visualization layout for immediate perception of where big folders and files are placed on your devices.
 
+### [TeraCopy](/www.codesector.com/teracopy) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+更快速安全的文件复制方案，帮助解决复制错误、支持文件效验与拖放操作
+
+Copy your files faster and more securely, help with copy error and file verification with drag'n'drop support.
+
 ### [Waltr](http://softorino.com/waltr/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 向iPhone iTunes传输电影音频文件

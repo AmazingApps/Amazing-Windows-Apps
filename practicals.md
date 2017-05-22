@@ -70,7 +70,7 @@ A free translator for Windows.
 
 简单地创建 U 盘启动盘
 
-Create bootable USB drives the easy way.
+Create bootable USB drives in an easy way.
 
 ### [ScreenToGif](http://www.screentogif.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
