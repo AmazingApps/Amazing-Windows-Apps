@@ -33,13 +33,15 @@ Other individuals※其他个人：
 
 Advertising from※第三方宣传：
 
-* [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
-* [阿七's BLOG](https://aptx4869.tech/2017/05/19/wapps/)
-* [JJBOOM.COM   点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
-* [Leanote 蚂蚁笔记](https://leanote.com/)
-* [OLEREO!](http://olereo.com/links)
-* [sspai   少数派](https://sspai.com/post/38866)
-* [03k   零散坑](https://03k.org)
+* Original Introduction※原创介绍:
+    * [appinn   小众软件](http://www.appinn.com/windows-apps-that-amaze-us/)
+    * [阿七's BLOG](https://aptx4869.tech/2017/05/19/wapps/)
+    * [JJBOOM.COM   点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
+    * [sspai   少数派](https://sspai.com/post/38866)
+* Friendship Links※友链合作:
+    * [Leanote 蚂蚁笔记](https://leanote.com/)
+    * [OLEREO!](http://olereo.com/links)
+    * [03k   零散坑](https://03k.org)
 
 <p align="center">
  <img src="/assets/windows_logo.png"/>
