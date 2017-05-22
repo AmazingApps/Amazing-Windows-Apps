@@ -36,6 +36,12 @@ Offline browser utility, allowing you to download a website from the Internet to
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
+### [Persepolis Download Manager](https://github.com/persepolisdm/persepolis) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+简单易用优雅的跨平台aria2 GUI客户端
+
+Cross-platform GUI client for aria2, easy to use and elegant.
+
 ### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.qbittorrent.org/)｜[下载页面 Download Page](https://www.qbittorrent.org/download.php)
