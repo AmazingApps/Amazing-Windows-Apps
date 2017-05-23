@@ -42,6 +42,7 @@ Advertising from※第三方宣传：
     * [Leanote 蚂蚁笔记](https://leanote.com/)
     * [OLEREO!](http://olereo.com/links)
     * [03k   零散坑](https://03k.org)
+    * [萌月神社](http://blog.ciovem.org/)
 
 <p align="center">
  <img src="/assets/windows_logo.png"/>
