@@ -58,6 +58,14 @@ P2P文件同步
 
 A proprietary peer-to-peer file synchronization tool.
 
+### uGet ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://ugetdm.com/)｜[下载页面 Download Page](http://ugetdm.com/downloads)
+
+轻量级多功能下载器，支持含BT在内的所有常见协议的同时兼容 Curl 与 aria2
+
+Light-weighted yet multi-functional downloader supporting all usual protocol with Curl & aria2 pluged in.
+
 ### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 实时播放种子中的媒体流
