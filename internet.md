@@ -96,6 +96,14 @@ Allows network applications that do not support working through proxy servers
 
 Open-source cross-platform RSS/Atom news feeds reader.
 
+### Retroshare ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://retroshare.net/)｜[下载页面 Download Page](http://retroshare.net/downloads.html)
+
+免费开源适用于亲友间的安全的去中心化交流平台，可用于聊天、语音视频、分享文件、论坛等
+
+A free and open source cross-platform, Friend-2-Friend and secure decentralised communication platform for chatting, voice & video call, files sharing, forum building, etc.
+
 ### [SoundWire](http://georgielabs.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 使用无线传输音频，从PC到Android、平板或者其它PC
