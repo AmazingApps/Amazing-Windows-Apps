@@ -64,6 +64,14 @@ Fences的免费替代，具备媒体文件预览功能
 
 A free alternative, with media preview, to Fences
 
+### Outlook on the Desktop ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+
+###### [官网 Official Site](https://outlookonthedesktop.com/)｜[下载页面 Download Page](https://outlookonthedesktop.com/download)
+
+在桌面直接且完整地调用Outlook功能
+
+Direct & complete access to Microsoft Outlook right on the desktop
+
 ### Q-Dir ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://www.softwareok.com/?seite=Freeware/Q-Dir)｜[下载页面 Download Page](http://www.softwareok.com/?Download=Q-Dir)
