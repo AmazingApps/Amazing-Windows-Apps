@@ -28,7 +28,7 @@ Free, open source, cross-platform software for recording and editing sounds.
 
 A lyrics modules that plug into many other multimedia players to download & display lyrics with a large online database.
 
-### Dopamine ![](/assets/图片2.png) ![](/assets/open-source-icon.png "GPL 3.0")](https://github.com/digimezzo/Dopamine) ![](/assets/earth-globe.png)
+### Dopamine ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0")](https://github.com/digimezzo/Dopamine) ![](/assets/earth-globe.png)
 
 ###### [官网  Official Site](http://www.digimezzo.com/software/dopamine/)｜[下载页面  Download Page](http://www.digimezzo.com/content/software/dopamine/)
 
@@ -58,13 +58,13 @@ DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
 
 Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
-### [listen1](https://listen1.github.io/listen1) ![](/assets/图片2.png) ![](/assets/open-source-icon.png  "MIT")](https://github.com/listen1/listen1_desktop) ![](/assets/china.png) ![](/assets/united-states.png)
+### [listen1](https://listen1.github.io/listen1) ![](/assets/图片2.png) [![](/assets/open-source-icon.png  "MIT")](https://github.com/listen1/listen1_desktop) ![](/assets/china.png) ![](/assets/united-states.png)
 
 一站式免费音乐集合
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
-### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/open-source-icon.png "GPL")](https://sourceforge.net/projects/mcool/) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) ![](/assets/china.png) [![](/assets/open-source-icon.png "GPL")](https://sourceforge.net/projects/mcool/) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 支持GIF背景的极简音频播放器
 
@@ -78,7 +78,7 @@ An extremely brief audio player that supports GIF background
 
 Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
 
-### [mStream](http://mstream.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png "GPL 3.0")](https://github.com/IrosTheBeggar/mStream) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [mStream](http://mstream.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0")](https://github.com/IrosTheBeggar/mStream) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 跨平台播放任意设备的音频流
 
@@ -92,7 +92,7 @@ A suite of open source software that lets you sync and stream your music between
 
 Manage, find, and play music files on your computer. Like iTunes but better than iTunes.
 
-### MusicBrainz Picard ![](/assets/图片2.png) ![](/assets/open-source-icon.png "GPL 2.0")](https://github.com/metabrainz/picard) ![](/assets/earth-globe.png)
+### MusicBrainz Picard ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0")](https://github.com/metabrainz/picard) ![](/assets/earth-globe.png)
 
 ###### [官网  Official Site](https://picard.musicbrainz.org/)｜[下载页面  Download Page](https://picard.musicbrainz.org/downloads/)
 
@@ -100,7 +100,7 @@ Manage, find, and play music files on your computer. Like iTunes but better than
 
 Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
-### TTKMusicplayer ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/open-source-icon.png "GPL 2.0")](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/china.png) ![](/assets/united-states.png)
+### TTKMusicplayer ![](/assets/图片2.png) ![](/assets/china.png) [![](/assets/open-source-icon.png "GPL 2.0")](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### [官网  Official Site](http://download.csdn.net/album/detail/3094)｜[下载页面  Download Page](http://download.csdn.net/album/detail/3094)
 
