@@ -70,7 +70,7 @@ One for all free music in china \(Windows, Mac, Linux desktop\).
 
 An extremely brief audio player that supports GIF background
 
-### Mixxx ![](/assets/图片2.png) ![](/assets/open-source-icon.png "Mixxx 2.1")](https://github.com/mixxxdj/mixxx) ![](/assets/earth-globe.png)
+### Mixxx ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Mixxx 2.1")](https://github.com/mixxxdj/mixxx) ![](/assets/earth-globe.png)
 
 ###### [官网  Official Site](https://mixxx.org/)｜[下载页面  Download Page](http://mixxx.org/download/)
 
