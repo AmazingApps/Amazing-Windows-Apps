@@ -46,7 +46,7 @@
 
 ![](/assets/图片2.png) 可免费使用（可能有收费版功能）
 
-![](/assets/open-source-icon.png) 开源软件
+![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：开源协议@托管站点: 开源地址
 
 ![](/assets/usb.png) 便携软件或可便携安装：不写入注册表和用户、系统目录，所有配置全写在软件目录下
 
@@ -114,7 +114,7 @@ see changelog [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/commits/ma
 
 ![](/assets/图片2.png) use it for free \(there can be an advanced paid version\)
 
-![](/assets/open-source-icon.png) open source
+![](/assets/open-source-icon.png) open source, in the tooltip it says: lisence@host site: open source address
 
 ![](/assets/usb.png) portable itself or portable installation provided: it saves config files in its own folder instead of Registry key or user profile folder.
 
