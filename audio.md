@@ -6,7 +6,7 @@
 
 ### AIMP ![](/assets/图片2.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-###### [官网  Official Site](http://www.aimp.ru/index.php?do=lang&lng=en)｜[下载页面  Download Page](http://www.aimp.ru/index.php?do=download)
+###### [官网  Official Site](https://www.aimp.ru/index.php)｜[下载页面  Download Page](http://www.aimp.ru/index.php?do=download)
 
 轻巧的本地音频播放器，支持多种格式，并具备音频管理功能
 
