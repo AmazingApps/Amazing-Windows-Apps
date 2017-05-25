@@ -4,7 +4,7 @@
 
 ---
 
-### calibre ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### calibre ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub/FossHub: https://github.com/kovidgoyal/calibre https://www.fosshub.com/Calibre.html")](https://github.com/kovidgoyal/calibre) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://calibre-ebook.com/)｜[下载页面 Download Page](http://calibre-ebook.com/download)
 
@@ -30,7 +30,7 @@ Incredibly ugly but powerful software for ebook management and conversion.
 
 Amazing PDF reader you'll ever get.
 
-### Sumatra PDF ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### Sumatra PDF ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sumatrapdfreader/sumatrapdf")](https://github.com/sumatrapdfreader/sumatrapdf) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://www.sumatrapdfreader.org/free-pdf-reader.html)｜[下载页面 Download Page](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 
