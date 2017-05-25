@@ -4,7 +4,7 @@
 
 ---
 
-### [aria2](https://aria2.github.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [aria2](https://aria2.github.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/aria2/aria2")](https://github.com/aria2/aria2) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持HTTP/HTTPS、FTP、SFTP、BT与磁链
 
@@ -36,13 +36,13 @@ Offline browser utility, allowing you to download a website from the Internet to
 
 Internet Download Manager \(IDM\) is a tool to increase download speeds with comprehensive error recovery and resume capability.
 
-### [Persepolis Download Manager](https://github.com/persepolisdm/persepolis) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [Persepolis Download Manager](https://persepolisdm.github.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/persepolisdm/persepolis")](https://github.com/persepolisdm/persepolis) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 简单易用优雅的跨平台aria2 GUI客户端
 
 Cross-platform GUI client for aria2, easy to use and elegant.
 
-### qBittorrent ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### qBittorrent ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/qbittorrent/")](https://sourceforge.net/projects/qbittorrent/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.qbittorrent.org/)｜[下载页面 Download Page](https://www.qbittorrent.org/download.php)
 
@@ -58,7 +58,7 @@ P2P文件同步
 
 A proprietary peer-to-peer file synchronization tool.
 
-### uGet ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### uGet ![](/assets/图片2.png) [![](/assets/open-source-icon.png "LGPL 2.0@SourceForge: https://sourceforge.net/projects/urlget/")](https://sourceforge.net/projects/urlget/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://ugetdm.com/)｜[下载页面 Download Page](http://ugetdm.com/downloads)
 
@@ -66,13 +66,13 @@ A proprietary peer-to-peer file synchronization tool.
 
 Light-weighted yet multi-functional downloader supporting all usual protocol with Curl & aria2 pluged in.
 
-### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/webtorrent/webtorrent-desktop")](https://github.com/webtorrent/webtorrent-desktop) ![](/assets/earth-globe.png)
 
 实时播放种子中的媒体流
 
 Play streaming torrent contents without finishing downloading.
 
-### you-get ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### you-get ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/soimort/you-get")](https://github.com/soimort/you-get) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://you-get.org/)｜[下载页面 Download Page](https://github.com/soimort/you-get/releases)
 
@@ -80,7 +80,7 @@ Play streaming torrent contents without finishing downloading.
 
 A tiny downloader that scrapes the web.
 
-### youtube-dl ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### youtube-dl ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/rg3/youtube-dl/")](https://github.com/rg3/youtube-dl/) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://rg3.github.io/youtube-dl/)｜[下载页面 Download Page](http://rg3.github.io/youtube-dl/download.html)
 
