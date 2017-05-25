@@ -4,13 +4,13 @@
 
 ---
 
-### [Alacritty](https://github.com/jwilm/alacritty) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Alacritty](https://github.com/jwilm/alacritty) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/jwilm/alacritty")](https://github.com/jwilm/alacritty) ![](/assets/united-states.png)
 
 跨平台GPU加速终端模拟器
 
 A cross-platform, GPU-accelerated terminal emulator.
 
-### Caddy ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### Caddy ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/mholt/caddy")](https://github.com/mholt/caddy) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://caddyserver.com/)｜[下载页面 Download Page](https://caddyserver.com/download)
 
@@ -18,19 +18,25 @@ A cross-platform, GPU-accelerated terminal emulator.
 
 The HTTP/2 web server with automatic HTTPS
 
-### [Chocolatey](https://chocolatey.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Chocolatey](https://chocolatey.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](/assets/united-states.png)
 
 Windows包管理器
 
 A package manager for Windows.
 
-## [cmder](http://cmder.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [ChocolateyGUI](https://chocolatey.github.io/ChocolateyGUI) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/chocolatey/ChocolateyGUI")](https://github.com/chocolatey/ChocolateyGUI) ![](/assets/united-states.png)
+
+使用Chocolatey NuGet的GUI客户端
+
+A GUI for Chocolatey NuGet
+
+## [cmder](http://cmder.net/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/cmderdev/cmder")](https://github.com/cmderdev/cmder) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 Windows下的便携式控制台模拟器
 
 Portable console emulator for Windows.
 
-### [GitHub Desktop](https://windows.github.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [GitHub Desktop](https://desktop.github.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/desktop/desktop")](https://github.com/desktop/desktop) ![](/assets/united-states.png)
 
 使用GitHub的GUI客户端
 
@@ -42,7 +48,7 @@ A GUI for using GitHub.
 
 All-in-one Web front end development suit
 
-### HeidiSQL ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### HeidiSQL ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@heidisql.com: https://www.heidisql.com/download.php")](https://www.heidisql.com/download.php) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://www.heidisql.com/)｜[下载页面 Download Page](https://www.heidisql.com/download.php)
 
@@ -58,7 +64,7 @@ IDE工具集合
 
 All sets of IDE tools.
 
-### Locale Emulator ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### Locale Emulator ![](/assets/图片2.png) [![](/assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/xupefei/Locale-Emulator")](https://github.com/xupefei/Locale-Emulator) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://pooi.moe/Locale-Emulator/)｜[下载页面 Download Page](https://github.com/xupefei/Locale-Emulator/releases)
 
@@ -66,7 +72,7 @@ All sets of IDE tools.
 
 Yet another region and language simulator.
 
-### [Scoop](https://github.com/lukesampson/scoop) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Scoop](http://scoop.sh/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
 
 命令行安装器
 
@@ -78,7 +84,7 @@ A command-line installer for Windows.
 
 A free visual Git and Hg client
 
-### VirtualBox ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### VirtualBox ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/phpvirtualbox/")](https://sourceforge.net/projects/phpvirtualbox/) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.virtualbox.org/)｜[下载页面 Download Page](https://www.virtualbox.org/wiki/Downloads)
 
@@ -117,13 +123,13 @@ VMware Workstation Pro is the industry standard for running multiple operating s
 
 Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
 
-### [x64dbg](http://x64dbg.com) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [x64dbg](http://x64dbg.com) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/x64dbg/x64dbg")](https://github.com/x64dbg/x64dbg) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 开源Windows调试工具
 
 An open-source x64/x32 debugger for windows.
 
-### XAMPP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### XAMPP ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@SourceForge: https://sourceforge.net/projects/xampp/files/")](https://sourceforge.net/projects/xampp/files/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://www.apachefriends.org/zh_cn/index.html)｜[Official Site](https://www.apachefriends.org/index.html#)｜[下载页面](https://www.apachefriends.org/zh_cn/download.html)｜[Download Page](https://www.apachefriends.org/download.html)
 
