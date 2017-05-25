@@ -20,7 +20,7 @@ Renaming multiple files and folders at once  to change the names, attributes, an
 
 Highlight file differences: source code, folders, images, etc.
 
-### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Dukto](http://www.msec.it/blog/?page_id=11) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/dukto/")](https://sourceforge.net/projects/dukto/) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 开源跨平台文件传输工具
 
@@ -34,7 +34,7 @@ Duplicate file searching that supports sub-folders & MD5
 
 支持子目录搜索或MD5码搜索的重复文件查询工具
 
-### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@ipmsg.org: https://ipmsg.org/tools/fastcopy.html.en")](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 快速复制、同步、删除文件。
 
@@ -50,7 +50,7 @@ Advanced renaming tools with everything you need for renaming
 
 ###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
 
-### FileZilla ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### FileZilla ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/filezilla/")](https://sourceforge.net/projects/filezilla/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://filezilla-project.org/)｜[下载页面 Download Page](https://filezilla-project.org/download.php?show_all=1)
 
@@ -58,7 +58,7 @@ FTP FTPS SFTP客户端
 
 FTP, FTPS and SFTP client.
 
-### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@freefilesync.org: https://www.freefilesync.org/download.php")](https://www.freefilesync.org/download.php) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 简单的文件（夹）备份工具，支持镜像、双向、更新等方式
 
@@ -80,13 +80,13 @@ Hashing utility for verifying integrity of files using a wide range of supported
 
 Free Universal multimedia converter
 
-### [Meld](http://meldmerge.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [Meld](http://meldmerge.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/GNOME/meld")](https://github.com/GNOME/meld) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 可视化文件文件夹对比
 
 Visual diff and merge tool that helps you compare files, directories, and version controlled projects.
 
-### [Pandoc](http://pandoc.org/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Pandoc](http://pandoc.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0+@GitHub: https://github.com/jgm/pandoc")](https://github.com/jgm/pandoc) ![](/assets/united-states.png)
 
 通用文档转换器
 
@@ -106,7 +106,7 @@ Powerful and flexible file renaming tool, which offers all the standard renaming
 
 Complete resource editing tool for any type of Windows executable \(\*.exe; \*.dll; \*.scr; \*.mui etc\).
 
-### [rimraf](https://www.npmjs.com/package/rimraf) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [rimraf](https://www.npmjs.com/package/rimraf) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "ISC@GitHub: https://github.com/isaacs/rimraf")](https://github.com/isaacs/rimraf) ![](/assets/united-states.png)
 
 node使用的深度删除模块。删除深目录文件（夹）
 
@@ -134,7 +134,7 @@ A Windows quick look tool acting just like the one in macOS but more powerful, c
 
 Cross-platform files transfer.
 
-### SpaceSniffer ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### SpaceSniffer ![](/assets/图片2.png) ![](/assets/united-states.png)
 
 ###### [官网 Official Site](http://www.uderzo.it/main_products/space_sniffer/index.html)｜[下载页面 Download Page](http://www.uderzo.it/main_products/space_sniffer/download.html)
 
@@ -142,7 +142,7 @@ Cross-platform files transfer.
 
 Lets you understand how folders and files are structured on your disks by using a treemap visualization layout for immediate perception of where big folders and files are placed on your devices.
 
-### [Syncthing](https://syncthing.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Syncthing](https://syncthing.net/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/syncthing/syncthing")](https://github.com/syncthing/syncthing) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 不依赖云服务器即可在多计算机之间简单安全地同步文件
 
@@ -160,7 +160,7 @@ Copy your files faster and more securely, help with copy error and file verifica
 
 Transfer any movie or music file to your iPhone w/o iTunes.
 
-### WinMerge ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### WinMerge ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/winmerge/")](https://sourceforge.net/projects/winmerge/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://winmerge.org/)｜[下载页面 Download Page](http://winmerge.org/downloads/)
 
