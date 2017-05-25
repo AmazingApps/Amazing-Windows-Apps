@@ -10,7 +10,7 @@
 
 A cool calendar placed on your windows desktop used as a memo.
 
-### Double Commander ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Double Commander ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/doublecmd/")](https://sourceforge.net/projects/doublecmd/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://doublecmd.sourceforge.io/)｜[下载页面 Download Page](https://sourceforge.net/p/doublecmd/wiki/Download/)
 
@@ -38,7 +38,7 @@ A launcher with highly cumstomizable features
 
 An easy-to-use alternative to the standard windows file manager.
 
-### Launchy ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Launchy ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/launchy/")](https://sourceforge.net/projects/launchy/) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.launchy.net/)｜[下载页面 Download Page](http://www.launchy.net/download.php)
 
@@ -64,7 +64,7 @@ Fences的免费替代，具备媒体文件预览功能
 
 A free alternative, with media preview, to Fences
 
-### Outlook on the Desktop ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### Outlook on the Desktop ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/mscrivo/ootd")](https://github.com/mscrivo/ootd) ![](/assets/united-states.png)
 
 ###### [官网 Official Site](https://outlookonthedesktop.com/)｜[下载页面 Download Page](https://outlookonthedesktop.com/download)
 
@@ -104,7 +104,7 @@ Windows最佳文件管理
 
 The best file manager for Windows.
 
-### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png)
+### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](/assets/china.png) ![](/assets/united-states.png)
 
 Windows全局手势
 
@@ -124,13 +124,13 @@ Add Tabs to Any Application.
 
 Free professional dock for Windows.
 
-### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Wox](http://www.getwox.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](/assets/earth-globe.png)
 
 高效启动器
 
 An effective launcher for Windows.
 
-### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
+### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](/assets/china.png) ![](/assets/usb.png)
 
 记录简单应用详情的数据库式的启动器
 
