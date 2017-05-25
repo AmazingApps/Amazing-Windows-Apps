@@ -33,7 +33,7 @@ Recover your deleted files quickly and easily.
 
 Remote recovery option to recover data from another computer over a network.
 
-### TestDisk ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### TestDisk ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL v2+@cgsecurity.org: http://www.cgsecurity.org/wiki/TestDisk_Download")](http://www.cgsecurity.org/wiki/TestDisk_Download) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://www.cgsecurity.org/wiki/TestDisk)｜[下载页面 Download Page](http://www.cgsecurity.org/wiki/TestDisk_Download)
 
