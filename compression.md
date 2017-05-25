@@ -4,7 +4,7 @@
 
 ---
 
-### 7-Zip ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### 7-Zip ![](/assets/图片2.png) [![](/assets/open-source-icon.png "LGPL 2.0@7-zip.org: http://7-zip.org/download.html")](http://7-zip.org/download.html) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://7-zip.org/)｜[下载页面 Download Page](http://7-zip.org/download.html)
 
