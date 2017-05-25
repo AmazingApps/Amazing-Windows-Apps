@@ -4,7 +4,7 @@
 
 ---
 
-### AIMP ![](/assets/图片2.png) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### AIMP ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](https://www.aimp.ru/index.php)｜[下载页面  Download Page](https://www.aimp.ru/index.php?do=download)
 
@@ -12,7 +12,7 @@
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
 
-### Audacity ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/audacity/audacity")](https://github.com/audacity/audacity) ![](/assets/usb.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Audacity ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/audacity/audacity")](https://github.com/audacity/audacity) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.audacityteam.org/)｜[下载页面  Download Page](http://www.audacityteam.org/download/windows/)
 
@@ -64,7 +64,7 @@ Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
-### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) ![](/assets/china.png) [![](/assets/open-source-icon.png "GPL@sourceforge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@sourceforge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 支持GIF背景的极简音频播放器
 
