@@ -100,7 +100,7 @@ Manage, find, and play music files on your computer. Like iTunes but better than
 
 Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
-### TTKMusicplayer ![](/assets/图片2.png) ![](/assets/china.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/Greedysky/TTKMusicplayer")](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/china.png) ![](/assets/united-states.png)
+### TTKMusicplayer ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/Greedysky/TTKMusicplayer")](https://github.com/Greedysky/TTKMusicplayer) ![](/assets/china.png) ![](/assets/united-states.png)
 
 ###### [官网  Official Site](http://download.csdn.net/album/detail/3094)｜[下载页面  Download Page](http://download.csdn.net/album/detail/3094)
 
