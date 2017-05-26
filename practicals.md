@@ -18,7 +18,7 @@ A cloud sync tool for system clipboard across multiple platforms.
 
 simple but powerdul  defragmentation
 
-### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/dziemborowicz/hourglass")](https://github.com/dziemborowicz/hourglass) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 自然语言倒计时器
 
@@ -66,13 +66,13 @@ Windows下免费翻译工具
 
 A free translator for Windows.
 
-### [rufus](http://rufus.akeo.ie/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/open-source-icon.png) ![](/assets/usb.png)
+### [rufus](http://rufus.akeo.ie/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) [![](/assets/open-source-icon.png "GPL3.0@GitHub: https://github.com/pbatard/rufus")](https://github.com/pbatard/rufus) ![](/assets/usb.png)
 
 简单地创建 U 盘启动盘
 
 Create bootable USB drives in an easy way.
 
-### [ScreenToGif](http://www.screentogif.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [ScreenToGif](http://www.screentogif.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/NickeManarin/ScreenToGif/")](https://github.com/NickeManarin/ScreenToGif/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 将选定区域屏幕录制为GIF或视频
 
@@ -86,7 +86,7 @@ ScreenToGif allows you to record a selected area of your screen and save it as a
 
 Expands the Windows desktop computer screen to other computers over the local area network.
 
-### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [Steam Cleaner](https://github.com/Codeusa/SteamCleaner) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/Codeusa/SteamCleaner")](https://github.com/Codeusa/SteamCleaner) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 拯救因大型游戏平台而告急的磁盘空间
 
