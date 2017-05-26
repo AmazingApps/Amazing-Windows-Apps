@@ -16,25 +16,25 @@ A univeral multi-media player that supports Airplay, online broadcasting and dow
 
 Keep track of your movie and TV Series collection. Both physical discs and media files are fully supported.
 
-### [HandBrake](http://handbrake.fr/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [HandBrake](http://handbrake.fr/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HandBrake/HandBrake")](https://github.com/HandBrake/HandBrake) ![](/assets/earth-globe.png)
 
 UI优美、性能优秀的视频编码工具
 
 High performance video encoding and conversion tools with a nice GUI.
 
-### [Kodi](https://kodi.tv/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Kodi](https://kodi.tv/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/xbmc/xbmc")](https://github.com/xbmc/xbmc) ![](/assets/earth-globe.png)
 
 免费开源家庭影院软件
 
 Free and Open Source home theatre software.
 
-### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/mpcbe/")](https://sourceforge.net/projects/mpcbe/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复
 
 Based on the original "Media Player Classic" project \(Gabest\) and "Media Player Classic Home Cinema" project \(Casimir666\), contains additional features and bug fixes
 
-### mpv ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### mpv ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/mpv-player/mpv")](https://github.com/mpv-player/mpv) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://mpv.io/)｜[下载页面 Download Page](https://mpv.io/installation/)
 
@@ -42,7 +42,7 @@ Based on the original "Media Player Classic" project \(Gabest\) and "Media Playe
 
 A free, open source, and cross-platform media player.
 
-### [OBS Studio](https://obsproject.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [OBS Studio](https://obsproject.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/jp9000/obs-studio")](https://github.com/jp9000/obs-studio) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 屏幕录制或生成直播媒体流
 
@@ -64,7 +64,7 @@ Multimedia player with a wide collection of codecs which also offers extensive c
 
 ###### ⚠[FFmpeg PUBLIC LICENSE VIOLATED   违反FFmpeg公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)
 
-### Shotcut ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Shotcut ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/mltframework/shotcut")](https://github.com/mltframework/shotcut) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.shotcut.org/)｜[下载页面 Download Page](https://www.shotcut.org/download/)
 
@@ -72,13 +72,13 @@ Multimedia player with a wide collection of codecs which also offers extensive c
 
 A free, open source, cross-platform video editor
 
-### [SMPlayer](https://sourceforge.net/projects/smplayer/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [SMPlayer](https://sourceforge.net/projects/smplayer/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/smplayer/")](https://sourceforge.net/projects/smplayer/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 可针对单个视频记忆设置选项的多媒体播放器
 
 Multimedia player that can save different preferences for any single video
 
-### tinyMediaManager ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### tinyMediaManager ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/tinyMediaManager/tinyMediaManager")](https://github.com/tinyMediaManager/tinyMediaManager) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://www.tinymediamanager.org/)｜[下载页面 Download Page](http://www.tinymediamanager.org/download/)
 
@@ -88,13 +88,13 @@ A films/TV series manager that supports films info & subtitles downloading, watc
 
 ###### 📌Java1.7+ required 需要Java1.7或更新
 
-### [VLC](http://www.videolan.org/vlc/index.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [VLC](http://www.videolan.org/vlc/index.html) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
 
 Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
 
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/usb.png)
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)
 
 视频引索管理器
 
