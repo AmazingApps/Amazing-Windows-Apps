@@ -22,11 +22,13 @@ An all-in-one system optimization unity.
 
 ###### ⚠BUNDLE ANOTHER HARMLESS APP   捆绑另一款无害应用
 
-### [AltDrag](https://stefansundin.github.io/altdrag/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [AltDrag](https://stefansundin.github.io/altdrag/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/stefansundin/altdrag")](https://github.com/stefansundin/altdrag) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 按下Alt键时，拖动窗口，调整大小，最小化等等
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
+
+###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
 
 ### AOMEI Partition Assistant  分区助手 ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
@@ -60,27 +62,19 @@ Modify processes priority on network traffic and help to reduce ping.
 
 ###### ⚠INVASIVE ADS SUSPICION   侵入式广告嫌疑
 
-### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-###### [官网 Official Site](https://lopesoft.com/index.php/en/products)｜[下载页面 Download Page](https://lopesoft.com/index.php/en/download/filemenu-tools)
-
-右键菜单自定义
-
-Customize and add several tools to the context menu of Windows File Explorer.
-
-### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Chuyu-Team")](https://github.com/Chuyu-Team) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 全球首家基于CBS的Dism GUI实现
 
 First CBS-based Dism GUI implementation globally.
 
-### [Ditto](https://sourceforge.net/projects/ditto-cp/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [Ditto](https://sourceforge.net/projects/ditto-cp/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/ditto-cp/")](https://sourceforge.net/projects/ditto-cp/) ![](/assets/earth-globe.png)
 
 剪贴板管理
 
 Clipboard manager.
 
-### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/File-New-Project/EarTrumpet")](https://github.com/File-New-Project/EarTrumpet) ![](/assets/united-states.png)
 
 分别调整系统内所有使用扬声器的应用的音量
 
@@ -90,6 +84,14 @@ Adjust volume for all apps individually.
 
 * ###### Version compatible with Windows 8.1 available on [GitHub](https://github.com/File-New-Project/EarTrumpet). RS 2 users are suggested to install from Windows Store
 * ###### 向下兼容Windows 8.1的版本可见于[GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS 2用户建议从应用商店安装
+
+### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](https://lopesoft.com/index.php/en/products)｜[下载页面 Download Page](https://lopesoft.com/index.php/en/download/filemenu-tools)
+
+右键菜单自定义
+
+Customize and add several tools to the context menu of Windows File Explorer.
 
 ### GeekUninstaller ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
@@ -115,7 +117,9 @@ Completely remove your installed programs without leftovers.
 
 A convenient unified display of the most relevant technical and tag data for video and audio files.
 
-### [memreduct](https://github.com/henrypp/memreduct) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### memreduct ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/henrypp/memreduct")](https://github.com/henrypp/memreduct) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://www.henrypp.org/product/memreduct)｜[下载页面 Download Page](https://github.com/henrypp/memreduct/releases/latest)
 
 监控优化系统内存
 
@@ -127,7 +131,7 @@ Monitor and clean system memory on your computer.
 
 Enhanced task manager which allows you to terminate some critical processes.
 
-### Process Hacker ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### Process Hacker ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/processhacker2/processhacker2")](https://github.com/processhacker2/processhacker2) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://wj32.org/processhacker/index.php)｜[下载页面 Download Page](https://wj32.org/processhacker/downloads.php)
 
@@ -141,7 +145,7 @@ Adjust processes priority to prevent CPU unresponsing on some devices
 
 自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
 
-### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png "NO LISENCE@HOMEPAGE: http://qttabbar.wikidot.com/") ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 一站式Explorer增强工具
 
