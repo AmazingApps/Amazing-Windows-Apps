@@ -40,7 +40,7 @@ Advanced Putty \(SSH and telnet client\).
 
 Xserver and tabbed SSH client.
 
-### mRemoteNG ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### mRemoteNG ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/mRemoteNG/mRemoteNG")](https://github.com/mRemoteNG/mRemoteNG) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://mremoteng.org/)｜[下载页面 Download Page](https://mremoteng.org/download)
 
@@ -56,13 +56,13 @@ An open source, tabbed, multi-protocol, remote connections manager.
 
 Multi-Tabbed PuTTY.
 
-### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png "UNIQUE@HOMEPAGE") ![](/assets/united-states.png)
 
 SSH与telnet客户端
 
 SSH and telnet client.
 
-### WinSCP ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### WinSCP ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@winscp.net: https://winscp.net/eng/download.php")](https://winscp.net/eng/download.php) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网](https://winscp.net/eng/docs/lang:chs)｜[Official Site](https://winscp.net/eng/index.php)｜[下载页面](https://winscp.net/eng/docs/lang:chs#%E4%B8%8B%E8%BD%BD)｜[Download Page](https://winscp.net/eng/download.php)
 
