@@ -10,7 +10,7 @@
 
 An image viewer and organizer free for personal and educational use with basic image editing tools.
 
-### Gimp ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Gimp ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@GNOME.org: https://git.gnome.org/browse/gimp")](https://git.gnome.org/browse/gimp) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.gimp.org/)｜[下载页面 Download Page](https://www.gimp.org/downloads/)
 
@@ -18,7 +18,7 @@ An image viewer and organizer free for personal and educational use with basic i
 
 Open source image editor.
 
-### Greenshot ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Greenshot ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub/BitBucket: http://getgreenshot.org/downloads/")](http://getgreenshot.org/downloads/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://getgreenshot.org/)｜[下载页面 Download Page](http://getgreenshot.org/downloads/)
 
@@ -40,7 +40,7 @@ A very fast image viewer supporting various formats.
 
 Image viewer, editor, organiser and converter. It can also play video and audio files, and has some image creation and painting capabilities.
 
-### ImageMagick ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### ImageMagick ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub/GitLab: https://www.imagemagick.org/script/index.php")](https://www.imagemagick.org/script/index.php) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.imagemagick.org/script/index.php)｜[下载页面 Download Page](https://www.imagemagick.org/script/download.php)
 
@@ -48,7 +48,7 @@ Image viewer, editor, organiser and converter. It can also play video and audio 
 
 A multi-functional image processing with command line support.
 
-### Inkscape ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Inkscape ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@inkscape.org: https://inkscape.org/en/download/source/")](https://inkscape.org/en/download/source/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://inkscape.org/en/)｜[下载页面 Download Page](https://inkscape.org/en/download/windows/)
 
@@ -56,7 +56,7 @@ A multi-functional image processing with command line support.
 
 Free vector-based graphic design software.
 
-### Ken Burns Slideshow ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### Ken Burns Slideshow ![](/assets/图片2.png) ![](/assets/open-source-icon.png "NO LISENCE@GitHub/Sourceforge") ![](/assets/earth-globe.png)
 
 ###### available on both [GitHub](https://github.com/changbowen/Ken-Burns-Slideshow) or [Sourceforge](https://sourceforge.net/projects/ken-burns-slideshow/)
 
@@ -64,7 +64,7 @@ Free vector-based graphic design software.
 
 Cycle your album like the way in iMac: instant, portable, full-screen slideshow application with the Ken Burns effect.
 
-### Krita ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### Krita ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@krita.org: https://krita.org/en/download")](https://krita.org/en/download) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://krita.org/en/)｜[下载页面 Download Page](https://krita.org/en/download/krita-desktop/)
 
@@ -88,7 +88,7 @@ Free image and photo editing.
 
 A full-featured screen capture tool, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard, etc.
 
-### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 Python编写的艺术二维码生成器
 
@@ -102,13 +102,13 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 Compress images either by file size or by many other image attributes.
 
-### [ShareX](https://getsharex.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [ShareX](https://getsharex.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ShareX/ShareX")](https://github.com/ShareX/ShareX) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 免费开源的屏幕捕获与分享
 
 A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
-### [Splashify](https://splashify.net/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png)
+### [Splashify](https://splashify.net/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/gilbitron/Splashify")](https://github.com/gilbitron/Splashify) ![](/assets/united-states.png)
 
 桌面壁纸软件
 
