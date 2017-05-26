@@ -16,7 +16,7 @@ A comfortable remote desktop application.
 
 Raise up traceroute request from Windows with route visilization display.
 
-### [**Brave**](https://www.brave.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [**Brave**](https://www.brave.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/brave")](https://github.com/brave) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 自动拦截广告与追踪器的浏览器
 
@@ -34,7 +34,7 @@ An enhanced version of the Chromium web browser that bundles many useful feature
 
 One browser for your computer, phone and tablet
 
-### Chromium ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Chromium ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BCD@chromium.org: https://www.chromium.org/developers/how-tos/get-the-code")](https://www.chromium.org/developers/how-tos/get-the-code) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.chromium.org/Home)｜[下载页面 Download Page](https://www.chromium.org/getting-involved/download-chromium)
 
@@ -42,13 +42,13 @@ Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多
 
 Chromium is an open-source web browser project started by Google, to provide the source code for the proprietary Google Chrome browser.The two browsers share the majority of code and features, though there are some minor differences in features, logos and they have different licensing
 
-### [CloudXNS DDNS with PowerShell](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
 
 A PowerShell script to establish own DDNS service on CloudXNS API
 
-### Firefox 火狐 ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Firefox 火狐 ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL@mozilla.org: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives")](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### also Mozilla Firefox
 
@@ -88,7 +88,7 @@ A chromiun-based browser with built-in content blocker and with faster prefetch.
 
 Allows network applications that do not support working through proxy servers
 
-### QuiteRSS ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### QuiteRSS ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/QuiteRSS/quiterss")](https://github.com/QuiteRSS/quiterss) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://quiterss.org/)｜[下载页面 Download Page](https://quiterss.org/en/download)
 
@@ -96,7 +96,7 @@ Allows network applications that do not support working through proxy servers
 
 Open-source cross-platform RSS/Atom news feeds reader.
 
-### Retroshare ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Retroshare ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/RetroShare/RetroShare")](https://github.com/RetroShare/RetroShare) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://retroshare.net/)｜[下载页面 Download Page](http://retroshare.net/downloads.html)
 
@@ -116,7 +116,7 @@ Wirelessly transmit any music or audio from your PC to your Android phone, table
 
 A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
-### Tor Project ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### Tor Project ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BCD/MIT@torproject.org: https://www.torproject.org/download/download.html.en")](https://www.torproject.org/download/download.html.en) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.torproject.org/)｜[下载页面 Download Page](https://www.torproject.org/download/download.html.en)
 
@@ -130,7 +130,7 @@ Enable anonymous communication.
 
 Another chromium-based browser with amazing features.
 
-### [ZeroNet ](https://zeronet.io/)![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [ZeroNet ](https://zeronet.io/)![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HelloZeroNet/ZeroNet")](https://github.com/HelloZeroNet/ZeroNet) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 开源跨平台的去中心化网络框架
 
