@@ -22,13 +22,13 @@ Control your joystick PC games with keyboard
 
 ### [Origin](https://www.origin.com/en-in/store/) ![](/assets/earth-globe.png)
 
-类似于Steam，但属于EA
+类似于 Steam，但属于 EA
 
-Like Steam, but for EA.
+Like Steam, but belongs to EA.
 
 ### [Remotr](http://remotrapp.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
-在其它任何设备上远程享受PC游戏
+在其它任何设备上远程享受 PC 游戏
 
 Stream and play your own computer games on your mobile phone, tablet, or even Smart TV
 
@@ -38,3 +38,10 @@ Stream and play your own computer games on your mobile phone, tablet, or even Sm
 
 Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time.
 
+### Locale Emulator ![](/assets/图片2.png) [![](/assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/xupefei/Locale-Emulator")](https://github.com/xupefei/Locale-Emulator) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://pooi.moe/Locale-Emulator/)｜[下载页面 Download Page](https://github.com/xupefei/Locale-Emulator/releases)
+
+系统区域与语言的伪造、模拟。
+
+Yet another region and language simulator.

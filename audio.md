@@ -40,7 +40,7 @@ Dopamine is an audio player which tries to make organizing and listening to musi
 
 ###### [官网  Official Site](http://exactaudiocopy.de/)｜[下载页面  Download Page](http://www.exactaudiocopy.de/en/index.php/resources/download/)
 
-从CD向PC传输文件
+从 CD 向 PC 传输文件
 
 Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
 
@@ -54,7 +54,7 @@ foobar2000 is a free & open source audio player with highly modular design, brea
 
 ### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
-DirectShow过滤器集合并带有VFW/ACM解码器及相关工具
+DirectShow 过滤器集合并带有 VFW/ACM 解码器及相关工具
 
 Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
@@ -66,7 +66,7 @@ One for all free music in china \(Windows, Mac, Linux desktop\).
 
 ### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@sourceforge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
-支持GIF背景的极简音频播放器
+支持 GIF 背景的极简音频播放器
 
 An extremely brief audio player that supports GIF background
 
@@ -74,7 +74,7 @@ An extremely brief audio player that supports GIF background
 
 ###### [官网  Official Site](https://mixxx.org/)｜[下载页面  Download Page](http://mixxx.org/download/)
 
-免费DJ软件，有live mixes需要的一切
+免费 DJ 软件，有 live mixes 需要的一切
 
 Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.
 
@@ -88,7 +88,7 @@ A suite of open source software that lets you sync and stream your music between
 
 ###### [官网  Official Site](http://getmusicbee.com/)｜[下载页面  Download Page](http://getmusicbee.com/downloads/)
 
-管理、查找、播放本地音频。类似于iTunes但更好
+管理、查找、播放本地音频。类似于 iTunes 但更好
 
 Manage, find, and play music files on your computer. Like iTunes but better than iTunes.
 
@@ -104,7 +104,7 @@ Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
 ###### [官网  Official Site](http://download.csdn.net/album/detail/3094)｜[下载页面  Download Page](http://download.csdn.net/album/detail/3094)
 
-基于Qt，高仿酷狗
+基于 Qt，高仿酷狗
 
 TTKMusicPlayer that imitation Kugou music based on Qt.
 

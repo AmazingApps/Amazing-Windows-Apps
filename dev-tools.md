@@ -6,7 +6,7 @@
 
 ### [Alacritty](https://github.com/jwilm/alacritty) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/jwilm/alacritty")](https://github.com/jwilm/alacritty) ![](/assets/united-states.png)
 
-跨平台GPU加速终端模拟器
+跨平台，具有硬件加速的终端模拟器。
 
 A cross-platform, GPU-accelerated terminal emulator.
 
@@ -14,25 +14,25 @@ A cross-platform, GPU-accelerated terminal emulator.
 
 ###### [官网 Official Site](https://caddyserver.com/)｜[下载页面 Download Page](https://caddyserver.com/download)
 
-自动HTTPS部署能力的HTTP/2页面服务器
+自动 HTTPS 部署能力的 HTTP/2 页面服务器
 
 The HTTP/2 web server with automatic HTTPS
 
 ### [Chocolatey](https://chocolatey.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](/assets/united-states.png)
 
-Windows包管理器
+Windows 包管理器
 
 A package manager for Windows.
 
 ### [ChocolateyGUI](https://chocolatey.github.io/ChocolateyGUI) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/chocolatey/ChocolateyGUI")](https://github.com/chocolatey/ChocolateyGUI) ![](/assets/united-states.png)
 
-使用Chocolatey NuGet的GUI客户端
+Chocolatey NuGet 的 GUI 客户端
 
 A GUI for Chocolatey NuGet
 
 ### [cmder](http://cmder.net/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/cmderdev/cmder")](https://github.com/cmderdev/cmder) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-Windows下的便携式控制台模拟器
+Windows 下的便携式控制台模拟器
 
 Portable console emulator for Windows.
 
@@ -48,7 +48,7 @@ Customizable Windows terminal with tabs, splits, quake-style and more.
 
 ### [GitHub Desktop](https://desktop.github.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/desktop/desktop")](https://github.com/desktop/desktop) ![](/assets/united-states.png)
 
-使用GitHub的GUI客户端
+GitHub 的 GUI 客户端
 
 A GUI for using GitHub.
 
@@ -62,7 +62,7 @@ All-in-one Web front end development suit
 
 ###### [官网 Official Site](https://www.heidisql.com/)｜[下载页面 Download Page](https://www.heidisql.com/download.php)
 
-MSQL 数据库管理
+SQL 数据库管理
 
 Designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL. It enables you to browse and edit data, create and edit tables, views, procedures, triggers and scheduled events.
 
@@ -70,17 +70,9 @@ Designed for web developers using the popular MySQL server, Microsoft SQL databa
 
 ###### [官网 Official Site](https://www.jetbrains.com/idea/)｜[下载页面 Download Page](https://www.jetbrains.com/idea/download)
 
-IDE工具集合
+IDE 工具集合
 
 All sets of IDE tools.
-
-### Locale Emulator ![](/assets/图片2.png) [![](/assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/xupefei/Locale-Emulator")](https://github.com/xupefei/Locale-Emulator) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-###### [官网 Official Site](http://pooi.moe/Locale-Emulator/)｜[下载页面 Download Page](https://github.com/xupefei/Locale-Emulator/releases)
-
-区域与语言拟合
-
-Yet another region and language simulator.
 
 ### [Scoop](http://scoop.sh/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
 
@@ -90,7 +82,7 @@ A command-line installer for Windows.
 
 ### [SourceTree](https://www.sourcetreeapp.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
-免费的图形化Git与Hg客户端
+免费的图形化 Git 与 Hg 客户端
 
 A free visual Git and Hg client
 
@@ -135,7 +127,7 @@ Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities 
 
 ### [x64dbg](http://x64dbg.com) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/x64dbg/x64dbg")](https://github.com/x64dbg/x64dbg) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-开源Windows调试工具
+开源 Windows 调试工具
 
 An open-source x64/x32 debugger for windows.
 

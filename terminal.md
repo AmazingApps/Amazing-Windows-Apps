@@ -14,7 +14,7 @@ SSH Client for Windows includes state of the art terminal emulation, graphical a
 
 ### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-特效丰富的基于WinForms的HTTP客户端
+特效丰富的基于 WinForms 的 HTTP 客户端
 
 A feature-rich WinForms-based HTTP client.
 
@@ -22,13 +22,13 @@ A feature-rich WinForms-based HTTP client.
 
 ###### [官网 Official Site](https://insomnia.rest/)｜[下载页面 Download Page](https://insomnia.rest/download/#windows)
 
-现代化的REST客户端
+现代化的 REST 客户端
 
 A modern REST client with an beautiful interface. thout transparency for more efficient files.
 
 ### [Kitty](http://www.9bis.net/kitty/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-高级Putty
+高级 Putty
 
 Advanced Putty \(SSH and telnet client\).
 
@@ -36,7 +36,7 @@ Advanced Putty \(SSH and telnet client\).
 
 ###### [官网 Official Site](http://mobaxterm.mobatek.net/)｜[下载页面 Download Page](http://mobaxterm.mobatek.net/download-home-edition.html)
 
-具备Xserver并标签化的SSH客户端
+具备 Xserver 并标签化的 SSH 客户端
 
 Xserver and tabbed SSH client.
 
@@ -58,7 +58,7 @@ Multi-Tabbed PuTTY.
 
 ### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png "UNIQUE@HOMEPAGE") ![](/assets/united-states.png)
 
-SSH与telnet客户端
+SSH 与 telnet 客户端
 
 SSH and telnet client.
 
@@ -68,13 +68,13 @@ SSH and telnet client.
 
 An open source free SFTP/FTP/WebDAV/SCP client
 
-免费开源的SFTP/FTP/WebDAV/SCP客户端
+免费开源的 SFTP/FTP/WebDAV/SCP 客户端
 
 ### Xshell ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.netsarang.com/products/xsh_overview.html)｜[下载页面 Download Page](http://www.netsarang.com/download/down_xsh5.html)
 
-强大终端工具，支持SSH SFTP TELNET RLOGIN与SERIAL
+强大终端工具，支持 SSH SFTP TELNET RLOGIN 与 SERIAL
 
 A powerful terminal emulator that supports SSH, SFTP, TELNET, RLOGIN and SERIAL.
 

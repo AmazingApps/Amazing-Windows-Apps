@@ -6,7 +6,7 @@
 
 ### [Desktopcal](http://www.desktopcal.com/) 桌面日历 ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-放置于Windows桌面上的日历，用做备忘
+放置于 Windows 桌面上的日历，用做备忘
 
 A cool calendar placed on your windows desktop used as a memo.
 
@@ -14,13 +14,13 @@ A cool calendar placed on your windows desktop used as a memo.
 
 ###### [官网 Official Site](https://doublecmd.sourceforge.io/)｜[下载页面 Download Page](https://sourceforge.net/p/doublecmd/wiki/Download/)
 
-开源跨平台文件管理器，受Total Commander启发并加入新特性
+开源跨平台文件管理器，受 Total Commander 启发并加入新特性
 
 A cross platform open source file manager, inspired by Total Commander and features some new ideas
 
 ### [Everything](http://www.voidtools.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-最快速的文件/文件名搜索工具
+最快速的文件/文件夹搜索工具
 
 The fastest file/folder search tool by name.
 
@@ -28,13 +28,13 @@ The fastest file/folder search tool by name.
 
 可高度自定义的启动器
 
-A launcher with highly cumstomizable features
+A launcher with highly customizable features
 
 ### FreeCommander ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://freecommander.com/en/summary/)｜[下载页面 Download Page](http://freecommander.com/en/downloads/)
 
-简单易用的Windows标准文件管理器替代
+简单易用的 Windows 标准文件管理器替代
 
 An easy-to-use alternative to the standard windows file manager.
 
@@ -60,7 +60,7 @@ File manager for professionals.
 
 ### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
-Fences的免费替代，具备媒体文件预览功能
+Fences 的免费替代，具备媒体文件预览功能
 
 A free alternative, with media preview, to Fences
 
@@ -68,7 +68,7 @@ A free alternative, with media preview, to Fences
 
 ###### [官网 Official Site](https://outlookonthedesktop.com/)｜[下载页面 Download Page](https://outlookonthedesktop.com/download)
 
-在桌面直接且完整地调用Outlook功能
+在桌面直接且完整地调用 Outlook 功能
 
 Direct & complete access to Microsoft Outlook right on the desktop
 
@@ -100,13 +100,13 @@ A simple but powerful snipping tool by amazing elements detection, and also allo
 
 ### [Total Commander](https://www.ghisler.com/) ![](/assets/earth-globe.png)
 
-Windows最佳文件管理
+Windows 最佳文件管理
 
 The best file manager for Windows.
 
 ### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](/assets/china.png) ![](/assets/united-states.png)
 
-Windows全局手势
+Windows 全局手势
 
 Modern mouse gestures for Windows. \(C\#\)
 
@@ -134,5 +134,5 @@ An effective launcher for Windows.
 
 记录简单应用详情的数据库式的启动器
 
-A data-base style launcher that can collect some detailed info
+A database-style launcher that can collect some detailed info
 

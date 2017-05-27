@@ -2,7 +2,7 @@
 
 此处列出的软件严重损害了用户的合法权益，因此强烈不建议使用
 
-Softwares listed here severely invade users profit so strongly unrecommended to use
+Softwares listed here severely violate users' rights, so they are strongly unrecommended to use.
 
 ---
 
@@ -14,13 +14,13 @@ Softwares listed here severely invade users profit so strongly unrecommended to 
 4. 无法以自身设置取消的返利链接捆绑或主页绑定
 5. 存在其它已知严重损害用户利益的行为
 
-## Blacklist Standards
+## Blacklist Criteria
 
-1. Bundle other harmful installers \(if it is downloading or bundling orther harmless apps, there will be point out without black-listed here\)
-2. Collect private info without agreement from privacy terms, privacy terms missed or leak them to any third party
-3. Significantly weaken system security or stability, e.g. implant backdoor, break system files, malware change to root certs, etc.
-4. lock up homepage or re-founding links that can not be canceled by settings itself
-5. any other behaviors that are known as servere violation to users profit.
+1. Bundling other harmful installers. \(If an app downloads or bundles other harmless apps, the behavior will be pointed out, but the app will not be black-listed.\)
+2. Collecting private information not stated in privacy policy, missing privacy terms or transferring them to third parties.
+3. Significantly weakening system security or stability, e.g. implant backdoor, break system files, perform malicious changes to root certificates, etc.
+4. Locking homepage or redirecting links that can not be disabled by configuration.
+5. Known to have other behaviors that are severe violation of users' rights.
 
 #### 以下列表中应用后跟随的数字为符合的标准编号
 
