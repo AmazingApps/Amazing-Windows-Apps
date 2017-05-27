@@ -6,7 +6,7 @@
 
 ### [5KPlayer](https://www.5kplayer.com/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
-支持Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器
+支持 Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器
 
 A univeral multi-media player that supports Airplay, online broadcasting and downloading from some video sites
 
@@ -18,7 +18,7 @@ Keep track of your movie and TV Series collection. Both physical discs and media
 
 ### [HandBrake](http://handbrake.fr/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HandBrake/HandBrake")](https://github.com/HandBrake/HandBrake) ![](/assets/earth-globe.png)
 
-UI优美、性能优秀的视频编码工具
+UI 优美、性能优秀的视频编码工具
 
 High performance video encoding and conversion tools with a nice GUI.
 
@@ -62,7 +62,7 @@ All-in-one home theater solution
 
 Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 
-###### ⚠[FFmpeg PUBLIC LICENSE VIOLATED   违反FFmpeg公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)
+###### ⚠[FFmpeg PUBLIC LICENSE VIOLATED   违反 FFmpeg 公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)
 
 ### Shotcut ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/mltframework/shotcut")](https://github.com/mltframework/shotcut) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
@@ -86,17 +86,10 @@ Multimedia player that can save different preferences for any single video
 
 A films/TV series manager that supports films info & subtitles downloading, watching markup, sync to Trakt.tv, etc.
 
-###### 📌Java1.7+ required 需要Java1.7或更新
+###### 📌Java1.7+ required 需要 Java1.7 或更新
 
 ### [VLC](http://www.videolan.org/vlc/index.html) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
 
 Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
-
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)
-
-视频引索管理器
-
-zogna video manager.
-
