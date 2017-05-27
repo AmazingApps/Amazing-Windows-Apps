@@ -10,7 +10,7 @@
 
 Data recovery with partition recovery
 
-* 该应用在国内称为[DiskGenius](http://www.diskgenius.cn/download.php)
+* 该应用在国内称为 [DiskGenius](http://www.diskgenius.cn/download.php)
 * This app is called [DiskGenius](http://www.diskgenius.cn/download.php) in China
 
 ### [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) ![](/assets/earth-globe.png)
