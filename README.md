@@ -79,16 +79,16 @@
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
-The purpose of this book is to introduce amazing works done on Windows. All apps collected in this book will be:
+The purpose of this book is to introduce awesome apps on Windows. These apps are awesome in that:
 
-1. having extraordinary features.
-2. free of unacceptable ads. Free of charge if there exists some acceptable ads. That is to say, there should be NO ads if users are required to purchase a license to use it or to unlock some features.
-3. privacy-friendly. this app or app provider will NEVER share your personal information with any third party unless you ask for it or under legal requirements.
-4. actively maintained. If an app is no longer maintained, it will be removed from here.
-5. user friendly and easy to learn.
-6. Compitable with Windows 7/8.1/10 \(A note will be provided if this requirement is not satisfied.\)
+1. These apps have extraordinary features.
+2. These apps do not contain unacceptable ads. These apps must be free of charge if there exists some acceptable ads in these apps. That is to say, there should be NO ads  if users are required to purchase a license to use the app, or some features of the app.
+3. These apps are privacy-friendly. They will ONLY share your personal information with third party with your permission or under legal requirements.
+4. These apps are under active development. If an app is no longer maintained, it will be removed from the book.
+5. These apps are user-friendly. They are worth the time and effort to learn how to use them.
+6. These apps are compitable with Windows 7/8.1/10 \(A note will be provided if this requirement is not satisfied.\)
 
-Note: apps meeting following conditions will NOT be listed although they may deserve a try:
+Note: Apps that meet the following conditions will NOT be listed although they may deserve a try:
 
 1. Modified or cracked versions of an app, such as unofficial ad-free versions which can provide a better user experience than the original versions.
 2. Apps that are useful only in limited areas, such as NPR One and IME.
@@ -96,7 +96,7 @@ Note: apps meeting following conditions will NOT be listed although they may des
 
 Apps that can be categorized in multiple ways are categorized by what they are indended for.
 
-There is a blacklist at the end of the book containing apps that violate users' rights and privacy severely. These apps are to be avoided.
+There is a blacklist at the end of the book containing apps that violate users' rights, security and privacy severely. These apps are to be avoided.
 
 This project is licensed under GNU GPL v2.0, you need to add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this. You are NOT allowed to make a profit with any content in this repository without permission.
 
