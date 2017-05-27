@@ -40,7 +40,7 @@ A text editor with Markdown preview and hex editor
 
 GUI client for GitBook.
 
-### GNU Emacs ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### GNU Emacs ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL-LIKE@fsf.org: https://directory.fsf.org/wiki/GNU")](https://directory.fsf.org/wiki/GNU) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.gnu.org/software/emacs/)｜[下载页面 Download Page](https://www.gnu.org/software/emacs/download.html)
 
