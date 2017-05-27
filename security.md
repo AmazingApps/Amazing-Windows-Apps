@@ -134,7 +134,7 @@ A main fork based on Shadowsocks
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
 
-### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 网络代理工具
 

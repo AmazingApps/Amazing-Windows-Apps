@@ -68,7 +68,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
 <img src="https://img.shields.io/badge/apps%20count-288-blue.svg" title="Wow! Such many apps already?！Σ(っ °Д °;)っ" />
-<img src="https://img.shields.io/badge/lisence-GPL%20v2.0-red.svg" title="Save your time to Google it as you won't understand it=￣ω￣=" />
+<img src="https://img.shields.io/badge/LICENSE-GPL%20v2.0-red.svg" title="Save your time to Google it as you won't understand it=￣ω￣=" />
 <a href="https://t.me/EMLVIRUS" target="_blank">
 <img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
 </a>

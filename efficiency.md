@@ -130,7 +130,7 @@ Free professional dock for Windows.
 
 An effective launcher for Windows.
 
-### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](/assets/china.png) ![](/assets/usb.png)
+### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](/assets/china.png) ![](/assets/usb.png)
 
 记录简单应用详情的数据库式的启动器
 

@@ -90,7 +90,7 @@ Modern mouse gestures for Windows. \(C\#\)
 
 An effective launcher for Windows.
 
-### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](/assets/china.png) ![](/assets/usb.png)
+### [ZIKU!](http://ziku.olereo.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](/assets/china.png) ![](/assets/usb.png)
 
 记录简单应用详情的数据库式的启动器
 
@@ -226,7 +226,7 @@ A Markdown cloud note taking software that enables you to make your own blog.
 
 ### \[视频工具\]
 
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)
 
 视频引索管理器
 

@@ -76,7 +76,7 @@ A Markdown cloud note taking that allows you to establish personal blog
 
 A customizable editor with instant feedback and showing data values flow through your code.
 
-### [Markdown Plus](http://tylingsoft.com/markdown-plus/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/tylingsoft/markdown-plus")](https://github.com/tylingsoft/markdown-plus) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [Markdown Plus](http://tylingsoft.com/markdown-plus/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/tylingsoft/markdown-plus")](https://github.com/tylingsoft/markdown-plus) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 Markdown editor that supports universal Markdown, GitHub Markdown, real-time preview, task list highlight, Emoji, Font Awesome, Ionicons, math formula, flow chat, sequence chat, Gantt
 

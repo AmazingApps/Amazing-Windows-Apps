@@ -94,7 +94,7 @@ A films/TV series manager that supports films info & subtitles downloading, watc
 
 Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
        
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)      
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)      
 
 视频引索管理器       
 
