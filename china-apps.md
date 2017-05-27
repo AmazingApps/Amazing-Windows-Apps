@@ -1,6 +1,6 @@
 ## 优秀国产软件名录
 
-诚然，当前国内IT业界一片乱象。但是正因如此，优秀应用反而更加弥足珍贵，也更加值得鼓励、赞扬、宣传。
+诚然，当前国内 IT 业界一片乱象。但是正因如此，优秀应用反而更加弥足珍贵，也更加值得鼓励、赞扬、宣传。
 
 * 在此处列出的应用仍然在后续分类中可见（\[ \]中即为本项目归类）
 
@@ -16,7 +16,7 @@ One for all free music in china \(Windows, Mac, Linux desktop\).
 
 ### [Mcool](http://mcool.appinn.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@SourceForge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](/assets/china.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
-支持GIF背景的极简音频播放器
+支持 GIF 背景的极简音频播放器
 
 An extremely brief audio player that supports GIF background
 
@@ -24,7 +24,7 @@ An extremely brief audio player that supports GIF background
 
 ###### [官网  Official Site](http://download.csdn.net/album/detail/3094)｜[下载页面  Download Page](http://download.csdn.net/album/detail/3094)
 
-基于Qt，高仿酷狗
+基于 Qt，高仿酷狗
 
 A music player based on Qt that imitates Kugou music.
 
