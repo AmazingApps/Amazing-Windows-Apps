@@ -14,7 +14,7 @@ One-stop solution to all your ebook need.
 
 ### [Gaaiho PDF Reader](http://pdf.gaaiho.com/index.php) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-媲美Adobe Acrobat的专业免费PDF阅读器
+媲美 Adobe Acrobat 的专业免费 PDF 阅读器
 
 One of the preferred Adobe replacements
 
@@ -26,7 +26,7 @@ Incredibly ugly but powerful software for ebook management and conversion.
 
 ### [NitroPDF](https://www.gonitro.com/pdf-reader) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-重构PDF阅读体验
+重构 PDF 阅读体验
 
 Amazing PDF reader you'll ever get.
 
@@ -34,7 +34,7 @@ Amazing PDF reader you'll ever get.
 
 ###### [官网 Official Site](http://www.sumatrapdfreader.org/free-pdf-reader.html)｜[下载页面 Download Page](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 
-PDF ePub MOBI CHM XPS DjVu CBZ CBR阅读器
+PDF ePub MOBI CHM XPS DjVu CBZ CBR 阅读器
 
 PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader.
 
