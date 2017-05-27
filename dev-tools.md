@@ -36,6 +36,12 @@ Windows下的便携式控制台模拟器
 
 Portable console emulator for Windows.
 
+### [ConEmu](https://conemu.github.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](/assets/united-states.png) ![](/assets/china.png) ![](/assets/russia.png) ![](/assets/usb.png)
+
+可自定义的 Windows 终端模拟器, 支持多标签, 分隔, quake风格及更多功能
+
+Customizable Windows terminal with tabs, splits, quake-style and more.
+
 ### [GitHub Desktop](https://desktop.github.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/desktop/desktop")](https://github.com/desktop/desktop) ![](/assets/united-states.png)
 
 使用GitHub的GUI客户端
