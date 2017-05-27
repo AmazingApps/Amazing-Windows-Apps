@@ -6,13 +6,13 @@
 
 ### [MailBird](https://www.mailbird.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-IMAP POP3邮件客户端，高度可定制且触控支持良好
+IMAP POP3 邮件客户端，高度可定制且触控支持良好
 
 IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
 
 ### [Nylas N1](https://www.nylas.com/download/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-基于现代Web构架的可扩展的桌面邮件应用
+基于现代 Web 构架的可扩展的桌面邮件应用
 
 An extensible desktop mail app built on the modern web.
 
