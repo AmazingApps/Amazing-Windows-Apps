@@ -14,9 +14,9 @@ A highly light-weighted advanced text editor
 
 ###### [官网 Official Site](https://atom.io/)｜[下载页面 Download Page](https://github.com/atom/atom/releases)
 
-可破译的文本编辑器
+可扩展的文本编辑器
 
-A hackable text editor.
+A hackable text editor for the 21st Century.
 
 ### EmEditor ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
@@ -30,13 +30,13 @@ A text editor that supports macro commands, Unicode, big data and CSV processing
 
 ###### [官网](http://www.everedit.net/)｜[Official Site](http://www.everedit.cn/)｜[下载页面](http://www.everedit.net/download)｜[Download Page](http://www.everedit.cn/download)
 
-内置Markdown预览与二进制编辑的文本编辑器
+内置 Markdown 预览与十六进制编辑的文本编辑器
 
-A text editor with Markdown preview and hex editor
+A text editor with Markdown preview and hex mode
 
 ### [GitBook Editor](https://www.gitbook.com/editor) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
-使用GitBook的GUI客户端
+GitBook 的 GUI 客户端
 
 GUI client for GitBook.
 
@@ -44,13 +44,13 @@ GUI client for GitBook.
 
 ###### [官网 Official Site](https://www.gnu.org/software/emacs/)｜[下载页面 Download Page](https://www.gnu.org/software/emacs/download.html)
 
-具有Emacs Lisp解释能力的文本编辑器
+具有 Emacs Lisp 解释器的文本编辑器
 
 A text editor with an interpreter for Emacs Lisp.
 
 ### [Inkdrop](https://www.inkdrop.info/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-使用MarkDown的笔记本应用
+使用 MarkDown 的笔记本应用
 
 The note-taking app for Markdown lovers.
 
@@ -58,7 +58,7 @@ The note-taking app for Markdown lovers.
 
 ###### [官网 Official Site](http://www.digimezzo.com/software/knowte-2/)｜[下载页面 Download Page](http://www.digimezzo.com/content/software/knowte/)
 
-UWP风格UI的笔记本应用
+UWP 风格 UI 的笔记本应用
 
 Knowte is a note taking application with UWP UI.
 
@@ -80,7 +80,7 @@ A customizable editor with instant feedback and showing data values flow through
 
 Markdown editor that supports universal Markdown, GitHub Markdown, real-time preview, task list highlight, Emoji, Font Awesome, Ionicons, math formula, flow chat, sequence chat, Gantt
 
-Markdown编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
+Markdown 编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
 
 ### Notepad++ ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/notepad-plus-plus/notepad-plus-plus")](https://github.com/notepad-plus-plus/notepad-plus-plus) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
@@ -94,7 +94,7 @@ A source code editor which supports several programming languages.
 
 ###### [官网 Official Site](http://www.pspad.com/)｜[下载页面 Download Page](http://www.pspad.com/en/download.php)
 
-免费的文本编辑器，支持170种以上的语法高亮。
+免费的文本编辑器，支持 170 种以上的语法高亮。
 
 A free text editor,supports 170+ languages included as user highlighter definition. With reviews stemming from Top9Rated and product review site, HotRate, PSPad is one of the most highly used pieces of software available to date.
 
@@ -106,13 +106,13 @@ Simple cross-platform note taking app with cloud-based syncing.
 
 ### [Sublime Text 3](http://www.sublimetext.com/3) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-现代UI设计的文本编辑器
+现代 UI 设计的文本编辑器
 
 The sophisticated text editor.
 
 ### [Typora](https://typora.io/) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
-简洁MarkDown阅读编写应用
+简洁 MarkDown 阅读编写应用
 
 A minimal MarkDown reading & writing app.
 
