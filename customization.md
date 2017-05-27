@@ -10,7 +10,7 @@
 
 ###### SUSPIOUS BEHAVIORS REPORTED  据报告有可疑行为
 
-### [MacType](http://www.mactype.net/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/snowie2000/mactype")](https://github.com/snowie2000/mactype) ![](/assets/earth-globe.png)
+### [MacType](http://www.mactype.net/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/snowie2000/mactype")](https://github.com/snowie2000/mactype) ![](/assets/earth-globe.png)
 
 改进字体渲染效果
 
@@ -58,7 +58,7 @@ Make your Windows task bar transparent.
 
 Set videos as desktop background with online base.
 
-### [**Windows 10 Login Background Changer**](https://forums.mydigitallife.net/threads/windows-10-login-screen-background-changer-uploaded-to-github.62367/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer")](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [**Windows 10 Login Background Changer**](https://forums.mydigitallife.net/threads/windows-10-login-screen-background-changer-uploaded-to-github.62367/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer")](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 修改 Windows 10 登录背景
 

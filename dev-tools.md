@@ -18,7 +18,7 @@ A cross-platform, GPU-accelerated terminal emulator.
 
 The HTTP/2 web server with automatic HTTPS
 
-### [Chocolatey](https://chocolatey.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](/assets/united-states.png)
+### [Chocolatey](https://chocolatey.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](/assets/united-states.png)
 
 Windows 包管理器
 
@@ -74,7 +74,7 @@ IDE 工具集合
 
 All sets of IDE tools.
 
-### [Scoop](http://scoop.sh/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
+### [Scoop](http://scoop.sh/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "The Unlicense@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
 
 命令行安装器
 
@@ -102,7 +102,7 @@ Open source multi-platform virtual machine
 
 Ultimate Microsoft Developer Tool.
 
-### VMware Workstation Player ![](/assets/图片2.png) [![](/assets/open-source-icon.png "30+ LISENCES@vmware.com: https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0%7CPLAYER-1256%7Copen_source")](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0%7CPLAYER-1256%7Copen_source) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### VMware Workstation Player ![](/assets/图片2.png) [![](/assets/open-source-icon.png "30+ LICENSES@vmware.com: https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0%7CPLAYER-1256%7Copen_source")](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0%7CPLAYER-1256%7Copen_source) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.vmware.com/)｜[下载页面 Download Page](https://www.vmware.com/products/player/playerpro-evaluation.html)
 
@@ -110,7 +110,7 @@ Ultimate Microsoft Developer Tool.
 
 A virtual machine station player performing amazingly smooth.
 
-### VMware Workstation Pro [![](/assets/open-source-icon.png "30+ LISENCES@vmware.com: https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source")](https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### VMware Workstation Pro [![](/assets/open-source-icon.png "30+ LICENSES@vmware.com: https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source")](https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 ###### [官网 Official Site](https://www.vmware.com/)｜[下载页面 Download Page](https://www.vmware.com/go/downloadworkstation)
 
 在隔离的安全虚拟化环境中评估新的操作系统、软件应用和补丁程序以及参考体系结构

@@ -18,7 +18,7 @@ An image viewer and organizer free for personal and educational use with basic i
 
 Open source image editor.
 
-### Greenshot ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub/BitBucket: http://getgreenshot.org/downloads/")](http://getgreenshot.org/downloads/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Greenshot ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub/BitBucket: http://getgreenshot.org/downloads/")](http://getgreenshot.org/downloads/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://getgreenshot.org/)｜[下载页面 Download Page](http://getgreenshot.org/downloads/)
 
@@ -56,7 +56,7 @@ A multi-functional image processing with command line support.
 
 Free vector-based graphic design software.
 
-### Ken Burns Slideshow ![](/assets/图片2.png) ![](/assets/open-source-icon.png "NO LISENCE@GitHub/Sourceforge") ![](/assets/earth-globe.png)
+### Ken Burns Slideshow ![](/assets/图片2.png) ![](/assets/open-source-icon.png "NO LICENSE@GitHub/Sourceforge") ![](/assets/earth-globe.png)
 
 ###### available on both [GitHub](https://github.com/changbowen/Ken-Burns-Slideshow) or [Sourceforge](https://sourceforge.net/projects/ken-burns-slideshow/)
 
