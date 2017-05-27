@@ -74,7 +74,7 @@ IDE 工具集合
 
 All sets of IDE tools.
 
-### [Scoop](http://scoop.sh/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
+### [Scoop](http://scoop.sh/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "The Unlicense@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
 
 命令行安装器
 
