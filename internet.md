@@ -12,7 +12,7 @@ A comfortable remote desktop application.
 
 ### [Best Trace](https://www.ipip.net/download.html) ![](/assets/图片2.png) ![](/assets/china.png)
 
-从Windows中发起traceroute请求并可视化展示
+从 Windows 中发起 traceroute 请求并可视化展示
 
 Raise up traceroute request from Windows with route visilization display.
 
@@ -24,7 +24,7 @@ A browser automatically blocks ads and trackers.
 
 ### [Cent Browser](http://www.centbrowser.com/) 美分浏览器 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-附带的许多特性显著增强了Chromium浏览器的体验
+附带的许多特性显著增强了 Chromium 浏览器的体验
 
 An enhanced version of the Chromium web browser that bundles many useful features.
 
@@ -38,9 +38,9 @@ One browser for your computer, phone and tablet
 
 ###### [官网 Official Site](https://www.chromium.org/Home)｜[下载页面 Download Page](https://www.chromium.org/getting-involved/download-chromium)
 
-Chromium是一个由Google主导开发的网页浏览器，以BSD许可证等多重开源协议发行并且开放源代码，Chrome和Chromium在实际功能上没有太大差距，可以说Chromium是Chrome的开源版本
+Chromium 是一个由 Google 主导开发的网页浏览器，以 BSD 许可证等多重开源协议发行并且开放源代码，Chrome 和 Chromium 在实际功能上没有太大差距，可以说 Chromium 是 Chrome 的开源版本
 
-Chromium is an open-source web browser project started by Google, to provide the source code for the proprietary Google Chrome browser.The two browsers share the majority of code and features, though there are some minor differences in features, logos and they have different licensing
+Chromium is an open-source web browser project started by Google, to provide the source code for the proprietary Google Chrome browser. The two browsers share the majority of code and features, though there are some minor differences in features, logos and they have different licensing
 
 ### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/united-states.png) ![](/assets/usb.png)
 
@@ -62,7 +62,7 @@ An open source web browser that is highly extensive and privacy respecting.
 
 ###### [官网](https://www.icyarrow.com/haloradio/)｜[Official Site](https://www.douban.com/note/561310960/)
 
-在Windows享受豆瓣电台、Soundcloud、互联网收音机与Podcast
+在 Windows 享受豆瓣电台、Soundcloud、互联网收音机与 Podcast
 
 Douban.FM, Soundcloud, Internet Radio and Podcast on your Windows
 
@@ -70,13 +70,13 @@ Douban.FM, Soundcloud, Internet Radio and Podcast on your Windows
 
 * ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
 
-同时内嵌Trident与chromium的网页浏览器，内置高效密码管理器
+同时内嵌 Trident 与 chromium 的网页浏览器，内置高效密码管理器
 
 A Web browser that embedded with both Trident & chromium with a smart password manager.
 
 ### [Opera](http://www.opera.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
-基于chromium的浏览器，内置内容拦截器与快速预读取
+基于 chromium 的浏览器，内置内容拦截器与快速预读取
 
 A chromiun-based browser with built-in content blocker and with faster prefetch.
 
@@ -92,7 +92,7 @@ Allows network applications that do not support working through proxy servers
 
 ###### [官网 Official Site](https://quiterss.org/)｜[下载页面 Download Page](https://quiterss.org/en/download)
 
-开源跨平台RSS/Atom阅读器
+开源跨平台 RSS/Atom 阅读器
 
 Open-source cross-platform RSS/Atom news feeds reader.
 
@@ -106,7 +106,7 @@ A free and open source cross-platform, Friend-2-Friend and secure decentralised 
 
 ### [SoundWire](http://georgielabs.net/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-使用无线传输音频，从PC到Android、平板或者其它PC
+使用无线传输音频，从 PC 到 Android、平板或者其它 PC
 
 Wirelessly transmit any music or audio from your PC to your Android phone, tablet, or other PCs.
 
@@ -126,11 +126,11 @@ Enable anonymous communication.
 
 ### [Vivaldi](https://vivaldi.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-同样基于chromium的优秀浏览器
+同样基于 chromium 的优秀浏览器
 
 Another chromium-based browser with amazing features.
 
-### [ZeroNet ](https://zeronet.io/)![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HelloZeroNet/ZeroNet")](https://github.com/HelloZeroNet/ZeroNet) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [ZeroNet](https://zeronet.io/)![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HelloZeroNet/ZeroNet")](https://github.com/HelloZeroNet/ZeroNet) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 开源跨平台的去中心化网络框架
 
