@@ -6,7 +6,7 @@
 
 ### [~~160WIFI~~](http://wifi.160.com/) ![](/assets/图片2.png) ![](/assets/china.png)
 
-~~虚拟WiFi路由软件，整洁免费~~
+~~虚拟 WiFi 路由软件，整洁免费~~
 
 ~~A WiFi virtual router app, neat & free.~~
 
@@ -24,7 +24,7 @@ An all-in-one system optimization unity.
 
 ### [AltDrag](https://stefansundin.github.io/altdrag/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/stefansundin/altdrag")](https://github.com/stefansundin/altdrag) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-按下Alt键时，拖动窗口，调整大小，最小化等等
+按下 Alt 键时，拖动窗口，调整大小，最小化等等
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
 
@@ -64,7 +64,7 @@ Modify processes priority on network traffic and help to reduce ping.
 
 ### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Chuyu-Team")](https://github.com/Chuyu-Team) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-全球首家基于CBS的Dism GUI实现
+全球首家基于 CBS 的 Dism GUI 实现
 
 First CBS-based Dism GUI implementation globally.
 
@@ -80,10 +80,10 @@ Clipboard manager.
 
 Adjust volume for all apps individually.
 
-###### ⚠UWP APPS FOR WINDOWS 8.1/10   针对Windows 8.1/10的UWP应用
+###### ⚠UWP APPS FOR WINDOWS 8.1/10   针对 Windows 8.1/10 的 UWP 应用
 
 * ###### Version compatible with Windows 8.1 available on [GitHub](https://github.com/File-New-Project/EarTrumpet). RS 2 users are suggested to install from Windows Store
-* ###### 向下兼容Windows 8.1的版本可见于[GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS 2用户建议从应用商店安装
+* ###### 向下兼容 Windows 8.1 的版本可见于 [GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS2 用户建议从应用商店安装
 
 ### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
@@ -97,7 +97,7 @@ Customize and add several tools to the context menu of Windows File Explorer.
 
 ###### [官网 Official Site](https://www.geekuninstaller.com/)｜[下载页面 Download Page](https://www.geekuninstaller.com/download)
 
-清理卸载残余并提供便携版本
+清理卸载残留
 
 A portable solution for complete uninstallation.
 
@@ -127,7 +127,7 @@ Monitor and clean system memory on your computer.
 
 ### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-增强型任务管理器， 允许终结一些系统的关键进程
+增强型任务管理器，允许终结一些系统的关键进程
 
 Enhanced task manager which allows you to terminate some critical processes.
 
@@ -141,13 +141,13 @@ Multi-purpose tool that helps you monitor system resources, debug software and d
 
 ### [Process Lasso](https://bitsum.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-Adjust processes priority to prevent CPU unresponsing on some devices
-
 自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
+
+Adjust processes priority to prevent CPU unresponsing on some devices
 
 ### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png "NO LISENCE@HOMEPAGE: http://qttabbar.wikidot.com/") ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-一站式Explorer增强工具
+一站式 Explorer 增强工具
 
 Significantly improve Explorer efficiency
 
@@ -165,7 +165,7 @@ An environment variables editor
 
 ###### [官网 Official Site](http://www.r2.com.au/page/products/show/startup-delayer/)｜[下载页面 Download Page](http://www.r2.com.au/page/products/download/startup-delayer/)
 
-根据CPU与磁盘运行情况在登录到系统时延时第三方程序的自启过程
+根据 CPU 与磁盘运行情况在登录到系统时延时第三方程序的自启过程
 
 Optimize your startup process by delaying applications from starting up as soon as you log into your computer based on your CPU/disk status
 
@@ -173,7 +173,7 @@ Optimize your startup process by delaying applications from starting up as soon 
 
 ###### [官网 Official Site](http://winaero.com/comment.php?comment.news.1836)｜[下载页面 Download Page](http://winaero.com/request.php?1796)
 
-调整各种Windows外观与行为特性
+调整各种 Windows 外观与行为特性
 
 Adjust Windows appearance and behaviors.
 
@@ -189,7 +189,7 @@ A disk usage statistics viewer and cleanup.
 
 ###### [官网 Official Site](http://shark007.net/)｜[下载页面 Download Page](http://shark007.net/forum/Thread-Setup-and-usage)
 
-显著增强Windows Media Player
+显著增强 Windows Media Player
 
 Enhanced your WMP significantly.
 
