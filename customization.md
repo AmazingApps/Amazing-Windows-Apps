@@ -42,7 +42,7 @@ Start Menu customization or bing back what it was.
 
 Simple hook to change Telegram desktop's font in Windows.
 
-###### 📌该项目没有UI，也没有目录构架，因此不存在UI语言或是否便携化的问题
+###### 📌该项目没有 UI，也没有目录构架，因此不存在UI语言或是否便携化的问题
 
 ###### 📌This project \(a hook\) has no UI or file structure
 
