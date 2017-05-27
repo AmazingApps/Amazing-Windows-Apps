@@ -6,7 +6,7 @@
 
 ### [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/acrylic/")](https://sourceforge.net/projects/acrylic/) ![](/assets/united-states.png) ![](/assets/china.png) ![](/assets/usb.png)
 
-本地DNS代理，缓存DNS服务器回应并通过设置hosts文件防止恶意广告
+本地 DNS 代理，缓存 DNS 服务器回应并通过设置 hosts 文件防止恶意广告
 
 A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file.
 
@@ -28,7 +28,7 @@ Outright protection against malware.
 
 ###### [官网 Official Site](https://www.piriform.com/CCLEANER)｜[下载页面 Download Page](https://www.piriform.com/ccleaner/download/standard)
 
-轻量PC优化工具，屡获殊荣
+轻量 PC 优化工具，屡获殊荣
 
 A light-weighted & award-winning PC optimization tool.
 
@@ -60,7 +60,7 @@ Network security monitoring tool and analyzer that visualizes your network activ
 
 ### [Huorong Security](http://www.huorong.cn/) 火绒 ![](/assets/图片2.png) ![](/assets/china.png)
 
-病毒防护软件，PUA防护表现惊艳
+病毒防护软件，PUA 防护表现惊艳
 
 A malware fighter performing amazingly on PUA protection.
 
@@ -122,15 +122,15 @@ Socks5代理工具
 
 Sock5 proxy
 
-### [ShadowsocksR ](https://breakwa11.github.io/)![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [ShadowsocksR](https://breakwa11.github.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 A main fork based on Shadowsocks
 
-基于Shadowsocks的主要分支之一
+基于 Shadowsocks 的主要分支之一
 
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](/assets/earth-globe.png)
 
-简单的DNSCrypt管理工具，可用于预防DNS污染
+简单的 DNSCrypt 管理工具，可用于预防DNS污染
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
 
