@@ -36,6 +36,10 @@ Windows下的便携式控制台模拟器
 
 Portable console emulator for Windows.
 
+###### 📌cmder 包含了 ConEmu 和其他实用的工具 (如 Clink)
+
+###### 📌cmder Contains ConEmu and other useful tools (e.g. Clink)
+
 ### [ConEmu](https://conemu.github.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](/assets/united-states.png) ![](/assets/china.png) ![](/assets/russia.png) ![](/assets/usb.png)
 
 可自定义的 Windows 终端模拟器, 支持多标签, 分隔, quake风格及更多功能
