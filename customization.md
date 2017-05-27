@@ -38,7 +38,7 @@ Start Menu customization or bing back what it was.
 
 ### [TGFont](https://github.com/ysc3839/TGFont) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/ysc3839/TGFont")](https://github.com/ysc3839/TGFont)
 
-修改Telegram Windows 桌面版字体的简单hook（钩子）
+修改 Telegram Windows 桌面版字体的简单 hook（钩子）
 
 Simple hook to change Telegram desktop's font in Windows.
 
@@ -60,11 +60,11 @@ Set videos as desktop background with online base.
 
 ### [**Windows 10 Login Background Changer**](https://forums.mydigitallife.net/threads/windows-10-login-screen-background-changer-uploaded-to-github.62367/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer")](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-修改Windows 10登陆背景
+修改 Windows 10 登录背景
 
 Changes the Windows 10 login screen background.
 
-###### ⚠DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对版本的Windows 10设计
+###### ⚠DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对 Windows 10 设计
 
 
 
