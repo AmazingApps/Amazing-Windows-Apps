@@ -16,13 +16,13 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 ### [amWiki ](https://github.com/TevinLi/amWiki)![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](/assets/united-states.png)
 
-基于JavaScript、依赖于Atom编辑器、应用MarkDown标记的wiki文档系统
+基于 JavaScript、依赖于 Atom 编辑器、应用 MarkDown 标记的 wiki 文档系统
 
 amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
 
 ### [AutoHotkey](https://www.autohotkey.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/Lexikos/AutoHotkey_L")](https://github.com/Lexikos/AutoHotkey_L) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-开源Windows脚本语言，用户可以轻松创建各种脚本完成各种任务
+开源 Windows 脚本语言，用户可以轻松创建各种脚本完成各种任务
 
 Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
 
@@ -30,7 +30,7 @@ Open-source scripting language for Windows that allows users to easily create sm
 
 ###### [官网 Official Site](https://www.autoitscript.com/site/autoit/)｜[下载页面 Download Page](https://www.autoitscript.com/site/autoit/downloads/)
 
-类BASIC脚本语言，用于Windows GUI的自动化以及编写一般脚本
+类 BASIC 脚本语言，用于 Windows GUI 的自动化以及编写通用脚本
 
 BASIC-like scripting language designed for automating the Windows GUI and general scripting.
 
@@ -38,7 +38,7 @@ BASIC-like scripting language designed for automating the Windows GUI and genera
 
 ### Cortana ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-微软开发的Windows 10内置个人助理
+微软开发的 Windows 10 内置个人助理
 
 Windows 10 built-in personal assistant by Microsoft.
 
@@ -52,19 +52,19 @@ All-in-one fonts management, preview, backup and examples.
 
 ###### [官网 Official Site](https://www.libreoffice.org/)｜[下载页面 Download Page](https://www.libreoffice.org/download/download/)
 
-开源Office套装
+开源 Office 套装
 
 Open source office suite.
 
 ### [Materialette](http://mikeschultz.xyz/materialette/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHUb: https://github.com/mike-schultz/materialette")](https://github.com/mike-schultz/materialette) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-material设计的调色板
+material 设计的调色板
 
 A material design color palette.
 
 ### [Matterwiki](http://matterwiki.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Matterwiki/Matterwiki")](https://github.com/Matterwiki/Matterwiki) ![](/assets/earth-globe.png)
 
-简单优雅的团队wiki
+简单优雅的团队 wiki
 
 A simple and beautiful wiki for teams.
 
@@ -96,7 +96,7 @@ A popular mind map tool with free cloud sync.
 
 ###### [官网 Official Site](http://zim-wiki.org/index.html)｜[下载页面 Download Page](http://zim-wiki.org/downloads.html)
 
-使用本地文件储存的wiki式的笔记本
+使用本地文件储存的 wiki 式的笔记本
 
 A wiki-style notebook that uses local file storage.
 
