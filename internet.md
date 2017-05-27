@@ -130,7 +130,7 @@ Enable anonymous communication.
 
 Another chromium-based browser with amazing features.
 
-### [ZeroNet](https://zeronet.io/)![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HelloZeroNet/ZeroNet")](https://github.com/HelloZeroNet/ZeroNet) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [ZeroNet](https://zeronet.io/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HelloZeroNet/ZeroNet")](https://github.com/HelloZeroNet/ZeroNet) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 开源跨平台的去中心化网络框架
 
