@@ -24,7 +24,7 @@ simple but powerful defragmentation
 
 A tiny countdown timer in natural languages.
 
-### [KeyCastOW](https://brookhong.github.io/2014/04/28/keycast-on-windows.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [KeyCastOW](https://brookhong.github.io/2014/04/28/keycast-on-windows.html) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 Windows 键盘活动可视化以便录屏时展示
 
