@@ -24,7 +24,7 @@
 
 注意：尽管以下应用可能值得一试，但是不会被列入：
 
-1. 修改版或破解版，例如 无广告版，它们可能体验良好
+1. 修改版或破解版，例如无广告版，它们可能体验良好。符合开源协议的修改版除外。
 2. 受地区限制应用，如 NPR One、拼音输入法等
 3. 仅与32位系统兼容
 
@@ -90,7 +90,7 @@ The purpose of this book is to introduce awesome apps on Windows. These apps are
 
 Note: Apps that meet the following conditions will NOT be listed although they may deserve a try:
 
-1. Modified or cracked versions of an app, such as unofficial ad-free versions which can provide a better user experience than the original versions.
+1. Modified or cracked versions of an app, such as unofficial ad-free versions which can provide a better user experience than the original versions. This rule does not apply to modifications permitted by open-source license.
 2. Apps that are useful only in limited areas, such as NPR One and IME.
 3. Apps that are incompatible with 64-bit OS.
 
