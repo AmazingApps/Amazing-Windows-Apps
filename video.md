@@ -93,3 +93,9 @@ A films/TV series manager that supports films info & subtitles downloading, watc
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
 
 Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+       
+### [**zogvm**](https://github.com/zogvm/zogvm) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](/assets/china.png) ![](/assets/usb.png)      
+
+视频引索管理器       
+
+zogna video manager.
