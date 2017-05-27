@@ -26,13 +26,13 @@ A tiny countdown timer in natural languages.
 
 ### [KeyCastOW](https://brookhong.github.io/2014/04/28/keycast-on-windows.html) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-Windows键盘活动可视化以便录屏时展示
+Windows 键盘活动可视化以便录屏时展示
 
 Keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 
 ### [LICEcap](http://www.cockos.com/licecap/) ![](/assets/图片2.png) ![](/assets/united-states.png)
 
-屏幕录制并保存为GIF
+屏幕录制并保存为 GIF
 
 Animated screen captures and save them directly to .GIF
 
@@ -42,7 +42,7 @@ Animated screen captures and save them directly to .GIF
 
 ###### [官网 Official Site](http://launcher.nirsoft.net/)｜[下载页面 Download Page](http://launcher.nirsoft.net/downloads/index.html)
 
-超过200个便携工具的集合
+超过 200 个便携工具的集合
 
 NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years.
 
@@ -62,7 +62,7 @@ Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
 
 ###### [官网 Official Site](https://quest-app.appspot.com/)｜[下载页面 Download Page](https://quest-app.appspot.com/download)
 
-Windows下免费翻译工具
+Windows 下免费翻译工具
 
 A free translator for Windows.
 
@@ -74,7 +74,7 @@ Create bootable USB drives in an easy way.
 
 ### [ScreenToGif](http://www.screentogif.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/NickeManarin/ScreenToGif/")](https://github.com/NickeManarin/ScreenToGif/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-将选定区域屏幕录制为GIF或视频
+将选定区域屏幕录制为 GIF 或视频
 
 ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
 
@@ -82,7 +82,7 @@ ScreenToGif allows you to record a selected area of your screen and save it as a
 
 ###### [官网 Official Site](http://www.spacedesk.net/)｜[下载页面 Download Page](http://spacedesk.ph/download/)
 
-将本地网咯中的其它设备作为扩展屏幕
+将本地网络中的其它设备作为扩展屏幕
 
 Expands the Windows desktop computer screen to other computers over the local area network.
 
@@ -94,7 +94,7 @@ A PC utility for restoring disk space from various game clients like Origin, Ste
 
 ### [Steam Mover](http://www.traynier.com/software/steammover) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
-移动已安装的Steam游戏所在目录
+移动已安装的 Steam 游戏所在目录
 
 Change location of installed games from Steam.
 
