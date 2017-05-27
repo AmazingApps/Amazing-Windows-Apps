@@ -8,7 +8,7 @@
 
 ###### [官网 Official Site](https://discordapp.com/)｜[下载页面 Download Page](https://discordapp.com/download)
 
-为游戏社区设计，具备DDoS防护游戏内嵌布局功能
+为游戏社区设计，具备 DDoS 防护和游戏内界面
 
 Designed for gaming communities with IP & DDoS protection and in-game overlay.
 
@@ -32,7 +32,7 @@ An Internet Relay Chat \(IRC\) client.
 
 ###### [官网  Official Site](http://quassel-irc.org/)｜[下载页面  Download Page](http://quassel-irc.org/downloads)
 
-现代设计的跨平台分布式IRC
+现代的跨平台分布式 IRC
 
 Quassel IRC is a modern, cross-platform, distributed IRC client.
 
@@ -44,7 +44,7 @@ A messaging app with a focus on speed and security, it’s super fast, simple an
 
 ### [Waow](http://dedg3.com/wao/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-WhatsApp网页客户端
+WhatsApp 网页客户端
 
 Awesome WhatsApp Web Client to deliver you the best WhatsApp experience.
 
