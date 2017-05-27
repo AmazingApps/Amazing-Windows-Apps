@@ -16,7 +16,7 @@ A cloud sync tool for system clipboard across multiple platforms.
 
 简单有效的磁盘碎片整理工具
 
-simple but powerdul  defragmentation
+simple but powerful defragmentation
 
 ### [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/dziemborowicz/hourglass")](https://github.com/dziemborowicz/hourglass) ![](/assets/united-states.png) ![](/assets/usb.png)
 
