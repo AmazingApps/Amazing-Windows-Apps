@@ -74,6 +74,12 @@ IDE 工具集合
 
 All sets of IDE tools.
 
+### [msys2](http://www.msys2.org/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png) [![](/assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/msys2, https://github.com/Alexpux")](https://github.com/msys2)
+
+Windows 上的 UNIX 软件包和生成平台
+
+MSYS2 is a software distro and building platform for Windows.
+
 ### [Scoop](http://scoop.sh/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LISENCE@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
 
 命令行安装器
