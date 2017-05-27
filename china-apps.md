@@ -26,7 +26,7 @@ An extremely brief audio player that supports GIF background
 
 基于Qt，高仿酷狗
 
-TTKMusicPlayer that imitation Kugou music based on Qt.
+A music player based on Qt that imitates Kugou music.
 
 ### \[美化工具\]
 
@@ -42,23 +42,23 @@ Set videos as desktop background with online base.
 
 一站式网页前端开发套装
 
-All-in-one Web front end development suit
+All-in-one Web front end development suit.
 
 ### \[电子书库\]
 
 ### [Gaaiho PDF Reader](http://pdf.gaaiho.com/index.php) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
-媲美Adobe Acrobat的专业免费PDF阅读器
+媲美 Adobe Acrobat 的专业免费 PDF 阅读器
 
-One of the preferred Adobe replacements
+One of the preferred Adobe replacements.
 
 ### \[效率工具\]
 
 ### [Desktopcal](http://www.desktopcal.com/) 桌面日历 ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
-放置于Windows桌面上的日历，用做备忘
+放置于 Windows 桌面上的日历，用做备忘
 
-A cool calendar placed on your windows desktop used as a memo.
+A cool calendar placed on your windows desktop as a memo.
 
 ### [Listary](http://www.listary.com/) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
@@ -76,11 +76,11 @@ A tiny launcher in way of icons.
 
 简单强大的截图工具并可以将截图贴到桌面；截图元素检测功能惊艳
 
-A simple but powerful snipping tool by amazing elements detection, and also allows you to pin the screenshot back onto the screen
+A simple but powerful snipping tool with amazing elements detection, and also allows you to pin the screenshot back onto the screen
 
 ### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/yingDev/WGestures")](https://github.com/yingDev/WGestures) ![](/assets/china.png) ![](/assets/united-states.png)
 
-Windows全局手势
+Windows 全局手势
 
 Modern mouse gestures for Windows. \(C\#\)
 
@@ -94,7 +94,7 @@ An effective launcher for Windows.
 
 记录简单应用详情的数据库式的启动器
 
-A data-base style launcher that can collect some detailed info
+A database-style launcher that can collect detailed info
 
 ### \[文件处理\]
 
@@ -112,13 +112,13 @@ Advanced renaming tools with everything you need for renaming
 
 跨平台文件传输
 
-Cross-platform files transfer.
+Cross-platform file transferring.
 
 ### \[图形图像\]
 
 ### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](/assets/united-states.png)
 
-Python编写的艺术二维码生成器
+Python 编写的艺术二维码生成器
 
 Artistic QR Code in Python \(Animated GIF qr code\).
 
@@ -126,7 +126,7 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 ### [Best Trace](https://www.ipip.net/download.html) ![](/assets/图片2.png) ![](/assets/china.png)
 
-从Windows中发起traceroute请求并可视化展示
+从 Windows 中发起 traceroute 请求并可视化展示
 
 Raise up traceroute request from Windows with route visilization display.
 
@@ -140,9 +140,9 @@ A PowerShell script to establish own DDNS service on CloudXNS API
 
 * ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
 
-同时内嵌Trident与chromium的网页浏览器，内置高效密码管理器
+同时内嵌 Trident 与 chromium 的网页浏览器，内置高效密码管理器
 
-A Web browser that embedded with both Trident & chromium with a smart password manager.
+A web browser that embedded both Trident & chromium with a smart password manager.
 
 ### \[实用程序\]
 
@@ -156,7 +156,7 @@ A cloud sync tool for system clipboard across multiple platforms.
 
 ### [amWiki](https://github.com/TevinLi/amWiki) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](/assets/united-states.png)
 
-基于JavaScript、依赖于Atom编辑器、应用MarkDown标记的wiki文档系统
+基于 JavaScript、依赖于 Atom 编辑器、应用 MarkDown 标记的 wiki 文档系统
 
 amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
 
@@ -178,11 +178,11 @@ A popular mind map tool with free cloud sync.
 
 ### [Huorong Security](http://www.huorong.cn/) 火绒 ![](/assets/图片2.png) ![](/assets/china.png)
 
-病毒防护软件，PUA防护表现惊艳
+病毒防护软件，PUA 防护表现惊艳
 
-A malware fighter performing amazingly on PUA protection.
+An anti-malware software performing amazingly on PUA protection.
 
-###### ⚠Homepage lockup allowed to be canceled by preferences itself   可通过自身设置取消的主页绑定
+###### ⚠Cancellable homepage lock   可通过自身设置取消的主页绑定
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
@@ -202,7 +202,7 @@ Resize, move, extend, merge and split partitions without data loss to maximize d
 
 ### [Dism++](https://www.chuyu.me/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Chuyu-Team/Dism-Multi-language")](https://github.com/Chuyu-Team/Dism-Multi-language) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
-全球首家基于CBS的Dism GUI实现
+全球首家基于 CBS 的 Dism GUI 实现
 
 First CBS-based Dism GUI implementation globally.
 
@@ -212,9 +212,9 @@ First CBS-based Dism GUI implementation globally.
 
 ###### [官网](http://www.everedit.net/)｜[Official Site](http://www.everedit.cn/)｜[下载页面](http://www.everedit.net/download)｜[Download Page](http://www.everedit.cn/download)
 
-内置Markdown预览与二进制编辑的文本编辑器
+内置 Markdown 预览与二进制编辑的文本编辑器
 
-A text editor with Markdown preview and hex editor
+A text editor with Markdown preview and hex mode.
 
 ### Leanote 蚂蚁笔记![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
@@ -222,7 +222,7 @@ A text editor with Markdown preview and hex editor
 
 支持 Markdown 的开源云笔记，也可以搭建个人博客
 
-A Markdown cloud note taking that allows you to establish personal blog
+A Markdown cloud note taking software that enables you to make your own blog.
 
 ### \[视频工具\]
 
