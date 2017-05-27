@@ -13,26 +13,26 @@
 
 ###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发
 
-本书旨在介绍Windows绝妙项目。本处收录的应用均：
+本书旨在介绍 Windows 绝妙项目。本处收录的应用均：
 
 1. 特性精选
 2. 无侵入式广告。存在非侵入式广告的，软件本身应当免费。若用户被要求先付费后使用或存在付费功能，则不应存在任何广告
 3. 尊重隐私：此处定义为：除非出于你或法律要求，否则该应用或应用提供商**不会**与任何第三方分享你的隐私信息
 4. 维护良好。若应用不再维护，则从此处移除
 5. 易于学习掌握：只要了解计算机基础操作即可完全掌握，需要简单学习的应有较高回报
-6. 完全兼容Windows 7/8.1/10 （极个别应用以具体说明为准）
+6. 完全兼容 Windows 7/8.1/10 （极个别应用以具体说明为准）
 
 注意：尽管以下应用可能值得一试，但是不会被列入：
 
 1. 修改版或破解版，例如 无广告版，它们可能体验良好
-2. 受地区限制应用，如NPR One、拼音输入法等
-3. 仅与32位系统、XP或更旧Windows兼容
+2. 受地区限制应用，如 NPR One、拼音输入法等
+3. 仅与32位系统兼容
 
 很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准
 
 结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
 
-本项目使用GNU GPL v2.0协议，转载请声明[GitBook项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源；未经本项目所有人授权不得将项目内容用于盈利
+本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源；未经本项目所有人授权不得将项目内容用于盈利
 
 更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程请[移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) ，也可查看[已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone )
 
@@ -46,13 +46,13 @@
 
 ![](/assets/图片2.png) 可免费使用（可能有收费版功能）
 
-![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：开源协议@托管站点: 开源地址
+![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：开源协议@托管站点: 开源地址。如：`GPL 2.0@GitHub https://github.com/EMLVIRUS/Amazing-Windows-Apps`.
 
-![](/assets/usb.png) 便携软件或可便携安装：不写入注册表和用户、系统目录，所有配置全写在软件目录下
+![](/assets/usb.png) 便携软件或可便携安装：所有配置全写在软件目录下，而不是写入到注册表或用户、系统目录
 
 ![](/assets/multi_platform.png) 具有跨平台版本
 
-![](/assets/earth-globe.png) 多语言支持：至少支持 世界上几种使用较多较广的语言
+![](/assets/earth-globe.png) 多语言支持：至少支持世界上几种使用较多较广的语言
 
 * 仅支持单一或者少数语种的以国旗或地区旗帜标注
 
@@ -79,52 +79,52 @@
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
-This is to introduce amazing works done onto Windows. All apps collected in this book will be:
+The purpose of this book is to introduce amazing works done on Windows. All apps collected in this book will be:
 
-1. greatly featured.
-2. invasive ads free. But if there is non-invasive ads, this apps should be completely free itself. If users are required to pay to use it or to unlock more feature, there should NOT be any ads.
-3. privacy respecting: here I mean this app or app provider will NEVER share private info with any 3rd party unless you ask for it or under legal requirements.
-4. actively maintained. If it stops being maintained, it will be removed from here.
-5. easy to learn throughout.
-6. Compitable with Windows 7/8.1/10 \(see detailed description for some very individual apps\)
+1. having extraordinary features.
+2. free of unacceptable ads. Free of charge if there exists some acceptable ads. That is to say, there should be NO ads if users are required to purchase a license to use it or to unlock some features.
+3. privacy-friendly. this app or app provider will NEVER share your personal information with any third party unless you ask for it or under legal requirements.
+4. actively maintained. If an app is no longer maintained, it will be removed from here.
+5. user friendly and easy to learn.
+6. Compitable with Windows 7/8.1/10 \(A note will be provided if this requirement is not satisfied.\)
 
-Note: these following appps will NOT be listed although may deserve a try:
+Note: apps meeting following conditions will NOT be listed although they may deserve a try:
 
-1. fixed or cracked versions, e.g. ads-peeling versions, which can feel cool.
-2. strict regional purpose, e.g. NPR One Desktop, Pinyin Input, etc.
-3. compitable only with 32-bit OS, XP or older.
+1. Modified or cracked versions of an app, such as unofficial ad-free versions which can provide a better user experience than the original versions.
+2. Apps that are useful only in limited areas, such as NPR One and IME.
+3. Apps that are incompatible with 64-bit OS.
 
-Many apps can be sorted in multiple categlory so here main design purpose is considered.
+Apps that can be categorized in multiple ways are categorized by what they are indended for.
 
-There is a black list at the end in which apps violate users profit and privacy severely so that you should aviod them.
+There is a blacklist at the end of the book containing apps that violate users' rights and privacy severely. These apps are to be avoided.
 
-This project is under GNU GPL v2.0, claim [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this. You are NOT allowed to make profit with any content in this repository without authorization.
+This project is licensed under GNU GPL v2.0, you need to add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this. You are NOT allowed to make a profit with any content in this repository without permission.
 
-Click [here ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)for more details; Or maybe check out [current plans ](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)or [works done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
+Click [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki) for more details; Or maybe check out [our roadmap](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
 [Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
 [转到中文版&gt;&gt;&gt;&gt;](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN)｜[在线阅读中文版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/amazing-windows-apps-zh-cn)｜[镜像站点>>>>](https://windowsapp.org/)
 
-see changelog [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/commits/master)
+Changelog is available [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/commits/master).
 
 ---
 
-### Marking Logos
+### Icons
 
-![](/assets/图片2.png) use it for free \(there can be an advanced paid version\)
+![](/assets/图片2.png) Free of charge \(there can be a paid version\)
 
-![](/assets/open-source-icon.png) open source, in the tooltip it says: lisence@host site: open source address
+![](/assets/open-source-icon.png) open source, the tooltips follow the format of `license@host site: source URL`. For example, `GPL v2.0@Github https://github.com/EMLVIRUS/Amazing-Windows-Apps`.
 
-![](/assets/usb.png) portable itself or portable installation provided: it saves config files in its own folder instead of Registry key or user profile folder.
+![](/assets/usb.png) A portable version of the app is provided. Configurations or preferences are stored under the root directory of the app instead of registry, application data folders or home directory.
 
-![](/assets/multi_platform.png) Multi-platform versions available
+![](/assets/multi_platform.png) Cross platform app.
 
-![](/assets/earth-globe.png) Multilanguage support: at least serveral major languages
+![](/assets/earth-globe.png) Localization support for major languages.
 
-* A national or regional flag is marked if only one or a few languages are supported
+* A national or regional flag is marked if only one or a few languages are supported.
 
 ~~Strikethrough~~:
 
-1. Controversial as unclear app reputation.
-2. Apps without update for a certain period but unclear if it is abandoned.
+1. The app had a bad reputation in the past.
+2. The app is not updated for a long time, and it is not clear whether the app is still maintained.
