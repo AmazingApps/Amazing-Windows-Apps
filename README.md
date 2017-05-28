@@ -11,7 +11,7 @@
 </a>
 </p>
 
-###### 受GitHub项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发
+###### 受 GitHub 项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发
 
 本书旨在介绍 Windows 绝妙项目。本处收录的应用均：
 
@@ -98,13 +98,13 @@ Apps that can be categorized in multiple ways are categorized by what they are i
 
 There is a blacklist at the end of the book containing apps that violate users' rights, security and privacy severely. These apps are to be avoided.
 
-This project is licensed under GNU GPL v2.0, you need to add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us) if you are to quote this. You are NOT allowed to make a profit with any content in this repository without permission.
+This project is licensed under GNU GPL v2.0. If you need to quote the contents of this book, you must add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us). You are NOT allowed to make a profit with any contents in this repository without permission.
 
 Click [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki) for more details; Or maybe check out [our roadmap](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
-[Read it online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
+[Read online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
 
-[转到中文版&gt;&gt;&gt;&gt;](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN)｜[在线阅读中文版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/amazing-windows-apps-zh-cn)｜[镜像站点>>>>](https://windowsapp.org/)
+[转到中文版&gt;&gt;&gt;&gt;](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN)｜[在线阅读中文版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/amazing-windows-apps-zh-cn)｜[Mirror>>>>](https://windowsapp.org/)
 
 Changelog is available [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/commits/master).
 
@@ -112,19 +112,19 @@ Changelog is available [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/c
 
 ### Icons
 
-![](/assets/图片2.png) Free of charge \(there can be a paid version\)
+![](/assets/图片2.png) Free of charge \(there can be an alternative paid version\)
 
-![](/assets/open-source-icon.png) open source, the tooltips follow the format of `license@host site: source URL`. For example, `GPL v2.0@Github https://github.com/EMLVIRUS/Amazing-Windows-Apps`.
+![](/assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/EMLVIRUS/Amazing-Windows-Apps"`.
 
-![](/assets/usb.png) A portable version of the app is provided. Configurations or preferences are stored under the root directory of the app instead of registry, application data folders or home directory.
+![](/assets/usb.png) A portable version of the app is available. An app is called portable, if its configurations or preferences are stored under the root directory of the app instead of registry, application data folders and home directory.
 
-![](/assets/multi_platform.png) Cross platform app.
+![](/assets/multi_platform.png) Cross platform apps.
 
-![](/assets/earth-globe.png) Localization support for major languages.
+![](/assets/earth-globe.png) Apps with localization for major languages.
 
 * A national or regional flag is marked if only one or a few languages are supported.
 
 ~~Strikethrough~~:
 
 1. The app had a bad reputation in the past.
-2. The app is not updated for a long time, and it is not clear whether the app is still maintained.
+2. The app has not been updated for a long time, and it is not clear whether the app is still maintained.
