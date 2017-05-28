@@ -67,8 +67,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/apps%20count-288-blue.svg" title="Wow! Such many apps already?！Σ(っ °Д °;)っ" />
-<img src="https://img.shields.io/badge/LICENSE-GPL%20v2.0-red.svg" title="Save your time to Google it as you won't understand it=￣ω￣=" />
+<img src="https://img.shields.io/badge/apps%20count-288-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/LICENSE-GPL%20v2.0-red.svg" title="Save your time to google it as you won't understand it after all=￣ω￣=" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
 </a>
@@ -81,12 +81,12 @@
 
 The purpose of this book is to introduce awesome apps on Windows. These apps are awesome in that:
 
-1. These apps have extraordinary features.
-2. These apps do not contain unacceptable ads. These apps must be free of charge if there exists some acceptable ads in these apps. That is to say, there should be NO ads  if users are required to purchase a license to use the app, or some features of the app.
-3. These apps are privacy-friendly. They will ONLY share your personal information with third party with your permission or under legal requirements.
-4. These apps are under active development. If an app is no longer maintained, it will be removed from the book.
-5. These apps are user-friendly. They are worth the time and effort to learn how to use them.
-6. These apps are compitable with Windows 7/8.1/10 \(A note will be provided if this requirement is not satisfied.\)
+1. They have extraordinary features.
+2. They do not contain unacceptable ads. These apps must be free of charge if there exists some acceptable ads in these apps. That is to say, there should be NO ads if users are required to purchase a license to use the app, or some features of the app.
+3. They are privacy-friendly. They will ONLY share your personal information with third party with your permission or under legal requirements.
+4. They are under active development. If an app is no longer maintained, it will be removed from the book.
+5. They are user-friendly. They are worth the time and effort to learn how to use them.
+6. They are compitable with Windows 7/8.1/10 \(A note will be provided if this requirement is not satisfied.\)
 
 Note: Apps that meet the following conditions will NOT be listed although they may deserve a try:
 
@@ -112,7 +112,7 @@ Changelog is available [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/c
 
 ### Icons
 
-![](/assets/图片2.png) Free of charge \(there can be an alternative paid version\)
+![](/assets/图片2.png) Free of charge \(while there can be an alternative paid version\).
 
 ![](/assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/EMLVIRUS/Amazing-Windows-Apps"`.
 
