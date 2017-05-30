@@ -6,8 +6,8 @@
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg" title="你猜我会不会在♂线呢？"/>
 </a>
-<a href="https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues" target="_blank">
-<img src="https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg" title="有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)"/>
+<a href="https://github.com/AmazingApps/Amazing-Windows-Apps/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Windows-Apps.svg" title="有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)"/>
 </a>
 </p>
 
@@ -32,13 +32,13 @@
 
 结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
 
-本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us)来源；未经本项目所有人授权不得将项目内容用于盈利
+本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details)来源；未经本项目所有人授权不得将项目内容用于盈利
 
-更多详情[参阅此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki)；当前编辑进程请[移步此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone )
+更多详情[参阅此处](https://github.com/AmazingApps/Amazing-Windows-Apps/wiki)；当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
 
-[阅读在线版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)｜[镜像站点>>>>](https://windowsapp.org/)
+[阅读在线版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[镜像站点>>>>](https://windowsapp.org/)
 
-变更详情可[见于此处](https://github.com/EMLVIRUS/Amazing-Windows-Apps/commits/master)
+变更详情可[见于此处](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ![](/assets/图片2.png) 可免费使用（可能有收费版功能）
 
-![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：开源协议@托管站点: 开源地址。如：`GPL 2.0@GitHub https://github.com/EMLVIRUS/Amazing-Windows-Apps`.
+![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：开源协议@托管站点: 开源地址。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
 
 ![](/assets/usb.png) 便携软件或可便携安装：所有配置全写在软件目录下，而不是写入到注册表或用户、系统目录
 
@@ -72,8 +72,8 @@
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
 </a>
-<a href="https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues" target="_blank">
-<img src="https://img.shields.io/github/issues/EMLVIRUS/Amazing-Windows-Apps.svg" title="Any suggestion is welcome. Just see if I will accept it.(●ˇ∀ˇ●)"/>
+<a href="https://github.com/AmazingApps/Amazing-Windows-Apps/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Windows-Apps.svg" title="Any suggestion is welcome. Just see if I will accept it.(●ˇ∀ˇ●)"/>
 </a>
 </p>
 
@@ -98,15 +98,13 @@ Apps that can be categorized in multiple ways are categorized by what they are i
 
 There is a blacklist at the end of the book containing apps that violate users' rights, security and privacy severely. These apps are to be avoided.
 
-This project is licensed under GNU GPL v2.0. If you need to quote the contents of this book, you must add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/emlvirus/windows-apps-that-amaze-us). You are NOT allowed to make a profit with any contents in this repository without permission.
+This project is licensed under GNU GPL v2.0. If you need to quote the contents of this book, you must add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details). You are NOT allowed to make a profit with any contents in this repository without permission.
 
-Click [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/wiki) for more details; Or maybe check out [our roadmap](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/EMLVIRUS/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
+Click [here](https://github.com/AmazingApps/Amazing-Windows-Apps/wiki) for more details; Or maybe check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
-[Read online&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/windows-apps-that-amaze-us)
-
-[转到中文版&gt;&gt;&gt;&gt;](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN)｜[在线阅读中文版&gt;&gt;&gt;&gt;](https://www.gitbook.com/read/book/emlvirus/amazing-windows-apps-zh-cn)｜[Mirror>>>>](https://windowsapp.org/)
-
-Changelog is available [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/commits/master).
+[Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)
+s
+Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master).
 
 ---
 
@@ -114,7 +112,7 @@ Changelog is available [here](https://github.com/EMLVIRUS/Amazing-Windows-Apps/c
 
 ![](/assets/图片2.png) Free of charge \(while there can be an alternative paid version\).
 
-![](/assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/EMLVIRUS/Amazing-Windows-Apps"`.
+![](/assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/AmazingApps/Amazing-Windows-Apps"`.
 
 ![](/assets/usb.png) A portable version of the app is available. An app is called portable, if its configurations or preferences are stored under the root directory of the app instead of registry, application data folders and home directory.
 
