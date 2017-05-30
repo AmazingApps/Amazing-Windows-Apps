@@ -34,7 +34,7 @@
 
 本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details)来源；未经本项目所有人授权不得将项目内容用于盈利
 
-更多详情[参阅此处](https://github.com/AmazingApps/Amazing-Windows-Apps/wiki)；当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
+更多详情[参阅此处](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)；当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
 
 [阅读在线版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[镜像站点>>>>](https://windowsapp.org/)
 
@@ -100,7 +100,7 @@ There is a blacklist at the end of the book containing apps that violate users' 
 
 This project is licensed under GNU GPL v2.0. If you need to quote the contents of this book, you must add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details). You are NOT allowed to make a profit with any contents in this repository without permission.
 
-Click [here](https://github.com/AmazingApps/Amazing-Windows-Apps/wiki) for more details; Or maybe check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
+Click [here](https://www.gitbook.com/read/book/amazing-apps/organization-wiki) for more details; Or maybe check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
 [Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)
 s
