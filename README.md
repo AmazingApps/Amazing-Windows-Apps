@@ -46,7 +46,7 @@
 
 ![](/assets/图片2.png) 可免费使用（可能有收费版功能）
 
-![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：开源协议@托管站点: 开源地址。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
+![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：`"开源协议@托管站点: 开源地址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
 
 ![](/assets/usb.png) 便携软件或可便携安装：所有配置全写在软件目录下，而不是写入到注册表或用户、系统目录
 
@@ -103,7 +103,7 @@ This project is licensed under GNU GPL v2.0. If you need to quote the contents o
 Click [here](https://www.gitbook.com/read/book/amazing-apps/organization-wiki) for more details; Or maybe check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
 [Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)
-s
+
 Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master).
 
 ---
