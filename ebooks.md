@@ -18,7 +18,7 @@ One-stop solution to all your ebook need.
 
 One of the preferred Adobe replacements
 
-### [kobo](https://www.kobo.com/desktop) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### [kobo](https://www.kobo.com/desktop) ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 巨丑无比但强大无比的电子书管理
 
