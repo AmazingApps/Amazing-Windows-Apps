@@ -85,7 +85,7 @@ Adjust volume for all apps individually.
 * ###### Version compatible with Windows 8.1 available on [GitHub](https://github.com/File-New-Project/EarTrumpet). RS 2 users are suggested to install from Windows Store
 * ###### 向下兼容 Windows 8.1 的版本可见于 [GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS2 用户建议从应用商店安装
 
-### FileMenu Tools ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### FileMenu Tools ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://lopesoft.com/index.php/en/products)｜[下载页面 Download Page](https://lopesoft.com/index.php/en/download/filemenu-tools)
 
