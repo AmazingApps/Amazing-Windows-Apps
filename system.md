@@ -161,6 +161,14 @@ Significantly improve Explorer efficiency
 
 An environment variables editor
 
+### Seer ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://1218.io/)｜[下载页面 Download Page](http://sourceforge.net/projects/ccseer/)
+
+Windows文件预览，类似于Mac OS但是更强大，可定制度更高
+
+A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
+
 ### Startup Delayer ![](/assets/图片2.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.r2.com.au/page/products/show/startup-delayer/)｜[下载页面 Download Page](http://www.r2.com.au/page/products/download/startup-delayer/)
