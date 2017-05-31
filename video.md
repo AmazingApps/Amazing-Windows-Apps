@@ -10,6 +10,16 @@
 
 A univeral multi-media player that supports Airplay, online broadcasting and downloading from some video sites
 
+### bomi ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/xylosper/bomi")](https://github.com/xylosper/bomi) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://bomi-player.github.io/index.html)｜[下载页面 Download Page](https://bomi-player.github.io/downloads.html)
+
+Bomi是一个开源软件，基于MPV播放器开发，为MPV播放器增强了图形化界面。适合对原生MPV配置文件与全快捷键操作头疼的用户
+
+An open source player based on mpv with GUI enhanced & neat
+
+###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
+
 ### [EMDB](http://www.emdb.eu/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 电影及电视剧追播进度记录，同时支持光盘与本地媒体文件
