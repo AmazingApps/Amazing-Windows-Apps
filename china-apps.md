@@ -44,6 +44,18 @@ Set videos as desktop background with online base.
 
 All-in-one Web front end development suit.
 
+### \[下载工具\]
+
+### hardseed ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/yangyangwithgnu/hardseed")](https://github.com/yangyangwithgnu/hardseed) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://yangyangwithgnu.github.io/)｜[下载页面 Download Page](https://github.com/yangyangwithgnu/hardseed)
+
+针对1024的页面爬虫，可下载种子文件
+
+A spider aimed to 1024 to download .torrent files
+
+###### ⚠️MINORS SHOULD USE THIS UNDER INSTRUCTIONS 未成年人请在指导下使用
+
 ### \[电子书库\]
 
 ### [Gaaiho PDF Reader](http://pdf.gaaiho.com/index.php) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
