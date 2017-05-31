@@ -36,7 +36,7 @@
 
 更多详情[参阅此处](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)；当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
 
-[阅读在线版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[镜像站点>>>>](https://windowsapp.org/)
+[阅读在线版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[镜像站点>>>>](https://windowsapp.org/)｜[组织首页>>>](http://amazingapps.org/)
 
 变更详情可[见于此处](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master)
 
@@ -102,7 +102,7 @@ This project is licensed under GNU GPL v2.0. If you need to quote the contents o
 
 Click [here](https://www.gitbook.com/read/book/amazing-apps/organization-wiki) for more details; Or maybe check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
-[Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)
+[Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[Org Home>>>](http://amazingapps.org/)
 
 Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master).
 
