@@ -226,6 +226,14 @@ Resize, move, extend, merge and split partitions without data loss to maximize d
 
 First CBS-based Dism GUI implementation globally.
 
+### Seer ![](/assets/图片2.png) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://1218.io/)｜[下载页面 Download Page](http://sourceforge.net/projects/ccseer/)
+
+Windows文件预览，类似于Mac OS但是更强大，可定制度更高
+
+A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
+
 ### \[文本编辑\]
 
 ### EverEdit ![](/assets/图片2.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/japan.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
