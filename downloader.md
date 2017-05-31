@@ -24,6 +24,16 @@ Free all-in-one download manager for HTTP\(S\), FTP, MMS and RTSP protocol and a
 
 A powerful download accelerator and organizer with  HTTP/HTTPS/FTP/BitTorrent support.
 
+### hardseed ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/yangyangwithgnu/hardseed")](https://github.com/yangyangwithgnu/hardseed) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://yangyangwithgnu.github.io/)｜[下载页面 Download Page](https://github.com/yangyangwithgnu/hardseed)
+
+针对1024的页面爬虫，可下载种子文件
+
+A spider aimed to 1024 to download .torrent files
+
+###### ⚠️MINORS SHOULD USE THIS UNDER INSTRUCTIONS 未成年人请在指导下使用
+
 ### [HTTrack](https://www.httrack.com/page/2/en/index.html) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 离线浏览器工具，可以从网络下载完整页面内容
