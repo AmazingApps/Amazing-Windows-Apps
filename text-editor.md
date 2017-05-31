@@ -90,6 +90,12 @@ Markdown 编辑器，支持通用 markdown、GitHub markdown 之外，还支持�
 
 A source code editor which supports several programming languages.
 
+### [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/XhmikosR/notepad2-mod")](https://github.com/XhmikosR/notepad2-mod) ![](/assets/united-states.png) ![](/assets/usb.png) 
+
+Notepad2的分支之一，可替换系统 notepad 的轻量级开源编辑器，支持语法高亮等功能
+
+A Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
+
 ### PSPad ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://www.pspad.com/)｜[下载页面 Download Page](http://www.pspad.com/en/download.php)

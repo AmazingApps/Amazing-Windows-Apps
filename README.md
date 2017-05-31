@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-291-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" /> <img src="https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg" title="不用去找了，反正你也看不懂=￣ω￣=" />
+<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-292-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" /> <img src="https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v2.0-red.svg" title="不用去找了，反正你也看不懂=￣ω￣=" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg" title="你猜我会不会在♂线呢？"/>
 </a>
@@ -13,7 +13,7 @@
 
 ###### 受 GitHub 项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发
 
-本书旨在介绍 Windows 绝妙项目。本处收录的应用除满足[组织首页](http://amazingapps.org/#two)当中的条件描述
+本书旨在介绍 Windows 绝妙项目。本处收录的应用均满足[组织首页](http://amazingapps.org/#two)当中的条件描述
 
 注意：尽管以下应用可能值得一试，但是不会被列入：
 
@@ -60,7 +60,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/apps%20count-291-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/apps%20count-292-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
 <img src="https://img.shields.io/badge/LICENSE-GPL%20v2.0-red.svg" title="Save your time to google it as you won't understand it after all=￣ω￣=" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
