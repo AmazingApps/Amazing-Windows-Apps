@@ -41,11 +41,11 @@ Advertising from※第三方宣传：
     * [阿七's BLOG](https://aptx4869.tech/2017/05/19/wapps/)
     * [JJBOOM.COM   点个赞科技](http://wiki.jjboom.com/doku.php?id=专题策划:常用软件建议)
     * [sspai   少数派](https://sspai.com/post/38866)
+    * [萌月神社](http://blog.ciovem.org/?p=280)
 * Friendship Links※友链合作:
     * [Leanote 蚂蚁笔记](https://leanote.com/)
     * [OLEREO!](http://olereo.com/links)
     * [03k   零散坑](https://03k.org)
-    * [萌月神社](http://blog.ciovem.org/)
 
 <p align="center">
  <img src="/assets/windows_logo.png"/>
