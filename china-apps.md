@@ -164,6 +164,14 @@ A web browser that embedded both Trident & chromium with a smart password manage
 
 A cloud sync tool for system clipboard across multiple platforms.
 
+### MyChrome ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@TaoCode: http://code.taobao.org/p/mychrome/src/")](http://code.taobao.org/p/mychrome/src/) ![](/assets/china.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://bbs.kafan.cn/thread-1725205-1-1.html)｜[下载页面 Download Page](http://code.taobao.org/p/mychrome/src/trunk/release/)
+
+Google Chrome 的便携版引导器
+
+Navigator for a portable version of Google Chrome
+
 ### \[生产工具\]
 
 ### [amWiki](https://github.com/TevinLi/amWiki) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](/assets/united-states.png)
