@@ -13,14 +13,7 @@
 
 ###### 受 GitHub 项目 [Awesome Windows](https://github.com/Awesome-Windows/Awesome) 启发
 
-本书旨在介绍 Windows 绝妙项目。本处收录的应用均：
-
-1. 特性精选
-2. 无侵入式广告。存在非侵入式广告的，软件本身应当免费。若用户被要求先付费后使用或存在付费功能，则不应存在任何广告
-3. 尊重隐私：此处定义为：除非出于你或法律要求，否则该应用或应用提供商**不会**与任何第三方分享你的隐私信息
-4. 维护良好。若应用不再维护，则从此处移除
-5. 易于学习掌握：只要了解计算机基础操作即可完全掌握，需要简单学习的应有较高回报
-6. 完全兼容 Windows 7/8.1/10 （极个别应用以具体说明为准）
+本书旨在介绍 Windows 绝妙项目。本处收录的应用除满足[组织首页](http://amazingapps.org/#two)当中的条件描述
 
 注意：尽管以下应用可能值得一试，但是不会被列入：
 
@@ -28,7 +21,7 @@
 2. 受地区限制应用，如 NPR One、拼音输入法等
 3. 仅与32位系统兼容
 
-很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准
+很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准；极个别应用兼容性以具体说明为准
 
 结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
 
@@ -79,14 +72,7 @@
 
 ###### Inspired by GitHub repo [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
-The purpose of this book is to introduce awesome apps on Windows. These apps are awesome in that:
-
-1. They have extraordinary features.
-2. They do not contain unacceptable ads. These apps must be free of charge if there exists some acceptable ads in these apps. That is to say, there should be NO ads if users are required to purchase a license to use the app, or some features of the app.
-3. They are privacy-friendly. They will ONLY share your personal information with third party with your permission or under legal requirements.
-4. They are under active development. If an app is no longer maintained, it will be removed from the book.
-5. They are user-friendly. They are worth the time and effort to learn how to use them.
-6. They are compitable with Windows 7/8.1/10 \(A note will be provided if this requirement is not satisfied.\)
+The purpose of this book is to introduce awesome apps on Windows. These apps here all meet condition listed on our [Org home](http://amazingapps.org/#two)
 
 Note: Apps that meet the following conditions will NOT be listed although they may deserve a try:
 
@@ -94,7 +80,7 @@ Note: Apps that meet the following conditions will NOT be listed although they m
 2. Apps that are useful only in limited areas, such as NPR One and IME.
 3. Apps that are incompatible with 64-bit OS.
 
-Apps that can be categorized in multiple ways are categorized by what they are indended for.
+Apps that can be categorized in multiple ways are categorized by what they are indended for; A note will be provided for compatibility issues of some very individual apps.
 
 There is a blacklist at the end of the book containing apps that violate users' rights, security and privacy severely. These apps are to be avoided.
 
