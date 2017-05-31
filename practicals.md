@@ -38,6 +38,14 @@ Animated screen captures and save them directly to .GIF
 
 ###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
 
+### MyChrome ![](/assets/图片2.png) [![](/assets/open-source-icon.png "NO LICENSE@TaoCode: http://code.taobao.org/p/mychrome/src/")](http://code.taobao.org/p/mychrome/src/) ![](/assets/china.png) ![](/assets/usb.png)
+
+###### [官网 Official Site](http://bbs.kafan.cn/thread-1725205-1-1.html)｜[下载页面 Download Page](http://code.taobao.org/p/mychrome/src/trunk/release/)
+
+Google Chrome 的便携版引导器
+
+Navigator for a portable version of Google Chrome
+
 ### NirLauncher ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](http://launcher.nirsoft.net/)｜[下载页面 Download Page](http://launcher.nirsoft.net/downloads/index.html)
