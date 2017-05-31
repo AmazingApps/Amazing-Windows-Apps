@@ -27,8 +27,8 @@ Other individuals※其他个人：
 | [lingchuanbo](https://github.com/lingchuanbo) | [momoca](https://github.com/momoca) | [onikwuthkro \(Karsten Ng\)](https://github.com/onikwuthkro) | Rambin |
 | SAGE | [shensven (Shensven)](https://github.com/shensven) | [StrollStars](https://github.com/StrollStars) | [ts8zs \(天杀包子神\)](https://github.com/ts8zs) |
 | [tttsss520 (烟雨三千年)](https://github.com/tttsss520) | [unnamed5719](https://github.com/unnamed5719) | [venmos \(Kuroi Mato\)](https://github.com/venmos) | [WanderMax](https://github.com/WanderMax) |
-| [Yanda Huang](https://github.com/yodahuang) | [yfdyh000 \(YFdyh000\)](https://github.com/yfdyh000) | [yi-Xu-0100 (yi_Xu)](https://github.com/yi-Xu-0100) | [ZetaoYang](https://github.com/ZetaoYang) |
-| [ysc3839](https://github.com/ysc3839) | | | |
+| [Yanda Huang](https://github.com/yodahuang) | [yfdyh000 \(YFdyh000\)](https://github.com/yfdyh000) | [yi-Xu-0100 (yi_Xu)](https://github.com/yi-Xu-0100) | [ysc3839](https://github.com/ysc3839) |
+| [ZetaoYang](https://github.com/ZetaoYang) | | | |
 
 Speicial Thanks※特别鸣谢：
 
