@@ -16,7 +16,7 @@ HDD/SSD 信息工具，支持部分 USB 连接设备跟 Intel RAID
 
 A HDD/SSD info utility software which supports a part of USB connection and Intel RAID.
 
-### [f.lux](http://stereopsis.com/flux/) ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [f.lux](http://stereopsis.com/flux/) ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
 
 自动调节屏幕色温以匹配环境亮度
 
