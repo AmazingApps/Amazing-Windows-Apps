@@ -28,9 +28,12 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 
 ---
 
-### 2345 Series   2345系列软件   1, 2, 4, 5
+### Included in 2345 Series｜2345 系列中包含的：
 
-* Excluding Haoya   不包含好压
+* 2345Explorer｜2345 浏览器：1, 2, 4
+* 2345 看图王：1, 2, 5
+* 2345 王牌输入法：1, 2, 4, 5
+* 2345 安全卫士：1, 2, 3, 4, 5
 
 ### 360 Series   360系列软件   1, 2, 3, 4, 5
 
