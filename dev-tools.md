@@ -46,6 +46,14 @@ Portable console emulator for Windows.
 
 Customizable Windows terminal with tabs, splits, quake-style and more.
 
+### [Git] ![](/assets/free.png) [![](/assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](/assets/multi_platform.png)
+
+Git 是一个分散式版本控制软件，最初由林纳斯·托瓦兹（Linus Torvalds）創作，於2005年以GPL釋出。最初目的是为更好地管理Linux内核开发而设计。应注意的是，这与GNU Interactive Tools（一个类似Norton Commander界面的文件管理器）有所不同
+
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+###### [官网 Official Site](https://git-scm.com/)｜[下载页面 Download Page](https://git-scm.com/downloads)
+
 ### [GitHub Desktop](https://desktop.github.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/desktop/desktop")](https://github.com/desktop/desktop) ![](/assets/united-states.png)
 
 GitHub 的 GUI 客户端
