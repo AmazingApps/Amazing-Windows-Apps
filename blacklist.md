@@ -46,7 +46,12 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * 百度卫士：1, 2, 3, 4, 5
 * 百度五笔输入法：1, 2, 3, 5
 
-### Kingsoft Series｜金山系列软件：1, 2, 3, 4, 5
+### Included in Kingsoft Series｜金山系列中包含的：
+
+* 猎豹安全浏览器：1, 2, 3, 4, 5
+* 金山毒霸：1, 2, 3, 4, 5
+* 驱动向导：1, 2, 3, 5
+* 猎豹轻桌面：1, 2, 3, 5
 
 ### Rising Series｜瑞星系列软件：1, 2, 3, 4, 5
 
