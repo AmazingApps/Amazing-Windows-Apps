@@ -35,14 +35,6 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * 2345 王牌输入法：1, 2, 4, 5
 * 2345 安全卫士：1, 2, 3, 4, 5
 
-### 360 Series ｜360系列软件：1, 2, 3, 4, 5
-
-* Excluding 360 Security Essential   不包含360卫士国际版
-
-### ADM｜阿呆喵广告拦截：2, 3
-
-### Adsafe｜净网大师：2, 3
-
 ### Included in Baidu Series ｜百度系列中包含的：
 
 * 百度影音：1, 2, 3, 5
@@ -53,12 +45,6 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * 百度杀毒：1, 2, 3, 4, 5
 * 百度卫士：1, 2, 3, 4, 5
 * 百度五笔输入法：1, 2, 3, 5
-
-### Driver Life｜驱动人生：1, 2, 3
-
-### Driver Spirit｜驱动精灵：1, 2, 3
-
-### Format Factory｜格式工厂：1, 2, 3
 
 ### Kingsoft Series｜金山系列软件：1, 2, 3, 4, 5
 
@@ -71,6 +57,20 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 ### Thunder Series ｜迅雷系列软件：1, 2, 3, 4, 5
 
 ### Tencent Series｜腾讯系列软件：1, 2, 3, 5
+
+### 360 Series ｜360系列软件：1, 2, 3, 4, 5
+
+* Excluding 360 Security Essential   不包含360卫士国际版
+
+### ADM｜阿呆喵广告拦截：2, 3
+
+### Adsafe｜净网大师：2, 3
+
+### Driver Life｜驱动人生：1, 2, 3
+
+### Driver Spirit｜驱动精灵：1, 2, 3
+
+### Format Factory｜格式工厂：1, 2, 3
 
 ### UC Browser ｜UC浏览器：2, 3, 4
 
