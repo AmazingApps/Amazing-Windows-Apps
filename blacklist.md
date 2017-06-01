@@ -43,7 +43,16 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 
 ### Adsafe   净网大师   2, 3
 
-### Baidu Series   百度系列软件   1, 2, 3, 4, 5
+### Included in Baidu Series ｜百度系列中包含的：
+
+* 百度影音：1, 2, 3, 5
+* 百度音乐：1, 2, 3, 5
+* 百度浏览器：1, 2, 3, 4, 5
+* 百度 hi：1, 2, 3, 5
+* 百度输入法：1, 2, 3, 5
+* 百度杀毒：1, 2, 3, 4, 5
+* 百度卫士：1, 2, 3, 4, 5
+* 百度五笔输入法：1, 2, 3, 5
 
 ### Driver Life   驱动人生   1, 2, 3
 
@@ -66,6 +75,3 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 ### UC Browser   UC浏览器   2, 3, 4
 
 ### YY｜YY语音   1, 2, 3, 5
-
-
-
