@@ -14,19 +14,19 @@ There isn't too much to introduce this. I belive most of us have known how power
 
 Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Captivate, Adobe Character Animator, Adobe Dreamweaver, Adobe Edge Code, Adobe Edge Reflow, Adobe Encore, Adobe Fireworks, Adobe Fuse, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Muse, Adobe Photoshop, Adobe Prelude, Adobe Premiere, Adobe Scout, Adobe SpeedGrade
 
-### [amWiki ](https://github.com/TevinLi/amWiki)![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](/assets/united-states.png)
+### [amWiki ](https://github.com/TevinLi/amWiki)![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](/assets/united-states.png)
 
 基于 JavaScript、依赖于 Atom 编辑器、应用 MarkDown 标记的 wiki 文档系统
 
 amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
 
-### [AutoHotkey](https://www.autohotkey.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/Lexikos/AutoHotkey_L")](https://github.com/Lexikos/AutoHotkey_L) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [AutoHotkey](https://www.autohotkey.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/Lexikos/AutoHotkey_L")](https://github.com/Lexikos/AutoHotkey_L) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 开源 Windows 脚本语言，用户可以轻松创建各种脚本完成各种任务
 
 Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.
 
-### AutoIt ![](/assets/图片2.png) ![](/assets/united-states.png) ![](/assets/usb.png)
+### AutoIt ![](/assets/free.png) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 ###### [官网 Official Site](https://www.autoitscript.com/site/autoit/)｜[下载页面 Download Page](https://www.autoitscript.com/site/autoit/downloads/)
 
@@ -42,13 +42,13 @@ BASIC-like scripting language designed for automating the Windows GUI and genera
 
 Windows 10 built-in personal assistant by Microsoft.
 
-### [HelloFont](http://www.hellofont.cn/index.php) 字由 ![](/assets/图片2.png) ![](/assets/china.png)
+### [HelloFont](http://www.hellofont.cn/index.php) 字由 ![](/assets/free.png) ![](/assets/china.png)
 
 一站式字体管理、预览、备份与范例展示
 
 All-in-one fonts management, preview, backup and examples.
 
-### LibreOffice ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MPL 2.0@libreoffice.org: https://www.libreoffice.org/about-us/source-code/")](https://www.libreoffice.org/about-us/source-code/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### LibreOffice ![](/assets/free.png) [![](/assets/open-source-icon.png "MPL 2.0@libreoffice.org: https://www.libreoffice.org/about-us/source-code/")](https://www.libreoffice.org/about-us/source-code/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.libreoffice.org/)｜[下载页面 Download Page](https://www.libreoffice.org/download/download/)
 
@@ -56,19 +56,19 @@ All-in-one fonts management, preview, backup and examples.
 
 Open source office suite.
 
-### [Materialette](http://mikeschultz.xyz/materialette/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHUb: https://github.com/mike-schultz/materialette")](https://github.com/mike-schultz/materialette) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Materialette](http://mikeschultz.xyz/materialette/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHUb: https://github.com/mike-schultz/materialette")](https://github.com/mike-schultz/materialette) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 material 设计的调色板
 
 A material design color palette.
 
-### [Matterwiki](http://matterwiki.com/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Matterwiki/Matterwiki")](https://github.com/Matterwiki/Matterwiki) ![](/assets/earth-globe.png)
+### [Matterwiki](http://matterwiki.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Matterwiki/Matterwiki")](https://github.com/Matterwiki/Matterwiki) ![](/assets/earth-globe.png)
 
 简单优雅的团队 wiki
 
 A simple and beautiful wiki for teams.
 
-### Medibang Paint ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Medibang Paint ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://medibangpaint.com/zh_CN/)｜[Official Site](https://medibangpaint.com/en/)｜[下载页面](https://medibangpaint.com/zh_CN/app-download/)｜[Download Page](https://medibangpaint.com/en/app-download/)
 
@@ -84,7 +84,7 @@ Microsoft's own productivity suite:
 
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
 
-### XMind ![](/assets/图片2.png) [![](/assets/open-source-icon.png "EPL 1.0/LGPL 3.0@GitHub:https://github.com/xmindltd/xmind")](https://github.com/xmindltd/xmind) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### XMind ![](/assets/free.png) [![](/assets/open-source-icon.png "EPL 1.0/LGPL 3.0@GitHub:https://github.com/xmindltd/xmind")](https://github.com/xmindltd/xmind) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://www.xmind.net/)｜[下载页面 Download Page](http://www.xmind.net/download/win/)
 
@@ -92,7 +92,7 @@ Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project,
 
 A popular mind map tool with free cloud sync.
 
-### Zim Desktop Wiki ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/jaap-karssenberg/zim-desktop-wiki/")](https://github.com/jaap-karssenberg/zim-desktop-wiki/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### Zim Desktop Wiki ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/jaap-karssenberg/zim-desktop-wiki/")](https://github.com/jaap-karssenberg/zim-desktop-wiki/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://zim-wiki.org/index.html)｜[下载页面 Download Page](http://zim-wiki.org/downloads.html)
 

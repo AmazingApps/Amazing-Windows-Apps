@@ -4,7 +4,7 @@
 
 ---
 
-### Discord ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Discord ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://discordapp.com/)｜[下载页面 Download Page](https://discordapp.com/download)
 
@@ -12,7 +12,7 @@
 
 Designed for gaming communities with IP & DDoS protection and in-game overlay.
 
-### LINE 连我 ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### LINE 连我 ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网](https://line.me/zh-hans/)｜[Official Site](https://line.me/en/)｜[下载页面](https://line.me/zh-hans/download)｜[Download Page](https://line.me/en/download)
 
@@ -20,7 +20,7 @@ Designed for gaming communities with IP & DDoS protection and in-game overlay.
 
 Instant chat client providing free voice & video calls, even toward those who didn't install LINE.
 
-### mIRC ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### mIRC ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://www.mirc.com/)｜[下载页面  Download Page](http://www.mirc.com/get.html)
 
@@ -28,7 +28,7 @@ Instant chat client providing free voice & video calls, even toward those who di
 
 An Internet Relay Chat \(IRC\) client.
 
-### Quassel ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL@GitHub: https://github.com/quassel/quassel")](https://github.com/quassel/quassel) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### Quassel ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL@GitHub: https://github.com/quassel/quassel")](https://github.com/quassel/quassel) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网  Official Site](http://quassel-irc.org/)｜[下载页面  Download Page](http://quassel-irc.org/downloads)
 
@@ -36,13 +36,13 @@ An Internet Relay Chat \(IRC\) client.
 
 Quassel IRC is a modern, cross-platform, distributed IRC client.
 
-### [Telegram](https://desktop.telegram.org/) ![](/assets/图片2.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/telegramdesktop/tdesktop")](https://github.com/telegramdesktop/tdesktop) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [Telegram](https://desktop.telegram.org/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/telegramdesktop/tdesktop")](https://github.com/telegramdesktop/tdesktop) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 专注于速度与安全性的通信应用
 
 A messaging app with a focus on speed and security, it’s super fast, simple and free.
 
-### [Waow](http://dedg3.com/wao/) ![](/assets/图片2.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [Waow](http://dedg3.com/wao/) ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 WhatsApp 网页客户端
 
