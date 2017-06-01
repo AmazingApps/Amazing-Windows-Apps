@@ -112,12 +112,6 @@ node使用的深度删除模块。删除深目录文件（夹）
 
 A deep deletion module for node. Help to delete files and folders with very long paths.
 
-### [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) ![](/assets/free.png) ![](/assets/united-states.png)
-
-安全地删除文件的命令行工具
-
-A command line utility that can securely delete a file, or clean the slack space.
-
 ### SHAREit 茄子快传 ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [International Website](http://www.ushareit.com/)/ [中文网](http://www.ushareit.com/zh/index.html) {#international-website中文网}
