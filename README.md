@@ -25,7 +25,7 @@
 
 结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
 
-本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details)来源；未经本项目所有人授权不得将项目内容用于盈利
+本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details)来源
 
 更多详情[参阅此处](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)；当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
 
@@ -84,7 +84,7 @@ Apps that can be categorized in multiple ways are categorized by what they are i
 
 There is a blacklist at the end of the book containing apps that violate users' rights, security and privacy severely. These apps are to be avoided.
 
-This project is licensed under GNU GPL v2.0. If you need to quote the contents of this book, you must add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details). You are NOT allowed to make a profit with any contents in this repository without permission.
+This project is licensed under GNU GPL v2.0. If you need to quote the contents of this book, you must add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details).
 
 Click [here](https://www.gitbook.com/read/book/amazing-apps/organization-wiki) for more details; Or maybe check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
