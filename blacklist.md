@@ -52,8 +52,22 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * 金山毒霸：1, 2, 3, 4, 5
 * 驱动向导：1, 2, 3, 5
 * 猎豹轻桌面：1, 2, 3, 5
+* 猎豹 WiFi：1, 2, 5
 
-### Rising Series｜瑞星系列软件：1, 2, 3, 4, 5
+### Included in Rising Series｜瑞星系列中包含的：
+
+* 瑞星之剑：
+* 瑞星杀毒：
+* 流量宝宝：
+* 瑞星 WiFi 助手：
+* 瑞星路由安全卫士：
+* 瑞星个人防火墙：
+* 瑞星 XP 盾：
+* 瑞星安全助手：
+* 瑞星安全浏览器：
+* 瑞星软件管家：
+* 瑞星安全游戏：
+* 瑞星账号保险柜：
 
 ### Ruanmei Series｜软媒系列软件：1, 3, 5
 
