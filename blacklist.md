@@ -69,7 +69,15 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * 瑞星安全游戏：1, 2, 3, 5
 * 瑞星账号保险柜：1, 2, 3, 4, 5
 
-### Ruanmei Series｜软媒系列软件：1, 3, 5
+### Included in Ruanmei Series｜软媒系列中包含的：
+
+* 软媒魔方：1, 2, 3, 4, 5
+* 旗鱼浏览器：2, 3, 4, 5
+* 软媒桌面：1, 2, 5
+* 软媒时间：1, 2, 5
+* Win 7 优化大师：1, 2, 3, 4, 5
+* Win 8 优化大师：1, 2, 3, 4, 5
+* 闪游浏览器：2, 3, 4, 5
 
 ### Sougou Series｜搜狗系列软件：1, 5
 
