@@ -52,12 +52,6 @@ Free client-side encryption for your cloud files
 
 Encrypt your files in an elegant way.
 
-### [VeraCrypt](https://veracrypt.codeplex.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "Apache 2.0@CodePlex: https://veracrypt.codeplex.com/")](https://veracrypt.codeplex.com/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
-
-开源、跨平台的磁盘加密软件
-
-Open-source & cross-platform disk encryption software.
-
 ### [GlassWire](https://www.glasswire.com/) ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 网络通信活动监视并可视化显示
@@ -139,6 +133,12 @@ A main fork based on Shadowsocks
 简单的 DNSCrypt 管理工具，可用于预防 DNS 污染
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
+
+### [VeraCrypt](https://www.veracrypt.fr/en/Home.html) ![](/assets/free.png) [![](/assets/open-source-icon.png "Apache 2.0@HOMEPAGE: https://www.veracrypt.fr/code/VeraCrypt/")](https://veracrypt.codeplex.com/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+开源、跨平台的磁盘加密软件
+
+Open-source & cross-platform disk encryption software.
 
 ### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](/assets/free.png) [![](/assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
