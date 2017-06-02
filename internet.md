@@ -74,6 +74,13 @@ Douban.FM, Soundcloud, Internet Radio and Podcast on your Windows
 
 A Web browser that embedded with both Trident & chromium with a smart password manager.
 
+### MyPublicWiFi ![](/assets/free.png) ![](/assets/united-states.png)
+###### [官网](http://www.mypublicwifi.com/publicwifi/en/index.html)｜[Official Site](http://www.mypublicwifi.com/publicwifi/en/index.html)
+
+MyPublicWiFi 将台式机或笔记本转换为无线路由器接入点的免费软件，容易使用，支持加密并可以记录访问日志和屏蔽P2P类应用。
+
+MyPublicWiFi is an easy-to-use software that turns your laptop/PC into a Wi-Fi wireless access point. Anyone nearby can surf the Internet through your sharing. 
+
 ### [Opera](http://www.opera.com/) ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 基于 chromium 的浏览器，内置内容拦截器与快速预读取
