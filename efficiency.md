@@ -38,6 +38,12 @@ A launcher with highly customizable features
 
 An easy-to-use alternative to the standard windows file manager.
 
+### GestureSign ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/TransposonY/GestureSign")](https://github.com/TransposonY/GestureSign) ![](/assets/china.png)  ![](/assets/united-states.png)
+
+针对 Windows 平板设计的触摸屏手势软件
+
+A gesture recognition software for Windows tablet with touch screen.
+
 ### Launchy ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/launchy/")](https://sourceforge.net/projects/launchy/) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.launchy.net/)｜[下载页面 Download Page](http://www.launchy.net/download.php)
