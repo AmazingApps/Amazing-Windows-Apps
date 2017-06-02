@@ -79,7 +79,11 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * Win 8 优化大师：1, 2, 3, 4, 5
 * 闪游浏览器：2, 3, 4, 5
 
-### Sougou Series｜搜狗系列软件：1, 5
+### Included in Sougou Series｜搜狗系列中包含的：
+
+* 搜狗输入法：1, 2, 3, 4, 5
+* 搜狗高速浏览器：1, 2, 3, 4, 5
+* 搜狗壁纸：2, 3, 5
 
 ### Thunder Series ｜迅雷系列软件：1, 2, 3, 4, 5
 
