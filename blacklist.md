@@ -85,9 +85,23 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * 搜狗高速浏览器：1, 2, 3, 4, 5
 * 搜狗壁纸：2, 3, 5
 
-### Thunder Series ｜迅雷系列软件：1, 2, 3, 4, 5
+### Included in Thunder Series｜迅雷系列中包含的：
 
-### Tencent Series｜腾讯系列软件：1, 2, 3, 5
+* 迅雷：1, 2, 4, 5
+* 迅雷影音：1, 2, 4, 5
+* 迅雷快鸟：1, 2, 3, 4, 5
+* 迅雷游戏盒子：1, 2, 4, 5
+* 迅雷网游加速器：1, 2, 3, 4, 5
+
+### Included in Tencent Series｜腾讯系列中包含的：
+
+* QQ：1, 4, 5
+* TIM：1
+* TGP：1, 4, 5
+* QQ 音乐：1, 5
+* 腾讯视频：1, 5
+* QQ 浏览器：1, 3, 4, 5
+* 腾讯电脑管家：1, 2, 3, 4, 5
 
 ### 360 Series ｜360系列软件：1, 2, 3, 4, 5
 
