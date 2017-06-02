@@ -77,7 +77,7 @@ A Web browser that embedded with both Trident & chromium with a smart password m
 ### MyPublicWiFi ![](/assets/free.png) ![](/assets/united-states.png)
 ###### [官网](http://www.mypublicwifi.com/publicwifi/en/index.html)｜[Official Site](http://www.mypublicwifi.com/publicwifi/en/index.html)
 
-MyPublicWiFi 将台式机或笔记本转换为无线路由器接入点的免费软件，容易使用，支持加密并可以记录访问日志和屏蔽P2P类应用。
+MyPublicWiFi 将台式机或笔记本转换为无线接入点的免费软件，容易使用，支持加密并可以记录访问日志和屏蔽P2P类应用。
 
 MyPublicWiFi is an easy-to-use software that turns your laptop/PC into a Wi-Fi wireless access point. Anyone nearby can surf the Internet through your sharing. 
 
