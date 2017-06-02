@@ -52,6 +52,12 @@ Free client-side encryption for your cloud files
 
 Encrypt your files in an elegant way.
 
+### [VeraCrypt](https://veracrypt.codeplex.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "Apache 2.0@CodePlex: https://veracrypt.codeplex.com/")](https://veracrypt.codeplex.com/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+开源、跨平台的磁盘加密软件
+
+Open-source & cross-platform disk encryption software.
+
 ### [GlassWire](https://www.glasswire.com/) ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 网络通信活动监视并可视化显示
