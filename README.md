@@ -27,9 +27,9 @@
 
 本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details)来源
 
-更多详情[参阅此处](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)；当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
+当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
 
-[阅读在线版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[镜像站点>>>>](https://windowsapp.org/)｜[组织首页>>>](http://amazingapps.org/)
+[阅读在线版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[镜像站点>>>>](https://windowsapp.org/)｜[组织首页>>>](http://amazingapps.org/)｜[组织详情>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)
 
 变更详情可[见于此处](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master)
 
@@ -62,7 +62,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/apps%20count-294-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/apps%20count-295-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
 <img src="https://img.shields.io/badge/LICENSE-GPL%20v2.0-red.svg" title="Save your time to google it as you won't understand it after all=￣ω￣=" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
@@ -88,9 +88,9 @@ There is a blacklist at the end of the book containing apps that violate users' 
 
 This project is licensed under GNU GPL v2.0. If you need to quote the contents of this book, you must add a notice including the homepage of the project: [GitBook address](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details).
 
-Click [here](https://www.gitbook.com/read/book/amazing-apps/organization-wiki) for more details; Or maybe check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
+Check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
-[Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[Org Home>>>](http://amazingapps.org/)
+[Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[Org Home>>>](http://amazingapps.org/)｜[Org Wiki>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)
 
 Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master).
 
