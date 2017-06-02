@@ -145,7 +145,7 @@ Multi-purpose tool that helps you monitor system resources, debug software and d
 
 Adjust processes priority to prevent CPU unresponsing on some devices
 
-### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/free.png) ![](/assets/open-source-icon.png "NO LICENSE@HOMEPAGE: http://qttabbar.wikidot.com/") ![](/assets/earth-globe.png) ![](/assets/usb.png)
+### [QTTabBar](http://qttabbar.wikidot.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "NO LICENSE@HOMEPAGE: http://qttabbar.wikidot.com/")](http://qttabbar.wikidot.com/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 一站式 Explorer 增强工具
 
