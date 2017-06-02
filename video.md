@@ -26,6 +26,14 @@ An open source player based on mpv with GUI enhanced & neat
 
 Keep track of your movie and TV Series collection. Both physical discs and media files are fully supported.
 
+### FFmpeg ![](/assets/free.png) [![](/assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://ffmpeg.org/)｜[下载页面 Download Page](http://ffmpeg.zeranoe.com/builds/)
+
+跨平台，支持几乎所有格式的视频记录、转码、推流解决方案。
+
+A complete, cross-platform solution to record, convert and stream audio and video.
+
 ### [HandBrake](http://handbrake.fr/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HandBrake/HandBrake")](https://github.com/HandBrake/HandBrake) ![](/assets/earth-globe.png)
 
 UI 优美、性能优秀的视频编码工具
