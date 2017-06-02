@@ -72,6 +72,12 @@ One of the preferred Adobe replacements.
 
 A cool calendar placed on your windows desktop as a memo.
 
+### GestureSign ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/TransposonY/GestureSign")](https://github.com/TransposonY/GestureSign) ![](/assets/china.png)  ![](/assets/united-states.png)
+
+针对 Windows 平板设计的触摸屏手势软件
+
+A gesture recognition software for Windows tablet with touch screen.
+
 ### [Listary](http://www.listary.com/) ![](/assets/free.png) ![](/assets/earth-globe.png)
 
 设计独到的搜索工具
