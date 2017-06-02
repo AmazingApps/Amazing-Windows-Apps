@@ -134,7 +134,7 @@ A main fork based on Shadowsocks
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
 
-### [VeraCrypt](https://www.veracrypt.fr/en/Home.html) ![](/assets/free.png) [![](/assets/open-source-icon.png "Apache 2.0@HOMEPAGE: https://www.veracrypt.fr/code/VeraCrypt/")](https://veracrypt.codeplex.com/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+### [VeraCrypt](https://www.veracrypt.fr/en/Home.html) ![](/assets/free.png) [![](/assets/open-source-icon.png "Apache 2.0@HOMEPAGE: https://www.veracrypt.fr/code/VeraCrypt/")](https://www.veracrypt.fr/code/VeraCrypt/) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 开源、跨平台的磁盘加密软件
 
