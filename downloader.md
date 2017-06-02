@@ -4,7 +4,7 @@
 
 ---
 
-### [aria2](https://aria2.github.io/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/aria2/aria2")](https://github.com/aria2/aria2) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [aria2](https://aria2.github.io/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/aria2/aria2")](https://github.com/aria2/aria2) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png) ![](/assets/command-line.png)
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持 HTTP/HTTPS、FTP、SFTP、BT 与磁链
 
@@ -90,7 +90,7 @@ Play streaming torrent contents without finishing downloading.
 
 A tiny downloader that scrapes the web.
 
-### youtube-dl ![](/assets/free.png) [![](/assets/open-source-icon.png "The Unlicense@GitHub: https://github.com/rg3/youtube-dl/")](https://github.com/rg3/youtube-dl/) ![](/assets/united-states.png) ![](/assets/usb.png)
+### youtube-dl ![](/assets/free.png) [![](/assets/open-source-icon.png "The Unlicense@GitHub: https://github.com/rg3/youtube-dl/")](https://github.com/rg3/youtube-dl/) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/command-line.png)
 
 ###### [官网 Official Site](http://rg3.github.io/youtube-dl/)｜[下载页面 Download Page](http://rg3.github.io/youtube-dl/download.html)
 

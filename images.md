@@ -40,7 +40,7 @@ A very fast image viewer supporting various formats.
 
 Image viewer, editor, organiser and converter. It can also play video and audio files, and has some image creation and painting capabilities.
 
-### ImageMagick ![](/assets/free.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub/GitLab: https://www.imagemagick.org/script/index.php")](https://www.imagemagick.org/script/index.php) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### ImageMagick ![](/assets/free.png) [![](/assets/open-source-icon.png "Apache 2.0@GitHub/GitLab: https://www.imagemagick.org/script/index.php")](https://www.imagemagick.org/script/index.php) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png) ![](/assets/command-line.png)
 
 ###### [官网 Official Site](https://www.imagemagick.org/script/index.php)｜[下载页面 Download Page](https://www.imagemagick.org/script/download.php)
 
@@ -52,7 +52,7 @@ A multi-functional image processing with command line support.
 
 ###### [官网 Official Site](https://inkscape.org/en/)｜[下载页面 Download Page](https://inkscape.org/en/download/windows/)
 
-基于vector的图像设计软件
+基于 vector 的图像设计软件
 
 Free vector-based graphic design software.
 
@@ -60,7 +60,7 @@ Free vector-based graphic design software.
 
 ###### available on both [GitHub](https://github.com/changbowen/Ken-Burns-Slideshow) or [Sourceforge](https://sourceforge.net/projects/ken-burns-slideshow/)
 
-像iMac一样轮播相册，即时、便携、全屏的Ken Burns特效幻灯片展示
+像 iMac 一样轮播相册，即时、便携、全屏的 Ken Burns 特效幻灯片展示
 
 Cycle your album like the way in iMac: instant, portable, full-screen slideshow application with the Ken Burns effect.
 

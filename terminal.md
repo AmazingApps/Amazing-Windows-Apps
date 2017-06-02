@@ -8,7 +8,7 @@
 
 ###### [官网 Official Site](https://www.bitvise.com/index)｜[下载页面 Download Page](https://www.bitvise.com/download-area)
 
-SSH客户端
+SSH 客户端
 
 SSH Client for Windows includes state of the art terminal emulation, graphical as well as command-line SFTP support, an FTP-to-SFTP bridge and powerful tunneling.
 
@@ -52,7 +52,7 @@ An open source, tabbed, multi-protocol, remote connections manager.
 
 ###### [官网 Official Site](http://ttyplus.com/multi-tabbed-putty/)｜[下载页面 Download Page](http://ttyplus.com/downloads.html)
 
-标签化的PuTTY
+标签化的 PuTTY
 
 Multi-Tabbed PuTTY.
 

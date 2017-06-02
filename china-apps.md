@@ -210,7 +210,7 @@ An anti-malware software performing amazingly on PUA protection.
 
 ###### ⚠Cancellable homepage lock   可通过自身设置取消的主页绑定
 
-### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/united-states.png) ![](/assets/multi_platform.png) ![](/assets/command-line.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
 

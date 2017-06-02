@@ -108,7 +108,7 @@ Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-App
 
 ![](/assets/earth-globe.png) Apps with localization for major languages.
 
-![](/assets/command-line.png) This app is operated by command lines.
+![](/assets/command-line.png) Command line interface (CLI).
 
 * A national or regional flag is marked if only one or a few languages are supported.
 

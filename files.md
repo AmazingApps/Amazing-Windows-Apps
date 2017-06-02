@@ -54,7 +54,7 @@ Advanced renaming tools with everything you need for renaming
 
 ###### [官网 Official Site](https://filezilla-project.org/)｜[下载页面 Download Page](https://filezilla-project.org/download.php?show_all=1)
 
-FTP FTPS SFTP客户端
+FTP FTPS SFTP 客户端
 
 FTP, FTPS and SFTP client.
 
@@ -106,9 +106,9 @@ Powerful and flexible file renaming tool, which offers all the standard renaming
 
 Complete resource editing tool for any type of Windows executable \(\*.exe; \*.dll; \*.scr; \*.mui etc\).
 
-### [rimraf](https://www.npmjs.com/package/rimraf) ![](/assets/free.png) [![](/assets/open-source-icon.png "ISC@GitHub: https://github.com/isaacs/rimraf")](https://github.com/isaacs/rimraf) ![](/assets/united-states.png)
+### [rimraf](https://www.npmjs.com/package/rimraf) ![](/assets/free.png) [![](/assets/open-source-icon.png "ISC@GitHub: https://github.com/isaacs/rimraf")](https://github.com/isaacs/rimraf) ![](/assets/united-states.png) ![](/assets/command-line.png)
 
-node使用的深度删除模块。删除深目录文件（夹）
+node 使用的深度删除模块。删除深目录文件（夹）
 
 A deep deletion module for node. Help to delete files and folders with very long paths.
 

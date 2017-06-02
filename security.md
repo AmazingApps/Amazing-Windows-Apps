@@ -102,7 +102,7 @@ Internet traffic control and monitoring tool
 
 A local DNS server based on WinPcap and LibPcap to prevent DNS pollution & to improve DNS query reliability by multi-server requesting
 
-### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/multi_platform.png) ![](/assets/command-line.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）
 
@@ -118,7 +118,7 @@ A sandbox-based isolation program.
 
 ###### [官网 Official Site](https://shadowsocks.org/en/index.html)｜[下载页面 Download Page](https://shadowsocks.org/en/download/clients.html)
 
-Socks5代理工具
+Socks5 代理工具
 
 Sock5 proxy
 
@@ -130,7 +130,7 @@ A main fork based on Shadowsocks
 
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](/assets/earth-globe.png)
 
-简单的 DNSCrypt 管理工具，可用于预防DNS污染
+简单的 DNSCrypt 管理工具，可用于预防 DNS 污染
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
 

@@ -18,7 +18,7 @@ A cross-platform, GPU-accelerated terminal emulator.
 
 The HTTP/2 web server with automatic HTTPS
 
-### [Chocolatey](https://chocolatey.org/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](/assets/united-states.png)
+### [Chocolatey](https://chocolatey.org/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](/assets/united-states.png) ![](/assets/command-line.png)
 
 Windows 包管理器
 
@@ -30,7 +30,7 @@ Chocolatey NuGet 的 GUI 客户端
 
 A GUI for Chocolatey NuGet
 
-### [cmder](http://cmder.net/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/cmderdev/cmder")](https://github.com/cmderdev/cmder) ![](/assets/united-states.png) ![](/assets/usb.png)
+### [cmder](http://cmder.net/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/cmderdev/cmder")](https://github.com/cmderdev/cmder) ![](/assets/united-states.png) ![](/assets/usb.png) ![](/assets/command-line.png)
 
 Windows 下的便携式控制台模拟器
 
@@ -40,13 +40,13 @@ Portable console emulator for Windows.
 
 ###### 📌cmder Contains ConEmu and other useful tools (e.g. Clink)
 
-### [ConEmu](https://conemu.github.io/) ![](/assets/free.png) [![](/assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](/assets/united-states.png) ![](/assets/china.png) ![](/assets/russia.png) ![](/assets/usb.png)
+### [ConEmu](https://conemu.github.io/) ![](/assets/free.png) [![](/assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](/assets/united-states.png) ![](/assets/china.png) ![](/assets/russia.png) ![](/assets/usb.png) ![](/assets/command-line.png)
 
 可自定义的 Windows 终端模拟器, 支持多标签, 分隔, quake风格及更多功能
 
 Customizable Windows terminal with tabs, splits, quake-style and more.
 
-### Git ![](/assets/free.png) [![](/assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](/assets/multi_platform.png)
+### Git ![](/assets/free.png) [![](/assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](/assets/multi_platform.png) ![](/assets/command-line.png)
 
 Git 是一个分布式版本控制软件，最初由林纳斯·托瓦兹（Linus Torvalds）创作，于2005年以GPL发布。最初目的是为更好地管理Linux内核开发而设计。应注意的是，这与GNU Interactive Tools（一个类似Norton Commander界面的文件管理器）有所不同。
 
@@ -82,13 +82,13 @@ IDE 工具集合
 
 All sets of IDE tools.
 
-### [msys2](http://www.msys2.org/) ![](/assets/free.png) ![](/assets/united-states.png) ![](/assets/usb.png) [![](/assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/msys2, https://github.com/Alexpux")](https://github.com/msys2)
+### [msys2](http://www.msys2.org/) ![](/assets/free.png) ![](/assets/united-states.png) ![](/assets/usb.png) [![](/assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/msys2, https://github.com/Alexpux")](https://github.com/msys2) ![](/assets/command-line.png)
 
 Windows 上的 UNIX 软件包和生成平台
 
 MSYS2 is a software distro and building platform for Windows.
 
-### [Scoop](http://scoop.sh/) ![](/assets/free.png) [![](/assets/open-source-icon.png "The Unlicense@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png)
+### [Scoop](http://scoop.sh/) ![](/assets/free.png) [![](/assets/open-source-icon.png "The Unlicense@GitHub: https://github.com/lukesampson/scoop")](https://github.com/lukesampson/scoop) ![](/assets/united-states.png) ![](/assets/command-line.png)
 
 命令行安装器
 

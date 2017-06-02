@@ -26,7 +26,7 @@ An open source player based on mpv with GUI enhanced & neat
 
 Keep track of your movie and TV Series collection. Both physical discs and media files are fully supported.
 
-### FFmpeg ![](/assets/free.png) [![](/assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+### FFmpeg ![](/assets/free.png) [![](/assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](/assets/usb.png) ![](/assets/multi_platform.png) ![](/assets/command-line.png)
 
 ###### [官网 Official Site](https://ffmpeg.org/)｜[下载页面 Download Page](http://ffmpeg.zeranoe.com/builds/)
 
