@@ -82,7 +82,7 @@ Note: Apps that meet the following conditions will NOT be listed although they m
 2. Apps that are useful only in limited areas, such as NPR One and IME.
 3. Apps that are incompatible with 64-bit OS.
 
-Apps that can be categorized in multiple ways are categorized by what they are indended for; A note will be provided for compatibility issues of some very individual apps.
+Apps that can be categorized in multiple ways are categorized by what they are intended for; A note will be provided for compatibility issues of some very individual apps.
 
 There is a blacklist at the end of the book containing apps that violate users' rights, security and privacy severely. These apps are to be avoided.
 
