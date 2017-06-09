@@ -60,6 +60,12 @@ Based on the original "Media Player Classic" project \(Gabest\) and "Media Playe
 
 A free, open source, and cross-platform media player.
 
+### [MPV-EASY Player](http://www.rjno1.com/mpv-easy-player.html) ![](/assets/free.png) ![](/assets/china.png)  ![](/assets/usb.png)
+
+易于使用的 mpv GUI 封装，最大限度地保留了原有的 mpv 外观
+
+A GUI for mpv easy to use with a high degree of reduction to mpv appearance.
+
 ### [OBS Studio](https://obsproject.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/jp9000/obs-studio")](https://github.com/jp9000/obs-studio) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 屏幕录制或生成直播媒体流
