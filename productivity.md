@@ -91,12 +91,3 @@ Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project,
 思维导图工具，带有免费的云端同步
 
 A popular mind map tool with free cloud sync.
-
-### Zim Desktop Wiki ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/jaap-karssenberg/zim-desktop-wiki/")](https://github.com/jaap-karssenberg/zim-desktop-wiki/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
-
-###### [官网 Official Site](http://zim-wiki.org/index.html)｜[下载页面 Download Page](http://zim-wiki.org/downloads.html)
-
-使用本地文件储存的 wiki 式的笔记本
-
-A wiki-style notebook that uses local file storage.
-
