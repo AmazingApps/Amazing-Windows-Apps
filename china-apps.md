@@ -162,6 +162,16 @@ A PowerShell script to establish own DDNS service on CloudXNS API
 
 A web browser that embedded both Trident & chromium with a smart password manager.
 
+### \[知识笔记\]
+
+### Leanote 蚂蚁笔记![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://leanote.com/)｜[下载页面 Download Page](http://app.leanote.com/)
+
+支持 Markdown 的开源云笔记，也可以搭建个人博客
+
+A Markdown cloud note taking software that enables you to make your own blog.
+
 ### \[实用程序\]
 
 ### [Clipber](http://clipber.com/clipber/) 快帖 ![](/assets/free.png) ![](/assets/china.png) ![](/assets/multi_platform.png)
@@ -249,14 +259,6 @@ A Windows quick look tool acting just like the one in macOS but more powerful, c
 内置 Markdown 预览与二进制编辑的文本编辑器
 
 A text editor with Markdown preview and hex mode.
-
-### Leanote 蚂蚁笔记![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
-
-###### [官网 Official Site](https://leanote.com/)｜[下载页面 Download Page](http://app.leanote.com/)
-
-支持 Markdown 的开源云笔记，也可以搭建个人博客
-
-A Markdown cloud note taking software that enables you to make your own blog.
 
 ### \[视频工具\]
 
