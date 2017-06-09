@@ -24,6 +24,12 @@ Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
 Outright protection against malware.
 
+### [Buttercup](https://buttercup.pw/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/buttercup/buttercup")](https://github.com/buttercup/buttercup)  ![](/assets/united-states.png) ![](/assets/multi_platform.png)
+
+基于 JavaScript，外观优雅、功能简洁的密码管理器，可兼容 Keepass、1Password等数据库。
+
+A password manager based on JavaScript, elegant, brief, compatible with few other types of databases.
+
 ### CCleaner ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](https://www.piriform.com/CCLEANER)｜[下载页面 Download Page](https://www.piriform.com/ccleaner/download/standard)
