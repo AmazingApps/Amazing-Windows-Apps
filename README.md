@@ -47,9 +47,9 @@
 
 ![](/assets/earth-globe.png) 多语言支持：至少支持世界上几种使用较多较广的语言
 
-![](/assets/command-line.png) **只能**使用命令行操作的应用
-
 * 仅支持单一或者少数语种的以国旗或地区旗帜标注
+
+![](/assets/command-line.png) **只能**使用命令行操作的应用
 
 ~~删除线~~：
 
@@ -108,9 +108,9 @@ Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-App
 
 ![](/assets/earth-globe.png) Apps with localization for major languages.
 
-![](/assets/command-line.png) Command line interface (CLI) **only**.
-
 * A national or regional flag is marked if only one or a few languages are supported.
+
+![](/assets/command-line.png) Command line interface (CLI) **only**.
 
 ~~Strikethrough~~:
 
