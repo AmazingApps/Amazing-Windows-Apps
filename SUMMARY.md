@@ -18,6 +18,7 @@
 * [硬件相关 Hardwares](hardwares.md)
 * [图形图像 Images](images.md)
 * [网络通信 Internet](internet.md)
+* [知识笔记 Note Taking](note-taking.md)
 * [在线存储 Online Storage](online-storage.md)
 * [实用程序 Practicals](practicals.md)
 * [生产工具 Productivity](productivity.md)
