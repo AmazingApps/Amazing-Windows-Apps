@@ -30,6 +30,14 @@ Windows 键盘活动可视化以便录屏时展示
 
 Keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 
+### [LanguageTool](https://languagetool.org/) ![](/assets/free.png) [![](/assets/open-source-icon.png "LGPL 2.1+@GitHub: https://github.com/languagetool-org/languagetool")](https://github.com/languagetool-org/languagetool) ![](/assets/united-states.png)
+
+外语语法拼写检查工具
+
+Style and grammar checker for 25+ languages
+
+###### 📌Java 8+ required 需要 Java 8 或更新
+
 ### [LICEcap](http://www.cockos.com/licecap/) ![](/assets/free.png) ![](/assets/united-states.png)
 
 屏幕录制并保存为 GIF
@@ -66,7 +74,7 @@ The easiest, fastest way to update or install software.
 
 Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
 
-### **QTranslate **![](/assets/free.png) ![](/assets/earth-globe.png)
+### QTranslate ![](/assets/free.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](https://quest-app.appspot.com/)｜[下载页面 Download Page](https://quest-app.appspot.com/download)
 
@@ -131,6 +139,3 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 Zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 ###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND   长期无更新但无明显bug
-
-
-
