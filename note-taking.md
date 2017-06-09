@@ -1,0 +1,27 @@
+### [Inkdrop](https://www.inkdrop.info/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+使用 MarkDown 的笔记本应用
+
+The note-taking app for Markdown lovers.
+
+### Knowte ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/digimezzo/Knowte")](https://github.com/digimezzo/Knowte) ![](/assets/earth-globe.png)
+
+###### [官网 Official Site](http://www.digimezzo.com/software/knowte-2/)｜[下载页面 Download Page](http://www.digimezzo.com/content/software/knowte/)
+
+UWP 风格 UI 的笔记本应用
+
+Knowte is a note taking application with UWP UI.
+
+### Leanote 蚂蚁笔记 ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0+@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://leanote.com/)｜[下载页面 Download Page](http://app.leanote.com/)
+
+支持 Markdown 的开源云笔记，也可以搭建个人博客
+
+A Markdown cloud note taking that allows you to establish personal blog
+
+### [Simplenote](https://simplenote.com/) ![](/assets/free.png) ![](/assets/earth-globe.png)
+
+简单跨平台云同步笔记应用
+
+Simple cross-platform note taking app with cloud-based syncing.

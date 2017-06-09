@@ -48,28 +48,6 @@ GUI client for GitBook.
 
 A text editor with an interpreter for Emacs Lisp.
 
-### [Inkdrop](https://www.inkdrop.info/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
-
-使用 MarkDown 的笔记本应用
-
-The note-taking app for Markdown lovers.
-
-### Knowte ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/digimezzo/Knowte")](https://github.com/digimezzo/Knowte) ![](/assets/earth-globe.png)
-
-###### [官网 Official Site](http://www.digimezzo.com/software/knowte-2/)｜[下载页面 Download Page](http://www.digimezzo.com/content/software/knowte/)
-
-UWP 风格 UI 的笔记本应用
-
-Knowte is a note taking application with UWP UI.
-
-### Leanote 蚂蚁笔记 ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0+@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
-
-###### [官网 Official Site](https://leanote.com/)｜[下载页面 Download Page](http://app.leanote.com/)
-
-支持 Markdown 的开源云笔记，也可以搭建个人博客
-
-A Markdown cloud note taking that allows you to establish personal blog
-
 ### [Light Table](http://lighttable.com/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/LightTable/LightTable")](https://github.com/LightTable/LightTable) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 可定制化的编辑器，实时显示代码反馈与数据流
@@ -103,12 +81,6 @@ A Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax hi
 免费的文本编辑器，支持 170 种以上的语法高亮。
 
 A free text editor,supports 170+ languages included as user highlighter definition. With reviews stemming from Top9Rated and product review site, HotRate, PSPad is one of the most highly used pieces of software available to date.
-
-### [Simplenote](https://simplenote.com/) ![](/assets/free.png) ![](/assets/earth-globe.png)
-
-简单跨平台云同步笔记应用
-
-Simple cross-platform note taking app with cloud-based syncing.
 
 ### [Sublime Text 3](http://www.sublimetext.com/3) ![](/assets/united-states.png) ![](/assets/usb.png)
 
