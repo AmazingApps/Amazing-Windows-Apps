@@ -12,6 +12,12 @@
 
 Renaming multiple files and folders at once  to change the names, attributes, and timestamps with scripting support.
 
+### [Allway Sync](https://allwaysync.com/)  ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+多功能文件同步，支持单向双向、多文件夹、多设备、多文件系统、同步历史、中间设备等功能
+
+Multi-purpose file sync supporting bi-directional and n-way files and folders, synchronization history, multiple file systems, intermediate devices, etc.
+
 ### Beyond Compare ![](/assets/earth-globe.png) ![](/assets/multi_platform.png)
 
 ###### [官网 Official Site](http://www.scootersoftware.com/)｜[下载页面 Download Page](http://www.scootersoftware.com/download.php)
