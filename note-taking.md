@@ -39,3 +39,11 @@ A brief & elegant note-taking with auto-saving
 简单跨平台云同步笔记应用
 
 Simple cross-platform note taking app with cloud-based syncing.
+
+### Zim Desktop Wiki ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/jaap-karssenberg/zim-desktop-wiki/")](https://github.com/jaap-karssenberg/zim-desktop-wiki/) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://zim-wiki.org/index.html)｜[下载页面 Download Page](http://zim-wiki.org/downloads.html)
+
+使用本地文件储存的 wiki 式的笔记本
+
+A wiki-style notebook that uses local file storage.
