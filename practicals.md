@@ -38,6 +38,8 @@ Style and grammar checker for 25+ languages
 
 ###### 📌Java 8+ required 需要 Java 8 或更新
 
+###### ⚠MANUAL REVIEW SUGGESTED 建议进行人工复核
+
 ### [LICEcap](http://www.cockos.com/licecap/) ![](/assets/free.png) ![](/assets/united-states.png)
 
 屏幕录制并保存为 GIF
