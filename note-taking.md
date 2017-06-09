@@ -1,3 +1,9 @@
+## 知识笔记 Note Taking
+
+帮助管理知识的笔记工具 Taking notes to manage your knowledge
+
+---
+
 ### [Inkdrop](https://www.inkdrop.info/) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 使用 MarkDown 的笔记本应用
