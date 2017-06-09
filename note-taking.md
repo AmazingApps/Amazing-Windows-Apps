@@ -26,6 +26,14 @@ Knowte is a note taking application with UWP UI.
 
 A Markdown cloud note taking that allows you to establish personal blog
 
+### Notes ![](/assets/free.png) ![](/assets/united-states.png)  ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](http://www.get-notes.com/)｜[下载页面 Download Page](http://www.get-notes.com/download)
+
+简洁美观的笔记应用，具有自动保存功能
+
+A brief & elegant note-taking with auto-saving
+
 ### [Simplenote](https://simplenote.com/) ![](/assets/free.png) ![](/assets/earth-globe.png)
 
 简单跨平台云同步笔记应用
