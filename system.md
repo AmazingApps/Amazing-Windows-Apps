@@ -161,6 +161,14 @@ Significantly improve Explorer efficiency
 
 An environment variables editor
 
+### [SearchWithMyBrowser](https://github.com/charlesmilette/SearchWithMyBrowser) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/charlesmilette/SearchWithMyBrowser")](https://github.com/charlesmilette/SearchWithMyBrowser)
+
+使用你设置的默认浏览器打开 Cortana 的搜索结果
+
+Open Cortana searches with your default browser.
+
+###### ⚠DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY   仅针对 Windows 10 设计
+
 ### Seer ![](/assets/free.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://1218.io/)｜[下载页面 Download Page](http://sourceforge.net/projects/ccseer/)
