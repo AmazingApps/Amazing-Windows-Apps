@@ -169,6 +169,14 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
 
+### [SharpKeys](http://www.randyrants.com/category/sharpkeys/)  ![](/assets/free.png) [![](/assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/randyrants/sharpkeys")](https://github.com/randyrants/sharpkeys) ![](/assets/united-states.png) ![](/assets/usb.png)
+
+通过注册表将一个热键映射到另一个
+
+A utility that manages a Registry key that allows Windows to remap one key to any other key.
+
+###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET   长期无更新但未发现明显的bug
+
 ### Startup Delayer ![](/assets/free.png) ![](/assets/earth-globe.png)
 
 ###### [官网 Official Site](http://www.r2.com.au/page/products/show/startup-delayer/)｜[下载页面 Download Page](http://www.r2.com.au/page/products/download/startup-delayer/)
