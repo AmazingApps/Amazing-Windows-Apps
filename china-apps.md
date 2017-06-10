@@ -226,6 +226,20 @@ An anti-malware software performing amazingly on PUA protection.
 
 As its name: revoke China SSL certificates \(illegal\).
 
+### Shadowsocks 影梭 ![](/assets/free.png) [![](/assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+###### [官网 Official Site](https://shadowsocks.org/en/index.html)｜[下载页面 Download Page](https://shadowsocks.org/en/download/clients.html)
+
+Socks5 代理工具
+
+Sock5 proxy
+
+### [ShadowsocksR](https://breakwa11.github.io/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
+
+A main fork based on Shadowsocks
+
+基于 Shadowsocks 的主要分支之一
+
 ### \[系统增强\]
 
 ### AOMEI Partition Assistant  分区助手 ![](/assets/free.png) ![](/assets/china.png) ![](/assets/united-states.png) ![](/assets/usb.png)
