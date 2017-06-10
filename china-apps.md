@@ -148,6 +148,12 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 Raise up traceroute request from Windows with route visilization display.
 
+### [Cent Browser](http://www.centbrowser.com/) 美分浏览器 ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+附带的许多特性显著增强了 Chromium 浏览器的体验
+
+An enhanced version of the Chromium web browser that bundles many useful features.
+
 ### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](/assets/united-states.png) ![](/assets/usb.png)
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
