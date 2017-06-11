@@ -54,14 +54,6 @@ Add action effects to your windows globally to improve your operating efficiency
 
 Modify processes priority on network traffic and help to reduce ping.
 
-### ~~Clover~~ ![](/assets/free.png) ![](/assets/earth-globe.png)
-
-~~为文件资源浏览器增加多标签特性~~
-
-~~Bring tabs to Windows Explorer~~
-
-###### ⚠INVASIVE ADS SUSPICION   侵入式广告嫌疑
-
 ### [Dism++](https://www.chuyu.me/) ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/Chuyu-Team")](https://github.com/Chuyu-Team) ![](/assets/earth-globe.png) ![](/assets/usb.png)
 
 全球首家基于 CBS 的 Dism GUI 实现
