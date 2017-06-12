@@ -114,6 +114,12 @@ A free and open source program that lets you capture or record any area of your 
 
 Beautiful desktop wallpapers.
 
+### [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)  ![](/assets/free.png) [![](/assets/open-source-icon.png "MIT@GitHub: https://github.com/lltcggie/waifu2x-caffe")](https://github.com/lltcggie/waifu2x-caffe) ![](/assets/earth-globe.png) ![](/assets/usb.png)
+
+图片放大与降噪，使用 AI - CNN 算法
+
+Picturing enlarging noise reduction by  AI - CNN(Deep Convolutional Neural Networks) algorithm
+
 ### [XnConvert](http://www.xnview.com/en/xnconvert/) ![](/assets/free.png) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](/assets/multi_platform.png)
 
 免费跨平台图片批量转换工具，内置微调滤镜
