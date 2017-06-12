@@ -56,6 +56,10 @@
 1. 存在争议的应用，应用信誉尚不确切
 2. 长期无更新的应用，不确定维护情况
 
+### 授权协议
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 除非特别声明，否则组织中所有项目协议均为：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+
 ---
 
 <h1 align="center">Windows Apps That Amaze Us</h1>
@@ -116,3 +120,6 @@ Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-App
 
 1. The app had a bad reputation in the past.
 2. The app has not been updated for a long time, and it is not clear whether the app is still maintained.
+
+### LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this Org is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
