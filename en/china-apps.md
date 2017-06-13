@@ -134,7 +134,7 @@ A Markdown cloud note taking software that enables you to make your own blog.
 
 ### \[Practicals\]
 
-### [Clipber](http://clipber.com/clipber/) 快帖 ![](../assets/free.png) ![](../assets/china.png) ![](../assets/multi_platform.png)
+### [Clipber](http://clipber.com/clipber/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/multi_platform.png)
 
 A cloud sync tool for system clipboard across multiple platforms.
 
