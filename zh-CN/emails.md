@@ -4,7 +4,7 @@
 
 ---
 
-### Claws Mail  ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL@claws-mail.org: http://www.claws-mail.org/releases.php")](http://www.claws-mail.org/releases.php) ![](/assets/united-states.png)
+### Claws Mail  ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@claws-mail.org: http://www.claws-mail.org/releases.php")](http://www.claws-mail.org/releases.php) ![](../assets/united-states.png)
 
 ###### [官网 Official Site](http://www.claws-mail.org/)｜[下载页面 Download Page](http://www.claws-mail.org/downloads.php?section=downloads)
 
@@ -12,19 +12,19 @@
 
 An email client and RSS reader, based on GTK+, featuring extensibility, robustness and stability 
 
-### [MailBird](https://www.mailbird.com/) ![](/assets/free.png) ![](/assets/earth-globe.png)
+### [MailBird](https://www.mailbird.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 IMAP POP3 邮件客户端，高度可定制且触控支持良好
 
 IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
 
-### [Nylas N1](https://www.nylas.com/download/) ![](/assets/free.png) ![](/assets/earth-globe.png)
+### [Nylas N1](https://www.nylas.com/download/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 基于现代 Web 构架的可扩展的桌面邮件应用
 
 An extensible desktop mail app built on the modern web.
 
-### Thunderbird 雷鸟 ![](/assets/free.png) [![](/assets/open-source-icon.png "MPL@mozilla.org: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Getting_comm-central")](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Getting_comm-central) ![](/assets/earth-globe.png)
+### Thunderbird 雷鸟 ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL@mozilla.org: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Getting_comm-central")](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Getting_comm-central) ![](../assets/earth-globe.png)
 
 ###### also Mozilla Thunderbird
 

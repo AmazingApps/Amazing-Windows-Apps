@@ -37,19 +37,19 @@
 
 ### 标识说明
 
-![](/assets/free.png) 可免费使用（可能有收费版功能）
+![](../assets/free.png) 可免费使用（可能有收费版功能）
 
-![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：`"开源协议@托管站点: 开源地址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
+![](../assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：`"开源协议@托管站点: 开源地址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
 
-![](/assets/usb.png) 便携软件或可便携安装：所有配置全写在软件目录下，而不是写入到注册表或用户、系统目录
+![](../assets/usb.png) 便携软件或可便携安装：所有配置全写在软件目录下，而不是写入到注册表或用户、系统目录
 
-![](/assets/multi_platform.png) 具有跨平台版本
+![](../assets/multi_platform.png) 具有跨平台版本
 
-![](/assets/earth-globe.png) 多语言支持：至少支持世界上几种使用较多较广的语言
+![](../assets/earth-globe.png) 多语言支持：至少支持世界上几种使用较多较广的语言
 
 * 仅支持单一或者少数语种的以国旗或地区旗帜标注
 
-![](/assets/command-line.png) **只能**使用命令行操作的应用
+![](../assets/command-line.png) **只能**使用命令行操作的应用
 
 ~~删除线~~：
 
@@ -101,19 +101,19 @@ Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-App
 
 ### Icons
 
-![](/assets/free.png) Free of charge \(while there can be an alternative paid version\).
+![](../assets/free.png) Free of charge \(while there can be an alternative paid version\).
 
-![](/assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/AmazingApps/Amazing-Windows-Apps"`.
+![](../assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/AmazingApps/Amazing-Windows-Apps"`.
 
-![](/assets/usb.png) A portable version of the app is available. An app is called portable, if its configurations or preferences are stored under the root directory of the app instead of registry, application data folders and home directory.
+![](../assets/usb.png) A portable version of the app is available. An app is called portable, if its configurations or preferences are stored under the root directory of the app instead of registry, application data folders and home directory.
 
-![](/assets/multi_platform.png) Cross platform apps.
+![](../assets/multi_platform.png) Cross platform apps.
 
-![](/assets/earth-globe.png) Apps with localization for major languages.
+![](../assets/earth-globe.png) Apps with localization for major languages.
 
 * A national or regional flag is marked if only one or a few languages are supported.
 
-![](/assets/command-line.png) Command line interface (CLI) **only**.
+![](../assets/command-line.png) Command line interface (CLI) **only**.
 
 ~~Strikethrough~~:
 
