@@ -1,6 +1,6 @@
-## 在线存储   Online Storage
+## Online Storage
 
-提供网盘服务   Back up your files to cloud
+Back up your files to cloud
 
 ---
 
