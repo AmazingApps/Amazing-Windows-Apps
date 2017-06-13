@@ -25,7 +25,7 @@
 
 结尾处列有黑名单，即严重违反尊重隐私与用户利益原则的应用，建议避免使用
 
-本项目使用 GNU GPL v2.0 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details)来源
+本项目使用 CC BY-NC-SA 4.0 International 协议，转载请声明 [GitBook 项目地址](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details) 来源
 
 当前编辑进程请[移步此处](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成计划](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
 
@@ -58,4 +58,4 @@
 
 ### 授权协议
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 除非特别声明，否则组织中所有项目协议均为：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 除非特别声明，否则组织中所有项目协议均为：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
