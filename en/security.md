@@ -24,7 +24,7 @@ A password manager based on JavaScript, elegant, brief, compatible with few othe
 
 ### CCleaner ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
-###### [官网 Official Site](https://www.piriform.com/CCLEANER)｜[下载页面 Download Page](https://www.piriform.com/ccleaner/download/standard)
+###### [Official Site](https://www.piriform.com/CCLEANER)｜[Download Page](https://www.piriform.com/ccleaner/download/standard)
 
 A light-weighted & award-winning PC optimization tool.
 
@@ -48,7 +48,7 @@ Encrypt your files in an elegant way.
 
 Network security monitoring tool and analyzer that visualizes your network activity.
 
-### [Huorong Security](http://www.huorong.cn/) 火绒 ![](../assets/free.png) ![](../assets/china.png)
+### [Huorong Security](http://www.huorong.cn/) ![](../assets/free.png) ![](../assets/china.png)
 
 A malware fighter performing amazingly on PUA protection.
 
