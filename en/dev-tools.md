@@ -91,7 +91,7 @@ Ultimate Microsoft Developer Tool.
 A virtual machine station player performing amazingly smooth.
 
 ### VMware Workstation Pro [![](../assets/open-source-icon.png "30+ LICENSES@vmware.com: https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source")](https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
-###### [官网 Official Site](https://www.vmware.com/)｜[下载页面 Download Page](https://www.vmware.com/go/downloadworkstation)
+###### [Official Site](https://www.vmware.com/)｜[Download Page](https://www.vmware.com/go/downloadworkstation)
 
 VMware Workstation Pro is the industry standard for running multiple operating systems as virtual machines on a single PC. Thousands of IT professionals, developers and businesses use Workstation Pro to be more agile, more productive and more secure every day.
 
