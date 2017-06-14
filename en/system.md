@@ -108,6 +108,12 @@ Significantly improve Explorer efficiency
 
 ###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
 
+### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/united-states.png)  ![](../assets/usb.png)
+
+###### [Official Site](http://pooi.moe/QuickLook/)｜[Download Page](https://github.com/xupefei/QuickLook/releases)
+
+Yet another file previewer on Windows using `space` key, free and open source
+
 ### Rapid Environment Editor ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [Official Site](https://www.rapidee.com/en/about)｜[Download Page](https://www.rapidee.com/en/download)

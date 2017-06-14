@@ -34,6 +34,10 @@ UI 优美、性能优秀的视频编码工具
 
 免费开源家庭影院软件
 
+### [LosslessCut](https://github.com/mifi/lossless-cut)  ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/mifi/lossless-cut")](https://github.com/mifi/lossless-cut) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+跨平台视频音频文件剪辑工具，使用 GUI 封装 ffmpeg
+
 ### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/mpcbe/")](https://sourceforge.net/projects/mpcbe/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 基于 "Media Player Classic"\(MPC，Gabest\) 及 "Media Player Classic Home Cinema" \(MPC-HC，Casimir666\)，包含一些功能增强及 bug 修复
