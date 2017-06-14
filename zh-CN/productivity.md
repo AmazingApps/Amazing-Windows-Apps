@@ -36,6 +36,10 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 一站式字体管理、预览、备份与范例展示
 
+### [Icons8](https://icons8.com/app)  ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+
+具有拖放功能的离线图标库，数量丰富
+
 ### LibreOffice ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@libreoffice.org: https://www.libreoffice.org/about-us/source-code/")](https://www.libreoffice.org/about-us/source-code/) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 ###### [官网](https://www.libreoffice.org/)｜[下载页面](https://www.libreoffice.org/download/download/)
