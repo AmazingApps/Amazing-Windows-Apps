@@ -100,7 +100,7 @@ Windows 全局手势
 
 ### \[图形图像\]
 
-### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](../assets/united-states.png)
+### [qrcode](https://github.com/sylnsfar/qrcode) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](../assets/united-states.png)
 
 Python 编写的艺术二维码生成器
 
@@ -196,6 +196,12 @@ Sock5 proxy
 
 全球首家基于 CBS 的 Dism GUI 实现
 
+### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/united-states.png)  ![](../assets/usb.png)
+
+###### [官网](http://pooi.moe/QuickLook/)｜[下载页面](https://github.com/xupefei/QuickLook/releases)
+
+将 macOS 的 Quick Look 功能引入到 Windows
+
 ### Seer ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 ###### [官网](http://1218.io/)｜[下载页面](http://sourceforge.net/projects/ccseer/)
@@ -216,7 +222,7 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 易于使用的 mpv GUI 封装，最大限度地保留了原有的 mpv 外观
 
-### [**zogvm**](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
+### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
 
 视频引索管理器
 
