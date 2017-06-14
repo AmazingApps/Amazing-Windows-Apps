@@ -112,7 +112,7 @@
 
 ###### [官网](http://pooi.moe/QuickLook/)｜[下载页面](https://github.com/xupefei/QuickLook/releases)
 
-将 macOS 的 Quick Look 功能引入到 Windows
+另一个 Windows 空格预览工具，免费开源
 
 ### Rapid Environment Editor ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
