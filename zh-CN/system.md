@@ -108,6 +108,12 @@
 
 ###### ⚠ 长期无更新但未发现明显的bug
 
+### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/united-states.png)  ![](../assets/usb.png)
+
+###### [官网](http://pooi.moe/QuickLook/)｜[下载页面](https://github.com/xupefei/QuickLook/releases)
+
+将 macOS 的 Quick Look 功能引入到 Windows
+
 ### Rapid Environment Editor ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [官网](https://www.rapidee.com/en/about)｜[下载页面](https://www.rapidee.com/en/download)
