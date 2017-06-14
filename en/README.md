@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/apps%20count-305-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/apps%20count-308-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
 </a>
