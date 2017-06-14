@@ -34,6 +34,10 @@ High performance video encoding and conversion tools with a nice GUI.
 
 Free and Open Source home theatre software.
 
+### [LosslessCut](https://github.com/mifi/lossless-cut)  ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/mifi/lossless-cut")](https://github.com/mifi/lossless-cut) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+Cross platform GUI tool for lossless trimming/cutting of video and audio files using ffmpeg 
+
 ### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/mpcbe/")](https://sourceforge.net/projects/mpcbe/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 Based on the original "Media Player Classic" project \(Gabest\) and "Media Player Classic Home Cinema" project \(Casimir666\), contains additional features and bug fixes
