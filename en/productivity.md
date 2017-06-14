@@ -34,6 +34,10 @@ Windows 10 built-in personal assistant by Microsoft.
 
 All-in-one fonts management, preview, backup and examples.
 
+### [Icons8](https://icons8.com/app)  ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+
+Offline icons in abundant quantity with drag'n'drop feature
+
 ### LibreOffice ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@libreoffice.org: https://www.libreoffice.org/about-us/source-code/")](https://www.libreoffice.org/about-us/source-code/) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 ###### [Official Site](https://www.libreoffice.org/)｜[Download Page](https://www.libreoffice.org/download/download/)
