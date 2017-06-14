@@ -198,7 +198,7 @@ First CBS-based Dism GUI implementation globally.
 
 ###### [Official Site](http://pooi.moe/QuickLook/)｜[Download Page](https://github.com/xupefei/QuickLook/releases)
 
-Bring macOS “Quick Look” feature to Windows
+Yet another file previewer on Windows using `space` key, free and open source
 
 ### Seer ![](../assets/free.png) ![](../assets/earth-globe.png)
 
