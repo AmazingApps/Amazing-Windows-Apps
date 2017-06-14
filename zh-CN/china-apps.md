@@ -72,7 +72,7 @@
 
 简单强大的截图工具并可以将截图贴到桌面；截图元素检测功能惊艳
 
-### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/yingDev/WGestures")](https://github.com/yingDev/WGestures) ![](../assets/china.png) ![](../assets/united-states.png)
+### [WGestures](http://www.yingdev.com/projects/wgestures) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/yingDev/WGestures")](https://github.com/yingDev/WGestures) ![](../assets/china.png) ![](../assets/united-states.png)
 
 Windows 全局手势
 
@@ -200,7 +200,7 @@ Sock5 proxy
 
 ###### [官网](http://pooi.moe/QuickLook/)｜[下载页面](https://github.com/xupefei/QuickLook/releases)
 
-将 macOS 的 Quick Look 功能引入到 Windows
+另一个 Windows 空格预览工具，免费开源
 
 ### Seer ![](../assets/free.png) ![](../assets/earth-globe.png)
 
