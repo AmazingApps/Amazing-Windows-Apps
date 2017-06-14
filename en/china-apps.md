@@ -1,8 +1,8 @@
-## 优秀国产软件名录
+## Excellent China's Apps
 
-诚然，当前国内 IT 业界一片乱象。但是正因如此，优秀应用反而更加弥足珍贵，也更加值得鼓励、赞扬、宣传。
+We build this list because it is a fact that IT industry in China is completely mess. But for this exactly, excellent apps are more precious.
 
-* 在此处列出的应用仍然在后续分类中可见（\[ \]中即为本项目归类）
+* All apps listed here can be still visiable after (\[ \] is the category)
 
 ---
 
