@@ -1,6 +1,6 @@
-## 网络通信   Internet
+## 网络通信
 
-网络信息处理   Get access to Inetrnet
+网络信息处理
 
 ---
 
