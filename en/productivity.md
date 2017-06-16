@@ -34,7 +34,7 @@ Windows 10 built-in personal assistant by Microsoft.
 
 All-in-one fonts management, preview, backup and examples.
 
-### [Icons8](https://icons8.com/app)  ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [Icons8](https://icons8.com/app) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
 Offline icons in abundant quantity with drag'n'drop feature
 
