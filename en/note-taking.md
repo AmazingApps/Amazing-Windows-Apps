@@ -18,7 +18,7 @@ Knowte is a note taking application with UWP UI.
 
 ###### [Official Site](https://leanote.com/)｜[Download Page](http://app.leanote.com/)
 
-A Markdown cloud note taking that allows you to establish personal blog
+A Markdown note taking that allows you to establish personal blog, with paid cloud sync.
 
 ### Notes ![](../assets/free.png) ![](../assets/united-states.png)  ![](../assets/multi_platform.png)
 
