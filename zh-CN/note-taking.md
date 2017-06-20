@@ -18,7 +18,7 @@ UWP 风格 UI 的笔记本应用
 
 ###### [官网](https://leanote.com/)｜[下载页面](http://app.leanote.com/)
 
-支持 Markdown 的开源云笔记，也可以搭建个人博客
+支持 Markdown 的开源笔记，也可以搭建个人博客，云同步需付费
 
 ### Notes ![](../assets/free.png) ![](../assets/united-states.png)  ![](../assets/multi_platform.png)
 
