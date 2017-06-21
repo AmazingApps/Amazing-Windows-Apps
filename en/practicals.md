@@ -22,19 +22,21 @@ A tiny countdown timer in natural languages.
 
 Keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 
+###### 📌 VERY LIKELY TO BE FALSE ALERT FROM ANTIVIRUS
+
 ### [LanguageTool](https://languagetool.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1+@GitHub: https://github.com/languagetool-org/languagetool")](https://github.com/languagetool-org/languagetool) ![](../assets/united-states.png)
 
 Style and grammar checker for 25+ languages
 
-###### 📌Java 8+ required
+###### 📌 Java 8+ required
 
-###### ⚠MANUAL REVIEW SUGGESTED
+###### ⚠ MANUAL REVIEW SUGGESTED
 
 ### [LICEcap](http://www.cockos.com/licecap/) ![](../assets/free.png) ![](../assets/united-states.png)
 
 Animated screen captures and save them directly to .GIF
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND
+###### ⚠ NO UPDATE FOR LONG BUT NO BUG FOUND
 
 ### MyChrome ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@TaoCode: http://code.taobao.org/p/mychrome/src/")](http://code.taobao.org/p/mychrome/src/) ![](../assets/china.png) ![](../assets/usb.png)
 
