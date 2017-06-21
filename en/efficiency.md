@@ -46,7 +46,7 @@ Keep files at your fingertips. An unique search utility.
 
 File manager for professionals.
 
-### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](../assets/free.png) ![](../assets/united-states.png)
+### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 A free alternative, with media preview, to Fences
 
@@ -66,7 +66,7 @@ A file manager with quadra-view technique
 
 Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
 
-### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/united-states.png)  ![](../assets/hong-kong.png)  ![](../assets/japan.png) ![](../assets/usb.png)
 
 A tiny launcher in way of icons.
 

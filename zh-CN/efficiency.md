@@ -46,7 +46,7 @@
 
 免费的专业文件管理器
 
-### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](../assets/free.png) ![](../assets/united-states.png)
+### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 Fences 的免费替代，具备媒体文件预览功能
 
@@ -66,7 +66,7 @@ Fences 的免费替代，具备媒体文件预览功能
 
 追踪你在应用与页面上使用的时间并给予详细活动报告
 
-### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/united-states.png)  ![](../assets/hong-kong.png)  ![](../assets/japan.png) ![](../assets/usb.png)
 
 图标式迷你启动器
 
