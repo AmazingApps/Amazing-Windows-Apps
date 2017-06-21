@@ -22,11 +22,13 @@
 
 Windows 键盘活动可视化以便录屏时展示
 
+###### 📌 极易被杀软误报
+
 ### [LanguageTool](https://languagetool.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1+@GitHub: https://github.com/languagetool-org/languagetool")](https://github.com/languagetool-org/languagetool) ![](../assets/united-states.png)
 
 外语语法拼写检查工具
 
-###### 📌需要 Java 8 或更新
+###### 📌 需要 Java 8 或更新
 
 ###### ⚠ 建议进行人工复核
 
