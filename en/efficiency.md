@@ -46,7 +46,7 @@ Keep files at your fingertips. An unique search utility.
 
 File manager for professionals.
 
-### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](../assets/free.png) ![](../assets/united-states.png)
+### [Nimi Places](http://mynimi.net/Projects/Nimi-Places/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 A free alternative, with media preview, to Fences
 
