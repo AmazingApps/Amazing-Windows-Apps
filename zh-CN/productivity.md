@@ -46,6 +46,10 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 开源 Office 套装
 
+### [ManicTime](http://www.manictime.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/hong-kong.png) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+追踪应用的使用时间花费详情，同时具备离线追踪与在线合作功能
+
 ### [Materialette](http://mikeschultz.xyz/materialette/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHUb: https://github.com/mike-schultz/materialette")](https://github.com/mike-schultz/materialette) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 material 设计的调色板
@@ -65,6 +69,10 @@ material 设计的调色板
 微软开发的生产力套装，包含：
 
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
+
+### [RescueTime](https://team.rescuetime.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+追踪你在应用与页面上使用的时间并给予详细活动报告
 
 ### XMind ![](../assets/free.png) [![](../assets/open-source-icon.png "EPL 1.0/LGPL 3.0@GitHub:https://github.com/xmindltd/xmind")](https://github.com/xmindltd/xmind) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
