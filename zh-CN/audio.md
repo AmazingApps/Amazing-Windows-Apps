@@ -75,8 +75,6 @@ DirectShow 过滤器集合并带有 VFW/ACM 解码器及相关工具
 
 跨平台音频标签处理，可在线查询并重写元数据标签
 
-### TTKMusicplayer ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@Github: https://github.com/Greedysky/TTKMusicplayer")](https://github.com/Greedysky/TTKMusicplayer) ![](../assets/china.png) ![](../assets/united-states.png)
-
-###### [官网](http://download.csdn.net/album/detail/3094)｜[下载页面](http://download.csdn.net/album/detail/3094)
+### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@Github: https://github.com/Greedysky/TTKMusicplayer")](https://github.com/Greedysky/TTKMusicplayer) ![](../assets/china.png) ![](../assets/united-states.png)
 
 基于 Qt，高仿酷狗
