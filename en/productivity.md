@@ -44,6 +44,10 @@ Offline icons in abundant quantity with drag'n'drop feature
 
 Open source office suite.
 
+### [ManicTime](http://www.manictime.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/hong-kong.png) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+Keep track in time you used in every app with offline tracking & online team tracking.
+
 ### [Materialette](http://mikeschultz.xyz/materialette/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHUb: https://github.com/mike-schultz/materialette")](https://github.com/mike-schultz/materialette) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 A material design color palette.
@@ -63,6 +67,10 @@ A lightweight digital painting and comic creation program that comes loaded with
 Microsoft's own productivity suite:
 
 Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project, Publisher, Skype \(for Business\), Visio, Word
+
+### [RescueTime](https://team.rescuetime.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+Track time spent on applications and websites, giving you an accurate picture of your day and give you detailed reports and data based on your activity.
 
 ### XMind ![](../assets/free.png) [![](../assets/open-source-icon.png "EPL 1.0/LGPL 3.0@GitHub:https://github.com/xmindltd/xmind")](https://github.com/xmindltd/xmind) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
