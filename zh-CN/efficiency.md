@@ -62,10 +62,6 @@ Fences 的免费替代，具备媒体文件预览功能
 
 独到的四屏比对的高级文件管理器
 
-### [RescueTime](https://team.rescuetime.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
-
-追踪你在应用与页面上使用的时间并给予详细活动报告
-
 ### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/united-states.png)  ![](../assets/hong-kong.png)  ![](../assets/japan.png) ![](../assets/usb.png)
 
 图标式迷你启动器
@@ -78,7 +74,7 @@ Fences 的免费替代，具备媒体文件预览功能
 
 Windows 最佳文件管理
 
-### [**WGestures**](http://www.yingdev.com/projects/wgestures) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](../assets/china.png) ![](../assets/united-states.png)
+### [WGestures](http://www.yingdev.com/projects/wgestures) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Wox-launcher/Wox")](https://github.com/Wox-launcher/Wox) ![](../assets/china.png) ![](../assets/united-states.png)
 
 Windows 全局手势
 
