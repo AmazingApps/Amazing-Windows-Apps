@@ -92,7 +92,7 @@ A sandbox-based isolation program.
 
 ###### [Official Site](https://shadowsocks.org/en/index.html)｜[Download Page](https://shadowsocks.org/en/download/clients.html)
 
-Sock5 proxy
+SOCKS5 proxy
 
 ### [ShadowsocksR](https://breakwa11.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
