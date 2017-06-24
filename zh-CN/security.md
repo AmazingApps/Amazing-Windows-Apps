@@ -8,7 +8,7 @@
 
 本地 DNS 代理，缓存 DNS 服务器回应并通过设置 hosts 文件防止恶意广告
 
-* See Chinese re-build version [here](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI)   [中文编译版页面](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI)
+* [中文编译版页面](https://github.com/miaomiaosoft/Acrylic-DNS-Proxy-GUI)
 
 ### [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
@@ -80,7 +80,7 @@
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-吊销中国网络安全中心签发的SSL证书（属非法证书）
+全自动吊销可疑/非法证书
 
 ### [Sandboxie](http://www.sandboxie.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 
@@ -104,6 +104,6 @@ Socks5 代理工具
 
 开源、跨平台的磁盘加密软件
 
-### [**XX-Net**](https://github.com/XX-net/XX-Net) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [XX-Net](https://github.com/XX-net/XX-Net) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 网络代理工具
