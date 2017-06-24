@@ -82,7 +82,7 @@ A local DNS server based on WinPcap and LibPcap to prevent DNS pollution & to im
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-As its name: revoke China SSL certificates \(illegal\).
+Revoke any doubeful/illegal certificates, most of which are from China.
 
 ### [Sandboxie](http://www.sandboxie.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 
