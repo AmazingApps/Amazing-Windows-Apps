@@ -130,7 +130,7 @@
 
 ###### [官网](http://1218.io/)｜[下载页面](http://sourceforge.net/projects/ccseer/)
 
-Windows文件预览，类似于Mac OS但是更强大，可定制度更高
+Windows 文件预览，类似于 macOS 但是更强大，可定制度更高
 
 ### [SharpKeys](http://www.randyrants.com/category/sharpkeys/)  ![](../assets/free.png) [![](../assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/randyrants/sharpkeys")](https://github.com/randyrants/sharpkeys) ![](../assets/united-states.png) ![](../assets/usb.png)
 

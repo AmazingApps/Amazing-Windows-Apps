@@ -12,13 +12,13 @@ SSH 客户端
 
 ### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
-特效丰富的基于 WinForms 的 HTTP 客户端
+特效丰富的基于 Windows Forms 的 RESTful 客户端
 
 ### Insomnia ![](../assets/free.png) ![](../assets/united-states.png)
 
 ###### [官网](https://insomnia.rest/)｜[下载页面](https://insomnia.rest/download/#windows)
 
-现代化的 REST 客户端
+现代化的 RESTful 客户端
 
 ### [Kitty](http://www.9bis.net/kitty/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 

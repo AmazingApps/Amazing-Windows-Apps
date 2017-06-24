@@ -82,7 +82,7 @@ A local DNS server based on WinPcap and LibPcap to prevent DNS pollution & to im
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-As its name: revoke China SSL certificates \(illegal\).
+Revoke any doubeful/illegal certificates, most of which are from China.
 
 ### [Sandboxie](http://www.sandboxie.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 
@@ -92,7 +92,7 @@ A sandbox-based isolation program.
 
 ###### [Official Site](https://shadowsocks.org/en/index.html)｜[Download Page](https://shadowsocks.org/en/download/clients.html)
 
-Sock5 proxy
+SOCKS5 proxy
 
 ### [ShadowsocksR](https://breakwa11.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 

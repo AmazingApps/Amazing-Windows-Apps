@@ -50,7 +50,7 @@ Chromium 是一个由 Google 主导开发的网页浏览器，以 BSD 许可证�
 
 ### [Maxthon](http://www.maxthon.com/mx5/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
-* ###### 此处指国际版，请注意与国内版相区别｜Here the international version is listed instead of that provided in mainland China
+* ###### 此处指国际版，请注意与国内版相区别
 
 同时内嵌 Trident 与 chromium 的网页浏览器，内置高效密码管理器
 

@@ -12,13 +12,13 @@ SSH Client for Windows includes state of the art terminal emulation, graphical a
 
 ### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
-A feature-rich WinForms-based HTTP client.
+A feature-rich Windows-Forms-based RESTful client.
 
 ### Insomnia ![](../assets/free.png) ![](../assets/united-states.png)
 
 ###### [Official Site](https://insomnia.rest/)｜[Download Page](https://insomnia.rest/download/#windows)
 
-A modern REST client with an beautiful interface. thout transparency for more efficient files.
+A modern RESTful client with an beautiful interface. thout transparency for more efficient files.
 
 ### [Kitty](http://www.9bis.net/kitty/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
