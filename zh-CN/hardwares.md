@@ -30,7 +30,7 @@ HDD/SSD 信息工具，支持部分 USB 连接设备跟 Intel RAID
 
 Identify & fix outdated, missing & incorrect PC drivers
 
-###### ⚠INCORRECT DRIVERS REPORTED   有用户报告安装不正确驱动
+###### ⚠ 不建议 Windows 10 用户使用，建议由系统自动联网安装
 
 ### Open Hardware Monitor ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/openhardwaremonitor/openhardwaremonitor")](https://github.com/openhardwaremonitor/openhardwaremonitor) ![](../assets/united-states.png) ![](../assets/usb.png)
 

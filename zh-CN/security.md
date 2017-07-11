@@ -14,6 +14,12 @@
 
 免费清理工具，针对广告软件、PUP/LPI、恶意工具栏跟劫持软件
 
+### Authy Desktop ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
+
+###### [Official Site](https://authy.com/)｜[Download Page](https://authy.com/download/)
+
+在多终端之间同步你的 2FA 信息
+
 ### [BitDefender](https://www.bitdefender.com/solutions/free.html) ![](../assets/free.png) ![](../assets/united-states.png)
 
 正合适的防病毒保护

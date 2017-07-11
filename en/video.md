@@ -26,6 +26,10 @@ Keep track of your movie and TV Series collection. Both physical discs and media
 
 A complete, cross-platform solution to record, convert and stream audio and video.
 
+### [Filmora](https://filmora.wondershare.com/video-editor/) ![](../assets/multi_platform.png) ![](../assets/earth-globe.png)
+
+Simplified video/audio editing with a wide range of multi-purpose tools.
+
 ### [HandBrake](http://handbrake.fr/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HandBrake/HandBrake")](https://github.com/HandBrake/HandBrake) ![](../assets/earth-globe.png)
 
 High performance video encoding and conversion tools with a nice GUI.

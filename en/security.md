@@ -14,11 +14,17 @@ A local DNS proxy which caches the responses coming from your DNS servers and he
 
 Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
+### Authy Desktop ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
+
+###### [Official Site](https://authy.com/)｜[Download Page](https://authy.com/download/)
+
+Sync your 2FA info across multiple devices.
+
 ### [BitDefender](https://www.bitdefender.com/solutions/free.html) ![](../assets/free.png) ![](../assets/united-states.png)
 
 Outright protection against malware.
 
-### [Buttercup](https://buttercup.pw/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/buttercup/buttercup")](https://github.com/buttercup/buttercup)  ![](../assets/united-states.png) ![](../assets/multi_platform.png)
+### [Buttercup](https://buttercup.pw/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/buttercup/buttercup")](https://github.com/buttercup/buttercup) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
 A password manager based on JavaScript, elegant, brief, compatible with few other types of databases.
 

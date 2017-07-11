@@ -218,6 +218,10 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 ### \[视频工具\]
 
+### [神剪手](https://www.shencut.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+
+显著简化视频音频编辑，具备多种特效工具
+
 ### [MPV-EASY Player](http://www.rjno1.com/mpv-easy-player.html) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/usb.png)
 
 易于使用的 mpv GUI 封装，最大限度地保留了原有的 mpv 外观

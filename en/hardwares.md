@@ -28,7 +28,7 @@ A lightweight system utility designed to provide vital information about your vi
 
 Identify & fix outdated, missing & incorrect PC drivers
 
-###### ⚠INCORRECT DRIVERS REPORTED
+###### ⚠ NOT SUGGESTED FOR WINDOWS 10 USERS
 
 ### Open Hardware Monitor ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/openhardwaremonitor/openhardwaremonitor")](https://github.com/openhardwaremonitor/openhardwaremonitor) ![](../assets/united-states.png) ![](../assets/usb.png)
 
