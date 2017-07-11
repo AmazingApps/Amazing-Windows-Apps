@@ -216,6 +216,10 @@ A text editor with Markdown preview and hex mode.
 
 ### \[Video\]
 
+### [Filmora](https://filmora.wondershare.com/video-editor/) ![](../assets/multi_platform.png) ![](../assets/earth-globe.png)
+
+Simplified video/audio editing with a wide range of multi-purpose tools.
+
 ### [MPV-EASY Player](http://www.rjno1.com/mpv-easy-player.html) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/usb.png)
 
 A GUI for mpv easy to use with a high degree of reduction to mpv appearance.
