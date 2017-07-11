@@ -46,6 +46,12 @@ Multi-Tabbed PuTTY.
 
 SSH and telnet client.
 
+### Terminus α ![](../assets/free.png) ![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Eugeny/terminus") ![](../assets/united-states.png) ![](../assets/multi_platform.png)
+
+###### [Official Site](https://eugeny.github.io/terminus/)｜[Download Page](https://github.com/Eugeny/terminus/releases/latest)
+
+A terminal for a more modern age, supporting classic CMD, PowerShell, Bash on Windows and other customization features.
+
 ### WinSCP ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@winscp.net: https://winscp.net/eng/download.php")](https://winscp.net/eng/download.php) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [Official Site](https://winscp.net/eng/index.php)｜[Download Page](https://winscp.net/eng/download.php)
