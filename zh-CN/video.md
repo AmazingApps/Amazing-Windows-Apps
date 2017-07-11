@@ -68,6 +68,10 @@ UI 优美、性能优秀的视频编码工具
 
 ###### ⚠[违反 FFmpeg 公共许可证](https://github.com/FFmpeg/web/blob/master/src/shame#L63)
 
+### [神剪手](https://www.shencut.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+
+显著简化视频音频编辑，具备多种特效工具
+
 ### Shotcut ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/mltframework/shotcut")](https://github.com/mltframework/shotcut) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [官网](https://www.shotcut.org/)｜[下载页面](https://www.shotcut.org/download/)
@@ -92,4 +96,4 @@ UI 优美、性能优秀的视频编码工具
        
 ### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)      
 
-视频引索管理器       
+视频引索管理器
