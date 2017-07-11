@@ -46,6 +46,12 @@ SSH 客户端
 
 SSH 与 telnet 客户端
 
+### Terminus α ![](../assets/free.png) ![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Eugeny/terminus") ![](../assets/united-states.png) ![](../assets/multi_platform.png)
+
+###### [Official Site](https://eugeny.github.io/terminus/)｜[Download Page](https://github.com/Eugeny/terminus/releases/latest)
+
+更具现代化交互体验的终端客户端，支持 CMD PowerShell Bash on Windows 及其它定制功能
+
 ### WinSCP ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@winscp.net: https://winscp.net/eng/download.php")](https://winscp.net/eng/download.php) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [官网](https://winscp.net/eng/docs/lang:chs)｜[下载页面](https://winscp.net/eng/docs/lang:chs#%E4%B8%8B%E8%BD%BD)
