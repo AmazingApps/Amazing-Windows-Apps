@@ -132,7 +132,7 @@ Open Cortana searches with your default browser.
 
 A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
 
-### [SharpKeys](http://www.randyrants.com/category/sharpkeys/)  ![](../assets/free.png) [![](../assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/randyrants/sharpkeys")](https://github.com/randyrants/sharpkeys) ![](../assets/united-states.png) ![](../assets/usb.png)
+### [SharpKeys](http://www.randyrants.com/category/sharpkeys/) ![](../assets/free.png) [![](../assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/randyrants/sharpkeys")](https://github.com/randyrants/sharpkeys) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 A utility that manages a Registry key that allows Windows to remap one key to any other key.
 
@@ -143,6 +143,10 @@ A utility that manages a Registry key that allows Windows to remap one key to an
 ###### [Official Site](http://www.r2.com.au/page/products/show/startup-delayer/)｜[Download Page](http://www.r2.com.au/page/products/download/startup-delayer/)
 
 Optimize your startup process by delaying applications from starting up as soon as you log into your computer based on your CPU/disk status
+
+### [Traymond](https://github.com/fcFn/traymond) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/fcFn/traymond")](https://github.com/fcFn/traymond) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+A really simple to minimize other apps to system tray.
 
 ### Winaero Tweaker ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
