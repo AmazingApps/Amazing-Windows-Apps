@@ -132,7 +132,7 @@
 
 Windows 文件预览，类似于 macOS 但是更强大，可定制度更高
 
-### [SharpKeys](http://www.randyrants.com/category/sharpkeys/)  ![](../assets/free.png) [![](../assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/randyrants/sharpkeys")](https://github.com/randyrants/sharpkeys) ![](../assets/united-states.png) ![](../assets/usb.png)
+### [SharpKeys](http://www.randyrants.com/category/sharpkeys/) ![](../assets/free.png) [![](../assets/open-source-icon.png "Microsoft Public License@GitHub: https://github.com/randyrants/sharpkeys")](https://github.com/randyrants/sharpkeys) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 通过注册表将一个热键映射到另一个
 
@@ -143,6 +143,10 @@ Windows 文件预览，类似于 macOS 但是更强大，可定制度更高
 ###### [官网](http://www.r2.com.au/page/products/show/startup-delayer/)｜[下载页面](http://www.r2.com.au/page/products/download/startup-delayer/)
 
 根据 CPU 与磁盘运行情况在登录到系统时延时第三方程序的自启过程
+
+### [Traymond](https://github.com/fcFn/traymond) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/fcFn/traymond")](https://github.com/fcFn/traymond) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+为不支持最小化到托盘的应用添加最小化功能
 
 ### Winaero Tweaker ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
