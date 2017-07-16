@@ -4,6 +4,10 @@ Taking notes to manage your knowledge
 
 ---
 
+### [Evernote](https://evernote.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+
+Multipurpose online note-taking with free cloud sync between two devices.
+
 ### [Inkdrop](https://www.inkdrop.info/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 The note-taking app for Markdown lovers.
