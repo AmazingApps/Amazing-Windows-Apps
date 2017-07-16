@@ -4,6 +4,12 @@
 
 ---
 
+### [Evernote](https://evernote.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+
+多功能云笔记，免费同步两台设备
+
+###### 此处建议使用国际版
+
 ### [Inkdrop](https://www.inkdrop.info/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 使用 MarkDown 的笔记本应用
