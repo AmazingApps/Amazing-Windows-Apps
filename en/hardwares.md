@@ -8,9 +8,13 @@ Hardwares info or minor adjustment
 
 CPU-Z is a freeware system profiling and monitoring application for Microsoft Windows and Android.
 
-### [CrystalDiskInfo](http://crystalmark.info/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskinfo/")](https://osdn.net/projects/crystaldiskinfo/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 A HDD/SSD info utility software which supports a part of USB connection and Intel RAID.
+
+### [CrystalDiskMark](http://crystalmark.info/software/CrystalDiskMark/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskmark/")](https://osdn.net/projects/crystaldiskmark/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+
+Disk benchmark testing
 
 ### [f.lux](http://stereopsis.com/flux/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
