@@ -8,9 +8,13 @@
 
 Windows 与 Android 免费系统资料与监视
 
-### [CrystalDiskInfo](http://crystalmark.info/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskinfo/")](https://osdn.net/projects/crystaldiskinfo/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 HDD/SSD 信息工具，支持部分 USB 连接设备跟 Intel RAID
+
+### [CrystalDiskMark](http://crystalmark.info/software/CrystalDiskMark/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskmark/")](https://osdn.net/projects/crystaldiskmark/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+
+简单的硬盘读写速度测试
 
 ### [f.lux](http://stereopsis.com/flux/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
