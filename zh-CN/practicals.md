@@ -54,6 +54,10 @@ Google Chrome 的便携版引导器
 
 更新安装软件的简单快速的方式
 
+### [Office Tool Plus](https://www.landian.la/click/OfficeToolPlus.html) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+
+自定义安装 Microsoft Office，同时支持激活、卸载、配置等
+
 ### [PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 批量 Ping 多个主机名或 IP 地址，实时显示结果，并可导出 HTML TEXT XML
