@@ -54,6 +54,8 @@ NirLauncher is a package of more than 200 portable freeware utilities for Window
 
 The easiest, fastest way to update or install software.
 
+### [Office Tool Plus](https://www.landian.la/click/OfficeToolPlus.html) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+
 ### [PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 Easily ping multiple host names and IP addresses and export as HTML, TEXT, XML
