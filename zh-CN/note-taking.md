@@ -20,6 +20,10 @@
 
 UWP 风格 UI 的笔记本应用
 
+### [Laverna](https://laverna.cc/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/Laverna/laverna")](https://github.com/Laverna/laverna) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+Markdown 笔记应用，带有第三方云同步与加密功能
+
 ### Leanote 蚂蚁笔记 ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0+@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 ###### [官网](https://leanote.com/)｜[下载页面](http://app.leanote.com/)
