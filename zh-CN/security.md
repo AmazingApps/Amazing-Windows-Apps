@@ -98,10 +98,6 @@
 
 SOCKS5 代理工具
 
-### [ShadowsocksR](https://breakwa11.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-基于 Shadowsocks 的主要分支之一
-
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](../assets/earth-globe.png)
 
 简单的 DNSCrypt 管理工具，可用于预防 DNS 污染
