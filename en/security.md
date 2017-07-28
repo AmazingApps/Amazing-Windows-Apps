@@ -100,10 +100,6 @@ A sandbox-based isolation program.
 
 SOCKS5 proxy
 
-### [ShadowsocksR](https://breakwa11.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-A main fork based on Shadowsocks
-
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](../assets/earth-globe.png)
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.
