@@ -18,6 +18,10 @@ The note-taking app for Markdown lovers.
 
 Knowte is a note taking application with UWP UI.
 
+### [Laverna](https://laverna.cc/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/Laverna/laverna")](https://github.com/Laverna/laverna) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+Markdown note taking app with optional encryption and third-party sync.
+
 ### Leanote ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0+@GitHub: https://github.com/leanote")](https://github.com/leanote) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 ###### [Official Site](https://leanote.com/)｜[Download Page](http://app.leanote.com/)

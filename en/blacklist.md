@@ -109,10 +109,6 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 * 360卫士勒索病毒救灾版：1, 2, 3, 4, 5
 * 鲁大师：1, 2, 3, 4, 5
 
-### ADM：2, 3
-
-### Adsafe：2, 3
-
 ### Driver Life：1, 2, 3
 
 ### Driver Spirit：1, 2, 3
@@ -122,3 +118,11 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 ### UC 浏览器：2, 3, 4
 
 ### YY：1, 2, 3, 5
+
+#### [ADS FILTERS](https://github.com/AmazingApps/Amazing-Windows-Apps/issues/186 "SEE MORE INFO HERE")
+
+### ADM：3
+
+### Adbyby：3，5
+
+### Adsafe：2, 3
