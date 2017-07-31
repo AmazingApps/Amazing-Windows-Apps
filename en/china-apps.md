@@ -178,10 +178,6 @@ As its name: revoke China SSL certificates \(illegal\).
 
 Sock5 proxy
 
-### [ShadowsocksR](https://breakwa11.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-A main fork based on Shadowsocks
-
 ### \[System\]
 
 ### AOMEI Partition Assistant  ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)

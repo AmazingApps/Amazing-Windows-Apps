@@ -180,10 +180,6 @@ Socks5 代理工具
 
 Sock5 proxy
 
-### [ShadowsocksR](https://breakwa11.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr")](https://github.com/shadowsocksr) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-基于 Shadowsocks 的主要分支之一
-
 ### \[系统增强\]
 
 ### AOMEI Partition Assistant  分区助手 ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
