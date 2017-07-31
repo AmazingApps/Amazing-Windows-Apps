@@ -200,12 +200,6 @@ First CBS-based Dism GUI implementation globally.
 
 Yet another file previewer on Windows using `space` key, free and open source
 
-### Seer ![](../assets/free.png) ![](../assets/earth-globe.png)
-
-###### [Official Site](http://1218.io/)｜[Download Page](http://sourceforge.net/projects/ccseer/)
-
-A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
-
 ### \[Text Editor\]
 
 ### EverEdit ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/japan.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
