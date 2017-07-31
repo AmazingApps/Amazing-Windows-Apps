@@ -202,12 +202,6 @@ Sock5 proxy
 
 另一个 Windows 空格预览工具，免费开源
 
-### Seer ![](../assets/free.png) ![](../assets/earth-globe.png)
-
-###### [官网](http://1218.io/)｜[下载页面](http://sourceforge.net/projects/ccseer/)
-
-Windows文件预览，类似于Mac OS但是更强大，可定制度更高
-
 ### \[文本编辑\]
 
 ### EverEdit ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/japan.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
