@@ -45,7 +45,7 @@
 
 ![](../assets/multi_platform.png) 具有跨平台版本
 
-![](../assets/earth-globe.png) 多语言支援：至少支援世界上幾種使用較多較廣的語言
+![](../assets/earth-globe.png) 多語言支援：至少支援世界上幾種使用較多較廣的語言
 
 * 僅支援單一或者少數語言的以國旗或地區旗幟標示
 
