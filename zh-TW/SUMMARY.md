@@ -11,7 +11,7 @@
 * [開發工具](dev-tools.md)
 * [下載工具](downloader.md)
 * [電子書庫](ebooks.md)
-* [效率工具](efficiency.md)
+* [效能工具](efficiency.md)
 * [電子郵件](emails.md)
 * [文件處理](files.md)
 * [遊戲相關](games.md)
