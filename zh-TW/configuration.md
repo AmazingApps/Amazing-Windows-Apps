@@ -12,7 +12,7 @@
 
 ### [Win10-Initial-Setup-Script](https://www.dasm.cz/clanek/jak-z-windows-10-udelat-desktopovy-system) ![](../assets/free.png) ![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Disassembler0/Win10-Initial-Setup-Script") ![](../assets/united-states.png) ![](../assets/command-line.png)
 
-PowerShell 腳本，用於初始化 Windows 10 安裝環境
+PowerShell 手稿，用於初始化 Windows 10 安裝環境
 
 ###### ⚠ 針對 Windows 10 設計並具有一定風險
 
