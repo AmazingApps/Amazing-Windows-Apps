@@ -20,10 +20,6 @@
 
 在多终端之间同步你的 2FA 信息
 
-### [BitDefender](https://www.bitdefender.com/solutions/free.html) ![](../assets/free.png) ![](../assets/united-states.png)
-
-正合适的防病毒保护
-
 ### [Buttercup](https://buttercup.pw/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/buttercup/buttercup")](https://github.com/buttercup/buttercup)  ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
 基于 JavaScript，外观优雅、功能简洁的密码管理器，可兼容 Keepass、1Password等数据库。
@@ -51,16 +47,6 @@
 ### [GlassWire](https://www.glasswire.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 网络通信活动监视并可视化显示
-
-### [Huorong Security](http://www.huorong.cn/) 火绒 ![](../assets/free.png) ![](../assets/china.png)
-
-病毒防护软件，PUA 防护表现惊艳
-
-###### ⚠ 可通过自身设置取消的主页绑定
-
-### [Kaspersky Free](https://www.kaspersky.com.cn/downloads#tools) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/russia.png)
-
-卡巴斯基防病毒免费版，俄语国家与中国可用
 
 ### KeePass ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0+@SourceForge: https://sourceforge.net/projects/keepass/")](https://sourceforge.net/projects/keepass/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 

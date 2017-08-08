@@ -162,12 +162,6 @@ A popular mind map tool with free cloud sync.
 
 ### \[Privacy & Security\]
 
-### [Huorong Security](http://www.huorong.cn/) ![](../assets/free.png) ![](../assets/china.png)
-
-An anti-malware software performing amazingly on PUA protection.
-
-###### ⚠Cancellable homepage lock
-
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
 As its name: revoke China SSL certificates \(illegal\).

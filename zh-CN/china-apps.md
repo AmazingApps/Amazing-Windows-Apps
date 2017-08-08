@@ -162,12 +162,6 @@ Google Chrome 的便携版引导器
 
 ### \[隐私安全\]
 
-### [火绒](http://www.huorong.cn/)  ![](../assets/free.png) ![](../assets/china.png)
-
-病毒防护软件，PUA 防护表现惊艳
-
-###### ⚠ 可通过自身设置取消的主页绑定
-
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
 吊销中国网络安全中心签发的SSL证书（属非法证书）

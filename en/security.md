@@ -20,10 +20,6 @@ Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
 Sync your 2FA info across multiple devices.
 
-### [BitDefender](https://www.bitdefender.com/solutions/free.html) ![](../assets/free.png) ![](../assets/united-states.png)
-
-Outright protection against malware.
-
 ### [Buttercup](https://buttercup.pw/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/buttercup/buttercup")](https://github.com/buttercup/buttercup) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
 A password manager based on JavaScript, elegant, brief, compatible with few other types of databases.
@@ -53,16 +49,6 @@ Encrypt your files in an elegant way.
 ### [GlassWire](https://www.glasswire.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 Network security monitoring tool and analyzer that visualizes your network activity.
-
-### [Huorong Security](http://www.huorong.cn/) ![](../assets/free.png) ![](../assets/china.png)
-
-A malware fighter performing amazingly on PUA protection.
-
-###### ⚠Homepage lockup allowed to be canceled by preferences itself
-
-### [Kaspersky Free](https://www.kaspersky.com.cn/downloads#tools) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/russia.png)
-
-Free edition of Kaspersky antivirus, available in China and Russian speaking countires.
 
 ### KeePass ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0+@SourceForge: https://sourceforge.net/projects/keepass/")](https://sourceforge.net/projects/keepass/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
