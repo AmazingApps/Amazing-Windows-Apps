@@ -120,9 +120,3 @@
 ### YY语音：1, 2, 3, 5
 
 #### [外部广告过滤](https://github.com/AmazingApps/Amazing-Windows-Apps/issues/186 "更多详情")
-
-### ADM：3
-
-### Adbyby：3，5
-
-### Adsafe：2, 3

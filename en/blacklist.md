@@ -120,9 +120,3 @@ Softwares listed here severely violate users' rights, so they are strongly unrec
 ### YY：1, 2, 3, 5
 
 #### [ADS FILTERS](https://github.com/AmazingApps/Amazing-Windows-Apps/issues/186 "SEE MORE INFO HERE")
-
-### ADM：3
-
-### Adbyby：3，5
-
-### Adsafe：2, 3
