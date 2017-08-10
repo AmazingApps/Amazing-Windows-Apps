@@ -66,7 +66,7 @@ A file manager with quadra-view technique
 
 A tiny launcher in way of icons.
 
-### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 A simple but powerful snipping tool by amazing elements detection, and also allows you to pin the screenshot back onto the screen
 
@@ -96,4 +96,3 @@ An effective launcher for Windows.
 ### [ZIKU!](http://ziku.olereo.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](../assets/china.png) ![](../assets/usb.png)
 
 A database-style launcher that can collect some detailed info
-

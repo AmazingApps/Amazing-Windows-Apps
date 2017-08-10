@@ -51,6 +51,8 @@ Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-App
 
 ![](../assets/command-line.png) Command line interface (CLI) **only**.
 
+![](../assets/windows-store.png) Apps available from Windows store.
+
 ~~Strikethrough~~:
 
 1. The app had a bad reputation in the past.

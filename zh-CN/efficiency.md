@@ -66,7 +66,7 @@ Fences 的免费替代，具备媒体文件预览功能
 
 图标式迷你启动器
 
-### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 简单强大的截图工具并可以将截图贴到桌面，元素检测功能惊艳
 

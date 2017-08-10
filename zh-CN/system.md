@@ -50,11 +50,9 @@
 
 剪贴板管理
 
-### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/File-New-Project/EarTrumpet")](https://github.com/File-New-Project/EarTrumpet) ![](../assets/united-states.png)
+### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/File-New-Project/EarTrumpet")](https://github.com/File-New-Project/EarTrumpet) ![](../assets/united-states.png) ![](../assets/windows-store.png)
 
 分别调整系统内所有使用扬声器的应用的音量
-
-###### ⚠ 针对 Windows 8.1/10 的 UWP 应用
 
 * ###### 向下兼容 Windows 8.1 的版本可见于 [GitHub](https://github.com/File-New-Project/EarTrumpet)，Windows 10 RS2 用户建议从应用商店安装
 

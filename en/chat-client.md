@@ -28,11 +28,10 @@ An Internet Relay Chat \(IRC\) client.
 
 Quassel IRC is a modern, cross-platform, distributed IRC client.
 
-### [Telegram](https://desktop.telegram.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/telegramdesktop/tdesktop")](https://github.com/telegramdesktop/tdesktop) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+### [Telegram](https://desktop.telegram.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/telegramdesktop/tdesktop")](https://github.com/telegramdesktop/tdesktop) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 A messaging app with a focus on speed and security, it’s super fast, simple and free.
 
 ### [Waow](http://dedg3.com/wao/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 Awesome WhatsApp Web Client to deliver you the best WhatsApp experience.
-

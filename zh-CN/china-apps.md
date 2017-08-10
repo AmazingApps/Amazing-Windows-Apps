@@ -68,7 +68,7 @@
 
 图标式迷你启动器
 
-### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 简单强大的截图工具并可以将截图贴到桌面；截图元素检测功能惊艳
 
@@ -173,6 +173,10 @@ Google Chrome 的便携版引导器
 Socks5 代理工具
 
 Sock5 proxy
+
+### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+较为激进的 Shadowsocks 分支，侧重于协议改进
 
 ### \[系统增强\]
 

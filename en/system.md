@@ -50,11 +50,9 @@ First CBS-based Dism GUI implementation globally.
 
 Clipboard manager.
 
-### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/File-New-Project/EarTrumpet")](https://github.com/File-New-Project/EarTrumpet) ![](../assets/united-states.png)
+### [EarTrumpet](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/File-New-Project/EarTrumpet")](https://github.com/File-New-Project/EarTrumpet) ![](../assets/united-states.png) ![](../assets/windows-store.png)
 
 Adjust volume for all apps individually.
-
-###### ⚠UWP APPS FOR WINDOWS 8.1/10
 
 * ###### Version compatible with Windows 8.1 available on [GitHub](https://github.com/File-New-Project/EarTrumpet). RS 2 users are suggested to install from Windows Store
 
@@ -165,4 +163,3 @@ A disk usage statistics viewer and cleanup.
 ###### [Official Site](http://shark007.net/)｜[Download Page](http://shark007.net/forum/Thread-Setup-and-usage)
 
 Enhanced your WMP significantly.
-
