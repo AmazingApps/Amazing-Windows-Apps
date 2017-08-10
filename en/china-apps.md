@@ -68,7 +68,7 @@ Keep files at your fingertips. An unique search utility.
 
 A tiny launcher in way of icons.
 
-### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 A simple but powerful snipping tool with amazing elements detection, and also allows you to pin the screenshot back onto the screen
 
@@ -171,6 +171,10 @@ As its name: revoke China SSL certificates \(illegal\).
 ###### [Official Site](https://shadowsocks.org/en/index.html)｜[Download Page](https://shadowsocks.org/en/download/clients.html)
 
 Sock5 proxy
+
+### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+A more radical Shadowsocks branch, focusing rather on protocol improvement.
 
 ### \[System\]
 

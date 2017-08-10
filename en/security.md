@@ -38,7 +38,7 @@ Personal Firewall & HIPS protection
 
 ###### [Official Site](https://cryptomator.org/)｜[Download Page](https://cryptomator.org/downloads/#allVersions)
 
-加密你的云端文件
+Encrpty your cloud files.
 
 Free client-side encryption for your cloud files
 
@@ -88,7 +88,7 @@ SOCKS5 proxy
 
 ### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
-A more radical Shadowsocks branch, focusing rather on protocol improvement
+A more radical Shadowsocks branch, focusing rather on protocol improvement.
 
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](../assets/earth-globe.png)
 
@@ -101,4 +101,3 @@ Open-source & cross-platform disk encryption software.
 ### [XX-Net](https://github.com/XX-net/XX-Net) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 A web proxy tool.
-

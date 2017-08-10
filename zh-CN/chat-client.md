@@ -28,7 +28,7 @@
 
 现代的跨平台分布式 IRC
 
-### [Telegram](https://desktop.telegram.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/telegramdesktop/tdesktop")](https://github.com/telegramdesktop/tdesktop) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+### [Telegram](https://desktop.telegram.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/telegramdesktop/tdesktop")](https://github.com/telegramdesktop/tdesktop) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 专注于速度与安全性的通信应用
 

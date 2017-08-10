@@ -12,7 +12,7 @@
 
 从 Windows 中发起 traceroute 请求并可视化展示
 
-### [**Brave**](https://www.brave.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/brave")](https://github.com/brave) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [Brave](https://www.brave.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL 2.0@GitHub: https://github.com/brave")](https://github.com/brave) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 自动拦截广告与追踪器的浏览器
 
