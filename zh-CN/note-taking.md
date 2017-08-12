@@ -4,7 +4,7 @@
 
 ---
 
-### [Evernote](https://evernote.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [Evernote](https://evernote.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 多功能云笔记，免费同步两台设备
 

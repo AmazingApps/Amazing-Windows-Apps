@@ -4,7 +4,7 @@ Taking notes to manage your knowledge
 
 ---
 
-### [Evernote](https://evernote.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [Evernote](https://evernote.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 Multipurpose online note-taking with free cloud sync between two devices.
 
