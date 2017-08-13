@@ -106,7 +106,7 @@ Significantly improve Explorer efficiency
 
 ###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
 
-### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/united-states.png)  ![](../assets/usb.png)
+### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
 ###### [Official Site](http://pooi.moe/QuickLook/)｜[Download Page](https://github.com/xupefei/QuickLook/releases)
 
