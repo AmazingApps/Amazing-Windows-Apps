@@ -188,7 +188,7 @@ Resize, move, extend, merge and split partitions without data loss to maximize d
 
 First CBS-based Dism GUI implementation globally.
 
-### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/united-states.png)  ![](../assets/usb.png)
+### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
 ###### [Official Site](http://pooi.moe/QuickLook/)｜[Download Page](https://github.com/xupefei/QuickLook/releases)
 
