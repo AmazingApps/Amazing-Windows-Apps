@@ -8,7 +8,7 @@ Boost text editing efficiency
 
 A highly light-weighted advanced text editor
 
-### Atom ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/atom/atom")](https://github.com/atom/atom) ![](../assets/united-states.png) ![](../assets/usb.png)
+### Atom ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/atom/atom")](https://github.com/atom/atom) ![](../assets/united-states.png)
 
 ###### [Official Site](https://atom.io/)｜[Download Page](https://github.com/atom/atom/releases)
 
@@ -68,7 +68,7 @@ The sophisticated text editor.
 
 A minimal MarkDown reading & writing app.
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Microsoft/vscode")](https://github.com/Microsoft/vscode) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Visual Studio Code](https://code.visualstudio.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Microsoft/vscode")](https://github.com/Microsoft/vscode) ![](../assets/earth-globe.png)
 
 Open source text editor from Microsoft
 

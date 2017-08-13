@@ -10,13 +10,13 @@ Softwares that manage, play or process audio files.
 
 A light-weighted local audio player that support multiple formats and that helps manage audio files
 
-### Audacity ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/audacity/audacity")](https://github.com/audacity/audacity) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](../assets/multi_platform.png)
+### Audacity ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@Github: https://github.com/audacity/audacity")](https://github.com/audacity/audacity) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [Official Site](http://www.audacityteam.org/)｜[Download Page](http://www.audacityteam.org/download/windows/)
 
 Free, open source, cross-platform software for recording and editing sounds.
 
-### Autolyrics ![](/assets/free.png) ![](/assets/china.png) ![](../assets/united-states.png)
+### Autolyrics ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
 ###### [Official Site](http://www.autolyric.com/)｜[Download Page](http://www.autolyric.com/en/download.html)
 
@@ -74,7 +74,7 @@ Manage, find, and play music files on your computer. Like iTunes but better than
 
 Picard is a cross-platform music tagger that looks up and rewrite metadata tags.
 
-### [Spek](http://spek.cc/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@Github: https://github.com/alexkay/spek")](https://github.com/alexkay/spek) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](../assets/multi_platform.png)
+### [Spek](http://spek.cc/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@Github: https://github.com/alexkay/spek")](https://github.com/alexkay/spek) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 A very simple tool to show spectrogram of audio files
 

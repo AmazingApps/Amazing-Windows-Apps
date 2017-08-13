@@ -8,7 +8,7 @@
 
 高度轻量化的高级文本编辑器
 
-### Atom ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/atom/atom")](https://github.com/atom/atom) ![](../assets/united-states.png) ![](../assets/usb.png)
+### Atom ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/atom/atom")](https://github.com/atom/atom) ![](../assets/united-states.png)
 
 ###### [官网](https://atom.io/)｜[下载页面](https://github.com/atom/atom/releases)
 
@@ -68,7 +68,7 @@ Notepad2的分支之一，可替换系统 notepad 的轻量级开源编辑器，
 
 简洁 MarkDown 阅读编写应用
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Microsoft/vscode")](https://github.com/Microsoft/vscode) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Visual Studio Code](https://code.visualstudio.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/Microsoft/vscode")](https://github.com/Microsoft/vscode) ![](../assets/earth-globe.png)
 
 微软出品的开源文本编辑器
 
