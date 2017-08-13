@@ -106,7 +106,7 @@
 
 ###### ⚠ 长期无更新但未发现明显的bug
 
-### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/united-states.png)  ![](../assets/usb.png)
+### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
 ###### [官网](http://pooi.moe/QuickLook/)｜[下载页面](https://github.com/xupefei/QuickLook/releases)
 
