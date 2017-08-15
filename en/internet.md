@@ -46,6 +46,16 @@ An open source web browser that is highly extensive and privacy respecting.
 
 Douban.FM, Soundcloud, Internet Radio and Podcast on your Windows
 
+### Shadowsocks ![](../assets/free.png) [![](../assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+###### [Official Site](https://shadowsocks.org/en/index.html)｜[Download Page](https://shadowsocks.org/en/download/clients.html)
+
+SOCKS5 proxy
+
+### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+A more radical Shadowsocks branch, focusing rather on protocol improvement.
+
 ### [Maxthon](http://www.maxthon.com/mx5/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 * ###### Here the international version is listed instead of that provided in mainland China

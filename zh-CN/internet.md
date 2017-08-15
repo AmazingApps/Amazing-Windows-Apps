@@ -48,6 +48,16 @@ Chromium 是一个由 Google 主导开发的网页浏览器，以 BSD 许可证�
 
 在 Windows 享受豆瓣电台、Soundcloud、互联网收音机与 Podcast
 
+### Shadowsocks 影梭 ![](../assets/free.png) [![](../assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+###### [官网](https://shadowsocks.org/en/index.html)｜[下载页面](https://shadowsocks.org/en/download/clients.html)
+
+SOCKS5 代理工具
+
+### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+较为激进的 Shadowsocks 分支，侧重于协议改进
+
 ### [Maxthon](http://www.maxthon.com/mx5/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 * ###### 此处指国际版，请注意与国内版相区别

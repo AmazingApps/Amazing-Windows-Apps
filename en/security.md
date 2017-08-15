@@ -80,16 +80,6 @@ Revoke any doubeful/illegal certificates, most of which are from China.
 
 A sandbox-based isolation program.
 
-### Shadowsocks ![](../assets/free.png) [![](../assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-###### [Official Site](https://shadowsocks.org/en/index.html)｜[Download Page](https://shadowsocks.org/en/download/clients.html)
-
-SOCKS5 proxy
-
-### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-A more radical Shadowsocks branch, focusing rather on protocol improvement.
-
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](../assets/earth-globe.png)
 
 A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to prevent DNS spoofing.

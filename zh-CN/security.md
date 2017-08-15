@@ -78,16 +78,6 @@
 
 基于沙盒的隔离软件
 
-### Shadowsocks 影梭 ![](../assets/free.png) [![](../assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-###### [官网](https://shadowsocks.org/en/index.html)｜[下载页面](https://shadowsocks.org/en/download/clients.html)
-
-SOCKS5 代理工具
-
-### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-较为激进的 Shadowsocks 分支，侧重于协议改进
-
 ### [Simple DNSCrypt](https://simplednscrypt.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/bitbeans/SimpleDnsCrypt")](https://github.com/bitbeans/SimpleDnsCrypt) ![](../assets/earth-globe.png)
 
 简单的 DNSCrypt 管理工具，可用于预防 DNS 污染
