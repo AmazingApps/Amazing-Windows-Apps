@@ -66,7 +66,7 @@ Fences 的免費替代，具備媒體檔案預覽功能
 
 圖示式迷你啟動器
 
-### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 簡單強大的截圖工具並可以將截圖貼到桌面，元素檢測功能驚艷
 
@@ -94,4 +94,4 @@ Windows 全局手勢
 
 ### [ZIKU!](http://ziku.olereo.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](../assets/china.png) ![](../assets/usb.png)
 
-記錄簡單應用詳情的資料庫式的啟動器
+記錄簡單軟體詳情的資料庫式的啟動器
