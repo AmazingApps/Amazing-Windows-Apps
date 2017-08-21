@@ -68,7 +68,7 @@
 
 圖示式迷你啟動器
 
-### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [Snipaste](https://snipaste.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 簡單強大的截圖工具並可以將截圖貼到桌面；截圖元素檢測功能驚艷
 
@@ -82,7 +82,7 @@ Windows 全域手勢
 
 ### [ZIKU!](http://ziku.olereo.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/OLEREO/ZIKU")](https://github.com/OLEREO/ZIKU) ![](../assets/china.png) ![](../assets/usb.png)
 
-記錄簡單應用詳情的資料庫式的啟動器
+記錄簡單軟體詳情的資料庫式的啟動器
 
 ### \[檔案處理\]
 
@@ -118,6 +118,18 @@ Python 編寫的藝術二維碼生成器
 
 一個利用 CloudXNS 的 API 實現自己的 DDNS 服務的 PowerShell 指令碼
 
+### Shadowsocks 影梭 ![](../assets/free.png) [![](../assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+###### [官網](https://shadowsocks.org/en/index.html)｜[下載頁面](https://shadowsocks.org/en/download/clients.html)
+
+Socks5 代理工具
+
+Sock5 proxy
+
+### [ShadowsocksRR](https://github.com/shadowsocksrr/shadowsocksr-csharp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+較為激進的 Shadowsocks 分支，側重於協定改進
+
 ### [Maxthon](http://www.maxthon.com/mx5/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 * ###### 此處指國際版，請注意與國內版相區別
@@ -148,7 +160,7 @@ Google Chrome 的可攜版啟動器
 
 ### [amWiki](https://github.com/TevinLi/amWiki) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](../assets/united-states.png)
 
-使用 JavaScript、依賴於 Atom 編輯器、應用 MarkDown 標記的 wiki 文件系統
+使用 JavaScript、依賴於 Atom 編輯器、軟體 MarkDown 標記的 wiki 文件系統
 
 ### [字由](http://www.hellofont.cn/index.php) ![](../assets/free.png) ![](../assets/china.png)
 
@@ -162,27 +174,13 @@ Google Chrome 的可攜版啟動器
 
 ### \[隱私安全\]
 
-### [火絨](http://www.huorong.cn/)  ![](../assets/free.png) ![](../assets/china.png)
-
-病毒防護軟體，PUA 防護表現驚艷
-
-###### ⚠ 可通過自身設定取消的首頁繫結
-
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
 吊銷中國網路安全中心簽發的SSL憑證（屬非法憑證）
 
-### Shadowsocks 影梭 ![](../assets/free.png) [![](../assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-###### [官網](https://shadowsocks.org/en/index.html)｜[下載頁面](https://shadowsocks.org/en/download/clients.html)
-
-Socks5 代理工具
-
-Sock5 proxy
-
 ### \[系統增強\]
 
-### AOMEI Partition Assistant  分區助手 ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
+### AOMEI Partition Assistant 分區助手 ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [官網](http://www.disktool.cn/)｜[下載頁面](http://www.disktool.cn/download.html)
 
@@ -192,7 +190,7 @@ Sock5 proxy
 
 全球首家使用 CBS 的 Dism GUI 實現
 
-### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/united-states.png)  ![](../assets/usb.png)
+### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
 ###### [官網](http://pooi.moe/QuickLook/)｜[下載頁面](https://github.com/xupefei/QuickLook/releases)
 
