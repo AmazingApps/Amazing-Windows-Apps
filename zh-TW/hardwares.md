@@ -8,15 +8,15 @@
 
 Windows 與 Android 免費系統資料與監視
 
-### [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskinfo/")](https://osdn.net/projects/crystaldiskinfo/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskinfo/")](https://osdn.net/projects/crystaldiskinfo/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 HDD/SSD 資訊工具，支援部分 USB 連線裝置跟 Intel RAID
 
-### [CrystalDiskMark](http://crystalmark.info/software/CrystalDiskMark/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskmark/")](https://osdn.net/projects/crystaldiskmark/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [CrystalDiskMark](http://crystalmark.info/software/CrystalDiskMark/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskmark/")](https://osdn.net/projects/crystaldiskmark/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 簡單的硬碟讀寫速度測試
 
-### [f.lux](http://stereopsis.com/flux/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
+### [f.lux](http://stereopsis.com/flux/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 自動調節螢幕色溫以符合環境亮度
 
