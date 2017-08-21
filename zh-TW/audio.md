@@ -10,14 +10,13 @@
 
 輕巧的本地音訊播放器，支援多種格式，並具備音訊管理功能
 
-
-### Audacity ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 2.0@Github: https://github.com/audacity/audacity")](https://github.com/audacity/audacity) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](../assets/multi_platform.png)
+### Audacity ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@Github: https://github.com/audacity/audacity")](https://github.com/audacity/audacity) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [官網](http://www.audacityteam.org/)｜[下載頁面](http://www.audacityteam.org/download/windows/)
 
 免費開源跨平台的音訊記錄與編輯軟體
 
-### Autolyrics ![](/assets/free.png) ![](/assets/china.png) ![](../assets/united-states.png)
+### Autolyrics ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
 ###### [官網](http://www.autolyric.com/zh-hans)｜[下載頁面](http://www.autolyric.com/zh-hans/download)
 
@@ -75,7 +74,7 @@ DirectShow 過濾器集合，並帶有 VFW/ACM 解碼器及相關工具
 
 跨平台音訊標籤處理，可線上查詢並重寫元數據標籤
 
-### [Spek](http://spek.cc/) ![](/assets/free.png) [![](/assets/open-source-icon.png "GPL 3.0@Github: https://github.com/alexkay/spek")](https://github.com/alexkay/spek) ![](/assets/earth-globe.png) ![](/assets/usb.png) ![](../assets/multi_platform.png)
+### [Spek](http://spek.cc/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@Github: https://github.com/alexkay/spek")](https://github.com/alexkay/spek) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 顯示音訊文件頻譜的極簡工具
 
