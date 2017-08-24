@@ -110,10 +110,6 @@ Python 編寫的藝術二維碼生成器
 
 從 Windows 中發起 traceroute 請求並視覺化展示
 
-### [Cent Browser](http://www.centbrowser.com/) 美分瀏覽器 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-附帶的許多特性顯著增強了 Chromium 瀏覽器的體驗
-
 ### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 一個利用 CloudXNS 的 API 實現自己的 DDNS 服務的 PowerShell 指令碼
