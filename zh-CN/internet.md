@@ -16,10 +16,6 @@
 
 自动拦截广告与追踪器的浏览器
 
-### [Cent Browser](http://www.centbrowser.com/) 美分浏览器 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-附带的许多特性显著增强了 Chromium 浏览器的体验
-
 ### [Chrome](https://dl.google.com) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 一款适用于计算机、手机和平板电脑的浏览器
@@ -63,10 +59,6 @@ SOCKS5 代理工具
 * ###### 此处指国际版，请注意与国内版相区别
 
 同时内嵌 Trident 与 chromium 的网页浏览器，内置高效密码管理器
-
-### [Opera](http://www.opera.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-基于 chromium 的浏览器，内置内容拦截器与快速预读取
 
 ### Proxifier ![](../assets/united-states.png) ![](../assets/usb.png)
 

@@ -16,10 +16,6 @@ Raise up traceroute request from Windows with route visilization display.
 
 A browser automatically blocks ads and trackers.
 
-### [Cent Browser](http://www.centbrowser.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-An enhanced version of the Chromium web browser that bundles many useful features.
-
 ### [Chrome](https://dl.google.com) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 One browser for your computer, phone and tablet
@@ -61,10 +57,6 @@ A more radical Shadowsocks branch, focusing rather on protocol improvement.
 * ###### Here the international version is listed instead of that provided in mainland China
 
 A Web browser that embedded with both Trident & chromium with a smart password manager.
-
-### [Opera](http://www.opera.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
-
-A chromiun-based browser with built-in content blocker and with faster prefetch.
 
 ### Proxifier ![](../assets/united-states.png) ![](../assets/usb.png)
 

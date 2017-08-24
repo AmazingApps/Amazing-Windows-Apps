@@ -108,11 +108,7 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 ### [Best Trace](https://www.ipip.net/download.html) ![](../assets/free.png) ![](../assets/china.png)
 
-Raise up traceroute request from Windows with route visilization display.
-
-### [Cent Browser](http://www.centbrowser.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-An enhanced version of the Chromium web browser that bundles many useful features.
+Raise up traceroute request from Windows with route visilization display
 
 ### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](../assets/united-states.png) ![](../assets/usb.png)
 
