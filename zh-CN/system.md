@@ -74,17 +74,11 @@
 
 不留残余地彻底卸载已安装软件
 
-### MediaInfo ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### MediaInfo ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@MediaArea: https://mediaarea.net/en/MediaInfo/Download/Source")](https://mediaarea.net/en/MediaInfo/Download/Source) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [官网](https://mediaarea.net/en/MediaInfo)｜[下载页面](https://mediaarea.net/en/MediaInfo/Download/Windows)
 
 方便地查看视频音频文件的技术数据与元数据标签
-
-### memreduct ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/henrypp/memreduct")](https://github.com/henrypp/memreduct) ![](../assets/united-states.png) ![](../assets/usb.png)
-
-###### [官网](http://www.henrypp.org/product/memreduct)｜[下载页面](https://github.com/henrypp/memreduct/releases/latest)
-
-监控优化系统内存
 
 ### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 

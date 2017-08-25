@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-313-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-312-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg" title="你猜我会不会在♂线呢？"/>
 </a>

@@ -74,17 +74,11 @@ A portable solution for complete uninstallation.
 
 Completely remove your installed programs without leftovers.
 
-### MediaInfo ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### MediaInfo ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@MediaArea: https://mediaarea.net/en/MediaInfo/Download/Source")](https://mediaarea.net/en/MediaInfo/Download/Source) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [Official Site](https://mediaarea.net/en/MediaInfo)｜[Download Page](https://mediaarea.net/en/MediaInfo/Download/Windows)
 
 A convenient unified display of the most relevant technical and tag data for video and audio files.
-
-### memreduct ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/henrypp/memreduct")](https://github.com/henrypp/memreduct) ![](../assets/united-states.png) ![](../assets/usb.png)
-
-###### [Official Site](http://www.henrypp.org/product/memreduct)｜[Download Page](https://github.com/henrypp/memreduct/releases/latest)
-
-Monitor and clean system memory on your computer.
 
 ### [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
