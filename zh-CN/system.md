@@ -112,7 +112,7 @@
 
 编辑系统环境变量信息
 
-### [SearchWithMyBrowser](https://github.com/charlesmilette/SearchWithMyBrowser) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/charlesmilette/SearchWithMyBrowser")](https://github.com/charlesmilette/SearchWithMyBrowser)
+### [SearchWithMyBrowser](https://github.com/charlesmilette/SearchWithMyBrowser) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/charlesmilette/SearchWithMyBrowser")](https://github.com/charlesmilette/SearchWithMyBrowser) ![](../assets/windows-store.png "$0.99 but GitHub version always free")
 
 使用你设置的默认浏览器打开 Cortana 的搜索结果
 

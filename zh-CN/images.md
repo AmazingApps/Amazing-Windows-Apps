@@ -26,7 +26,7 @@ Open source image editor.
 
 超快图片查看，支持多种格式
 
-### IrfanView ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### IrfanView ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 ###### [官网](http://www.irfanview.com/)｜[下载页面](http://www.irfanview.com/main_download_engl.htm)
 
@@ -38,7 +38,7 @@ Open source image editor.
 
 具备命令行支持的多功能图像处理工具
 
-### Inkscape ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@inkscape.org: https://inkscape.org/en/download/source/")](https://inkscape.org/en/download/source/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+### Inkscape ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@inkscape.org: https://inkscape.org/en/download/source/")](https://inkscape.org/en/download/source/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [官网](https://inkscape.org/en/)｜[下载页面](https://inkscape.org/en/download/windows/)
 
@@ -68,7 +68,7 @@ Open source image editor.
 
 多功能图像工具，包含截屏、简单图像编辑、取色器、调色板、像素尺、量角器、十字准线、白板等等
 
-### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](../assets/united-states.png) ![](../assets/usb.png)
+### [qrcode](https://github.com/sylnsfar/qrcode) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 Python编写的艺术二维码生成器
 
@@ -78,7 +78,7 @@ Python编写的艺术二维码生成器
 
 根据多种文件属性压缩图像
 
-### [ShareX](https://getsharex.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ShareX/ShareX")](https://github.com/ShareX/ShareX) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [ShareX](https://getsharex.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ShareX/ShareX")](https://github.com/ShareX/ShareX) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 免费开源的屏幕捕获与分享
 

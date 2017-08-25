@@ -24,7 +24,7 @@ A free and open source program that lets you capture your screen with various me
 
 A very fast image viewer supporting various formats.
 
-### IrfanView ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### IrfanView ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 ###### [Official Site](http://www.irfanview.com/)｜[Download Page](http://www.irfanview.com/main_download_engl.htm)
 
@@ -36,7 +36,7 @@ Image viewer, editor, organiser and converter. It can also play video and audio 
 
 A multi-functional image processing with command line support.
 
-### Inkscape ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@inkscape.org: https://inkscape.org/en/download/source/")](https://inkscape.org/en/download/source/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+### Inkscape ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@inkscape.org: https://inkscape.org/en/download/source/")](https://inkscape.org/en/download/source/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [Official Site](https://inkscape.org/en/)｜[Download Page](https://inkscape.org/en/download/windows/)
 
@@ -76,7 +76,7 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 Compress images either by file size or by many other image attributes.
 
-### [ShareX](https://getsharex.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ShareX/ShareX")](https://github.com/ShareX/ShareX) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [ShareX](https://getsharex.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ShareX/ShareX")](https://github.com/ShareX/ShareX) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
@@ -97,4 +97,3 @@ Powerful and free cross-platform batch image converter with simple adjustment ab
 ###### [Official Site](http://www.xnview.com/en/)｜[Download Page](http://www.xnview.com/en/xnview/#downloads)
 
 An efficient multimedia viewer, organizer and converter with the most formats support.
-

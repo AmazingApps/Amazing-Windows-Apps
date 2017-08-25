@@ -112,7 +112,7 @@ Yet another file previewer on Windows using `space` key, free and open source
 
 An environment variables editor
 
-### [SearchWithMyBrowser](https://github.com/charlesmilette/SearchWithMyBrowser) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/charlesmilette/SearchWithMyBrowser")](https://github.com/charlesmilette/SearchWithMyBrowser)
+### [SearchWithMyBrowser](https://github.com/charlesmilette/SearchWithMyBrowser) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/charlesmilette/SearchWithMyBrowser")](https://github.com/charlesmilette/SearchWithMyBrowser) ![](../assets/windows-store.png "$0.99 but GitHub version always free")
 
 Open Cortana searches with your default browser.
 
