@@ -1,4 +1,3 @@
-
 ## 圖形圖像
 
 圖片檔案檢視、管理、轉檔與編輯等
@@ -27,7 +26,7 @@ Open source image editor.
 
 超快圖片檢視，支援多種格式
 
-### IrfanView ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### IrfanView ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 ###### [官網](http://www.irfanview.com/)｜[下載頁面](http://www.irfanview.com/main_download_engl.htm)
 
@@ -39,7 +38,7 @@ Open source image editor.
 
 具備命令列支援的多功能圖像處理工具
 
-### Inkscape ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@inkscape.org: https://inkscape.org/en/download/source/")](https://inkscape.org/en/download/source/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+### Inkscape ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL@inkscape.org: https://inkscape.org/en/download/source/")](https://inkscape.org/en/download/source/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [官網](https://inkscape.org/en/)｜[下載頁面](https://inkscape.org/en/download/windows/)
 
@@ -67,9 +66,9 @@ Open source image editor.
 
 ###### [官網](http://ngwin.com/picpick)｜[下載頁面](http://ngwin.com/picpick/download)
 
-多功能圖像工具，包含螢幕擷圖、簡單圖像編輯、取色器、調色盤、像素尺、量角器、十字準線、白板等等
+多功能圖像工具，包含螢幕截圖、簡單圖像編輯、取色器、調色盤、像素尺、量角器、十字準線、白板等等
 
-### [**qrcode**](https://github.com/sylnsfar/qrcode) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](../assets/united-states.png) ![](../assets/usb.png)
+### [qrcode](https://github.com/sylnsfar/qrcode) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 Python編寫的藝術二維碼生成器
 
@@ -79,7 +78,7 @@ Python編寫的藝術二維碼生成器
 
 根據多種檔案屬性壓縮圖像
 
-### [ShareX](https://getsharex.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ShareX/ShareX")](https://github.com/ShareX/ShareX) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [ShareX](https://getsharex.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ShareX/ShareX")](https://github.com/ShareX/ShareX) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
 免費開源的螢幕捕獲與分享
 
