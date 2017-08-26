@@ -50,6 +50,10 @@
 
 Fences 的免费替代，具备媒体文件预览功能
 
+### [nTrun](http://www.ntrun.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+
+Win+R模式快速启动+本地程序管理
+
 ### Outlook on the Desktop ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/mscrivo/ootd")](https://github.com/mscrivo/ootd) ![](../assets/united-states.png)
 
 ###### [官网](https://outlookonthedesktop.com/)｜[下载页面](https://outlookonthedesktop.com/download)

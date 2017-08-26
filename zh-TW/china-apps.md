@@ -64,7 +64,7 @@
 
 設計獨到的搜尋工具
 
-### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png)
+### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/united-states.png)  ![](../assets/hong-kong.png)  ![](../assets/japan.png) ![](../assets/usb.png)
 
 圖示式迷你啟動器
 

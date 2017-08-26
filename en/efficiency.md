@@ -50,6 +50,10 @@ File manager for professionals.
 
 A free alternative, with media preview, to Fences
 
+### [nTrun](http://www.ntrun.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+
+Win+R for all your apps + all-in-one manager
+
 ### Outlook on the Desktop ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/mscrivo/ootd")](https://github.com/mscrivo/ootd) ![](../assets/united-states.png)
 
 ###### [Official Site](https://outlookonthedesktop.com/)｜[Download Page](https://outlookonthedesktop.com/download)

@@ -64,7 +64,11 @@ A gesture recognition software for Windows tablet with touch screen.
 
 Keep files at your fingertips. An unique search utility.
 
-### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png)
+### [nTrun](http://www.ntrun.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+
+Win+R for all your apps + all-in-one manager
+
+### [Rolan](http://www.irolan.com/) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/united-states.png)  ![](../assets/hong-kong.png)  ![](../assets/japan.png) ![](../assets/usb.png)
 
 A tiny launcher in way of icons.
 
