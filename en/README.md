@@ -29,7 +29,7 @@ This project is licensed under the CC BY-NC-SA 4.0 International License. If you
 
 Check out [our roadmap](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted) or [what we have done](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone).
 
-[Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us)｜[Org Home>>>](http://amazingapps.org/)｜[Org Wiki>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)
+[Read online&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/en/)｜[Org Home>>>](http://amazingapps.org/en/)｜[Org Wiki>>>>](https://amazing-apps.gitbooks.io/organization-wiki/content/en/)
 
 Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master).
 
