@@ -8,7 +8,7 @@
 
 Windows 与 Android 免费系统资料与监视
 
-### [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskinfo/")](https://osdn.net/projects/crystaldiskinfo/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
+### [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskinfo/")](https://osdn.net/projects/crystaldiskinfo/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 HDD/SSD 信息工具，支持部分 USB 连接设备跟 Intel RAID
 
