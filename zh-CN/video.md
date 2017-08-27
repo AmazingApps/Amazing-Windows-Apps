@@ -90,10 +90,10 @@ UI 优美、性能优秀的视频编码工具
 
 ###### 📌 需要 Java1.7 或更新
 
-### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
-       
-### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)      
+
+### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
 
 视频引索管理器

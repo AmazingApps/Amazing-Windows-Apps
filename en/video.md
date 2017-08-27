@@ -40,7 +40,7 @@ Free and Open Source home theatre software.
 
 ### [LosslessCut](https://github.com/mifi/lossless-cut)  ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/mifi/lossless-cut")](https://github.com/mifi/lossless-cut) ![](../assets/united-states.png) ![](../assets/usb.png)
 
-Cross platform GUI tool for lossless trimming/cutting of video and audio files using ffmpeg 
+Cross platform GUI tool for lossless trimming/cutting of video and audio files using ffmpeg
 
 ### [Media Player Classic - BE](https://mpcbe.sourceforge.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/mpcbe/")](https://sourceforge.net/projects/mpcbe/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
@@ -90,10 +90,10 @@ A films/TV series manager that supports films info & subtitles downloading, watc
 
 ###### 📌Java1.7+ required
 
-### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
-       
-### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)      
+
+### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
 
 zogna video manager.

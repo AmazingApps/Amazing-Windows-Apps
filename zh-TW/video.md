@@ -90,7 +90,7 @@ UI 優美、效能優秀的影片編碼工具
 
 ###### 📌 需要 Java1.7 或更新
 
-### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 免費開源多媒體播放器與框架，可播放DVD 音訊CD VCD與多種流協定
 

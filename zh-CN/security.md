@@ -54,7 +54,7 @@
 
 开源密码管理器
 
-### LastPass ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### LastPass ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [官网](https://www.lastpass.com/)｜[下载页面](https://lastpass.com/misc_download2.php?tab=windows)
 

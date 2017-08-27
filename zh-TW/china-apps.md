@@ -94,7 +94,7 @@ Windows 全域手勢
 
 ###### ⚠ 長期無更新但未發現明顯的bug
 
-### [茄子快傳](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [茄子快傳](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 跨平台檔案傳輸
 

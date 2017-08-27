@@ -98,7 +98,7 @@ Windows 全局手势
 
 ###### ⚠ 长期无更新但未发现明显的bug
 
-### [茄子快传](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [茄子快传](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 跨平台文件传输
 

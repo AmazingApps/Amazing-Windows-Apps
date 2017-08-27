@@ -98,7 +98,7 @@ Advanced renaming tools with everything you need for renaming
 
 ###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
 
-### [SHAREit](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [SHAREit](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 Cross-platform file transferring.
 

@@ -46,7 +46,7 @@
 
 全球首家使用 CBS 的 Dism GUI 實現
 
-### [Ditto](https://sourceforge.net/projects/ditto-cp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/ditto-cp/")](https://sourceforge.net/projects/ditto-cp/) ![](../assets/earth-globe.png)
+### [Ditto](https://sourceforge.net/projects/ditto-cp/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@SourceForge: https://sourceforge.net/projects/ditto-cp/")](https://sourceforge.net/projects/ditto-cp/) ![](../assets/earth-globe.png) ![](../assets/windows-store.png)
 
 剪貼簿管理
 

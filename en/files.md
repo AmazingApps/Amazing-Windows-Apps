@@ -84,7 +84,7 @@ Complete resource editing tool for any type of Windows executable \(\*.exe; \*.d
 
 A deep deletion module for node. Help to delete files and folders with very long paths.
 
-### [SHAREit](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [SHAREit](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 Cross-platform files transfer.
 
@@ -113,4 +113,3 @@ Transfer any movie or music file to your iPhone w/o iTunes.
 An Open Source differencing and merging tool for Windows
 
 ###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
-

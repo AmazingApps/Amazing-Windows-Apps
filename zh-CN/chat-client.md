@@ -10,7 +10,7 @@
 
 为游戏社区设计，具备 DDoS 防护和游戏内界面
 
-### 连我 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### 连我 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [官网](https://line.me/zh-hans/)｜[下载页面](https://line.me/zh-hans/download)
 

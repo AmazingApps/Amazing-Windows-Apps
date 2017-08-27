@@ -86,7 +86,7 @@ FTP FTPS SFTP 客户端
 
 node 使用的深度删除模块。删除深目录文件（夹）
 
-### SHAREit 茄子快传 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### SHAREit 茄子快传 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [International Website](http://www.ushareit.com/)/ [中文网](http://www.ushareit.com/zh/index.html) {#international-website中文网}
 
@@ -117,6 +117,3 @@ node 使用的深度删除模块。删除深目录文件（夹）
 工程化的文件文件夹对比工具
 
 ###### ⚠ 长期无更新但未发现明显的bug
-
-
-

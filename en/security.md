@@ -56,7 +56,7 @@ Network security monitoring tool and analyzer that visualizes your network activ
 
 Open source password manager.
 
-### LastPass ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### LastPass ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [Official Site](https://www.lastpass.com/)｜[Download Page](https://lastpass.com/misc_download2.php?tab=windows)
 

@@ -86,7 +86,7 @@ FTP FTPS SFTP 用戶端
 
 node 使用的深度刪除模組。刪除深目錄檔案（夾）
 
-### SHAREit 茄子快傳 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### SHAREit 茄子快傳 ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [International Website](http://www.ushareit.com/)/ [中文網](http://www.ushareit.com/zh/index.html) {#international-website中文網}
 

@@ -10,7 +10,7 @@ Internet instant communication
 
 Designed for gaming communities with IP & DDoS protection and in-game overlay.
 
-### LINE ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### LINE ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [Official Site](https://line.me/en/)｜[Download Page](https://line.me/en/download)
 
