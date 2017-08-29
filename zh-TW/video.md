@@ -56,7 +56,7 @@ UI 優美、效能優秀的影片編碼工具
 
 螢幕錄製或生成直播媒體流
 
-### Plex ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### Plex ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [官網](https://www.plex.tv/)｜[下載頁面](https://www.plex.tv/apps/)
 

@@ -60,7 +60,7 @@ A GUI for mpv easy to use with a high degree of reduction to mpv appearance.
 
 Free and open source software for video recording and live streaming.
 
-### Plex ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### Plex ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [Official Site](https://www.plex.tv/)｜[Download Page](https://www.plex.tv/apps/)
 

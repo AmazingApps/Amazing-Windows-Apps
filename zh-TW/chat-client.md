@@ -4,7 +4,7 @@
 
 ---
 
-### Discord ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### Discord ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [官網](https://discordapp.com/)｜[下載頁面](https://discordapp.com/download)
 

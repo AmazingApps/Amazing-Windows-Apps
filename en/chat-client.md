@@ -4,7 +4,7 @@ Internet instant communication
 
 ---
 
-### Discord ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### Discord ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 ###### [Official Site](https://discordapp.com/)｜[Download Page](https://discordapp.com/download)
 
