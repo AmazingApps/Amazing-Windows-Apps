@@ -16,6 +16,10 @@
 
 自动拦截广告与追踪器的浏览器
 
+### [Cent Browser](http://www.centbrowser.cn/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+
+内置大量特性增强的基于 Chromium 的浏览器
+
 ### [Chrome](https://dl.google.com) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 一款适用于计算机、手机和平板电脑的浏览器
@@ -92,7 +96,7 @@ SOCKS5 代理工具
 
 匿名化通信浏览器
 
-### [Vivaldi](https://vivaldi.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [Vivaldi](https://vivaldi.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/usb.png)
 
 同样基于 chromium 的优秀浏览器
 

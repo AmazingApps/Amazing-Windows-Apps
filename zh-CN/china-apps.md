@@ -114,6 +114,10 @@ Python 编写的艺术二维码生成器
 
 从 Windows 中发起 traceroute 请求并可视化展示
 
+### [Cent Browser](http://www.centbrowser.cn/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+
+内置大量特性增强的基于 Chromium 的浏览器
+
 ### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
@@ -209,6 +213,10 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 ###### [官网](http://www.everedit.net/)｜[下载页面](http://www.everedit.net/download)
 
 内置 Markdown 预览与二进制编辑的文本编辑器
+
+### [Yu Writer](https://ivarptr.github.io/yu-writer.site/) ![](../assets/free.png) ![](../assets/earth-globe.png)  ![](../assets/usb.png)
+
+Markdown 文本编辑器，可将网页复制的内容自动转换为 Markdown 格式
 
 ### \[视频工具\]
 

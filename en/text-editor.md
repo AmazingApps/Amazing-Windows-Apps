@@ -50,7 +50,7 @@ Markdown editor that supports universal Markdown, GitHub Markdown, real-time pre
 
 A source code editor which supports several programming languages.
 
-### [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/XhmikosR/notepad2-mod")](https://github.com/XhmikosR/notepad2-mod) ![](../assets/united-states.png) ![](../assets/usb.png) 
+### [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/XhmikosR/notepad2-mod")](https://github.com/XhmikosR/notepad2-mod) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 A Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
 
@@ -72,3 +72,6 @@ A minimal MarkDown reading & writing app.
 
 Open source text editor from Microsoft
 
+### [Yu Writer](https://ivarptr.github.io/yu-writer.site/) ![](../assets/free.png) ![](../assets/earth-globe.png)  ![](../assets/usb.png)
+
+Markdown editor that will convert contents in clipboard copied from websites into Markdown

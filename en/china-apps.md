@@ -114,6 +114,10 @@ Artistic QR Code in Python \(Animated GIF qr code\).
 
 Raise up traceroute request from Windows with route visilization display
 
+### [Cent Browser](https://www.centbrowser.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+
+A Chromium-based browser with a bunch of enhanced features.
+
 ### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 A PowerShell script to establish own DDNS service on CloudXNS API
@@ -207,6 +211,10 @@ A Windows quick look tool acting just like the one in macOS but more powerful, c
 ###### [Official Site](http://www.everedit.cn/)｜[Download Page](http://www.everedit.cn/download)
 
 A text editor with Markdown preview and hex mode.
+
+### [Yu Writer](https://ivarptr.github.io/yu-writer.site/) ![](../assets/free.png) ![](../assets/earth-globe.png)  ![](../assets/usb.png)
+
+Markdown editor that will convert contents in clipboard copied from websites into Markdown
 
 ### \[Video\]
 

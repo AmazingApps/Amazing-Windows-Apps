@@ -16,6 +16,10 @@ Raise up traceroute request from Windows with route visilization display.
 
 A browser automatically blocks ads and trackers.
 
+### [Cent Browser](https://www.centbrowser.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+
+A Chromium-based browser with a bunch of enhanced features.
+
 ### [Chrome](https://dl.google.com) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 One browser for your computer, phone and tablet
@@ -90,11 +94,10 @@ A proprietary computer software package for remote control, desktop sharing, onl
 
 Enable anonymous communication.
 
-### [Vivaldi](https://vivaldi.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### [Vivaldi](https://vivaldi.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/usb.png)
 
 Another chromium-based browser with amazing features.
 
 ### [ZeroNet](https://zeronet.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HelloZeroNet/ZeroNet")](https://github.com/HelloZeroNet/ZeroNet) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
-

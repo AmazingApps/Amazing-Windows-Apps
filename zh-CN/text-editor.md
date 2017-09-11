@@ -50,7 +50,7 @@ Markdown 编辑器，支持通用 markdown、GitHub markdown 之外，还支持�
 
 开源代码编辑器，支持多种编程语言
 
-### [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/XhmikosR/notepad2-mod")](https://github.com/XhmikosR/notepad2-mod) ![](../assets/united-states.png) ![](../assets/usb.png) 
+### [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/XhmikosR/notepad2-mod")](https://github.com/XhmikosR/notepad2-mod) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 Notepad2的分支之一，可替换系统 notepad 的轻量级开源编辑器，支持语法高亮等功能
 
@@ -72,3 +72,6 @@ Notepad2的分支之一，可替换系统 notepad 的轻量级开源编辑器，
 
 微软出品的开源文本编辑器
 
+### [Yu Writer](https://ivarptr.github.io/yu-writer.site/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+
+Markdown 文本编辑器，可将网页复制的内容自动转换为 Markdown 格式
