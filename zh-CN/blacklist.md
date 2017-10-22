@@ -119,4 +119,6 @@
 
 ### YY语音：1, 2, 3, 5
 
+#### yhosts@GitHub
+
 #### [外部广告过滤](https://github.com/AmazingApps/Amazing-Windows-Apps/issues/186 "更多详情")

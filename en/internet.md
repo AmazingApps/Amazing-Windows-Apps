@@ -16,9 +16,9 @@ Raise up traceroute request from Windows with route visilization display.
 
 A browser automatically blocks ads and trackers.
 
-### [Cent Browser](https://www.centbrowser.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### ~~Cent Browser~~ ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
-A Chromium-based browser with a bunch of enhanced features.
+~~A Chromium-based browser with a bunch of enhanced features.~~
 
 ### [Chrome](https://dl.google.com) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 

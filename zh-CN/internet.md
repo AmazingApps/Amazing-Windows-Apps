@@ -16,9 +16,9 @@
 
 自动拦截广告与追踪器的浏览器
 
-### [Cent Browser](http://www.centbrowser.cn/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### ~~Cent Browser~~ ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
-内置大量特性增强的基于 Chromium 的浏览器
+~~内置大量特性增强的基于 Chromium 的浏览器~~
 
 ### [Chrome](https://dl.google.com) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 

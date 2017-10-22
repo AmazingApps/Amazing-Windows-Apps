@@ -114,10 +114,6 @@ Python 编写的艺术二维码生成器
 
 从 Windows 中发起 traceroute 请求并可视化展示
 
-### [Cent Browser](http://www.centbrowser.cn/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-内置大量特性增强的基于 Chromium 的浏览器
-
 ### [CloudXNS DDNS with PowerShell](https://03k.org/cloudxns-api-ddns.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell")](https://github.com/lixuy/CloudXNS-DDNS-with-PowerShell) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 一个利用 CloudXNS 的 API 实现自己的 DDNS 服务的 PowerShell 脚本
