@@ -40,7 +40,7 @@ The Fastest Copy/Delete Software on Windows.
 
 Advanced renaming tools with everything you need for renaming
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET
 
 ### FileZilla ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/filezilla/")](https://sourceforge.net/projects/filezilla/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
@@ -57,6 +57,10 @@ An easy backup solution for files and folders, It supports mirroring/two way syn
 ### [Hasher](http://www.den4b.com/products/hasher) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 Hashing utility for verifying integrity of files using a wide range of supported algorithms: CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160, ED2K.
+
+### [HashTab](http://implbits.com/products/hashtab/) ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+Calculate and display hash values in a tab on `file properties` window
 
 ### [MediaCoder](http://mediacoderhq.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
@@ -112,4 +116,4 @@ Transfer any movie or music file to your iPhone w/o iTunes.
 
 An Open Source differencing and merging tool for Windows
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET

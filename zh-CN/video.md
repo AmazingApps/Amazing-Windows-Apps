@@ -14,7 +14,7 @@
 
 Bomi是一个开源软件，基于MPV播放器开发，为MPV播放器增强了图形化界面。适合对原生MPV配置文件与全快捷键操作头疼的用户
 
-###### ⚠长期无更新但无明显bug
+###### ⚠长期无更新但无明显缺陷
 
 ### [EMDB](http://www.emdb.eu/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 

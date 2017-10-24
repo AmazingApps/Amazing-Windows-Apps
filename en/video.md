@@ -1,4 +1,4 @@
-## Video
+DEFECT## Video
 
 Video player, manager, converter or editor, etc.
 
@@ -14,7 +14,7 @@ A univeral multi-media player that supports Airplay, online broadcasting and dow
 
 An open source player based on mpv with GUI enhanced & neat
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND
 
 ### [EMDB](http://www.emdb.eu/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 

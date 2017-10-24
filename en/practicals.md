@@ -36,7 +36,11 @@ Style and grammar checker for 25+ languages
 
 Animated screen captures and save them directly to .GIF
 
-###### ⚠ NO UPDATE FOR LONG BUT NO BUG FOUND
+###### ⚠ NO UPDATE FOR LONG BUT NO DEFECT FOUND
+
+### [MiniBin](http://e-sushi.github.io/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+Add a quick access to Recycle Bin at your task bar
 
 ### MyChrome ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@TaoCode: http://code.taobao.org/p/mychrome/src/")](http://code.taobao.org/p/mychrome/src/) ![](../assets/china.png) ![](../assets/usb.png)
 
@@ -102,10 +106,10 @@ Just as its name: Software Update Monitor: tell you if updates are available bef
 
 ~~Software to prevent cursor from jumping when you are typing on notebook keyboard.~~
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND
 
 ### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 Zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND

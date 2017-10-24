@@ -24,7 +24,7 @@ Open-source scripting language for Windows that allows users to easily create sm
 
 BASIC-like scripting language designed for automating the Windows GUI and general scripting.
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUG FOUND
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND
 
 ### Cortana ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 

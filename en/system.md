@@ -22,7 +22,7 @@ An all-in-one system optimization unity.
 
 You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET
 
 ### AOMEI Partition Assistant ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
@@ -98,7 +98,7 @@ Adjust processes priority to prevent CPU unresponsing on some devices
 
 Significantly improve Explorer efficiency
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET
 
 ### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
@@ -128,7 +128,7 @@ A Windows quick look tool acting just like the one in macOS but more powerful, c
 
 A utility that manages a Registry key that allows Windows to remap one key to any other key.
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET
 
 ### Startup Delayer ![](../assets/free.png) ![](../assets/earth-globe.png)
 

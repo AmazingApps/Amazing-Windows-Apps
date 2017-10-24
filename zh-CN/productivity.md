@@ -26,7 +26,7 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 类 BASIC 脚本语言，用于 Windows GUI 的自动化以及编写通用脚本
 
-###### ⚠长期无更新但无明显bug
+###### ⚠长期无更新但无明显缺陷
 
 ### Cortana ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 

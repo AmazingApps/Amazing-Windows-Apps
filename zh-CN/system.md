@@ -22,7 +22,7 @@
 
 按下 Alt 键时，拖动窗口，调整大小，最小化等等
 
-###### ⚠ 长期无更新但未发现明显的bug
+###### ⚠ 长期无更新但未发现明显的缺陷
 
 ### AOMEI Partition Assistant  分区助手 ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
@@ -98,7 +98,7 @@
 
 一站式 Explorer 增强工具
 
-###### ⚠ 长期无更新但未发现明显的bug
+###### ⚠ 长期无更新但未发现明显的缺陷
 
 ### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
@@ -128,7 +128,7 @@ Windows 文件预览，类似于 macOS 但是更强大，可定制度更高
 
 通过注册表将一个热键映射到另一个
 
-###### ⚠ 长期无更新但未发现明显的bug
+###### ⚠ 长期无更新但未发现明显的缺陷
 
 ### Startup Delayer ![](../assets/free.png) ![](../assets/earth-globe.png)
 

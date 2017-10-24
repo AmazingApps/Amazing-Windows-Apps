@@ -96,7 +96,7 @@ A database-style launcher that can collect detailed info
 
 Advanced renaming tools with everything you need for renaming
 
-###### ⚠NO UPDATE FOR LONG BUT NO BUGS FOUND YET
+###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET
 
 ### [SHAREit](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 

@@ -40,7 +40,7 @@
 
 进阶文件重命名工具，带有重命名需要的一切能力
 
-###### ⚠ 长期无更新但未发现明显的bug
+###### ⚠ 长期无更新但未发现明显的缺陷
 
 ### FileZilla ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/filezilla/")](https://sourceforge.net/projects/filezilla/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
@@ -57,6 +57,10 @@ FTP FTPS SFTP 客户端
 ### [Hasher](http://www.den4b.com/products/hasher) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 文件哈希值校验工具，支持CRC32 MD2 MD4 MD5 SHA1 SHA256 SHA512 RipeMD128 RipeMD160 ED2K
+
+### [HashTab](http://implbits.com/products/hashtab/) ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+在文件属性窗口中添加标签页以展示比对文件哈希值
 
 ### MediaCoder ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
@@ -116,4 +120,4 @@ node 使用的深度删除模块。删除深目录文件（夹）
 
 工程化的文件文件夹对比工具
 
-###### ⚠ 长期无更新但未发现明显的bug
+###### ⚠ 长期无更新但未发现明显的缺陷

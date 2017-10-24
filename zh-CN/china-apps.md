@@ -96,7 +96,7 @@ Windows 全局手势
 
 进阶文件重命名工具，带有重命名需要的一切能力
 
-###### ⚠ 长期无更新但未发现明显的bug
+###### ⚠ 长期无更新但未发现明显的缺陷
 
 ### [茄子快传](http://www.ushareit.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 

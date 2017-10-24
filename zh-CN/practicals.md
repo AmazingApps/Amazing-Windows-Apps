@@ -36,7 +36,11 @@ Windows 键盘活动可视化以便录屏时展示
 
 屏幕录制并保存为 GIF
 
-###### ⚠ 长期无更新但无明显bug
+###### ⚠ 长期无更新但无明显缺陷
+
+### [MiniBin](http://e-sushi.github.io/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
+
+在任务栏添加一系列系统回收站的快速访问及相关操作
 
 ### MyChrome ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@TaoCode: http://code.taobao.org/p/mychrome/src/")](http://code.taobao.org/p/mychrome/src/) ![](../assets/china.png) ![](../assets/usb.png)
 
@@ -102,10 +106,10 @@ Windows 下免费翻译工具
 
 ~~打字时防止因触摸板造成的光标跳动~~
 
-###### ⚠ 长期无更新但无明显bug
+###### ⚠ 长期无更新但无明显缺陷
 
 ### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 屏幕局部放大
 
-###### ⚠ 长期无更新但无明显bug
+###### ⚠ 长期无更新但无明显缺陷
