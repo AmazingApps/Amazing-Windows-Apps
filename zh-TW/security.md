@@ -86,6 +86,6 @@
 
 開源、跨平台的磁碟加密軟體
 
-### [XX-Net](https://github.com/XX-net/XX-Net) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [XX-Net](https://github.com/XX-net/XX-Net) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 網路代理工具

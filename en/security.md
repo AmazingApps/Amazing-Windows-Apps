@@ -88,6 +88,6 @@ A simple management tool to configure [dnscrypt-proxy](https://dnscrypt.org/) to
 
 Open-source & cross-platform disk encryption software.
 
-### [XX-Net](https://github.com/XX-net/XX-Net) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### [XX-Net](https://github.com/XX-net/XX-Net) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/XX-net/XX-Net")](https://github.com/XX-net/XX-Net) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 A web proxy tool.
