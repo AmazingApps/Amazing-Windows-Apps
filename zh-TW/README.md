@@ -29,7 +29,7 @@
 
 當前編輯進程請[移步此處](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Aaccepted)，也可查看[已完成計劃](https://github.com/AmazingApps/Amazing-Windows-Apps/issues?utf8=✓&q=label%3Adone)
 
-[閱讀線上版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-TW/)｜[鏡像站點>>>>](https://windowsapp.org/)｜[組織首頁>>>](http://amazingapps.org/zh-TW/)｜[組織詳情>>>>](https://amazing-apps.gitbooks.io/organization-wiki/content/zh-TW/)
+[閱讀線上版&gt;&gt;&gt;&gt;](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-TW/)｜[鏡像站點>>>>](http://windowsapp.org/)｜[組織首頁>>>](http://amazingapps.org/zh-TW/)｜[組織詳情>>>>](https://amazing-apps.gitbooks.io/organization-wiki/content/zh-TW/)
 
 變更詳情可[見於此處](https://github.com/AmazingApps/Amazing-Windows-Apps/commits/master)
 
