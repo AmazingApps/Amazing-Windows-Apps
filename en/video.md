@@ -1,4 +1,4 @@
-DEFECT## Video
+## Video
 
 Video player, manager, converter or editor, etc.
 
@@ -65,6 +65,10 @@ Free and open source software for video recording and live streaming.
 ###### [Official Site](https://www.plex.tv/)｜[Download Page](https://www.plex.tv/apps/)
 
 All-in-one home theater solution
+
+### [Popcorn](https://github.com/bbougot/Popcorn) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/bbougot/Popcorn")](https://github.com/bbougot/Popcorn) ![](../assets/united-states.png) ![](../assets/france.png) ![](../assets/spain.png)
+
+A powerful popcorn-time client with a huge database.
 
 ### PotPlayer ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 

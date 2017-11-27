@@ -62,6 +62,10 @@ UI 优美、性能优秀的视频编码工具
 
 一站式家庭影院解决方案
 
+### [Popcorn](https://github.com/bbougot/Popcorn) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/bbougot/Popcorn")](https://github.com/bbougot/Popcorn) ![](../assets/united-states.png) ![](../assets/france.png) ![](../assets/spain.png)
+
+一站式免费电影，数据库庞大
+
 ### PotPlayer ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 多媒体播放器，解码器众多，配置能力强

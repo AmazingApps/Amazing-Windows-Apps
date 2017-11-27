@@ -10,6 +10,10 @@ Help to debug your server
 
 SSH Client for Windows includes state of the art terminal emulation, graphical as well as command-line SFTP support, an FTP-to-SFTP bridge and powerful tunneling.
 
+### [Hyper](https://hyper.is) ![](../assets/free.png) ![](../assets/united-states.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/zeit/hyper")](https://github.com/zeit/hyper)
+
+JS/HTML/CSS terminal tool primarily around speed, stability and extensibility.
+
 ### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 A feature-rich Windows-Forms-based RESTful client.
@@ -63,4 +67,3 @@ An open source free SFTP/FTP/WebDAV/SCP client
 ###### [Official Site](http://www.netsarang.com/products/xsh_overview.html)｜[Download Page](http://www.netsarang.com/download/down_xsh5.html)
 
 A powerful terminal emulator that supports SSH, SFTP, TELNET, RLOGIN and SERIAL.
-

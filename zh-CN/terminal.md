@@ -10,6 +10,9 @@
 
 SSH 客户端
 
+### [Hyper](https://hyper.is) ![](../assets/free.png) ![](../assets/united-states.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/zeit/hyper")](https://github.com/zeit/hyper)
+
+专注于速度、稳定性与扩展性的 JS/HTML/CSS 终端工具
 ### [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 特效丰富的基于 Windows Forms 的 RESTful 客户端
