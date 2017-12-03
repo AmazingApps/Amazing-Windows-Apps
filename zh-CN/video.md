@@ -8,6 +8,10 @@
 
 支持 Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器
 
+### [ACG 播放器](https://www.microsoft.com/zh-cn/store/p/acg-player/9nblggh698c7) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/windows-store.png)
+
+Windows 10 通用 UWP 播放器，具有多项独门绝技！
+
 ### bomi ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/xylosper/bomi")](https://github.com/xylosper/bomi) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [官网](https://bomi-player.github.io/index.html)｜[下载页面](https://bomi-player.github.io/downloads.html)
