@@ -8,6 +8,10 @@ Video player, manager, converter or editor, etc.
 
 A univeral multi-media player that supports Airplay, online broadcasting and downloading from some video sites
 
+### [ACG Player](https://www.microsoft.com/en-us/store/p/acg-player/9nblggh698c7) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/windows-store.png)
+
+A universal media player only for Windows 10 (UWP, PC/Tablet/Phone...), with many unique features!
+
 ### bomi ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/xylosper/bomi")](https://github.com/xylosper/bomi) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [Official Site](https://bomi-player.github.io/index.html)｜[Download Page](https://bomi-player.github.io/downloads.html)
