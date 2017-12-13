@@ -4,11 +4,9 @@ Customize your system
 
 ---
 
-### [~~Huoying Video Desktop~~](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
+### [Huoying Video Desktop](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
 
-~~Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.~~
-
-###### SUSPIOUS BEHAVIORS REPORTED
+Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
 
 ### [MacType](http://www.mactype.net/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/snowie2000/mactype")](https://github.com/snowie2000/mactype) ![](../assets/earth-globe.png)
 

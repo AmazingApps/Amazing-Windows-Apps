@@ -24,6 +24,10 @@ A music player based on Qt that imitates Kugou music.
 
 ### \[Customization\]
 
+### [Huoying Video Desktop](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
+
+Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.
+
 ### [upupoo](http://www.upupoo.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
 Set videos as desktop background with online base.

@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/apps%20count-318-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/apps%20count-319-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
 </a>
@@ -20,6 +20,7 @@ Note: Apps that meet the following conditions will NOT be listed although they m
 1. Modified or cracked versions of an app, such as unofficial ad-free versions which can provide a better user experience than the original versions. This rule does not apply to modifications permitted by the open-source license.
 2. Apps that are useful only in limited areas, such as NPR One and IME.
 3. Apps that are incompatible with 64-bit OS.
+4. Apps that mainly concentrate on attacking and/or hacking.
 
 Apps that can be categorized in multiple ways are categorized by what they are intended for; A note will be provided for compatibility issues of some very individual apps.
 

@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-318-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-319-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" />
 <a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
 <img src="https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg" title="你猜我会不会在♂线呢？"/>
 </a>
@@ -20,6 +20,7 @@
 1. 修改版或破解版，例如无广告版，它们可能体验良好。符合开源协议的修改版除外。
 2. 受地区限制应用，如 NPR One、拼音输入法等
 3. 仅与32位系统兼容
+4. 以攻击和入侵为主要目的应用
 
 很多软件严格来说存在多个合理分类，此处以该软件主要设计目的为准；极个别应用兼容性以具体说明为准
 

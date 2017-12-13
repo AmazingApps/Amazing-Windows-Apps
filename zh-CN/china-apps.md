@@ -24,6 +24,10 @@
 
 ### \[美化工具\]
 
+### [Huoying Video Desktop](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
+
+使用 .mp4/.wmv 视频作为桌面背景，极低的系统占用
+
 ### [upupoo](http://www.upupoo.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
 视频桌面工具，附带在线视频库

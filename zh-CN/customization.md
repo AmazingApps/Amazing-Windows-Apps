@@ -4,11 +4,9 @@
 
 ---
 
-### [~~Huoying Video Desktop~~](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
+### [Huoying Video Desktop](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
 
-~~使用 .mp4/.wmv 视频作为桌面背景，极低的系统占用~~
-
-###### 据报告有可疑行为
+使用 .mp4/.wmv 视频作为桌面背景，极低的系统占用
 
 ### [MacType](http://www.mactype.net/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/snowie2000/mactype")](https://github.com/snowie2000/mactype) ![](../assets/earth-globe.png)
 
@@ -49,6 +47,3 @@ Set videos as desktop background with online base.
 修改 Windows 10 登录背景
 
 ###### ⚠ 仅针对 Windows 10 设计
-
-
-
