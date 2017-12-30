@@ -26,10 +26,6 @@
 
 内置 Markdown 预览与十六进制编辑的文本编辑器
 
-### [GitBook Editor](https://www.gitbook.com/editor) ![](../assets/free.png) ![](../assets/united-states.png)
-
-GitBook 的 GUI 客户端
-
 ### GNU Emacs ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL-LIKE@fsf.org: https://directory.fsf.org/wiki/GNU")](https://directory.fsf.org/wiki/GNU) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [官网](https://www.gnu.org/software/emacs/)｜[下载页面](https://www.gnu.org/software/emacs/download.html)
@@ -64,7 +60,7 @@ Notepad2的分支之一，可替换系统 notepad 的轻量级开源编辑器，
 
 现代 UI 设计的文本编辑器
 
-### [Typora](https://typora.io/) ![](../assets/free.png) ![](../assets/united-states.png)
+### [Typora](https://typora.io/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
 简洁 MarkDown 阅读编写应用
 

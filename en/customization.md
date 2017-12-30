@@ -4,6 +4,10 @@ Customize your system
 
 ---
 
+### [BingBest](https://github.com/Orcuslc/BingBest) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/Orcuslc/BingBest")](https://github.com/Orcuslc/BingBest) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+Set your wallpaper as Bing Daily.
+
 ### [Huoying Video Desktop](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
 
 Use .mp4/.wmv videos as your desktop background with amazingly low CPU usage.

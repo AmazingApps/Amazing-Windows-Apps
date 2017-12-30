@@ -34,13 +34,9 @@ Windows 下的便携式控制台模拟器
 
 ### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-Git 是一个分布式版本控制软件，最初由林纳斯·托瓦兹（Linus Torvalds）创作，于2005年以GPL发布。最初目的是为更好地管理Linux内核开发而设计。应注意的是，这与GNU Interactive Tools（一个类似Norton Commander界面的文件管理器）有所不同。
-
 ###### [官网](https://git-scm.com/)｜[下载页面](https://git-scm.com/downloads)
 
-### [GitHub Desktop](https://desktop.github.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/desktop/desktop")](https://github.com/desktop/desktop) ![](../assets/united-states.png)
-
-GitHub 的 GUI 客户端
+Git 是一个分布式版本控制软件，最初由林纳斯·托瓦兹（Linus Torvalds）创作，于2005年以GPL发布。最初目的是为更好地管理Linux内核开发而设计。应注意的是，这与GNU Interactive Tools（一个类似Norton Commander界面的文件管理器）有所不同。
 
 ### [HBuilder](http://dcloud.io/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 

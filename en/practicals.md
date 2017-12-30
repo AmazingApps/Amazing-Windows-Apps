@@ -58,7 +58,7 @@ NirLauncher is a package of more than 200 portable freeware utilities for Window
 
 The easiest, fastest way to update or install software.
 
-### [Office Tool Plus](https://www.landian.la/click/OfficeToolPlus.html) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png)
+### [Office Tool Plus](https://www.landian.la/click/OfficeToolPlus.html) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 Customization to download, install, uninstall, and/or activate Microsoft Office
 

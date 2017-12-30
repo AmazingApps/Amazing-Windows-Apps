@@ -4,6 +4,10 @@
 
 ---
 
+### [BingBest](https://github.com/Orcuslc/BingBest) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/Orcuslc/BingBest")](https://github.com/Orcuslc/BingBest) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+自动将桌面壁纸设置为Bing每日图片
+
 ### [Huoying Video Desktop](http://huoying666.com/) ![](../assets/free.png) ![](../assets/china.png)
 
 使用 .mp4/.wmv 视频作为桌面背景，极低的系统占用

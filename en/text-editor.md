@@ -26,10 +26,6 @@ A text editor that supports macro commands, Unicode, big data and CSV processing
 
 A text editor with Markdown preview and hex mode
 
-### [GitBook Editor](https://www.gitbook.com/editor) ![](../assets/free.png) ![](../assets/united-states.png)
-
-GUI client for GitBook.
-
 ### GNU Emacs ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL-LIKE@fsf.org: https://directory.fsf.org/wiki/GNU")](https://directory.fsf.org/wiki/GNU) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [Official Site](https://www.gnu.org/software/emacs/)｜[Download Page](https://www.gnu.org/software/emacs/download.html)
@@ -64,7 +60,7 @@ A free text editor,supports 170+ languages included as user highlighter definiti
 
 The sophisticated text editor.
 
-### [Typora](https://typora.io/) ![](../assets/free.png) ![](../assets/united-states.png)
+### [Typora](https://typora.io/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
 A minimal MarkDown reading & writing app.
 

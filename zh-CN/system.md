@@ -136,6 +136,10 @@ Windows 文件预览，类似于 macOS 但是更强大，可定制度更高
 
 根据 CPU 与磁盘运行情况在登录到系统时延时第三方程序的自启过程
 
+### [SwitchHosts](https://oldj.github.io/SwitchHosts/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/oldj/SwitchHosts")](https://github.com/oldj/SwitchHosts) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+快速切换管理 hosts 文件，支持在线方案
+
 ### [Traymond](https://github.com/fcFn/traymond) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/fcFn/traymond")](https://github.com/fcFn/traymond) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 为不支持最小化到托盘的应用添加最小化功能

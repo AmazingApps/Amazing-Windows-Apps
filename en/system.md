@@ -136,6 +136,10 @@ A utility that manages a Registry key that allows Windows to remap one key to an
 
 Optimize your startup process by delaying applications from starting up as soon as you log into your computer based on your CPU/disk status
 
+### [SwitchHosts](https://oldj.github.io/SwitchHosts/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/oldj/SwitchHosts")](https://github.com/oldj/SwitchHosts) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+Manage & switch between hosts files easily with online hosts support.
+
 ### [Traymond](https://github.com/fcFn/traymond) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/fcFn/traymond")](https://github.com/fcFn/traymond) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 A really simple to minimize other apps to system tray.

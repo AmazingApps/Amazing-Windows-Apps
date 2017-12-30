@@ -34,13 +34,9 @@ Customizable Windows terminal with tabs, splits, quake-style and more.
 
 ### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-
 ###### [Official Site](https://git-scm.com/)｜[Download Page](https://git-scm.com/downloads)
 
-### [GitHub Desktop](https://desktop.github.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/desktop/desktop")](https://github.com/desktop/desktop) ![](../assets/united-states.png)
-
-A GUI for using GitHub.
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 ### [HBuilder](http://dcloud.io/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 

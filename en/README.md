@@ -21,6 +21,7 @@ Note: Apps that meet the following conditions will NOT be listed although they m
 2. Apps that are useful only in limited areas, such as NPR One and IME.
 3. Apps that are incompatible with 64-bit OS.
 4. Apps that mainly concentrate on attacking and/or hacking.
+5. Pure website wrappers.
 
 Apps that can be categorized in multiple ways are categorized by what they are intended for; A note will be provided for compatibility issues of some very individual apps.
 
