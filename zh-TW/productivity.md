@@ -14,11 +14,11 @@ Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Brid
 
 ### [amWiki ](https://github.com/TevinLi/amWiki)![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](../assets/united-states.png)
 
-使用 JavaScript、依賴於 Atom 編輯器、應用 MarkDown 標記的 wiki 文件系統
+使用 JavaScript、依賴於 Atom 編輯器、應用 MarkDown 標記的 wiki 檔案系統
 
 ### [AutoHotkey](https://www.autohotkey.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/Lexikos/AutoHotkey_L")](https://github.com/Lexikos/AutoHotkey_L) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
-開源 Windows 手稿語言，用戶可以輕鬆建立各種指令碼完成各種任務
+開源 Windows 手稿語言，使用者可以輕鬆建立各種指令碼完成各種任務
 
 ### AutoIt ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 

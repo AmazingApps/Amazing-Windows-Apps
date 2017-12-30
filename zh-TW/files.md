@@ -8,11 +8,11 @@
 
 ###### [官網](https://www.advancedrenamer.com/)｜[下載頁面](https://www.advancedrenamer.com/download)
 
-一次性重新命名多個檔案/資料夾，可修改檔案屬性、時間戳等，具備自訂規則指令碼支援
+一次性重新命名多個檔案及資料夾，可修改檔案屬性、時間戳等，具備自訂規則指令碼支援
 
 ### [Allway Sync](https://allwaysync.com/)  ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
-多功能檔案同步，支援單向雙向、多資料夾、多裝置、多檔案系統、同步歷史、中間裝置等功能
+多功能檔案同步，支援單雙向、多資料夾、多裝置、多檔案系統、同步歷史、中間裝置等功能
 
 ### Beyond Compare ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
@@ -28,7 +28,7 @@
 
 ###### [官網](https://www.digitalvolcano.co.uk/duplicatecleaner.html)｜[下載頁面](https://www.digitalvolcano.co.uk/dcdownloads.html)
 
-支援子目錄搜尋或MD5碼搜尋的重複檔案查詢工具
+支援子目錄搜尋或 MD5 碼搜尋的重複檔案查詢工具
 
 ### [FastCopy](https://ipmsg.org/tools/fastcopy.html.en) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@ipmsg.org: https://ipmsg.org/tools/fastcopy.html.en")](https://ipmsg.org/tools/fastcopy.html.en) ![](../assets/united-states.png) ![](../assets/usb.png)
 
@@ -46,7 +46,7 @@
 
 ###### [官網](https://filezilla-project.org/)｜[下載頁面](https://filezilla-project.org/download.php?show_all=1)
 
-FTP FTPS SFTP 用戶端
+FTP、FTPS、SFTP 用戶端
 
 ### [FreeFileSync](http://www.freefilesync.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@freefilesync.org: https://www.freefilesync.org/download.php")](https://www.freefilesync.org/download.php) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
@@ -56,7 +56,7 @@ FTP FTPS SFTP 用戶端
 
 ### [Hasher](http://www.den4b.com/products/hasher) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
-檔案雜湊值校驗工具，支援CRC32 MD2 MD4 MD5 SHA1 SHA256 SHA512 RipeMD128 RipeMD160 ED2K
+檔案雜湊值校驗工具，支援 CRC32、MD2、MD4、MD5、SHA1、SHA256、SHA512、RipeMD128、RipeMD160、ED2K
 
 ### MediaCoder ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png)
 
@@ -80,7 +80,7 @@ FTP FTPS SFTP 用戶端
 
 ### [Resource Hacker](http://www.angusj.com/resourcehacker/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
-取得Windows執行檔（EXE DLL SCR MUI等）中的資原始檔
+取得Windows執行檔（EXE、DLL、SCR、MUI 等）中的資原始檔
 
 ### [rimraf](https://www.npmjs.com/package/rimraf) ![](../assets/free.png) [![](../assets/open-source-icon.png "ISC@GitHub: https://github.com/isaacs/rimraf")](https://github.com/isaacs/rimraf) ![](../assets/united-states.png) ![](../assets/command-line.png)
 
@@ -108,7 +108,7 @@ node 使用的深度刪除模組。刪除深目錄檔案（夾）
 
 ### [Waltr](http://softorino.com/waltr/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
-向iPhone iTunes傳輸電影音訊檔案
+向 iPhone iTunes 傳輸電影音訊檔案
 
 ### WinMerge ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/winmerge/")](https://sourceforge.net/projects/winmerge/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 

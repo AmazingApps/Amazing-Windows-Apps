@@ -11,13 +11,13 @@
 ### [EagleGet](http://www.eagleget.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 
-免費全能下載管理器，支援HTTP\(S\) FTP MMS RTSP協定，也可以使用瀏覽器擴充功能檢測頁面媒體內容
+免費全能下載管理器，支援 HTTP\(S\)、FTP、MMS、RTSP 協定，也可以使用瀏覽器擴充功能檢測頁面媒體內容
 
 ###### ⚠️ 預設下載其它無害應用
 
 ### [FDM](http://www.freedownloadmanager.org/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
-免費強大的下載加速管理器，支援HTTP/HTTPS/FTP/種子等協定
+免費強大的下載加速管理器，支援 HTTP、HTTPS、FTP、種子等協定
 
 ### hardseed ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/yangyangwithgnu/hardseed")](https://github.com/yangyangwithgnu/hardseed) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
@@ -59,7 +59,7 @@ P2P 檔案同步
 
 ### [WebTorrent Desktop](https://webtorrent.io/desktop/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/webtorrent/webtorrent-desktop")](https://github.com/webtorrent/webtorrent-desktop) ![](../assets/earth-globe.png)
 
-實時播放種子中的媒體流
+即時播放種子中的媒體流
 
 ### you-get ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/soimort/you-get")](https://github.com/soimort/you-get) ![](../assets/united-states.png) ![](../assets/usb.png)
 

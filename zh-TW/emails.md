@@ -12,7 +12,7 @@
 
 ### [MailBird](https://www.mailbird.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 
-IMAP POP3 郵件用戶端，高度可客製且觸控支援良好
+IMAP、POP3 郵件用戶端，高度可客製且觸控支援良好
 
 ### [Nylas N1](https://www.nylas.com/download/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 

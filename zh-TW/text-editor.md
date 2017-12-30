@@ -52,13 +52,13 @@ Markdown 編輯器，支援通用 markdown、GitHub markdown 之外，還支援�
 
 ### [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD 3-clause@GitHub: https://github.com/XhmikosR/notepad2-mod")](https://github.com/XhmikosR/notepad2-mod) ![](../assets/united-states.png) ![](../assets/usb.png)
 
-Notepad2的分支之一，可替換系統 notepad 的輕量級開源編輯器，支援語法突顯等功能
+Notepad2 的分支之一，可替換系統 notepad 的輕量級開源編輯器，支援語法突顯等功能
 
 ### PSPad ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [官網](http://www.pspad.com/)｜[下載頁面](http://www.pspad.com/en/download.php)
 
-免費的文字編輯器，支援 170 種以上的語法突顯。
+免費的文字編輯器，支援170種以上的語法突顯。
 
 ### [Sublime Text 3](http://www.sublimetext.com/3) ![](../assets/united-states.png) ![](../assets/usb.png)
 

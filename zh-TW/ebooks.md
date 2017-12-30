@@ -26,4 +26,4 @@
 
 ###### [官網](http://www.sumatrapdfreader.org/free-pdf-reader.html)｜[下載頁面](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 
-PDF ePub MOBI CHM XPS DjVu CBZ CBR 閱讀器
+PDF、ePub、MOBI、CHM、XPS、DjVu、CBZ、CBR 閱讀器

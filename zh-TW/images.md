@@ -70,7 +70,7 @@ Open source image editor.
 
 ### [qrcode](https://github.com/sylnsfar/qrcode) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/sylnsfar/qrcode")](https://github.com/sylnsfar/qrcode) ![](../assets/united-states.png) ![](../assets/usb.png)
 
-Python編寫的藝術二維碼生成器
+Python 編寫的藝術二維碼生成器
 
 ### Riot ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 

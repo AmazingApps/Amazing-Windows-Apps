@@ -1,6 +1,6 @@
-## 優秀國產軟體名錄
+## 優秀中國軟體名錄
 
-誠然，當前國內 IT 業界一片亂象。但是正因如此，優秀軟體反而更加彌足珍貴，也更加值得鼓勵、讚揚、宣傳。
+誠然，當前中國 IT 業界一片亂象。但是正因如此，優秀軟體反而更加彌足珍貴，也更加值得鼓勵、讚揚、宣傳。	
 
 * 在此處列出的軟體仍然在後續分類中可見（\[ \]中即為本項目歸類）
 
@@ -156,7 +156,7 @@ Google Chrome 的可攜版啟動器
 
 ### [amWiki](https://github.com/TevinLi/amWiki) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](../assets/united-states.png)
 
-使用 JavaScript、依賴於 Atom 編輯器、軟體 MarkDown 標記的 wiki 文件系統
+使用 JavaScript、依賴於 Atom 編輯器、軟體 MarkDown 標記的 wiki 檔案系統
 
 ### [字由](http://www.hellofont.cn/index.php) ![](../assets/free.png) ![](../assets/china.png)
 
@@ -196,7 +196,7 @@ Google Chrome 的可攜版啟動器
 
 ###### [官網](http://1218.io/)｜[下載頁面](http://sourceforge.net/projects/ccseer/)
 
-Windows檔案預覽，類似於Mac OS但是更強大，可客製度更高
+Windows 檔案預覽，類似於 Mac OS 但是更強大，可客製度更高
 
 ### \[文字編輯\]
 

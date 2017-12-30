@@ -12,7 +12,7 @@
 
 ### [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
-免費清理工具，針對廣告軟體、PUP/LPI、惡意工具列跟劫持軟體
+免費清理工具，針對廣告軟體、PUP/LPI、惡意工作列跟劫持軟體
 
 ### Authy Desktop ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
@@ -58,7 +58,7 @@
 
 ###### [官網](https://www.lastpass.com/)｜[下載頁面](https://lastpass.com/misc_download2.php?tab=windows)
 
-強大的全能密碼生成管理器，具有免費跨平台雲同步
+強大的全能密碼生成管理器，具有免費跨平台雲端同步
 
 ### NetLimiter ![](../assets/free.png) ![](../assets/united-states.png)
 
@@ -72,7 +72,7 @@
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-全自動吊銷可疑/非法憑證
+全自動吊銷可疑及非法憑證
 
 ### [Sandboxie](http://www.sandboxie.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
 

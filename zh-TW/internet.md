@@ -30,7 +30,7 @@ Chromium 是一個由 Google 主導開發的網頁瀏覽器，以 BSD 許可證�
 
 一個利用 CloudXNS 的 API 實現自己的 DDNS 服務的 PowerShell 指令碼
 
-### Firefox 火狐 ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL@mozilla.org: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives")](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
+### Firefox 火狐狸 ![](../assets/free.png) [![](../assets/open-source-icon.png "MPL@mozilla.org: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives")](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
 ###### also Mozilla Firefox
 
@@ -42,7 +42,7 @@ Chromium 是一個由 Google 主導開發的網頁瀏覽器，以 BSD 許可證�
 
 ###### [官網](https://www.icyarrow.com/haloradio/)｜[Official Site](https://www.douban.com/note/561310960/)
 
-在 Windows 享受豆瓣電台、Soundcloud、網際網路收音機與 播客
+在 Windows 享受豆瓣電台、Soundcloud、網際網路收音機與播客
 
 ### Shadowsocks 影梭 ![](../assets/free.png) [![](../assets/open-source-icon.png "APL 2.0/GPL 3.0/LGPL 3.0@GitHub: https://github.com/shadowsocks")](https://github.com/shadowsocks) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 

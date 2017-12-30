@@ -66,7 +66,7 @@ Google Chrome 的可攜版啟動器
 
 ###### [官網](https://quest-app.appspot.com/)｜[下載頁面](https://quest-app.appspot.com/download)
 
-Windows 下免費翻譯工具
+Windows 免費翻譯工具
 
 ### [rufus](http://rufus.akeo.ie/) ![](../assets/free.png) ![](../assets/earth-globe.png) [![](../assets/open-source-icon.png "GPL3.0@GitHub: https://github.com/pbatard/rufus")](https://github.com/pbatard/rufus) ![](../assets/usb.png)
 

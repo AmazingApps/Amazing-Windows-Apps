@@ -12,7 +12,7 @@
 
 ### [MacType](http://www.mactype.net/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/snowie2000/mactype")](https://github.com/snowie2000/mactype) ![](../assets/earth-globe.png)
 
-改進字體渲染效果
+改進字體彩現效果
 
 ### [Rainmeter](https://www.rainmeter.net/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/rainmeter/rainmeter")](https://github.com/rainmeter/rainmeter) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
@@ -30,9 +30,9 @@
 
 ### [TGFont](https://github.com/ysc3839/TGFont) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/ysc3839/TGFont")](https://github.com/ysc3839/TGFont)
 
-修改 Telegram Windows 桌面版字體的簡單 hook（鉤子）
+修改 Telegram Windows Desktop 版字體的簡單 hook（鉤子）
 
-###### 📌該項目沒有 UI，也沒有目錄架構，因此不存在UI語言或是否可攜化的問题
+###### 📌該項目沒有 UI，也沒有目錄架構，因此不存在 UI 語言或是否可攜化的問题
 
 ### [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/TranslucentTB/TranslucentTB")](https://github.com/TranslucentTB/TranslucentTB) ![](../assets/united-states.png) ![](../assets/usb.png)
 

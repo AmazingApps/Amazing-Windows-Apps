@@ -16,7 +16,7 @@
 
 ### [Everything](http://www.voidtools.com/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
-最快速的檔案/資料夾搜尋工具
+最快速的檔案及資料夾搜尋工具
 
 ### [Find and Run Robot](https://www.donationcoder.com/Software/Mouser/findrun/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 

@@ -6,15 +6,15 @@
 
 ### [5KPlayer](https://www.5kplayer.com/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
-支援 Airplay、廣播電台與一些影片站點下載功能的通用多媒體播放器
+支援 Airplay、廣播電台與一些影片網站下載功能的通用多媒體播放器
 
 ### bomi ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/xylosper/bomi")](https://github.com/xylosper/bomi) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 ###### [官網](https://bomi-player.github.io/index.html)｜[下載頁面](https://bomi-player.github.io/downloads.html)
 
-Bomi是一個開源軟體，使用MPV播放器開發，為MPV播放器增強了圖形化介面。適合對原生MPV設定檔與全快速鍵操作頭疼的用戶
+Bomi 是一個開源軟體，使用 MPV 播放器開發，為 MPV 播放器增強了圖形化介面。適合對原生 MPV 設定檔與全快速鍵操作頭疼的用戶
 
-###### ⚠長期無更新但無明顯bug
+###### ⚠長期無更新但無明顯 bug
 
 ### [EMDB](http://www.emdb.eu/) ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
@@ -76,7 +76,7 @@ UI 優美、效能優秀的影片編碼工具
 
 ###### [官網](https://www.shotcut.org/)｜[下載頁面](https://www.shotcut.org/download/)
 
-少見的功能強大而且還開源的影片編輯工具
+少見的功能強大且開源的影片編輯工具
 
 ### [SMPlayer](https://sourceforge.net/projects/smplayer/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@SourceForge: https://sourceforge.net/projects/smplayer/")](https://sourceforge.net/projects/smplayer/) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 
@@ -86,7 +86,7 @@ UI 優美、效能優秀的影片編碼工具
 
 ###### [官網](http://www.tinymediamanager.org/)｜[下載頁面](http://www.tinymediamanager.org/download/)
 
-電影電視劇管理工具，支援自動下載影片資訊、字幕、標記已觀看、同步 Trakt.tv 等功能
+影劇管理工具，支援自動下載影片資訊、字幕、標記已觀看、同步 Trakt.tv 等功能
 
 ###### 📌 需要 Java1.7 或更新
 

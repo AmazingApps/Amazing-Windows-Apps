@@ -30,11 +30,11 @@ Windows 下的可攜式控制台模擬器
 
 ### [ConEmu](https://conemu.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/russia.png) ![](../assets/usb.png) ![](../assets/command-line.png)
 
-可自訂的 Windows 終端模擬器, 支援多標籤, 分隔, quake風格及更多功能
+可自訂的 Windows 終端模擬器，支援多標籤、分隔、 quake 風格及更多功能
 
 ### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-Git 是一個分散式版本控制軟體，最初由林納斯·托瓦茲（Linus Torvalds）創作，於2005年以GPL發布。最初目的是為更好地管理Linux內核開發而設計。應注意的是，這與GNU Interactive Tools（一個類似Norton Commander介面的檔案管理器）有所不同。
+Git 是一個分散式版本控制軟體，最初由林納斯·托瓦茲（Linus Torvalds）創作，於2005年以 GPL 發布。最初目的是為更好地管理 Linux 內核開發而設計。應注意的是，這與 GNU Interactive Tools （一個類似 Norton Commander 介面的檔案管理器）有所不同。
 
 ###### [官網](https://git-scm.com/)｜[下載頁面](https://git-scm.com/downloads)
 
@@ -109,11 +109,11 @@ Windows 下的可攜式控制台模擬器
 
 ### [ConEmu](https://conemu.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/russia.png) ![](../assets/usb.png) ![](../assets/command-line.png)
 
-可自訂的 Windows 終端模擬器, 支援多標籤, 分隔, quake風格及更多功能
+可自訂的 Windows 終端模擬器，支援多標籤、分隔、 quake 風格及更多功能
 
 ### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
-Git 是一個分散式版本控制軟體，最初由林納斯·托瓦茲（Linus Torvalds）創作，於2005年以GPL發布。最初目的是為更好地管理Linux內核開發而設計。應注意的是，這與GNU Interactive Tools（一個類似Norton Commander介面的檔案管理器）有所不同。
+Git 是一個分散式版本控制軟體，最初由林納斯·托瓦茲（Linus Torvalds）創作，於2005年以 GPL 發布。最初目的是為更好地管理 Linux 內核開發而設計。應注意的是，這與 GNU Interactive Tools （一個類似 Norton Commander 介面的檔案管理器）有所不同。
 
 ###### [官網](https://git-scm.com/)｜[下載頁面](https://git-scm.com/downloads)
 
@@ -169,7 +169,7 @@ Windows 上的 UNIX 軟體包和生成平台
 
 ###### [官網](https://www.vmware.com/)｜[下載頁面](https://www.vmware.com/products/player/playerpro-evaluation.html)
 
-效能強勁的虛擬機器應用
+效能強勁的虛擬主機應用
 
 ### VMware Workstation Pro [![](../assets/open-source-icon.png "30+ LICENSES@vmware.com: https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source")](https://my.vmware.com/eu/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0#open_source) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png)
 

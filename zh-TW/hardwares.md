@@ -10,7 +10,7 @@ Windows 與 Android 免費系統資料與監視
 
 ### [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskinfo/")](https://osdn.net/projects/crystaldiskinfo/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
-HDD/SSD 資訊工具，支援部分 USB 連線裝置跟 Intel RAID
+HDD、SSD 資訊工具，支援部分 USB 連線裝置跟 Intel RAID
 
 ### [CrystalDiskMark](http://crystalmark.info/software/CrystalDiskMark/index-e.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@OSDN: https://osdn.net/projects/crystaldiskmark/")](https://osdn.net/projects/crystaldiskmark/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/windows-store.png)
 
@@ -40,7 +40,7 @@ Identify & fix outdated, missing & incorrect PC drivers
 
 ###### [官網](http://openhardwaremonitor.org/)｜[下載頁面](http://openhardwaremonitor.org/downloads/)
 
-開源的硬體風扇轉速、CPU/主機板電壓、溫度、狀態顯示軟體
+開源的硬體風扇轉速、CPU 及主機板電壓、溫度、狀態顯示軟體
 
 ### Speccy ![](../assets/free.png) ![](../assets/earth-globe.png)
 

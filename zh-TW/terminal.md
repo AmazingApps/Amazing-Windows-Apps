@@ -56,10 +56,10 @@ SSH 與 telnet 用戶端
 
 ###### [官網](https://winscp.net/eng/docs/lang:chs)｜[下載頁面](https://winscp.net/eng/docs/lang:chs#%E4%B8%8B%E8%BD%BD)
 
-免費開源的 SFTP/FTP/WebDAV/SCP 用戶端
+免費開源的 SFTP、FTP、WebDAV、SCP 用戶端
 
 ### Xshell ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 ###### [官網](http://www.netsarang.com/products/xsh_overview.html)｜[下載頁面](http://www.netsarang.com/download/down_xsh5.html)
 
-強大終端工具，支援 SSH SFTP TELNET RLOGIN 與 SERIAL
+強大終端工具，支援 SSH、SFTP、TELNET、RLOGIN 與 SERIAL
