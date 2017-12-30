@@ -1,6 +1,6 @@
 ## 音訊
 
-管理、播放或處理音訊文件的應用程式
+管理、播放或處理音訊檔案的應用程式
 
 ---
 
@@ -20,7 +20,7 @@
 
 ###### [官網](http://www.autolyric.com/zh-hans)｜[下載頁面](http://www.autolyric.com/zh-hans/download)
 
-支援插入到許多其它音訊播放器的歌詞下載展示模組，網路數據量大
+支援插入到許多其它音訊播放器的歌詞下載展示模組，網路資料量大
 
 ### Dopamine ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@Github: https://github.com/digimezzo/Dopamine")](https://github.com/digimezzo/Dopamine) ![](../assets/earth-globe.png)
 
@@ -38,7 +38,7 @@
 
 ###### [官網](http://www.foobar2000.org/)｜[下載頁面](http://www.foobar2000.org/download)
 
-免費音訊播放器，具備高度定制化能力
+免費音訊播放器，具備高度客製化能力
 
 ### [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) ![](../assets/free.png) ![](../assets/united-states.png)
 
@@ -60,7 +60,7 @@ DirectShow 過濾器集合，並帶有 VFW/ACM 解碼器及相關工具
 
 ### [mStream](http://mstream.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@Github:  https://github.com/IrosTheBeggar/mStream")](https://github.com/IrosTheBeggar/mStream) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
-跨平台播放任意設備的音訊流
+跨平台播放任意裝置的音訊流
 
 ### Musicbee ![](../assets/free.png) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
@@ -72,11 +72,11 @@ DirectShow 過濾器集合，並帶有 VFW/ACM 解碼器及相關工具
 
 ###### [官網](https://picard.musicbrainz.org/)｜[下載頁面](https://picard.musicbrainz.org/downloads/)
 
-跨平台音訊標籤處理，可線上查詢並重寫元數據標籤
+跨平台音訊標籤處理，可線上查詢並重寫元資料標籤
 
 ### [Spek](http://spek.cc/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@Github: https://github.com/alexkay/spek")](https://github.com/alexkay/spek) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
-顯示音訊文件頻譜的極簡工具
+顯示音訊檔案頻譜的極簡工具
 
 ### [TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@Github: https://github.com/Greedysky/TTKMusicplayer")](https://github.com/Greedysky/TTKMusicplayer) ![](../assets/china.png) ![](../assets/united-states.png)
 
