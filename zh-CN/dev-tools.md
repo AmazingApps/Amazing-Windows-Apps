@@ -4,39 +4,9 @@
 
 ---
 
-### [Alacritty](https://github.com/jwilm/alacritty) ![](../assets/free.png) [![](../assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/jwilm/alacritty")](https://github.com/jwilm/alacritty) ![](../assets/united-states.png)
-
-跨平台，具有硬件加速的终端模拟器。
-
-### Caddy ![](../assets/free.png) [![](../assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/mholt/caddy")](https://github.com/mholt/caddy) ![](../assets/united-states.png) ![](../assets/usb.png)
-
-###### [官网](https://caddyserver.com/)｜[下载页面](https://caddyserver.com/download)
-
-自动 HTTPS 部署能力的 HTTP/2 页面服务器
-
-### [Chocolatey](https://chocolatey.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](../assets/united-states.png) ![](../assets/command-line.png)
-
-Windows 包管理器
-
 ### [ChocolateyGUI](https://chocolatey.github.io/ChocolateyGUI) ![](../assets/free.png) [![](../assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/chocolatey/ChocolateyGUI")](https://github.com/chocolatey/ChocolateyGUI) ![](../assets/united-states.png)
 
 Chocolatey NuGet 的 GUI 客户端
-
-### [cmder](http://cmder.net/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/cmderdev/cmder")](https://github.com/cmderdev/cmder) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/command-line.png)
-
-Windows 下的便携式控制台模拟器
-
-###### 📌cmder 包含了 ConEmu 和其他实用的工具 (如 Clink)
-
-### [ConEmu](https://conemu.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/russia.png) ![](../assets/usb.png) ![](../assets/command-line.png)
-
-可自定义的 Windows 终端模拟器, 支持多标签, 分隔, quake风格及更多功能
-
-### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
-
-###### [官网](https://git-scm.com/)｜[下载页面](https://git-scm.com/downloads)
-
-Git 是一个分布式版本控制软件，最初由林纳斯·托瓦兹（Linus Torvalds）创作，于2005年以GPL发布。最初目的是为更好地管理Linux内核开发而设计。应注意的是，这与GNU Interactive Tools（一个类似Norton Commander界面的文件管理器）有所不同。
 
 ### [HBuilder](http://dcloud.io/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 

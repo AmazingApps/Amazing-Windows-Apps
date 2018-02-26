@@ -27,5 +27,6 @@
     * [文件处理](files.md)
     * [游戏相关](games.md)
 * [视频工具](video.md)
+* [极客玩物](geeks.md)
 * [流氓名单](blacklist.md)
 * [鸣谢列表](acknowledgement.md)

@@ -4,18 +4,6 @@
 
 ---
 
-### [Adobe Master Collection Series](https://www.adobe.com/creativecloud.html) ![](../assets/earth-globe.png)
-
-### Adobe 大师版系列
-
-无需过多赘述，绝大多数人应当清楚这一系列工具在设计中的强大作用：
-
-Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Captivate, Adobe Character Animator, Adobe Dreamweaver, Adobe Edge Code, Adobe Edge Reflow, Adobe Encore, Adobe Fireworks, Adobe Fuse, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Muse, Adobe Photoshop, Adobe Prelude, Adobe Premiere, Adobe Scout, Adobe SpeedGrade
-
-### [amWiki ](https://github.com/TevinLi/amWiki)![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](../assets/united-states.png)
-
-基于 JavaScript、依赖于 Atom 编辑器、应用 MarkDown 标记的 wiki 文档系统
-
 ### [AutoHotkey](https://www.autohotkey.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/Lexikos/AutoHotkey_L")](https://github.com/Lexikos/AutoHotkey_L) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 开源 Windows 脚本语言，用户可以轻松创建各种脚本完成各种任务
