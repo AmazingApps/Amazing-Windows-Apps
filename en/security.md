@@ -20,6 +20,10 @@ Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 
 Sync your 2FA info across multiple devices.
 
+### [Bitwarden](https://bitwarden.com) ![](../assets/free.png) ![](../assets/earth-globe.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/bitwarden/desktop")](https://github.com/bitwarden/desktop) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+Open-source & light password manager with free cloud sync
+
 ### [Buttercup](https://buttercup.pw/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/buttercup/buttercup")](https://github.com/buttercup/buttercup) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
 A password manager based on JavaScript, elegant, brief, compatible with few other types of databases.

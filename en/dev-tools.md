@@ -4,39 +4,9 @@ Designed for developers
 
 ---
 
-### [Alacritty](https://github.com/jwilm/alacritty) ![](../assets/free.png) [![](../assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/jwilm/alacritty")](https://github.com/jwilm/alacritty) ![](../assets/united-states.png)
-
-A cross-platform, GPU-accelerated terminal emulator.
-
-### Caddy ![](../assets/free.png) [![](../assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/mholt/caddy")](https://github.com/mholt/caddy) ![](../assets/united-states.png) ![](../assets/usb.png)
-
-###### [Official Site](https://caddyserver.com/)｜[Download Page](https://caddyserver.com/download)
-
-The HTTP/2 web server with automatic HTTPS
-
-### [Chocolatey](https://chocolatey.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/chocolatey/chocolatey.org")](https://github.com/chocolatey/chocolatey.org) ![](../assets/united-states.png) ![](../assets/command-line.png)
-
-A package manager for Windows.
-
 ### [ChocolateyGUI](https://chocolatey.github.io/ChocolateyGUI) ![](../assets/free.png) [![](../assets/open-source-icon.png "Apache 2.0@GitHub: https://github.com/chocolatey/ChocolateyGUI")](https://github.com/chocolatey/ChocolateyGUI) ![](../assets/united-states.png)
 
 A GUI for Chocolatey NuGet
-
-### [cmder](http://cmder.net/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/cmderdev/cmder")](https://github.com/cmderdev/cmder) ![](../assets/united-states.png) ![](../assets/usb.png) ![](../assets/command-line.png)
-
-Portable console emulator for Windows.
-
-###### 📌cmder Contains ConEmu and other useful tools (e.g. Clink)
-
-### [ConEmu](https://conemu.github.io/) ![](../assets/free.png) [![](../assets/open-source-icon.png "BSD@GitHub: https://github.com/Maximus5/ConEmu")](https://github.com/Maximus5/ConEmu) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/russia.png) ![](../assets/usb.png) ![](../assets/command-line.png)
-
-Customizable Windows terminal with tabs, splits, quake-style and more.
-
-### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
-
-###### [Official Site](https://git-scm.com/)｜[Download Page](https://git-scm.com/downloads)
-
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 ### [HBuilder](http://dcloud.io/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
@@ -75,8 +45,6 @@ Open source multi-platform virtual machine
 ### Visual Studio ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 ###### [Official Site](https://www.visualstudio.com/)｜[Download Page](https://www.visualstudio.com/downloads/)
-
-终极微软开发者工具
 
 Ultimate Microsoft Developer Tool.
 

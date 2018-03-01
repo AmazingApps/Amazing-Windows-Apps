@@ -4,16 +4,6 @@ Boost your productivity
 
 ---
 
-### [Adobe Master Collection Series](https://www.adobe.com/creativecloud.html) ![](../assets/earth-globe.png)
-
-There isn't too much to introduce this. I belive most of us have known how powerful it can be in designing:
-
-Adobe Acrobat DC, Adobe After Effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Captivate, Adobe Character Animator, Adobe Dreamweaver, Adobe Edge Code, Adobe Edge Reflow, Adobe Encore, Adobe Fireworks, Adobe Fuse, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Muse, Adobe Photoshop, Adobe Prelude, Adobe Premiere, Adobe Scout, Adobe SpeedGrade
-
-### [amWiki ](https://github.com/TevinLi/amWiki)![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/TevinLi/amWiki")](https://github.com/TevinLi/amWiki) ![](../assets/united-states.png)
-
-amWiki is a wiki doc system based on JavaScript, relying on Atom editor and applied with MarkDown tags.
-
 ### [AutoHotkey](https://www.autohotkey.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/Lexikos/AutoHotkey_L")](https://github.com/Lexikos/AutoHotkey_L) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 Open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks.

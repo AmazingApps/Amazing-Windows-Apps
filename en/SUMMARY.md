@@ -27,5 +27,6 @@
     * [Files](files.md)
     * [Games](games.md)
 * [Video](video.md)
+* [Geek Fun](geeks.md)
 * [Blacklist](blacklist.md)
 * [Acknowledgement](acknowledgement.md)
