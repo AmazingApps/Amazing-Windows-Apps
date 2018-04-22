@@ -67,3 +67,7 @@ Access, Excel, OneDrive \(for Business\), OneNote, Outlook, PowerPoint, Project,
 ###### [官网](http://www.xmind.net/)｜[下载页面](http://www.xmind.net/download/win/)
 
 思维导图工具，带有免费的云端同步
+
+### [YYNote](http://www.6fcsj.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+云端同步的简洁 Todolist

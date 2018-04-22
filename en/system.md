@@ -18,12 +18,6 @@ An all-in-one system optimization unity.
 
 ###### ⚠BUNDLE ANOTHER HARMLESS APP
 
-### [AltDrag](https://stefansundin.github.io/altdrag/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/stefansundin/altdrag")](https://github.com/stefansundin/altdrag) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-You are now alllowed to easily drag, resize, minimize, etc. windows when pressing the alt key.
-
-###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET
-
 ### AOMEI Partition Assistant ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [Official Site](http://www.disk-partition.com/)｜[Download Page](http://www.disk-partition.com/download-home.html)
@@ -94,12 +88,6 @@ Multi-purpose tool that helps you monitor system resources, debug software and d
 
 Adjust processes priority to prevent CPU unresponsing on some devices
 
-### [QTTabBar](http://qttabbar.wikidot.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@HOMEPAGE: http://qttabbar.wikidot.com/")](http://qttabbar.wikidot.com/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-Significantly improve Explorer efficiency
-
-###### ⚠NO UPDATE FOR LONG BUT NO DEFECT FOUND YET
-
 ### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
 ###### [Official Site](http://pooi.moe/QuickLook/)｜[Download Page](https://github.com/xupefei/QuickLook/releases)
@@ -139,6 +127,10 @@ Optimize your startup process by delaying applications from starting up as soon 
 ### [SwitchHosts](https://oldj.github.io/SwitchHosts/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/oldj/SwitchHosts")](https://github.com/oldj/SwitchHosts) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 Manage & switch between hosts files easily with online hosts support.
+
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/zhongyang219/TrafficMonitor")](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/china.png) ![](../assets/usb.png)
+
+Use a dockable window to display cuurent traffice speed, CPU & RAM usage
 
 ### [Traymond](https://github.com/fcFn/traymond) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/fcFn/traymond")](https://github.com/fcFn/traymond) ![](../assets/united-states.png) ![](../assets/usb.png)
 

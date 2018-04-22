@@ -44,6 +44,12 @@ Windows 下的便携式控制台模拟器
 
 可自定义的 Windows 终端模拟器, 支持多标签, 分隔, quake风格及更多功能
 
+### FFmpeg ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
+
+###### [官网](https://ffmpeg.org/)｜[下载页面](http://ffmpeg.zeranoe.com/builds/)
+
+跨平台，支持几乎所有格式的视频记录、转码、推流解决方案。
+
 ### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
 ###### [官网](https://git-scm.com/)｜[下载页面](https://git-scm.com/downloads)

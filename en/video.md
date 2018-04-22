@@ -24,12 +24,6 @@ An open source player based on mpv with GUI enhanced & neat
 
 Keep track of your movie and TV Series collection. Both physical discs and media files are fully supported.
 
-### FFmpeg ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
-
-###### [Official Site](https://ffmpeg.org/)｜[Download Page](http://ffmpeg.zeranoe.com/builds/)
-
-A complete, cross-platform solution to record, convert and stream audio and video.
-
 ### [Filmora](https://filmora.wondershare.com/video-editor/) ![](../assets/multi_platform.png) ![](../assets/earth-globe.png)
 
 Simplified video/audio editing with a wide range of multi-purpose tools.
@@ -101,7 +95,3 @@ A films/TV series manager that supports films info & subtitles downloading, watc
 ### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 Free open source multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
-
-### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
-
-zogna video manager.

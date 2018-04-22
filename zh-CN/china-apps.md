@@ -176,6 +176,10 @@ Google Chrome 的便携版引导器
 
 思维导图工具，带有免费的云端同步
 
+### [YYNote](http://www.6fcsj.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+云端同步的简洁 Todolist
+
 ### \[隐私安全\]
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
@@ -206,6 +210,10 @@ Google Chrome 的便携版引导器
 
 Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/zhongyang219/TrafficMonitor")](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/china.png) ![](../assets/usb.png)
+
+用于显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，并支持任务栏显示和更换皮肤
+
 ### \[文本编辑\]
 
 ### EverEdit ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/japan.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
@@ -227,10 +235,6 @@ Markdown 文本编辑器，可将网页复制的内容自动转换为 Markdown �
 ### [MPV-EASY Player](http://www.rjno1.com/mpv-easy-player.html) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/usb.png)
 
 易于使用的 mpv GUI 封装，最大限度地保留了原有的 mpv 外观
-
-### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
-
-视频引索管理器
 
 ### \[游戏相关\]
 

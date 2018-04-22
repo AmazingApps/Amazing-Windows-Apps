@@ -24,12 +24,6 @@ Bomi是一个开源软件，基于MPV播放器开发，为MPV播放器增强了�
 
 电影及电视剧追播进度记录，同时支持光盘与本地媒体文件
 
-### FFmpeg ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
-
-###### [官网](https://ffmpeg.org/)｜[下载页面](http://ffmpeg.zeranoe.com/builds/)
-
-跨平台，支持几乎所有格式的视频记录、转码、推流解决方案。
-
 ### [HandBrake](http://handbrake.fr/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/HandBrake/HandBrake")](https://github.com/HandBrake/HandBrake) ![](../assets/earth-globe.png)
 
 UI 优美、性能优秀的视频编码工具
@@ -101,7 +95,3 @@ UI 优美、性能优秀的视频编码工具
 ### [VLC](http://www.videolan.org/vlc/index.html) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0@GitHub: https://github.com/videolan/vlc")](https://github.com/videolan/vlc) ![](../assets/earth-globe.png) ![](../assets/multi_platform.png) ![](../assets/windows-store.png)
 
 免费开源多媒体播放器与框架，可播放DVD 音频CD VCD与多种流协议
-
-### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
-
-视频引索管理器

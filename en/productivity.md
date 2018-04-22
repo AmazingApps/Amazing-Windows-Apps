@@ -67,3 +67,7 @@ Track time spent on applications and websites, giving you an accurate picture of
 ###### [Official Site](http://www.xmind.net/)｜[Download Page](http://www.xmind.net/download/win/)
 
 A popular mind map tool with free cloud sync.
+
+### [YYNote](http://www.6fcsj.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+A to-do-list app with cloud sync service.

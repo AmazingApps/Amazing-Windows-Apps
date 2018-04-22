@@ -18,12 +18,6 @@
 
 ###### ⚠ 捆绑另一款无害应用
 
-### [AltDrag](https://stefansundin.github.io/altdrag/) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/stefansundin/altdrag")](https://github.com/stefansundin/altdrag) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-按下 Alt 键时，拖动窗口，调整大小，最小化等等
-
-###### ⚠ 长期无更新但未发现明显的缺陷
-
 ### AOMEI Partition Assistant  分区助手 ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [官网](http://www.disktool.cn/)｜[下载页面](http://www.disktool.cn/download.html)
@@ -94,12 +88,6 @@
 
 自动实时调节优化系统内所有进程优先级以防止一些设备的卡死
 
-### [QTTabBar](http://qttabbar.wikidot.com/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@HOMEPAGE: http://qttabbar.wikidot.com/")](http://qttabbar.wikidot.com/) ![](../assets/earth-globe.png) ![](../assets/usb.png)
-
-一站式 Explorer 增强工具
-
-###### ⚠ 长期无更新但未发现明显的缺陷
-
 ### QuickLook ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v3.0@GitHub: https://github.com/xupefei/QuickLook")](https://github.com/xupefei/QuickLook)  ![](../assets/earth-globe.png)  ![](../assets/windows-store.png)
 
 ###### [官网](http://pooi.moe/QuickLook/)｜[下载页面](https://github.com/xupefei/QuickLook/releases)
@@ -139,6 +127,10 @@ Windows 文件预览，类似于 macOS 但是更强大，可定制度更高
 ### [SwitchHosts](https://oldj.github.io/SwitchHosts/) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/oldj/SwitchHosts")](https://github.com/oldj/SwitchHosts) ![](../assets/united-states.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 快速切换管理 hosts 文件，支持在线方案
+
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/zhongyang219/TrafficMonitor")](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/china.png) ![](../assets/usb.png)
+
+用于显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，并支持任务栏显示和更换皮肤
 
 ### [Traymond](https://github.com/fcFn/traymond) ![](../assets/free.png) [![](../assets/open-source-icon.png "MIT@GitHub: https://github.com/fcFn/traymond")](https://github.com/fcFn/traymond) ![](../assets/united-states.png) ![](../assets/usb.png)
 

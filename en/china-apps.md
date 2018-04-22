@@ -174,6 +174,10 @@ All-in-one fonts management, preview, backup and examples.
 
 A popular mind map tool with free cloud sync.
 
+### [YYNote](http://www.6fcsj.com/) ![](../assets/free.png) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+
+A to-do-list app with cloud sync service.
+
 ### \[Privacy & Security\]
 
 ### [RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0 for Windows@GitHub: https://github.com/chengr28/RevokeChinaCerts")](https://github.com/chengr28/RevokeChinaCerts) ![](../assets/united-states.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
@@ -204,6 +208,10 @@ Yet another file previewer on Windows using `space` key, free and open source
 
 A Windows quick look tool acting just like the one in macOS but more powerful, customizable and faster.
 
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/zhongyang219/TrafficMonitor")](https://github.com/zhongyang219/TrafficMonitor) ![](../assets/china.png) ![](../assets/usb.png)
+
+Use a dockable window to display cuurent traffice speed, CPU & RAM usage
+
 ### \[Text Editor\]
 
 ### EverEdit ![](../assets/free.png) ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/japan.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
@@ -225,10 +233,6 @@ Simplified video/audio editing with a wide range of multi-purpose tools.
 ### [MPV-EASY Player](http://www.rjno1.com/mpv-easy-player.html) ![](../assets/free.png) ![](../assets/china.png)  ![](../assets/usb.png)
 
 A GUI for mpv easy to use with a high degree of reduction to mpv appearance.
-
-### [zogvm](https://github.com/zogvm/zogvm) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/zogvm/zogvm")](https://github.com/zogvm/zogvm) ![](../assets/china.png) ![](../assets/usb.png)
-
-zogna video manager.
 
 ### \[Games\]
 

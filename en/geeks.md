@@ -42,6 +42,12 @@ Portable console emulator for Windows.
 
 Customizable Windows terminal with tabs, splits, quake-style and more.
 
+### FFmpeg ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL/GPL@ffmpeg.org: https://ffmpeg.org/download.html")](https://ffmpeg.org/download.html) ![](../assets/usb.png) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
+
+###### [Official Site](https://ffmpeg.org/)｜[Download Page](http://ffmpeg.zeranoe.com/builds/)
+
+A complete, cross-platform solution to record, convert and stream audio and video.
+
 ### Git ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 2.1@Github: https://github.com/git/git")](https://github.com/git/git) ![](../assets/multi_platform.png) ![](../assets/command-line.png)
 
 ###### [Official Site](https://git-scm.com/)｜[Download Page](https://git-scm.com/downloads)
