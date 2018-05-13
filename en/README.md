@@ -39,7 +39,7 @@ Changelog is available [here](https://github.com/AmazingApps/Amazing-Windows-App
 
 ### Icons
 
-![](../assets/free.png) Free of charge \(while there can be an alternative paid version\).
+![](../assets/money.png) Requires purchase. Does not include freemium as long as the free version is usable.
 
 ![](../assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/AmazingApps/Amazing-Windows-Apps"`.
 

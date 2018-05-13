@@ -39,7 +39,7 @@
 
 ### 标识说明
 
-![](../assets/free.png) 可免费使用（可能有收费版功能）
+![](../assets/money.png) 需要购买，不包括需要付费升级的免费软件。
 
 ![](../assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：`"开源协议@托管站点: 开源地址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
 

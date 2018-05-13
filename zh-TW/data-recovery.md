@@ -4,7 +4,7 @@
 
 ---
 
-### [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) ![](../assets/free.png) ![](../assets/earth-globe.png)
+### [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) ![](../assets/earth-globe.png)
 
 可復原磁碟分割的資料復原工具
 
@@ -14,17 +14,17 @@
 
 批量資料復原
 
-### Recuva ![](../assets/free.png) ![](../assets/earth-globe.png)
+### Recuva ![](../assets/earth-globe.png)
 
 ###### [官網](https://www.piriform.com/recuva)｜[下載頁面](https://www.piriform.com/recuva/download)
 
 簡單快速檔案復原
 
-### [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) ![](../assets/free.png) ![](../assets/earth-globe.png)
+### [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) ![](../assets/earth-globe.png)
 
 透過網路遠端復原資料
 
-### TestDisk ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL v2+@cgsecurity.org: http://www.cgsecurity.org/wiki/TestDisk_Download")](http://www.cgsecurity.org/wiki/TestDisk_Download) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### TestDisk [![](../assets/open-source-icon.png "GPL v2+@cgsecurity.org: http://www.cgsecurity.org/wiki/TestDisk_Download")](http://www.cgsecurity.org/wiki/TestDisk_Download) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [官網](http://www.cgsecurity.org/wiki/TestDisk)｜[下載頁面](http://www.cgsecurity.org/wiki/TestDisk_Download)
 

@@ -4,19 +4,19 @@
 
 ---
 
-### [Cheat Engine](http://www.cheatengine.org/) ![](../assets/free.png) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/cheat-engine/cheat-engine/")](https://github.com/cheat-engine/cheat-engine/) ![](../assets/united-states.png)
+### [Cheat Engine](http://www.cheatengine.org/) [![](../assets/open-source-icon.png "NO LICENSE@GitHub: https://github.com/cheat-engine/cheat-engine/")](https://github.com/cheat-engine/cheat-engine/) ![](../assets/united-states.png)
 
 通过简单脚本修改破译本地游戏
 
 ###### ⚠️ 默认下载其它无害应用
 
-### JoyToKey ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/usb.png)
+### JoyToKey ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [官网](http://joytokey.net/en/)｜[下载页面](http://joytokey.net/en/download)
 
 使用键盘控制需要游戏手柄的游戏
 
-### Locale Emulator ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/xupefei/Locale-Emulator")](https://github.com/xupefei/Locale-Emulator) ![](../assets/earth-globe.png) ![](../assets/usb.png)
+### Locale Emulator [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/xupefei/Locale-Emulator")](https://github.com/xupefei/Locale-Emulator) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
 ###### [官网](http://pooi.moe/Locale-Emulator/)｜[下载页面](https://github.com/xupefei/Locale-Emulator/releases)
 
@@ -26,7 +26,7 @@
 
 类似于 Steam，但属于 EA
 
-### [Remotr](http://remotrapp.com/) ![](../assets/free.png) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
+### [Remotr](http://remotrapp.com/) ![](../assets/united-states.png) ![](../assets/multi_platform.png)
 
 在其它任何设备上远程享受 PC 游戏
 

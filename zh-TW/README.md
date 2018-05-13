@@ -37,7 +37,7 @@
 
 ### 標識說明
 
-![](../assets/free.png) 可免費使用（可能有收費版功能）
+![](../assets/free.png) 需要購買，不包括需要付費升級的免費軟件。
 
 ![](../assets/open-source-icon.png) 開源軟體，滑鼠懸浮提示的內容為：`"開源協議@託管站點: 開源網址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
 
