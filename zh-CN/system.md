@@ -106,7 +106,7 @@
 
 ###### ⚠ 仅针对 Windows 10 设计
 
-### Seer [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ccseer/Seer")](https://github.com/ccseer/Seer) ![](../assets/earth-globe.png)
+### Seer ![](../assets/earth-globe.png)
 
 ###### [官网](http://1218.io/)｜[下载页面](http://sourceforge.net/projects/ccseer/)
 

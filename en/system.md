@@ -106,7 +106,7 @@ Open Cortana searches with your default browser.
 
 ###### ⚠DESIGNED FOR SPECIFIC VERSIONS OF WINDOWS 10 ONLY
 
-### Seer [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/ccseer/Seer")](https://github.com/ccseer/Seer) ![](../assets/earth-globe.png)
+### Seer ![](../assets/earth-globe.png)
 
 ###### [Official Site](http://1218.io/)｜[Download Page](http://sourceforge.net/projects/ccseer/)
 
