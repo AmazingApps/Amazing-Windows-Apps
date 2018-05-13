@@ -22,7 +22,7 @@ A spider aimed to 1024 to download .torrent files
 
 ###### ⚠️MINORS SHOULD USE THIS UNDER INSTRUCTIONS
 
-### [HTTrack](https://www.httrack.com/page/2/en/index.html) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+### [HTTrack](https://www.httrack.com/page/2/en/index.html) [![](../assets/open-source-icon.png "GPL 3.0@GitHub")](https://github.com/xroche/httrack/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 Offline browser utility, allowing you to download a website from the Internet to a local directory.
 

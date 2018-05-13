@@ -27,7 +27,7 @@
 
 ###### ⚠️ 未成年人請在指導下使用
 
-### [HTTrack](https://www.httrack.com/page/2/en/index.html) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
+### [HTTrack](https://www.httrack.com/page/2/en/index.html) [![](../assets/open-source-icon.png "GPL 3.0@GitHub")](https://github.com/xroche/httrack/) ![](../assets/earth-globe.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 離線瀏覽器工具，可以從網路下載完整頁面內容
 
