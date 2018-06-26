@@ -49,6 +49,12 @@ DirectShow 过滤器集合并带有 VFW/ACM 解码器及相关工具
 
 一站式免费音乐集合
 
+### [Lossless Audio Checker](http://losslessaudiochecker.com/) ![](../assets/usb.png) ![](../assets/multi_platform.png) [](../assets/united-states.png)
+
+###### [官网](http://losslessaudiochecker.com/)｜[下载页面](http://losslessaudiochecker.com/#downloads)
+
+检查无损文件是否为「假无损」
+
 ### [Mcool](http://mcool.appinn.me/) [![](../assets/open-source-icon.png "GPL@sourceforge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 支持 GIF 背景的极简音频播放器

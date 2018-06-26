@@ -48,6 +48,12 @@ Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 One for all free music in china \(Windows, Mac, Linux desktop\).
 
+### [Lossless Audio Checker](http://losslessaudiochecker.com/) ![](../assets/usb.png) ![](../assets/multi_platform.png) [](../assets/united-states.png)
+
+###### [Official Site](http://losslessaudiochecker.com/)｜[Download Page](http://losslessaudiochecker.com/#downloads)
+
+Determine if FLAC file is legitimate or not
+
 ### [Mcool](http://mcool.appinn.me/) [![](../assets/open-source-icon.png "GPL@sourceforge: https://sourceforge.net/projects/mcool/")](https://sourceforge.net/projects/mcool/) ![](../assets/china.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
 
 An extremely brief audio player that supports GIF background
