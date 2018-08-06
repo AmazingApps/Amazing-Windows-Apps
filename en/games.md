@@ -10,6 +10,10 @@ Hack local games by simple scripts
 
 ###### ⚠️DOWNLOAD ANOTHER HARMLESS APP AS DEFAULT
 
+### [GOG Galaxy](https://www.gog.com/)
+
+Official client for the DRM-free game store GOG.com
+
 ### JoyToKey ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [Official Site](http://joytokey.net/en/)｜[Download Page](http://joytokey.net/en/download)

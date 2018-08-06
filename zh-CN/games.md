@@ -10,6 +10,10 @@
 
 ###### ⚠️ 默认下载其它无害应用
 
+### [GOG Galaxy](https://www.gog.com/)
+
+专卖不带数字版权限制（DRM）游戏的平台 GOG.com
+
 ### JoyToKey ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [官网](http://joytokey.net/en/)｜[下载页面](http://joytokey.net/en/download)
