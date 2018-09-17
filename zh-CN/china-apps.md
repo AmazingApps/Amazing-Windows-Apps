@@ -214,6 +214,12 @@ Windows文件预览，类似于Mac OS但是更强大，可定制度更高
 
 用于显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，并支持任务栏显示和更换皮肤
 
+### WePE 微PE ![](../assets/china.png) ![](../assets/usb.png)
+
+###### [官网](http://www.wepe.com.cn/)｜[下载页面](http://www.wepe.com.cn/download.html)
+
+安装简单、干净的 Windows PE 工具箱。
+
 ### \[文本编辑\]
 
 ### EverEdit ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/japan.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)

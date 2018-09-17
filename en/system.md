@@ -136,6 +136,12 @@ Use a dockable window to display cuurent traffice speed, CPU & RAM usage
 
 A really simple to minimize other apps to system tray.
 
+### WePE ![](../assets/china.png) ![](../assets/usb.png)
+
+###### [Official Site](http://www.wepe.com.cn/)｜[Download Page](http://www.wepe.com.cn/download.html)
+
+An easy-to-install, clean Windows PE toolbox.
+
 ### Winaero Tweaker ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [Official Site](http://winaero.com/comment.php?comment.news.1836)｜[Download Page](http://winaero.com/request.php?1796)

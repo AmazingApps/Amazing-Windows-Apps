@@ -198,6 +198,12 @@ Google Chrome 的可攜版啟動器
 
 Windows 檔案預覽，類似於 Mac OS 但是更強大，可客製度更高
 
+### WePE 微PE ![](../assets/china.png) ![](../assets/usb.png)
+
+###### [官網](http://www.wepe.com.cn/)｜[下載頁面](http://www.wepe.com.cn/download.html)
+
+安裝簡單、乾净的 Windows PE 工具箱。
+
 ### \[文字編輯\]
 
 ### EverEdit ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/japan.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
