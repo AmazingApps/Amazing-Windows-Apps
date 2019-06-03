@@ -18,7 +18,7 @@
 
 ###### [官网](http://joytokey.net/en/)｜[下载页面](http://joytokey.net/en/download)
 
-使用键盘控制需要游戏手柄的游戏
+使游戏手柄按键控制只能用键鼠的游戏
 
 ### Locale Emulator [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/xupefei/Locale-Emulator")](https://github.com/xupefei/Locale-Emulator) ![](../assets/earth-globe.png) ![](../assets/usb.png)
 
