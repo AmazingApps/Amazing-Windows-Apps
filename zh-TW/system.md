@@ -140,6 +140,12 @@ Windows 檔案預覽，類似於 macOS 但是更強大，可客製度更高
 
 為不支援最小化到托盤的應用添加最小化功能
 
+### WePE 微PE ![](../assets/china.png) ![](../assets/usb.png)
+
+###### [官網](http://www.wepe.com.cn/)｜[下載頁面](http://www.wepe.com.cn/download.html)
+
+安裝簡單、乾净的 Windows PE 工具箱。
+
 ### Winaero Tweaker ![](../assets/united-states.png) ![](../assets/usb.png)
 
 ###### [官網](http://winaero.com/comment.php?comment.news.1836)｜[下載頁面](http://winaero.com/request.php?1796)

@@ -212,6 +212,12 @@ A Windows quick look tool acting just like the one in macOS but more powerful, c
 
 Use a dockable window to display cuurent traffice speed, CPU & RAM usage
 
+### WePE ![](../assets/china.png) ![](../assets/usb.png)
+
+###### [Official Site](http://www.wepe.com.cn/)｜[Download Page](http://www.wepe.com.cn/download.html)
+
+An easy-to-install, clean Windows PE toolbox.
+
 ### \[Text Editor\]
 
 ### EverEdit ![](../assets/china.png) ![](../assets/united-states.png) ![](../assets/japan.png) ![](../assets/usb.png) ![](../assets/multi_platform.png)
